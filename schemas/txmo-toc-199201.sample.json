@@ -1,0 +1,140 @@
+{
+  "issue": {
+      "identifier": "TXMO-ISSUE-1992-01",
+      "publication": "Texas Monthly",
+      "issue": "January 1992",
+      "pdf_uri": "/path/to/pdf.pdf",
+      "month": "January",
+      "year": 1992,
+      "pages": 999, // total pages
+      "pdf_toc_page": 9, // page location for toc within PDF
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "subtitle": "Culture",
+              "page": "52",
+              "title": "Doing the Hustle",
+              "byline": "by Skip Hollandsworth",
+            },
+            {
+              "subtitle": "Law",
+              "page": "58",
+              "title": "Poetic Justice",
+              "byline": "by Peter Elkind",
+            },
+            {
+              "subtitle": "Lifestyle",
+              "page": "62",
+              "title": "Child’s Play",
+              "byline": "by Jan Jarboe",
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "subtitle": "Behind the Lines",
+              "page": "5",
+              "title": "A Principal's World",
+              "byline": "by Gregory Curtis"
+            },
+            {
+              "subtitle": "Roar of the Crowd",
+              "title": "",
+              "page": "18",
+			  "description": ""
+            },
+            {
+              "subtitle": "Around the State",
+              "page": "22",
+			  "description": ""
+            },
+            {
+              "subtitle": "State Wide Reporter",
+              "title": "",
+              "page": "70",
+              "byline": "by Joe Nick Patoski and Helen Thompson"
+            },
+            {
+              "subtitle": "State of the Art",
+              "title": "",
+              "page": "82",
+			  "description": ""
+            },
+            {
+              "subtitle": "State Fare",
+              "title": "",
+              "page": "152",
+			  "description": ""
+            },
+            {
+              "subtitle": "Restaurant Guide",
+              "title": "",
+              "page": "153",
+			  "description": ""
+            },
+            {
+              "subtitle": "State Secrets",
+              "title": "",
+              "page": "172",
+              "byline": "Edited by Paul Burka"
+            },
+            {
+              "subtitle": "Cover",
+              "title": "",
+              "page": "",
+              "byline": "Illustration by Tim Jessell"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The 1992 Bum Steer Awards",
+              "page": "86",
+              "description": "A year of alternative armadillos, bogus bills, contraband condoms, defecting drivers, eventful endorsements, futile floss, gorgeous golfers, humongous hair, implodingimplants, jet joyrides, KansasCity klunkers, licentiouslibraries, mayoral Mafiosi,N-vaded N-dians, outlawodors, phighting physicists,queasy quesadillas, royalrelatives, shunnedSchwarzkopf, tainted teachers,underworld underwear,verbose vasectomies, welfareWillies, X-onerated X-posers,yeggs yogi, and zealous ZeroPopulation Growth."
+            },
+            {
+              "title": "The Rise and Fall (And Rise and Fall) Of Marcy Rogers",
+              "page": "96",
+              "description": "When her charitable foundationcollapsed amid allegationsof mismanagement, the Dallassocialite did the unthinkable:She started a new one.",
+              "byline": "by Dana Rubin"
+            },
+            {
+              "title": "Beware the Grace of God",
+              "page": "100",
+              "description": "Troubled boys at thisBaptist youth home had to eatsoap if they said the wrongthing. And that was one ofthe milder punishments.",
+              "byline": "by Robert Draper",
+            },
+            {
+              "title": "Dog Ghosts and Bottle Trees",
+              "page": "104",
+              "description": "A new collection ofKeith Carter’s photographscaptures the magical mojoof East Texas.",
+              "byline": "by Jan Jarboe"
+            },
+            {
+              "title": "Can Berney Seal Save Corpus Christi?",
+              "page": "112",
+              "description": "A critical appraisal of a local phenomenon by the ultimate insider.",
+              "byline": "by Mark Seal",
+            },
+            {
+              "title": "Big Bird",
+              "page": "114",
+              "description": "Getting up close and personal with the endangered whooping crane.",
+              "byline": "by Joe Nick Patoski"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

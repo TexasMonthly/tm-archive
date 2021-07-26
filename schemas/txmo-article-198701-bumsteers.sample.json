@@ -1,0 +1,60 @@
+{ // https://docs.google.com/document/d/1KaKDEDn2jepTwQcUuOpkvL9EKypj9s1D-ETpHiA0hMw/edit?usp=sharing
+    "issue_metadata" : {
+        "identifier": "TXMO-ISSUE-198701",
+        "date": "January 1987",
+        "year": 1987,
+        "month": 1,
+        "pdf_uri":"//path/to/issue.pdf",
+        "issue_cover_image": "//path/to/cover-images/january-1989-cover.jpg",
+        "pdf_start_page": 84,
+        "pdf_page_range": [[84,95]], // Required: may include additional ranges in the event of a page jump
+        "toc_page": 82,
+        "toc_order": 1, // order story appears in table of contents
+        "toc_headline": "1987 Bum Steer Awards", 
+        "toc_subtitle": "", // Optional
+        "cover_cut_line":"THE YEAR THAT WENT BELLY-UP", // Optional: if available
+    },
+    "identifier": "TXMO-ARTICLE-198701-BUMSTEERS", // arbitrary unique identifier
+    "source":"//path/to/issue.pdf",
+    "wp_post_id": 492930, // Required: match to WordPress data based on post's title and headline + post's issue date
+    "wp_post_guid":"https://www.texasmonthly.com/?p=492930", // Required. fake example
+    "authors": ["Texas Monthly"], // Required: match to WordPress data as available or generate new values, may be more than one author
+    "headline": "1987 Bum Steer Awards", // sourced from start page
+    "dek": "What a bummer!", // Optional: sourced from start page
+    "spread_caption": "", // Optional: sometimes opening spreads have an image caption. e.g. 
+    "excerpt": "A year of anguished Arabs, bigshot bankrupts, crazy cookbooks, despoiled dinosaurs, exhibitionist editors, foiled fugitives, greens-eating graduates, half-cocked hashish, in flagrante inmates, jolly jailers, kinky kilocycles, late lobsters, moistened mayors, and northbound Nicaraguans.", // sourced from TOC
+    "kicker": "", // Optional; word(s) usually placed above headlines
+    "word_count": 999, // calculated from content
+    "content": "<!-- HTML MUST BE ESCAPED WITHIN JSON -->
+        <h2>section headers within articles</h2><!-- INTREPRETATIVE -->
+        <p>Paragraph content goes here.</p>
+        <p>Another paragraph</p>
+        <p><em>Italics are also supported</em> <strong>So is bolded text.</strong></p>
+        <img src='uri://local/path/to/image.jpg' data-document-page-location='' data-caption='' data-credit='' width='' height='' /><!-- Note: APPROXIMATE PLACEMENT -->
+        <p>More paragraphs</p>
+        <pullquote>Here's a pullquote</pullquote>
+        <blockquote>Here's a long quote or excerpt from a book</blockquote>
+        <h3>small section heads here</h3><!-- INTREPRETATIVE -->
+        <h4>smaller section heads go here</h4><!-- INTREPRETATIVE -->
+    ", // see HTML spec
+    "editors_note": "", // Optional
+    "featured_image": { // if available, see spread or lead image in story
+        "idenfier": "TXMO-A-FTIMG-TKTKTKT",
+        "uri": "//path/to/local/image.jpg",
+        "caption":"", 
+        "credit":"",
+        "is_spread": true, // e.g. (boolean)
+    },
+    "taxonomies": {
+        "_keywords": [""], // Optional: Innodata defined keywords
+        "wp_vertical": "", // Required: match to provided WordPress term names
+        "wp_issue": "January 1987", // Required: match to exhibited issue month and year
+        "wp_magazine_section": "Features", // Required: match to provided WordPress term names; provided by magazine TOC
+        "wp_tags": ["George P Bush", "John Connally",], // match to provided WordPress term names
+        "wp_categories": ["Bum Steers"], // Required: match to provided WordPress term names
+        "wp_location": ["Austin", "Houston", "El Paso", "Conroe"], // match to provided WordPress terms plus additional towns / cities as necessary
+    }
+
+}
+
+
