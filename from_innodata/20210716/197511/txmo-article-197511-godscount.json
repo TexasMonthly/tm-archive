@@ -1,6 +1,6 @@
 {
   "issue_metadata": {
-    "identifier": "TXMO-1975-11",
+    "identifier": "TXMO-ISSUE-197511",
     "date": "November 1975",
     "year": 1975,
     "month": 11,
@@ -26,7 +26,7 @@
     "toc_order": 2,
     "toc_headline": "GOD’S COUNTRY",
     "toc_kicker": "",
-    "cover_cut_line": "How the Coroner Solves True-life Mysteries, by Al Reinert"
+    "cover_cut_line": "How the Coroner Solves True-life Mysteries, by Al Reinert"// <-- incorrect, should be "Surprise! Some Nice Words about Abilene, by A. C. Green"
   },
   "identifier": "TXMO-ARTICLE-197511-godscount",
   "source": "/1975/19751100.pdf",
