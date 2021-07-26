@@ -1,13 +1,13 @@
 {
   "issue": {
-      "identifier": "TXMO-ISSUE-1992-01",
+      "identifier": "TXMO-ISSUE-199201",
       "publication": "Texas Monthly",
       "issue": "January 1992",
       "pdf_uri": "/path/to/pdf.pdf",
       "month": "January",
       "year": 1992,
       "pages": 999, // total pages
-      "pdf_toc_page": 9, // page location for toc within PDF
+      "document_toc_page": 9, // page location for toc within PDF
   },
   "toc": [
     {
@@ -21,6 +21,8 @@
               "page": "52",
               "title": "Doing the Hustle",
               "byline": "by Skip Hollandsworth",
+              "wp_post_id": 999999, // Optional: if matched to article.json
+              "identifier": "TXMO-ARTICLE-199201-doinghustle.json", // Optional: if matched to article.json
             },
             {
               "subtitle": "Law",

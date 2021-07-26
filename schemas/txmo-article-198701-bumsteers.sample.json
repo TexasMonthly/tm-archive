@@ -6,8 +6,8 @@
         "month": 1,
         "pdf_uri":"//path/to/issue.pdf",
         "issue_cover_image": "//path/to/cover-images/january-1989-cover.jpg",
-        "pdf_start_page": 84,
-        "pdf_page_range": [[84,95]], // Required: may include additional ranges in the event of a page jump
+        "document_start_page": 84,
+        "document_page_range": [[84,95]], // Required: may include additional ranges in the event of a page jump
         "toc_page": 82,
         "toc_order": 1, // order story appears in table of contents
         "toc_headline": "1987 Bum Steer Awards", 
@@ -36,6 +36,7 @@
         <blockquote>Here's a long quote or excerpt from a book</blockquote>
         <h3>small section heads here</h3><!-- INTREPRETATIVE -->
         <h4>smaller section heads go here</h4><!-- INTREPRETATIVE -->
+        <p><span class='dropcap'>H</span>ere's a paragraph that starts with a dropcap</p>
     ", // see HTML spec
     "editors_note": "", // Optional
     "featured_image": { // if available, see spread or lead image in story
