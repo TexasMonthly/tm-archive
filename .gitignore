@@ -1,2 +1,5 @@
 # Ignore PDFs
 *.pdf
+
+# Ignore system files
+.DS_Store
