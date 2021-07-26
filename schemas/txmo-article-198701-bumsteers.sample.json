@@ -36,7 +36,6 @@
         <blockquote>Here's a long quote or excerpt from a book</blockquote>
         <h3>small section heads here</h3><!-- INTREPRETATIVE -->
         <h4>smaller section heads go here</h4><!-- INTREPRETATIVE -->
-        <hr> <!-- use HRs for section breaks -->
         <p><span class='dropcap'>H</span>ere's a paragraph that starts with a dropcap</p>
     ", // see HTML spec
     "editors_note": "", // Optional
