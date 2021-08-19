@@ -1,13 +1,13 @@
 {
   "issue": {
-    "identifier": "TXMO-ISSUE-1993-10",
+    "identifier": "TXMO-ISSUE-199310",
     "publication": "Texas Monthly",
     "issue": "October 1993",
     "pdf_uri": "/1993/19931000.pdf",
     "month": "October",
     "year": 1993,
     "pages": 240,
-    "pdf_toc_page": "5"
+    "document_toc_page": "7"
   },
   "toc": [
     {
@@ -164,7 +164,9 @@
               "subtitle": "",
               "description": "Ann-Margret, get your gun: A celebration of pistolpackin’ celluloid cowgirls.",
               "byline": "by Anne Dingus",
-              "page": "128"
+              "page": "128",
+			  "wp_post_id": 127122,
+              "identifier": "TXMO-ARTICLE-199310-sexshoote.json"				  
             }
           ]
         }

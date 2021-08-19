@@ -7,59 +7,61 @@
     "month": "November",
     "year": 1975,
     "pages": 188,
-    "pdf_toc_page": "3"
+    "document_toc_page": "5"
   },
   "toc": [
     {
-      "heading": "CONTENTS",
+      "heading": "Contents",
       "section": [
         {
-          "section_heading": "FEATURES",
+          "section_heading": "Features",
           "toc_entry": [
             {
-              "title": "AH, SWEET MYSTERY OF DEATH",
+              "title": "Ah, Sweet Mystery Of Death",
               "subtitle": "",
               "description": "The friendly folks at the morgue speak a body language all their own.",
               "byline": "Al Reinert",
               "page": "68"
             },
             {
-              "title": "GOD’S COUNTRY",
+              "title": "God’s Country",
               "subtitle": "",
               "description": "Abilene, Abilene, strangest town I’ve ever seen.",
               "byline": "A. C. Greene",
-              "page": "74"
+              "page": "74",
+			  "wp_post_id": 108579,
+              "identifier": "TXMO-ARTICLE-197511-godscount.json"
             },
             {
-              "title": "IS YOUR LIFE DULL? IS YOUR ENVIRONMENT BORING?",
+              "title": "Is Your Life Dull? Is Your Environment Boring?",
               "subtitle": "",
               "description": "Four interior designers tell what they can do within four walls.",
               "byline": "Gay McFarland",
               "page": "77"
             },
             {
-              "title": "WHO WAS JACK RUBY?",
+              "title": "Who Was Jack Ruby?",
               "subtitle": "",
               "description": "If you thought you knew, you were probably wrong.",
               "byline": "Gary Cartwright",
               "page": "82"
             },
             {
-              "title": "WORLD! HERE IS YOUR OYSTER!",
+              "title": "World! Here Is Your Oyster!",
               "subtitle": "",
               "description": "Close your eyes and pretend it’s roast beef.",
               "byline": "Helen Murray-Baxter",
               "page": "87"
             },
             {
-              "title": "THE STRANGE CASE OF THE MISSING PARKS",
+              "title": "The Strange Case Of the Missing Parks",
               "subtitle": "",
               "description": "Why Texans don’t get the parks they pay for.",
               "byline": "Griffin Smith, jr.",
               "page": "88"
             },
             {
-              "title": "HEROES FOR POST-WATERGATE AMERICA",
+              "title": "Heroes For Post-Watergate America",
               "subtitle": "",
               "description": "A retired Marine Corps general takes on the University of Texas System.",
               "byline": "",
@@ -68,59 +70,59 @@
           ]
         },
         {
-          "section_heading": "DEPARTMENTS",
+          "section_heading": "Departments",
           "toc_entry": [
             {
-              "title": "HOLIDAY FARE",
+              "title": "Holiday Fare",
               "subtitle": "Film",
               "description": "Introducing our new film critic, who finds this month’s menu both hot and cold.",
               "byline": "Marie Brenner",
               "page": "25"
             },
             {
-              "title": "THE RUNAROUND",
+              "title": "The Runaround",
               "subtitle": "Politics",
               "description": "The people of No Man’s Land are wondering whether government really works.",
               "byline": "Mitch Green",
               "page": "32"
             },
             {
-              "title": "EVERY GOOD BOY DOES FINE",
+              "title": "Every Good Boy Does Fine",
               "subtitle": "Children’s Corner",
               "description": "Kids should learn early that music is the staff of life.",
               "byline": "Prudence Mackintosh",
               "page": "35"
             },
             {
-              "title": "THE SOUNDNESS OF MUSIC",
+              "title": "The Soundness Of Music",
               "subtitle": "Records",
               "description": "How to get cultured and stay in shape at the same time.",
               "byline": "W.L. Taitte",
               "page": "41"
             },
             {
-              "title": "MOVING ON",
+              "title": "Moving On",
               "subtitle": "Books",
               "description": "Larry McMurtry brings his Texas odyssey to an end.",
               "byline": "Michael Mewshaw",
               "page": "44"
             },
             {
-              "title": "THE TAXMAN COMETH",
+              "title": "The Taxman Cometh",
               "subtitle": "Art",
               "description": "The IRS is waging a secret war against big art donors.",
               "byline": "Leon A. Harris, Jr.",
               "page": "50"
             },
             {
-              "title": "BLUE CHIC",
+              "title": "Blue Chic",
               "subtitle": "Performance",
               "description": "How Fort Worth’s gentry learned to love the blues.",
               "byline": "Joe Nick Patoski",
               "page": "55"
             },
             {
-              "title": "GOOSED!",
+              "title": "Goosed!",
               "subtitle": "Dining In",
               "description": "Don’t be a turkey this Thanksgiving. Try a different bird.",
               "byline": "Linda West Eckhardt",
@@ -129,45 +131,45 @@
           ]
         },
         {
-          "section_heading": "MISCELLANY",
+          "section_heading": "Miscellany",
           "toc_entry": [
             {
-              "title": "BEHIND THE LINES",
+              "title": "Behind the Lines",
               "subtitle": "",
               "description": "",
               "byline": "William Broyles",
               "page": "5"
             },
             {
-              "title": "THE ROAR OF THE CROWD",
+              "title": "The Roar Of the Crowd",
               "subtitle": "",
               "description": "",
               "byline": "",
               "page": "6"
             },
             {
-              "title": "TEXAS MONTHLY REPORTER",
+              "title": "Texas Monthly Reporter",
               "subtitle": "",
               "description": "",
               "byline": "Richard West",
               "page": "10"
             },
             {
-              "title": "TOUTS",
+              "title": "Touts",
               "subtitle": "",
               "description": "Ornamentality.",
               "byline": "",
               "page": "154"
             },
             {
-              "title": "AROUND THE STATE",
+              "title": "Around the State",
               "subtitle": "",
               "description": "A selective guide to entertainment and events of more than usual interest.",
               "byline": "",
               "page": "157"
             },
             {
-              "title": "CONTEST",
+              "title": "Contest",
               "subtitle": "",
               "description": "Labelous.",
               "byline": "Paul Burka",

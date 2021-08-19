@@ -1,13 +1,13 @@
 {
   "issue": {
-    "identifier": "TXMO-ISSUE-1992-05",
+    "identifier": "TXMO-ISSUE-199205",
     "publication": "Texas Monthly",
     "issue": "May 1992",
     "pdf_uri": "/1992/19920500.pdf",
     "month": "May",
     "year": 1992,
     "pages": 212,
-    "pdf_toc_page": "3"
+    "document_toc_page": "5"
   },
   "toc": [
     {
@@ -143,7 +143,9 @@
               "subtitle": "",
               "description": "Maybe not. But then again, the veteran Texas pol has never taken no for an answer.",
               "byline": "by Jan Jarboe",
-              "page": "120"
+              "page": "120",
+			  "wp_post_id": 126927,
+              "identifier": "TXMO-ARTICLE-199205-canbobst.json"			  
             },
             {
               "title": "Endless Winter",

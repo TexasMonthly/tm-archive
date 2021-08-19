@@ -17,56 +17,56 @@
           "section_heading": "Features",
           "toc_entry": [
             {
-              "title": "Can You Take a Hint?",
+              "title": "Can You Take A Hint?",
               "subtitle": "",
               "description": "Heloise, America’s best-known homemaker, has a dirty little secret: she hates to clean house. If you hate it too, she’s convinced that you need her more than ever.",
               "byline": "by Jan Jarboe",
-              "page": "98",
+              "page": "98"
             },
             {
               "title": "The War Zone",
               "subtitle": "",
               "description": "When crack comes to a neighborhood, it infiltrates, it corrupts, and it destroys—and there is nothing the cops can do about it.",
               "byline": "by Jim Atkinson",
-              "page": "104",	  
+              "page": "104"
             },
             {
               "title": "Honorable Toys",
               "subtitle": "",
               "description": "Godzilla lives! Just ask any Texas collector of Japanese action figures.",
               "byline": "by Jerry Jeanmard",
-              "page": "112",			  
+              "page": "112"
             },
             {
-              "title": "How Houston Beat the Bust (sort of):",
+              "title": "How Houston Beat The Bust (Sort Of)",
               "subtitle": "",
               "description": "",
-              "byline": "Edited by Tom Curtis",
-              "page": "114",
+              "byline": "Edited by Tom Curtis.",
+              "page": "114"
             },
             {
-              "title": "How Houston Beat the Bust (sort of): Real estate",
+              "title": "How Houston Beat The Bust (Sort Of): Real Estate",
               "subtitle": "",
               "description": "The resurrection of a former “see-through” office building. How a land developer diversified — into Jaguars. And secrets of the “vultures” who buy up, fix up, and fill up troubled Houston apartments.",
               "byline": "",
-              "page": "115",			  
+              "page": "115"
             },
             {
-              "title": "How Houston Beat the Bust (sort of): Energy",
+              "title": "How Houston Beat The Bust (Sort Of): Energy",
               "subtitle": "",
               "description": "Engineer Saba Haregot’s love affair with Houston (it’s not just all those job offers). How natural gas is helping to reinflate the economy. And a shuttered plant that tempers oil pipe opens up.",
               "byline": "",
-              "page": "118"				  
+              "page": "118"
             },
             {
-              "title": "How Houston Beat the Bust (sort of): Branching out",
+              "title": "How Houston Beat The Bust (Sort Of): Branching Out",
               "subtitle": "",
               "description": "An entrepreneur captures customers in public rest rooms. A high-tech plant moves from oil to medicine. Space and biomedical manufacturing are finally off the drawing boards. And a former union boss becomes a bingo mogul.",
               "byline": "",
-              "page": "120"				  
+              "page": "120"
             },
             {
-              "title": "Compadres de la Revolucion",
+              "title": "Compadres De La Revolucion",
               "subtitle": "",
               "description": "Though the leaders of Mexico’s revolution all lived short and violent lives, a handful of those who rode with them have survived to a ripe old age in Texas.",
               "byline": "by Jan Reid",
@@ -78,11 +78,11 @@
               "description": "Cool, clear, and pure, it’s the bounty of the Edwards Aquifer, and if something isn’t done to limit pumping by Hill Country farmers and a thirsty San Antonio, it may also be dry.",
               "byline": "by AL Reinert",
               "page": "128",
-			  "wp_post_id": "123729",
-			  "identifier": "TXMO-ARTICLE-198811-thiswater.json"				  
+			  "wp_post_id": 123729,
+              "identifier": "TXMO-ARTICLE-198811-thiswater.json"			  
             },
             {
-              "title": "The Drill-stem Fence",
+              "title": "The Drill-Stem Fence",
               "subtitle": "Texas Primer",
               "description": "A lot stronger and more hospitable than barbed wire, this is one of those good fences that make good neighbors.",
               "byline": "by Michael Hilton",
@@ -120,21 +120,21 @@
           "section_heading": "Miscellany",
           "toc_entry": [
             {
-              "title": "Behind the Lines",
+              "title": "Behind The Lines",
               "subtitle": "",
               "description": "Duked and Bushed.",
               "byline": "by Gregory Curtis",
               "page": "5"
             },
             {
-              "title": "The Roar of the Crowd",
+              "title": "The Roar Of The Crowd",
               "subtitle": "",
               "description": "Women, children, parents, teachers.",
               "byline": "",
               "page": "10"
             },
             {
-              "title": "Around the State",
+              "title": "Around The State",
               "subtitle": "",
               "description": "A selective guide to amusements and events.",
               "byline": "",
