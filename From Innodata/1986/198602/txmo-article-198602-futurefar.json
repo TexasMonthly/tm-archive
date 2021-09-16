@@ -1,0 +1,55 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19862",
+    "date": "February 1986",
+    "year": 1986,
+    "month": 2,
+    "month_formatted": "February",
+    "pdf_uri": "/1986/19860200.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 119,
+    "toc_start_page": 117,
+    "document_page_range": [
+      119
+    ],
+    "toc_order": 6,
+    "toc_headline": "Western Art: Future Farmer",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198602-futurefar",
+  "source": "/1986/19860200.pdf",
+  "wp_post_id": 122706,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-future-farmer/",
+  "authors": [
+    "Regan Dunnick"
+  ],
+  "headline": "Future Farmer",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img/>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "February 1986",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "Future"
+    ],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

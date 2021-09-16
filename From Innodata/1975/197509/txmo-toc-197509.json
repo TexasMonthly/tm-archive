@@ -1,0 +1,239 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197509",
+    "publication": "Texas Monthly",
+    "issue": "September 1975",
+    "pdf_uri": "/1975/19750900.pdf",
+    "month": "September",
+    "year": 1975,
+    "pages": 168,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Stop the Press!",
+              "subtitle": "",
+              "description": "Was the death of the Fort Worth Press murder or euthanasia?",
+              "byline": "Gary Cartwright",
+              "page": "53"
+            },
+            {
+              "title": "The Alamo? Sure. Two Blocks, Turn Right, And It’s Right Across From the Five And Ten.",
+              "subtitle": "",
+              "description": "You remember, don’t you? That’s the place John Wayne died.",
+              "byline": "Stephen Harrigan",
+              "page": "58"
+            },
+            {
+              "title": "An Introduction",
+              "subtitle": "Mexico",
+              "description": "",
+              "byline": "",
+              "page": "61",
+              "wp_post_id": "108765",
+              "identifier": "txmo-article-197509-mexico.json"
+            },
+            {
+              "title": "The Truth About Tequila",
+              "subtitle": "",
+              "description": "From machismo to counterculture in one decade.",
+              "byline": "Gregory Curtis",
+              "page": "62"
+            },
+            {
+              "title": "Viva La TEQUILa!",
+              "subtitle": "",
+              "description": "The best ways to drink Mexico’s best liquor.",
+              "byline": "",
+              "page": "66"
+            },
+            {
+              "title": "The Heartbreak Of Turista",
+              "subtitle": "",
+              "description": "Good news for Christian Scientists; bad news for everybody else.",
+              "byline": "Wendy Haskell Meyer",
+              "page": "68"
+            },
+            {
+              "title": "From Those Wonderful Folks Who Brought You Acapulco And Cancan ...",
+              "subtitle": "",
+              "description": "Presenting Mexico’s newest built-from-scratch beach resort.",
+              "byline": "",
+              "page": "69"
+            },
+            {
+              "title": "Our Favorite Hotel",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "70"
+            },
+            {
+              "title": "Our Favorite Restaurant",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "71"
+            },
+            {
+              "title": "Mexico On Five Words a Day",
+              "subtitle": "",
+              "description": "The best places to study Spanish in Mexico.",
+              "byline": "Robbie Elizabeth Davis",
+              "page": "72"
+            },
+            {
+              "title": "The First Mexicans",
+              "subtitle": "",
+              "description": "In twentieth-century Mexico, ancient Indian rituals linger.",
+              "byline": "John Christian",
+              "page": "74"
+            },
+            {
+              "title": "Democracy, Mexican Style",
+              "subtitle": "",
+              "description": "all political parties are equal, but one is more equal than all the rest put together.",
+              "byline": "Conrad Manley",
+              "page": "77"
+            },
+            {
+              "title": "Mexico City Is the Most Exciting City In the Western HEMIsPHERE.",
+              "subtitle": "",
+              "description": "",
+              "byline": "John Kerr",
+              "page": "78"
+            },
+            {
+              "title": "Mexico City Is the Most Uninhabitable City In the World.",
+              "subtitle": "",
+              "description": "",
+              "byline": "George Natanson",
+              "page": "79"
+            },
+            {
+              "title": "Zapata’s Children",
+              "subtitle": "",
+              "description": "Will the Mexican Revolution ever end?",
+              "byline": "George Natanson",
+              "page": "80"
+            },
+            {
+              "title": "Wetback",
+              "subtitle": "",
+              "description": "What makes them swim the Rio Grande?",
+              "byline": "George Natanson",
+              "page": "82"
+            },
+            {
+              "title": "Welcome To Boys ToWN",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "86"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Wok Ethic",
+              "subtitle": "Dining In",
+              "description": "If you’ve ever wondered why your Chinese friend says “chopchop,” look to the kitchen.",
+              "byline": "Linda West Eckhardt",
+              "page": "26"
+            },
+            {
+              "title": "Matthew, Mark, Luke, And Willie",
+              "subtitle": "Records",
+              "description": "If you haven’t met the Red Headed Stranger, maybe you should.",
+              "byline": "Chet Flippo",
+              "page": "30"
+            },
+            {
+              "title": "All Systems Stop",
+              "subtitle": "Investments",
+              "description": "It used to be pretty hard to make money on the stock market but at least there were some things you could count on.",
+              "byline": "The Customer’s Man",
+              "page": "34"
+            },
+            {
+              "title": "Tube Or Not Tube?",
+              "subtitle": "Children’s Coner",
+              "description": "What is happening to your children, sitting in front of the TV?",
+              "byline": "Prudence Mackintosh",
+              "page": "37"
+            },
+            {
+              "title": "Crooked Shooters",
+              "subtitle": "Books",
+              "description": "Does crime pay?",
+              "byline": "Michael Mewshaw",
+              "page": "42"
+            },
+            {
+              "title": "The Music Man",
+              "subtitle": "Performance",
+              "description": "If James Dick has his way, the notes struck at Round Top will echo around the world.",
+              "byline": "W. L. Taitte",
+              "page": "46"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "6"
+            },
+            {
+              "title": "Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Richard West",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "To sleep, perchance to scheme.",
+              "byline": "",
+              "page": "138"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events.",
+              "byline": "",
+              "page": "140"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Life and lively.",
+              "byline": "Paul Burka",
+              "page": "164"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198211",
+    "publication": "Texas Monthly",
+    "issue": "November 1982",
+    "pdf_uri": "/1982/19821100.pdf",
+    "month": "November",
+    "year": 1982,
+    "pages": 308,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Guardians Who Slumbereth Not",
+              "subtitle": "",
+              "description": "Textbook watchdogs Mel and Norma Gabler are good, sincere, dedicated people who just may be destroying your child’s education.",
+              "byline": "William Martin",
+              "page": "144"
+            },
+            {
+              "title": "The Dinosaur Darwin Missed",
+              "subtitle": "",
+              "description": "Side by side near a Texas river are dinosaur tracks and what appear to be the marks of a human foot—proof, in the creationist mind, that evolution is bunk.",
+              "byline": "Dale S. Turner",
+              "page": "148"
+            },
+            {
+              "title": "Halftime Heroes",
+              "subtitle": "",
+              "description": "The bright-eyed, pink-cheeked cream of Texas youth aren’t scrambling on the football field. They’re playing in the high school band.",
+              "byline": "W. L. Taitte",
+              "page": "154"
+            },
+            {
+              "title": "The Envelope, Please",
+              "subtitle": "",
+              "description": "It’s the celebrity event you’ve all been waiting for: the first annual John Philip Sousa awards, presented to Texas high schools where it’s hard to beat the band.",
+              "byline": "",
+              "page": "158"
+            },
+            {
+              "title": "The Blue Norther",
+              "subtitle": "Texas Primer",
+              "description": "Sunny in the morning, sunny in the evening, freezing by suppertime.",
+              "byline": "",
+              "page": "166"
+            },
+            {
+              "title": "Mr. Hannah’s Rocket",
+              "subtitle": "",
+              "description": "His first spacecraft blew up on the pad and his primary investor died, but the first free enterprise rocket finally flew from Matagorda.",
+              "byline": "Stephen Harrigan",
+              "page": "168"
+            },
+            {
+              "title": "Easy Street",
+              "subtitle": "",
+              "description": "Houston’s black elite have come a very long way to live in MacGregor Way, the swankiest black neighborhood in Texas, but they still don’t feel safe.",
+              "byline": "Lawrence Wright",
+              "page": "174"
+            },
+            {
+              "title": "Sensations",
+              "subtitle": "",
+              "description": "Was the partridge in a pear tree you gave last Christmas not fully appreciated? Our sensational gift ideas will save you this year.",
+              "byline": "Cyndy Severson andy Vracin",
+              "page": "182",
+              "wp_post_id": "117651",
+              "identifier": "txmo-article-198211-sensations.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "And What Exactly Is a JOIsT?",
+              "subtitle": "Lifestyles",
+              "description": "Remodeling is hell.",
+              "byline": "Prudence Mackintosh",
+              "page": "206"
+            },
+            {
+              "title": "Your Flick Of Flicks",
+              "subtitle": "Movies",
+              "description": "Laughter, nostalgia, and a delightful performance by Peter o’toole are brought to you by My Favorite Year, a tribute to the heyday of TV. Lookin’ to Get Out will have you doing the same. Yes, Giorgio is so-so. Tex has its moments.",
+              "byline": "James Wolcott",
+              "page": "212"
+            },
+            {
+              "title": "Auf Wiedersehen, Sayonara, So Long",
+              "subtitle": "Kids",
+              "description": "When you're an air Force brat, parting is part of growing up.",
+              "byline": "David Seeley",
+              "page": "223"
+            },
+            {
+              "title": "I Was a High School Football Coach",
+              "subtitle": "Working",
+              "description": "The man on the sidelines recalls the smell of turf and sweat, the cheers of the fans, the pain of defeat.",
+              "byline": "Neal Morgan",
+              "page": "234"
+            },
+            {
+              "title": "From the Mouths Of Saints",
+              "subtitle": "Classical Music",
+              "description": "Four Saints isnt a solemn Gregorian chant but a lovable american opera. New LPs of Brahms, Shostakovich, and Bach are worth a second listen.",
+              "byline": "W. L. Taitte",
+              "page": "242"
+            },
+            {
+              "title": "The Shrine Of the Bleached Skull",
+              "subtitle": "art",
+              "description": "Roy Fridge’s curious assemblages reflect the cryptic world he created to replace the one he left behind.",
+              "byline": "Michael Ennis",
+              "page": "250"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "behind the Lines",
+              "subtitle": "",
+              "description": "Mind over manners.",
+              "byline": "Gregory Curtis",
+              "page": ""
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Standard bearers, sentence parers, blue wayfarers.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Sticks and flicks.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Texas greatest rural sheriff, oddest permutation of democracy, unlikeliest punk heroes, and hottest airline dogfight.",
+              "byline": "Peter applebome",
+              "page": "124"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "What’s in a name?",
+              "byline": "",
+              "page": "303"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Making a mountain out of a Greenhill; Dallas versus Houston in the governor’s race; Post time at the Chronicle; the Yankees are after our oil money again.",
+              "byline": "",
+              "page": "304"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

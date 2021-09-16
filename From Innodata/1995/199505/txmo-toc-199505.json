@@ -1,0 +1,183 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199505",
+    "publication": "Texas Monthly",
+    "issue": "May 1995",
+    "pdf_uri": "/1995/19950500.pdf",
+    "month": "May",
+    "year": 1995,
+    "pages": 220,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Right, but Wrong",
+              "subtitle": "Politics",
+              "description": "",
+              "byline": "by Paul Burka",
+              "page": "50"
+            },
+            {
+              "title": "Spooking the CIA",
+              "subtitle": "Profile",
+              "description": "",
+              "byline": "by Jan Reid",
+              "page": "58"
+            },
+            {
+              "title": "Greens With Envy",
+              "subtitle": "Travel",
+              "description": "",
+              "byline": "by Turk Pipkin",
+              "page": "69"
+            },
+            {
+              "title": "Davy Crock?",
+              "subtitle": "Texana",
+              "description": "",
+              "byline": "by Jan Reid",
+              "page": "74"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Some Shots at Guns",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "24"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by David McCormick",
+              "page": "92"
+            },
+            {
+              "title": "State of the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "108"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "189"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "191"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Paul Burka",
+              "page": "216"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Queen Is Dead",
+              "subtitle": "",
+              "description": "When Selena Quintanilla Perez was killed on March 31, Texas mourned—and around the world, the veneration began.",
+              "byline": "by Joe Nick Patoski",
+              "page": "110"
+            },
+            {
+              "title": "Are Texans Gun Crazy?",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "114"
+            },
+            {
+              "title": "Fear and Loading",
+              "subtitle": "",
+              "description": "At the state capitol, where talk of concealed weapons consumes us still, emotion is winning the day.",
+              "byline": "by Gary Cartwright",
+              "page": "115"
+            },
+            {
+              "title": "Open Season",
+              "subtitle": "",
+              "description": "Are gun sellers responsible for gun deaths? Gun store owners and gun show promoters each say no, but that may be all they agree on.",
+              "byline": "by Robert Draper",
+              "page": "117"
+            },
+            {
+              "title": "“I Shot to Kill”",
+              "subtitle": "",
+              "description": "When burglars targeted my Dallas business for repeated break-ins, I felt violated—and I fought back.",
+              "byline": "by David McCormick",
+              "page": "119"
+            },
+            {
+              "title": "To Pack and Pack Not",
+              "subtitle": "",
+              "description": "We asked twenty famous Texans: Will you carry a gun?",
+              "byline": "",
+              "page": "121"
+            },
+            {
+              "title": "Pump Fiction",
+              "subtitle": "",
+              "description": "Should Hollywood remake Giant? On the fortieth anniversary of the filming of the Texas epic, we imagine Brad Pitt playing Jett Rink’s grandson, Quentin Tarantino directing, and other scary scenarios.",
+              "byline": "by Skip Hollandsworth",
+              "page": "122"
+            },
+            {
+              "title": "Take Me to The River",
+              "subtitle": "",
+              "description": "A complete guide to the coolest stretch of the Guadalupe: 22 miles of tubing, rafting, and all-around fun in the sun.",
+              "byline": "by Joe Nick Patoski",
+              "page": "126",
+              "wp_post_id": "129321",
+              "identifier": "txmo-article-199505-takemeto.json"
+            },
+            {
+              "title": "Burning Down The Woods",
+              "subtitle": "",
+              "description": "In 1990 the state banned the use of dogs to hunt deer. Ever since, a rogue group of East Texas hunters has exacted a fiery revenge.",
+              "byline": "by Robert Draper",
+              "page": "130"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

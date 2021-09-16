@@ -1,0 +1,166 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198208",
+    "publication": "Texas Monthly",
+    "issue": "August 1982",
+    "pdf_uri": "/1982/19820800.pdf",
+    "month": "August",
+    "year": 1982,
+    "pages": 218,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Opec Versus Opec",
+              "subtitle": "The New Energy Crisis",
+              "description": "Now it’s their turn to cry.",
+              "byline": "Harry Hurt III",
+              "page": "",
+              "wp_post_id": "117945",
+              "identifier": "txmo-article-198208-thenewen.json"
+            },
+            {
+              "title": "The Tract House",
+              "subtitle": "Texas Primer",
+              "description": "It symbolizes either the American dream or the American nightmare—one or the other of which is enveloping Texas.",
+              "byline": "",
+              "page": "106"
+            },
+            {
+              "title": "Growing Up Gringo",
+              "subtitle": "",
+              "description": "In Dumas—and all over the state —Mexican Americans are leaving old ways behind and taking to Protestantism, capitalism, and disco.",
+              "byline": "Dick J. Reavis",
+              "page": "110",
+              "wp_post_id": "117942",
+              "identifier": "txmo-article-198208-growingup.json"
+            },
+            {
+              "title": "The King Of the Forest",
+              "subtitle": "",
+              "description": "He's Arthur Temple, Jr., ruler of a million acres of East Texas and the last of the timber barons.",
+              "byline": "Paul Burka",
+              "page": "114"
+            },
+            {
+              "title": "Underneath Texas",
+              "subtitle": "",
+              "description": "The real lowdown on the Lone Star State.",
+              "byline": "Anne Dingus",
+              "page": "124",
+              "wp_post_id": "117930",
+              "identifier": "txmo-article-198208-underneath.json"
+            },
+            {
+              "title": "It Doesn’T Matter That the Riviera Is In France, Because Possum KInGDOM Is In Texas",
+              "subtitle": "",
+              "description": "Pack up the kids, hitch up the boat, and don’t forget the suntan oil. Texas lakes are the place to be this summer.",
+              "byline": "Nicolas Russell",
+              "page": "132"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Elegiac Image",
+              "subtitle": "Art",
+              "description": "Photographer George Krause draws the viewer into a twilight world where jocks, saints, and nudes seem almost mystical.",
+              "byline": "Michael Ennis",
+              "page": "138"
+            },
+            {
+              "title": "Kirk And Spock And Scotty And Bones",
+              "subtitle": "Movies",
+              "description": "Everybody’s favorite starshippers battle a bad guy and the bulge in Star Trek Ii: The Wrath of Khan. Author! Author! is nothing to write home about. The Thing is barely human. And then there’s The World According to Garp, Firefox, and Blade Runner.",
+              "byline": "James Wolcott",
+              "page": "144"
+            },
+            {
+              "title": "The Comeback Of the Column",
+              "subtitle": "Architecture",
+              "description": "They haven’t designed any Parthenons or Colosseums yet, but architects like Robert Venturi and Michael Graves are bringing a touch of ancient Greece and Rome to Texas.",
+              "byline": "Lisa Germany",
+              "page": "152"
+            },
+            {
+              "title": "Ol’ Man Musical",
+              "subtitle": "Classical Music",
+              "description": "Houston Grand Opera dedicated a lot of its budget and all of its heart to producing not an opera but an American musical—Show Boat.",
+              "byline": "W. L. Taitte",
+              "page": "160"
+            },
+            {
+              "title": "The Tongue-Lashing",
+              "subtitle": "Church",
+              "description": "A host of Pentecostals gathered in Dallas to hug, kiss, sing, babble, and get the chewing-out of their lives.",
+              "byline": "William Martin",
+              "page": "166"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The good book.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "A parent laments, a bishop foments, a singer’s torment.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Hat tricks.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Austin’s Bourbon Street; San Antonio's food fight; the governor’s mystery museum; Green Lizards in Concan; truffles in paradise.",
+              "byline": "Peter Applebome",
+              "page": "82"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "A clash of symbols.",
+              "byline": "",
+              "page": "215"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Heads-up journalism; expensive mileage; the balkanization of the Sunbelt; wars in the oil patch.",
+              "byline": "",
+              "page": "216"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

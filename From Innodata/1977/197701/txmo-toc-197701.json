@@ -1,0 +1,169 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197701",
+    "publication": "Texas Monthly",
+    "issue": "January 1977",
+    "pdf_uri": "/1977/19770100.pdf",
+    "month": "January",
+    "year": 1977,
+    "pages": 144,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "How To Be Southern",
+              "subtitle": "",
+              "description": "Southwestern is out, Southern is in. Here’s how to renew our charter membership.",
+              "byline": "",
+              "page": "56"
+            },
+            {
+              "title": "Grape Nuts",
+              "subtitle": "",
+              "description": "Some Texans are going crazy over wine. Others are just going crazy.",
+              "byline": "Sharon Churcher",
+              "page": "64",
+              "wp_post_id": "111825",
+              "identifier": "txmo-article-197701-grapenuts.json"
+            },
+            {
+              "title": "Howard Hughes Lives!",
+              "subtitle": "",
+              "description": "In pursuit of the elusive billionaire’s final mystery: who’ll get his money?",
+              "byline": "Harry Hurt III",
+              "page": "72"
+            },
+            {
+              "title": "There Ought Not To Be a Law",
+              "subtitle": "",
+              "description": "There are two things you should never see being made: sausage and legislation. All in all, we’d rather watch sausage.",
+              "byline": "Paul Burka",
+              "page": "80"
+            },
+            {
+              "title": "Little Big Man",
+              "subtitle": "",
+              "description": "Is it worth being a United States senator when you’re on the losing side all the time? ask John Tower.",
+              "byline": "Griffin Smith, jr.",
+              "page": "84"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Paper Tigers",
+              "subtitle": "Politics",
+              "description": "These bureaucrats belong in a zoo.",
+              "byline": "Mitch Green",
+              "page": "88"
+            },
+            {
+              "title": "Prosecution Complex",
+              "subtitle": "Books",
+              "description": "Being Watergate special prosecutor was hard; writing a book about it was harder.",
+              "byline": "Michael Mewshaw",
+              "page": "92"
+            },
+            {
+              "title": "Basket Cases",
+              "subtitle": "Sports",
+              "description": "Surprise! There may be hope for Southwest Conference basketball.",
+              "byline": "Gene Lyons",
+              "page": "98"
+            },
+            {
+              "title": "Valley Cats",
+              "subtitle": "Lifestyles",
+              "description": "What has two legs, antennae, and is covered with sequins?",
+              "byline": "Sandy Sheehy",
+              "page": "104"
+            },
+            {
+              "title": "Cafe Accompli",
+              "subtitle": "Dining Out",
+              "description": "Enjoy a tropical eat wave in the Valley this winter.",
+              "byline": "Frank Bailey",
+              "page": "108"
+            },
+            {
+              "title": "Tender Is the Plight",
+              "subtitle": "Film",
+              "description": "F. Scott Fitzgerald has better luck with Hollywood (this time) than Woody Guthrie.",
+              "byline": "Marie Brenner",
+              "page": "112"
+            },
+            {
+              "title": "Water Log",
+              "subtitle": "Lifestyles",
+              "description": "Some thoughts on why swimming is its own reward.",
+              "byline": "Beverly Lowry",
+              "page": "117"
+            },
+            {
+              "title": "Minutia Man",
+              "subtitle": "Cityview",
+              "description": "Somewhere L. M. Boyd has an index card for everything.",
+              "byline": "Gregory Curtis",
+              "page": "120"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "Contentshe Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "6"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Now year this!",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Contentshe Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Richard West",
+              "page": "48"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Occupational hazards.",
+              "byline": "Paul Burka",
+              "page": "140"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

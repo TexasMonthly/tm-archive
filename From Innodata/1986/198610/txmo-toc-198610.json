@@ -1,0 +1,200 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198610",
+    "publication": "Texas Monthly",
+    "issue": "October 1986",
+    "pdf_uri": "/1986/19861000.pdf",
+    "month": "October",
+    "year": 1986,
+    "pages": 244,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents October",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Going For Broke",
+              "subtitle": "",
+              "description": "In boom times, John Connally and Ben Barnes used their political magic to build a sprawling real estate empire. Now they’re in a desperate struggle to keep themselves afloat.",
+              "byline": "by Peter Elkind",
+              "page": "122",
+              "wp_post_id": "120753",
+              "identifier": "txmo-article-198610-goingfor.json"
+            },
+            {
+              "title": "Where Nasa Went Wrong",
+              "subtitle": "",
+              "description": "The seeds of the Challenger disaster were sowed long ago, in the space agency’s conflict between its ideals and its politics.",
+              "byline": "by Ai Reinert",
+              "page": "128"
+            },
+            {
+              "title": "After the Tears",
+              "subtitle": "",
+              "description": "Cambodian Lay Bun Sun escaped the terrors of the Khmer Rouge to film his dreams in Houston.",
+              "byline": "by David Theis",
+              "page": "132",
+              "wp_post_id": "120738",
+              "identifier": "txmo-article-198610-afterthe.json"
+            },
+            {
+              "title": "The Strange Case Of Mark White",
+              "subtitle": "",
+              "description": "The governor has a good record, good ideas, and good intentions. So why is he in danger of losing his job to a man he already beat once?.",
+              "byline": "by paul Burka",
+              "page": "134",
+              "wp_post_id": "120735",
+              "identifier": "txmo-article-198610-thestrang.json"
+            },
+            {
+              "title": "The Texas Institute Of Letters",
+              "subtitle": "Texas Primer",
+              "description": "Belonging to this literary club is a lot like becoming a Texan; you can be a newcomer for only so long.",
+              "byline": "by Karl Kilian",
+              "page": "138",
+              "wp_post_id": "120708",
+              "identifier": "txmo-article-198610-thetexas.json"
+            },
+            {
+              "title": "Beyond Halloween",
+              "subtitle": "",
+              "description": "On the Day of the Dead, Mexicans mock death with candy skulls and papier-mache coffins. But in the darkness of a graveside vigil, the mockery gives way to tears.",
+              "byline": "Photography by Geoff Winningham",
+              "page": "140"
+            },
+            {
+              "title": "The Barbecue Brothers",
+              "subtitle": "",
+              "description": "The six Mikeska boys may share the same family name, but each has his own ideas about the nuances of Texas barbecue.",
+              "byline": "by Joe Nick Patoski",
+              "page": "148"
+            },
+            {
+              "title": "The Eye Of the Beholder",
+              "subtitle": "",
+              "description": "A museum in Texas is the last place Jacques-Louis David would expect to find his late masterpiece, but we’re glad it’s here.",
+              "byline": "by Stephen Harrigan",
+              "page": "150",
+              "wp_post_id": "120720",
+              "identifier": "txmo-article-198610-theeyeof.json"
+            },
+            {
+              "title": "Yodelady, Yodelady. . . Hoo",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "by Sandra Headier",
+              "page": "153",
+              "wp_post_id": "120714",
+              "identifier": "txmo-article-198610-yodeladyy.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Ballad Of the PlNe Springs Cafe",
+              "subtitle": "Back Roads",
+              "description": "Over the years, this boot-scuffed cafe has been host to West Texas yarn spinners and front-porch gossips. Now the stories are told on borrowed time.",
+              "byline": "by Jamie Aitken",
+              "page": "154"
+            },
+            {
+              "title": "The Museum That Time Forgot",
+              "subtitle": "Texana",
+              "description": "It’s one of the best-kept secrets in the state. But what the Texas Memorial Museum needs is somebody’s attention.",
+              "byline": "by William Booth",
+              "page": "160"
+            },
+            {
+              "title": "Country Music’s Hermit Saint",
+              "subtitle": "Popular Music",
+              "description": "Don Williams won’t do beer commercials, sign autographs, or sing in honky-tonks. If that means he isn’t a superstar, that’s fine with him.",
+              "byline": "by Dick J. Reavis",
+              "page": "166"
+            },
+            {
+              "title": "Partners In Crime",
+              "subtitle": "Books",
+              "description": "David Lindsey stalks Houston cops, through the violence and around the blood, in search of another mystery novel.",
+              "byline": "by Jan Reid",
+              "page": "170"
+            },
+            {
+              "title": "For the Love Of Bach",
+              "subtitle": "Classical Music",
+              "description": "The Dallas Bach Society combines crackerjack musicians, a well-trained choir, and top-ranked vocal soloists—the result is a baroque-music lover’s dream....",
+              "byline": "by W. L. Taitte",
+              "page": "176"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The Harris County Administration Building just isn’t big enough for both Jon Lindsay and Mike Driscoll; Ray Perryman, a reporter’s best friend; a lucky accident brought Ethiopians—and Ethiopian restaurants—to Dallas.",
+              "byline": "by Joseph Nocera",
+              "page": "106"
+            },
+            {
+              "title": "The Quidnunc",
+              "subtitle": "",
+              "description": "Governor White nods off; Watauga policeman on the wagon; debutante dos and don’ts.",
+              "byline": "by Mark Seal",
+              "page": "118"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "180"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "239"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A price for peace on the Guadalupe River; favorites and long shots in the Texas racetrack derby; a key decision for Lloyd Bentsen.",
+              "byline": "",
+              "page": "240"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

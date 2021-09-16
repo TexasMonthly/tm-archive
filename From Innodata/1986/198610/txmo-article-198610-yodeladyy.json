@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-198610",
+    "date": "October 1986",
+    "year": 1986,
+    "month": 10,
+    "month_formatted": "October",
+    "pdf_uri": "/1986/19861000.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 155,
+    "toc_start_page": 153,
+    "document_page_range": [
+      155
+    ],
+    "toc_order": 9,
+    "toc_headline": "Western Art: Yodelady, Yodelady. . . Hoo",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198610-yodeladyy",
+  "source": "/1986/19861000.pdf",
+  "wp_post_id": 120714,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-yodelay-yodelay-hoo/",
+  "authors": [
+    "Sandra Hendler"
+  ],
+  "headline": "Yodelady, Yodelady...Hoo",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img/>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "October 1986",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

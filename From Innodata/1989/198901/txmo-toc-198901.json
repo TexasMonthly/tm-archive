@@ -1,0 +1,166 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198901",
+    "publication": "Texas Monthly",
+    "issue": "January 1989",
+    "pdf_uri": "/1989/19890100.pdf",
+    "month": "January",
+    "year": 1989,
+    "pages": 176,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents January",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "1989 Bum Steer Awards!",
+              "subtitle": "",
+              "description": "A year of avaricious arabs, belligerent bovines, convincing Connallys, dubious degrees, elusive Elvises, furious firefighters, George’s goofs, hassled Hunts, ingenious inmates, jilted judges, knotorious Kneppers, loose locomotives, migrant moose, normative nerds, overcautious orchestras, preposterous pythons, qualmish queens, rampant roaches, Sue Ellen’s swimsuits, targeted transvestites, upset umps, vetoed Virgins, wanton Willies, x-tremist x-chairmen, yammering Yankees, and zapped zygomatics",
+              "byline": "",
+              "page": "86"
+            },
+            {
+              "title": "Smile, Houston",
+              "subtitle": "",
+              "description": "Three photographers of international reputation reveal their own new yet familiar first impressions of Houston",
+              "byline": "",
+              "page": "96"
+            },
+            {
+              "title": "Goo Help Her",
+              "subtitle": "",
+              "description": "How Madalyn Murray o’hair became the supreme being of the american atheist movement",
+              "byline": "by Lawrence Wright",
+              "page": "102"
+            },
+            {
+              "title": "Dad's Last Home",
+              "subtitle": "",
+              "description": "It was the hardest decision I ever had to make. Had the time come to put my father in a nursing home?",
+              "byline": "by Jody Goode",
+              "page": "106",
+              "wp_post_id": "125235",
+              "identifier": "txmo-article-198901-dadslast.json"
+            },
+            {
+              "title": "Superpolitics",
+              "subtitle": "",
+              "description": "Will Texas’ acquisition of the supercollider increase the state’s clout in Washington? We’d better hope so, because now that we’ve got it, we’ve got to get the money to deliver it",
+              "byline": "by Paul Burka",
+              "page": "110"
+            },
+            {
+              "title": "Superbonanza!",
+              "subtitle": "",
+              "description": "Look out, Waxahachie! Here come the Protonettes, the Big Bang Motel, and the Phil Gramm Institute",
+              "byline": "by Jerry Jeanmard",
+              "page": "113",
+              "wp_post_id": "125229",
+              "identifier": "txmo-article-198901-superbonan.json"
+            },
+            {
+              "title": "If These Walls Could Talk",
+              "subtitle": "",
+              "description": ". . . they’d tell a tale of a half-century of Dallas wheeling and dealing",
+              "byline": "by Frederick E. “Shad” Rowe, Jr.",
+              "page": "114",
+              "wp_post_id": "125226",
+              "identifier": "txmo-article-198901-ifthesew.json"
+            },
+            {
+              "title": "King Ranch Casserole",
+              "subtitle": "Texas Primer",
+              "description": "What kind of dish would a Texas clubwoman invent? One that’s not too greasy, not too spicy, and, well, sort of tasteful",
+              "byline": "by Mimi Swartz",
+              "page": ""
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Onward Through the Fog",
+              "subtitle": "Lifestyles",
+              "description": "The plane was heading to Houston at dawn. Surely the pilot was kidding when he said we would be landing in Nashville",
+              "byline": "by Emily Yoffe",
+              "page": "118"
+            },
+            {
+              "title": "Bringing It All Back Home",
+              "subtitle": "Business",
+              "description": "Through shrewd buying and aggressive marketing, Fort Worth-based Pier 1 has transcended its old head-shop-for-the-home image and emerged into the new age a more profitable company",
+              "byline": "by BILL Crawford",
+              "page": "122"
+            },
+            {
+              "title": "Two-Point Conversion",
+              "subtitle": "Sports",
+              "description": "The question wasn’t whether my son was tough enough to play high school football. It was whether I was tough enough to watch him do it",
+              "byline": "by Jan McInroy",
+              "page": "126"
+            },
+            {
+              "title": "Making Waves",
+              "subtitle": "Travel",
+              "description": "It’s cold and rainy; your stress level has reached an all-time high; your roof has sprung a leak. But you don’t have to sit still for this. Escape to the Bay Islands of Honduras",
+              "byline": "by Joe Nick Patoski",
+              "page": "128"
+            },
+            {
+              "title": "Playing It Safe",
+              "subtitle": "Classical Music",
+              "description": "Take two aspern: one a world premiere by the Dallas Opera, the other the Henry James novella on which the opera is based. Which is better for you?",
+              "byline": "by W. L. Taitte",
+              "page": "132"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The case against conspiracy",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Cleaning up with Heloise; fighting crack in Dallas; testing the school district in Garland",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "An East Texas librarian learns the perils of shushing the wrong guy; Houston and Dallas put on the ritz for couture; and Citizen Butt picks the Texas Supreme Court",
+              "byline": "by alison Cook",
+              "page": "74"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Ut football on the Longhorns of a dilemma; who’s supreme at the Supreme Court; a taxing idea in Washington",
+              "byline": "",
+              "page": "172"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199101",
+    "publication": "Texas Monthly",
+    "issue": "January 1991",
+    "pdf_uri": "/1991/19910100.pdf",
+    "month": "January",
+    "year": 1991,
+    "pages": 182,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Coffee Mates",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by Shaila K. Dewan and Sara Waldrop",
+              "page": "36"
+            },
+            {
+              "title": "Big Bang",
+              "subtitle": "Science",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "40"
+            },
+            {
+              "title": "A Bitter Pill",
+              "subtitle": "Business",
+              "description": "",
+              "byline": "by Skip Hollandsworth",
+              "page": "44"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "The Governor Who Ate Onions",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Joe Nick Patoski",
+              "page": "57"
+            },
+            {
+              "title": "State Wide Business",
+              "subtitle": "",
+              "description": "",
+              "byline": "by John Anderson",
+              "page": "69"
+            },
+            {
+              "title": "State of the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "74"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "150"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "151"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "176"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The 1991 Bum Steer Awards",
+              "subtitle": "",
+              "description": "It was a year of absent anchors, Bush broccoliphobia, contraband clocks, dastardly Dakotas, egad! elections, foolhardy fig leaves, governor’s grackles, Hussein harmonizing, incoherent Incaviglia, jury junkets, Ko kisses, licentious license plates, misunderstood mummies, naughty notebooks, oil-spill oratory, pretentious pyres, quintessential quadraceps, reverential Republicans, Superman Sakowitz, telephone telepathy, unwise uppercuts, viper volunteers, wildcatting whoopers, x-pired x-Aggies, yucky yards, zealous Zerubbabel.",
+              "byline": "",
+              "page": "76"
+            },
+            {
+              "title": "God's Jeweler",
+              "subtitle": "",
+              "description": "Piety or passion: The trials of James Avery, craftsman.",
+              "byline": "by Dana Rubin",
+              "page": "86",
+              "wp_post_id": "126789",
+              "identifier": "txmo-article-199101-godsjewel.json"
+            },
+            {
+              "title": "The Hyde Park Rapist",
+              "subtitle": "",
+              "description": "A frightened silence keeps a neighborhood threat alive.",
+              "byline": "by Robert Draper",
+              "page": "90",
+              "wp_post_id": "126786",
+              "identifier": "txmo-article-199101-thehydep.json"
+            },
+            {
+              "title": "Highway 1",
+              "subtitle": "",
+              "description": "Retracing the trail that tamed the Texas wilderness —the Camino Real.",
+              "byline": "by Stephen Harrigan",
+              "page": "96",
+              "wp_post_id": "126783",
+              "identifier": "txmo-article-199101-highway1.json"
+            },
+            {
+              "title": "Passage to Indian",
+              "subtitle": "",
+              "description": "An enterprising businessman at the turn of the century steered tourists to the Southwest with Pueblo Deco architecture.",
+              "byline": "",
+              "page": "100"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198809",
+    "publication": "Texas Monthly",
+    "issue": "September 1988",
+    "pdf_uri": "/1988/19880900.pdf",
+    "month": "September",
+    "year": 1988,
+    "pages": 173,
+    "document_toc_page": "6"
+  },
+  "toc": [
+    {
+      "heading": "Contents September",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "A Legacy Of Evil",
+              "subtitle": "",
+              "description": "In the town George Parr once dominated, a nineteen-year-old mother was gang-raped by her neighbors. In the aftermath of the crime, the old horrors of San Diego have surfaced anew.",
+              "byline": "by Mimi Swartz",
+              "page": "82"
+            },
+            {
+              "title": "Do I Make a Difference?",
+              "subtitle": "",
+              "description": "A kindergarten teacher tells what she learned in school.",
+              "byline": "by Roberta Wright",
+              "page": "88"
+            },
+            {
+              "title": "I’m Right And Everyone In Texas Is Wrong",
+              "subtitle": "",
+              "description": "They don’t use air conditioning, they don’t drive cars, they don’t watch football —yet they dare to call themselves Texans.",
+              "byline": "",
+              "page": "91"
+            },
+            {
+              "title": "Air Conditioning? Who Needs It?",
+              "subtitle": "",
+              "description": "It’s this simple: people’s teeth should not chatter in the summer.",
+              "byline": "by Suzanne Winckier",
+              "page": "92"
+            },
+            {
+              "title": "Cars? No Thanks, i’d Rather Walk",
+              "subtitle": "",
+              "description": "You pay for interest, gas, oil, repairs, and insurance. I pay for shoe leather.",
+              "byline": "by David stansbury",
+              "page": "94",
+              "wp_post_id": "123864",
+              "identifier": "txmo-article-198809-carsnoth.json"
+            },
+            {
+              "title": "Football? What’s the Big Deal?",
+              "subtitle": "",
+              "description": "as much as I hated playing football, I hate watching it more.",
+              "byline": "by Stephen Harrigan",
+              "page": "96"
+            },
+            {
+              "title": "Posed For Posterity",
+              "subtitle": "",
+              "description": "The portraits of a long-forgotten studio photographer yield images of dignity in a small Texas town. .",
+              "byline": "",
+              "page": "98"
+            },
+            {
+              "title": "Hot Pots",
+              "subtitle": "",
+              "description": "How did bluebonnets and cacti get that glazed look?.",
+              "byline": "by Jerry Jeanmard",
+              "page": "106",
+              "wp_post_id": "123855",
+              "identifier": "txmo-article-198809-hotpots.json"
+            },
+            {
+              "title": "Off the Road Again",
+              "subtitle": "",
+              "description": "Willie Nelson’s Fourth of July Picnic at Carl’s Corner was the picnic to end all picnics. It did just that.",
+              "byline": "by Willie Nelson with Bud Shrake",
+              "page": "108"
+            },
+            {
+              "title": "Bush Vs. Bentsen",
+              "subtitle": "Texas Primer",
+              "description": "Eighteen years after their Senate race determined the course of Texas politics, their rivalry may determine the course of national politics.",
+              "byline": "by Paul Burka",
+              "page": "112"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Getting Serious",
+              "subtitle": "Politics",
+              "description": "as ann Richards joked her way to political stardom in atlanta, Jim Mattox wasn’t laughing.",
+              "byline": "by Patricia Kilday Hart",
+              "page": "114"
+            },
+            {
+              "title": "Against All Odds",
+              "subtitle": "Health",
+              "description": "When the doctor told me my third child had Down’s syndrome, I knew that my life had changed forever.",
+              "byline": "by Lisa Wilson",
+              "page": "120"
+            },
+            {
+              "title": "Family Trees",
+              "subtitle": "Texana",
+              "description": "",
+              "byline": "by Gail Gilchriest",
+              "page": "126"
+            },
+            {
+              "title": "When Words Collide",
+              "subtitle": "Classical Music",
+              "description": "at the opera house back on Earth, music sometimes overwhelms sense. But on Planet 8 you couldn’t hear the music for the words.",
+              "byline": "by Chester Rosson",
+              "page": "133"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Messin’ with Texas.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Getting more bang for the buck; remembering a muddy, moody river; banking on Texas; sharing a Texas tradition.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Channel 5 in Fort Worth hits forty; Elvis fever hits Waco; a would-be DA hits a snag in Raymondville; the Hangs Book is a hit with fishermen.",
+              "byline": "by Joe Nick Patoski",
+              "page": "70"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "The air Force takes over Big Bend; NCNB takes over First Republic; Dukakis takes over Bentsen; and who will take an empty Senate seat?.",
+              "byline": "",
+              "page": "168"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

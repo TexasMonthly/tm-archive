@@ -1,0 +1,157 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199301",
+    "publication": "Texas Monthly",
+    "issue": "January 1993",
+    "pdf_uri": "/1993/19930100.pdf",
+    "month": "January",
+    "year": 1993,
+    "pages": 172,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Frozen assets",
+              "subtitle": "Business",
+              "description": "",
+              "byline": "by Christine Carroll",
+              "page": "40"
+            },
+            {
+              "title": "Border Bonanza",
+              "subtitle": "Mexico",
+              "description": "",
+              "byline": "by Robert Barnstone",
+              "page": "44"
+            },
+            {
+              "title": "The Sound of Musica",
+              "subtitle": "Music",
+              "description": "",
+              "byline": "by Joe Nick Patoski",
+              "page": "50"
+            },
+            {
+              "title": "Water Babies",
+              "subtitle": "Food",
+              "description": "",
+              "byline": "by Susan Chadwick",
+              "page": "56"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "A Mighty City",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Helen Thompson",
+              "page": "62"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "76"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "124"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "125"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "168"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The 1993 Bum Steer awards",
+              "subtitle": "",
+              "description": "It was a year of absent alamos, buried Barbies, castrated calves, derriere drawings, errant escalators, filching frats, gridiron graduates, hightailing hoopsters, income-tax immigrants, jailed joggers, Keating kudos, lascivious linksters, mercenary morticians, nonoffensive nachos, overdrawn officials, Perot pumpkins, querulous quackers, relaxed Rangers, safe-sex students, testosterone teeth, undersea upraisings, visionary vacuumers, wounded whinniers, X-iled X-pectorators, yielding York, and zealous zoners.",
+              "byline": "",
+              "page": "78"
+            },
+            {
+              "title": "Scarred",
+              "subtitle": "",
+              "description": "Not long after she made her trek from Texas to New York, Marla Hanson saw her modeling career end at the hands of a razor-wielding thug. Six years later, the cuts on her face have healed, but the emotional wounds remain.",
+              "byline": "by Jan Reid",
+              "page": "90"
+            },
+            {
+              "title": "Greetings From Dogpatch",
+              "subtitle": "",
+              "description": "Bill Clinton’s arkansas isn’t the backwater you might think.",
+              "byline": "by Gene Lyons",
+              "page": "94",
+              "wp_post_id": "127758",
+              "identifier": "txmo-article-199301-greetings.json"
+            },
+            {
+              "title": "Shooting Stars",
+              "subtitle": "",
+              "description": "With wit and grit, amarilloborn photographer Mark Seliger persuades reluctant celebrities to show their true selves.",
+              "byline": "by Mimi Swartz",
+              "page": "96"
+            },
+            {
+              "title": "Clash of the Cyberpunks",
+              "subtitle": "",
+              "description": "When teens from austin and New York started an electronic gang war, it seemed like another harmless computer game—until the FBI and the Secret Service stepped in.",
+              "byline": "by Gary Cartwright",
+              "page": "104",
+              "wp_post_id": "127752",
+              "identifier": "txmo-article-199301-clashoft.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

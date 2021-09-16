@@ -1,0 +1,194 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198604",
+    "publication": "Texas Monthly",
+    "issue": "April 1986",
+    "pdf_uri": "/1986/19860400.pdf",
+    "month": "April",
+    "year": 1986,
+    "pages": 236,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents April",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Taco Capital, U.S.A.",
+              "subtitle": "",
+              "description": "You want tacos with camitas or cactus pads? Beef barbecue or bacon and eggs? Come to San antonio, where tacos aren’t just an afterthought on a Tex-Mex menu-they’re a way of life.",
+              "byline": "by alison cook",
+              "page": "118"
+            },
+            {
+              "title": "The Great Texas Taco Tour",
+              "subtitle": "",
+              "description": "From El Paso’s ingenious taco trays to austin’s uplifting breakfast tacos, each Texas city celebrates this noble creation in its own way.",
+              "byline": "by alison cook",
+              "page": "124"
+            },
+            {
+              "title": "Swamp Gas",
+              "subtitle": "",
+              "description": "When Jimmy Lee, an unrepentant troublemaker, felt he had taken one insult too many from the powerful Fredeman family, he called in the law. The results of that action have exposed decades of larceny and corruption in Port arthur and threaten a Gulf Coast empire.",
+              "byline": "by Gary Cartwright",
+              "page": "126"
+            },
+            {
+              "title": "The Rig Count",
+              "subtitle": "Texas Primer",
+              "description": "At first, Hughes Tool used the count to plan its own future. Now an entire industry uses it to plan theirs.",
+              "byline": "by Peter Eikind",
+              "page": "134"
+            },
+            {
+              "title": "Solace In the Desert",
+              "subtitle": "",
+              "description": "With dogged independence, amazing endurance, and a rugged romantic vision, photographer Laura Gilpin helped create the way we see the West today.",
+              "byline": "by Michael Ennis",
+              "page": "136",
+              "wp_post_id": "122346",
+              "identifier": "txmo-article-198604-solacein.json"
+            },
+            {
+              "title": "Eighteen Minutes",
+              "subtitle": "",
+              "description": "Unlike the alamo, which can seem as remote and mysterious as Stonehenge, the San Jacinto battlefield has few secrets. Its history lies close at hand.",
+              "byline": "by Stephen HarHgan",
+              "page": "142",
+              "wp_post_id": "122340",
+              "identifier": "txmo-article-198604-eighteenm.json"
+            },
+            {
+              "title": "Rodeo Madness",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "by Karen Barbour",
+              "page": "145",
+              "wp_post_id": "122334",
+              "identifier": "txmo-article-198604-rodeomadn.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Hot Springs Eternal",
+              "subtitle": "Travel",
+              "description": "Going to Hot Springs was once a Texas rite of passage steeped in the ways of old sin. Today this arkansas resort is still worth the trip.",
+              "byline": "by Joe Nick Patoski",
+              "page": "146"
+            },
+            {
+              "title": "Of Things Miraculous And Marvelous",
+              "subtitle": "Books",
+              "description": "by Peter applebome Three unknown Texas writers tackle three different genres and prove the novel is alive and well.",
+              "byline": "by Peter applebome",
+              "page": "152"
+            },
+            {
+              "title": "Upper West Side Story",
+              "subtitle": "Movies",
+              "description": "by James wolcott Hannah and Her Sisters is Woody gone schmaltzy; FIX is implausible but entertaining; 9 1/2 Weeks is an eternity; Power is oppressively didactic.",
+              "byline": "by James wolcott",
+              "page": "156"
+            },
+            {
+              "title": "Calling His Own Tune",
+              "subtitle": "Jazz",
+              "description": "On San antonio’s Riverwalk the Jim Cullum Jazz Band plays jazz the way it was meant to be played.",
+              "byline": "by jan Jarboe",
+              "page": "162"
+            },
+            {
+              "title": "Manchild In MusicLAND",
+              "subtitle": "Popular Music",
+              "description": "Charlie Sexton, austin’s guitar-playing boy wonder, is now dream fodder for the masses; Eric Johnson is our latest contender for guitar hero.",
+              "byline": "by Jody Denberg and Denise S. Sechelski",
+              "page": "168"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Gregory Curtis.",
+              "page": "5"
+            },
+            {
+              "title": "Shopping",
+              "subtitle": "",
+              "description": "A Houston boutique enjoys the high cost of growing up.",
+              "byline": "by Mimi Swartz",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "Want to unload your business? With Stan Hazlewood, it’s not much harder than getting a date.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "The DA in El Paso may do a lot of things, but there’s one thing he doesn’t do-plea-bargain.",
+              "byline": "by Jim atkinson",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Will Shelby Coffey lead the Dallas Times-Herald to victory? Will Muse aficionados ever find happiness aloft again? Will Tommy Pierce keep real-estating and a-rocking?.",
+              "byline": "by Joseph Nocera",
+              "page": "104"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "by Sharpe On the road again —accoutrements for savvy traveling.",
+              "byline": "by Patricia Sharpe",
+              "page": "172"
+            },
+            {
+              "title": "The Roar Of the Crowd.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "222"
+            },
+            {
+              "title": "Puzzle.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "231"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Southwest and Continental make war, knot Love; make way for natural gas on the commodities market; a taxing situation for Speaker Gib.",
+              "byline": "",
+              "page": "232"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

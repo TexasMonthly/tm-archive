@@ -1,0 +1,194 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199009",
+    "publication": "Texas Monthly",
+    "issue": "September 1990",
+    "pdf_uri": "/1990/19900900.pdf",
+    "month": "September",
+    "year": 1990,
+    "pages": 206,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Ties That Bind",
+              "subtitle": "Art",
+              "description": "",
+              "byline": "by Michael Ennis",
+              "page": "30"
+            },
+            {
+              "title": "Remember the Alamo?",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by Suzanne Winckler",
+              "page": "34"
+            },
+            {
+              "title": "Call Me by Mimi Swartz",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "",
+              "page": "44"
+            },
+            {
+              "title": "Devout Discord",
+              "subtitle": "Religion",
+              "description": "",
+              "byline": "by Kathryn Casey",
+              "page": "50"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Firing Cops",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Domain",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Helen Thompson",
+              "page": "56"
+            },
+            {
+              "title": "State Wide",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Joe Nick Patoski",
+              "page": "60"
+            },
+            {
+              "title": "State of the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "72"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "166"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "167"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "200"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Fortune's Smile",
+              "subtitle": "",
+              "description": "Tevin Campbell, the thirteenyear-old soul sensation, is Texas’ answer to Michael Jackson.",
+              "byline": "by Joe Nick Patoski",
+              "page": "76",
+              "wp_post_id": "125541",
+              "identifier": "txmo-article-199009-fortuness.json"
+            },
+            {
+              "title": "Flights of Fantasy",
+              "subtitle": "",
+              "description": "There’s primeval magic in ordinary fashions.",
+              "byline": "Photography by Keith Carter",
+              "page": "78",
+              "wp_post_id": "125538",
+              "identifier": "txmo-article-199009-flightsof.json"
+            },
+            {
+              "title": "Mad at the World",
+              "subtitle": "",
+              "description": "It’s hard to be Mr. Nice Guy when your son has suffered brain damage, your insurance has been canceled, and your life is in an uproar.",
+              "byline": "by Patricia Sharpe",
+              "page": "86"
+            },
+            {
+              "title": "The Texas 100",
+              "subtitle": "",
+              "description": "Who’s up, who’s down, who’s gone, and who’s new on our second annual study of the state’s superrich.",
+              "byline": "by John Anderson and Christine Carroll",
+              "page": "88",
+              "wp_post_id": "125532",
+              "identifier": "txmo-article-199009-thetexas.json"
+            },
+            {
+              "title": "Tycoons in Training",
+              "subtitle": "",
+              "description": "Homegrown businesses with large-scale profits.",
+              "byline": "",
+              "page": "93"
+            },
+            {
+              "title": "Gone But Not Forgotten",
+              "subtitle": "",
+              "description": "Fortunes come and go —and some from 19B9’s Texas 100 came in under our $120 million minimum.",
+              "byline": "",
+              "page": "94"
+            },
+            {
+              "title": "When Money Talked, We Listened",
+              "subtitle": "",
+              "description": "The Texas 100 survey.",
+              "byline": "",
+              "page": "99"
+            },
+            {
+              "title": "On Deck",
+              "subtitle": "",
+              "description": "Why multimillionaires like Clayton Williams didn’t make the cut —yet.",
+              "byline": "",
+              "page": "100"
+            },
+            {
+              "title": "Index",
+              "subtitle": "",
+              "description": "Where to find your local mogul.",
+              "byline": "",
+              "page": "138"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

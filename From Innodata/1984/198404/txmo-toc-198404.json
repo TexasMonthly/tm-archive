@@ -1,0 +1,206 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198404",
+    "publication": "Texas Monthly",
+    "issue": "April 1984",
+    "pdf_uri": "/1984/19840400.pdf",
+    "month": "April",
+    "year": 1984,
+    "pages": 260,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Hi-Yo, Silicon!",
+              "subtitle": "",
+              "description": "Texas’ glory, till now based on oil, may be based on silicon in years to come. The following four articles examine high tech in the state and where it is headed.",
+              "byline": "",
+              "page": "130",
+              "wp_post_id": "120321",
+              "identifier": "txmo-article-198404-theponyta.json"
+            },
+            {
+              "title": "Birth Of A New Frontier",
+              "subtitle": "",
+              "description": "Hundreds of new computer companies have made Texas the likely successor to California's Silicon Valley, and it all started with two firms in Dallas.",
+              "byline": "Harry Hurt III",
+              "page": "132",
+              "wp_post_id": "120351",
+              "identifier": "txmo-article-198404-birthofa.json"
+            },
+            {
+              "title": "Death Of A Computer",
+              "subtitle": "",
+              "description": "Four critical mistakes forced Texas Instruments to pull the plug on the home computer that it had once expected would dominate the market.",
+              "byline": "Joseph Nocera",
+              "page": "136",
+              "wp_post_id": "120348",
+              "identifier": "txmo-article-198404-deathofa.json"
+            },
+            {
+              "title": "It’s A High-Tech Life",
+              "subtitle": "",
+              "description": "While most people are using their computers to balance their checkbooks and play games, these three Texans are pushing their machines and programs to the limit.",
+              "byline": "David Kramer",
+              "page": "140",
+              "wp_post_id": "120342",
+              "identifier": "txmo-article-198404-itsahigh.json"
+            },
+            {
+              "title": "Look, Ma, My Computer Did It!",
+              "subtitle": "",
+              "description": "See the future on your computer: software on stocks, football, and astrology.",
+              "byline": "Scott Lubeck",
+              "page": "144",
+              "wp_post_id": "120339",
+              "identifier": "txmo-article-198404-lookmamy.json"
+            },
+            {
+              "title": "The Ponytail",
+              "subtitle": "",
+              "description": "Warm spring days call for giving in to new clothes and a neck-baring hairdo.",
+              "byline": "David Seeley",
+              "page": "146",
+              "wp_post_id": "120336",
+              "identifier": "txmo-article-198404-theponyta.json"
+            },
+            {
+              "title": "The Yellow Rose Of Texas",
+              "subtitle": "Texas Primer",
+              "description": "If it wasn’t for the song, no one would remember Emily Morgan, but she launched a nation by diverting Santa Anna at San Jacinto.",
+              "byline": "Stephen Harrigan",
+              "page": "152"
+            },
+            {
+              "title": "The Hub Cafe",
+              "subtitle": "",
+              "description": "It wasn’t the classiest place in Pharr to grow up, but it had tough truckers, sassy waitresses, and some of the best fry cooks in the Valley.",
+              "byline": "William J. Helmer",
+              "page": "154",
+              "wp_post_id": "120333",
+              "identifier": "txmo-article-198404-thehubca.json"
+            },
+            {
+              "title": "I Opened Tax Returns For the Irs",
+              "subtitle": "",
+              "description": "Behind the scenes at regional headquarters—a sometime part-timer tells all.",
+              "byline": "Martha Ebersole",
+              "page": "158",
+              "wp_post_id": "120327",
+              "identifier": "txmo-article-198404-iopenedt.json"
+            },
+            {
+              "title": "The Great World-Rim Being",
+              "subtitle": "Western Art",
+              "description": "A fresh interpretation of a classic genre.",
+              "byline": "Anita Kunz",
+              "page": "161",
+              "wp_post_id": "120321",
+              "identifier": "txmo-article-198404-thegreat.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Winter’s Travail",
+              "subtitle": "Weather",
+              "description": "When the Rio Grande Valley's balmy breezes turned frigid last winter, its aloe vera fields and stately palms turned from lush green to pitiful brown.",
+              "byline": "Barbara Rodriguez",
+              "page": "162"
+            },
+            {
+              "title": "Light In the Hills",
+              "subtitle": "Art",
+              "description": "German landscape artist Hermann Lungkwitz saw romantic vistas in the Hill Country at a time when most Texans saw only hardscrabble farmland.",
+              "byline": "Michael Ennis",
+              "page": "170"
+            },
+            {
+              "title": "Alley Of Aspirations",
+              "subtitle": "Theater",
+              "description": "Houston’s well-heeled Alley Theatre is trying to pass itself off as a national theater. Across town, the Chocolate Bayou is just trying to hang on.",
+              "byline": "W. L. Taitte",
+              "page": "178"
+            },
+            {
+              "title": "Programming Your Taxes",
+              "subtitle": "Software",
+              "description": "The first in a series of software reviews looks at tax-preparation packages.",
+              "byline": "Scott Lubeck",
+              "page": "182"
+            },
+            {
+              "title": "Bait And Switch",
+              "subtitle": "Movies",
+              "description": "Against All Odds promises love, delivers yawns. Entre Nous repels rather than attracts. Footloose and Reckless aren’t. This Is Spinal Tap is painless.",
+              "byline": "James Wolcott",
+              "page": "190"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Texas in silicon.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Watching the news, rating the crews, holding down the fort.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A heated race for the Senate; a leisurely trip to Astrotown; a cool master of Dallas protocol; a steel-industry success story in Seguin.",
+              "byline": "Joseph Nocera",
+              "page": "108"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Country pleasures.",
+              "byline": "Patricia Sharpe",
+              "page": "200"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Toss of the coins.",
+              "byline": "",
+              "page": "255"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Gary Hart’s rise hurts two Texas politicos; at last, a solution to the South Texas Nuclear Project mess; the all-new Braniff turns out to be the same old Braniff; a delicate question about doctors.",
+              "byline": "",
+              "page": "256"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

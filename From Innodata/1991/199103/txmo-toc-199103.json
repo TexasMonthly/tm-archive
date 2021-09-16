@@ -1,0 +1,162 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199103",
+    "publication": "Texas Monthly",
+    "issue": "March 1991",
+    "pdf_uri": "/1991/19910300.pdf",
+    "month": "March",
+    "year": 1991,
+    "pages": 196,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "King Crab",
+              "subtitle": "Food",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "42"
+            },
+            {
+              "title": "A Lovers’ Knot",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by Suzanne Winckler",
+              "page": "46"
+            },
+            {
+              "title": "Pen Pal",
+              "subtitle": "Law",
+              "description": "",
+              "byline": "by Robert Draper",
+              "page": "50"
+            },
+            {
+              "title": "Road Warriors",
+              "subtitle": "Environment",
+              "description": "",
+              "byline": "by Robert Bryce",
+              "page": "58"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Busing Money",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "State Wide",
+              "description": "",
+              "byline": "by Joe Nick Patoski",
+              "page": "78"
+            },
+            {
+              "title": "Business",
+              "subtitle": "State Wide",
+              "description": "",
+              "byline": "by John Anderson",
+              "page": "84"
+            },
+            {
+              "title": "State of the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "92"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "166"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "167"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited, by Paul Burka",
+              "page": "188"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Into the Storm",
+              "subtitle": "",
+              "description": "In normal times, Fort Hood teems with troops training in tanks and helicopters. But in their absence, the huge base is left with a scattering of soldiers and an uneasy sense of peace.",
+              "byline": "Photographs by Matt Mahurin",
+              "page": "94"
+            },
+            {
+              "title": "The Ornish Treatment",
+              "subtitle": "",
+              "description": "His unconventional regimen—and his media savvy —have made him the latest of the Texas celebrity heart doctors.",
+              "byline": "by Mimi Swartz",
+              "page": "104",
+              "wp_post_id": "126663",
+              "identifier": "txmo-article-199103-theornish.json"
+            },
+            {
+              "title": "Young Riders",
+              "subtitle": "",
+              "description": "They started off short in the saddle, but now these fifteen Texans stand tall.",
+              "byline": "",
+              "page": "108"
+            },
+            {
+              "title": "Recipe for Success",
+              "subtitle": "",
+              "description": "A crop of small readyto-eat food companies in Austin take a fresh look at what’s for dinner.",
+              "byline": "by Helen Thompson",
+              "page": "114"
+            },
+            {
+              "title": "The Greek Way",
+              "subtitle": "",
+              "description": "Amid charges of brutal hazings and racist attitudes, UT’s fraternity row is taking a beating.",
+              "byline": "by Skip Hollandsworth",
+              "page": "118"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

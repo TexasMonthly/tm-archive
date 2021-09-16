@@ -1,0 +1,148 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197801",
+    "publication": "Texas Monthly",
+    "issue": "January 1978",
+    "pdf_uri": "/1978/19780100.pdf",
+    "month": "January",
+    "year": 1978,
+    "pages": 164,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Last Of the Big-Time Spenders",
+              "subtitle": "",
+              "description": "It’s not Diamond Jim Brady, Bet a Million Gates, an arab sheik, or Liberace. It’s a library.",
+              "byline": "Gene Lyons",
+              "page": "66"
+            },
+            {
+              "title": "1978 Bum Steer Awards",
+              "subtitle": "",
+              "description": "Last year’s biggest bloopers, bleepers, blunders, bungles, boo-boos, bad breaks, bobbles, bevues, balks, and Briscoeisms.",
+              "byline": "",
+              "page": "74"
+            },
+            {
+              "title": "Art Yucko",
+              "subtitle": "Design",
+              "description": "How we learned to stop worrying and love the fifties.",
+              "byline": "Cindy Bell and Mickey Troncale",
+              "page": "82",
+              "wp_post_id": "113358",
+              "identifier": "txmo-article-197801-artyucko.json"
+            },
+            {
+              "title": "The Good Old Girls",
+              "subtitle": "",
+              "description": "At the National Women’s Conference, the feminists changed their sandals for pumps and embraced mainstream america.",
+              "byline": "Prudence Mackintosh",
+              "page": "88",
+              "wp_post_id": "113352",
+              "identifier": "txmo-article-197801-thegoodo.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Corpus Delicti",
+              "subtitle": "Politics",
+              "description": "Corpus Christi is the victim—what is the crime?",
+              "byline": "Kaye Northcott",
+              "page": "110"
+            },
+            {
+              "title": "The Line Forms Here",
+              "subtitle": "Lifestyles",
+              "description": "It’s tough to select food in a fast-moving serving line. A cafeteria is no place for the timid.",
+              "byline": "Stephen Harrigan",
+              "page": "124"
+            },
+            {
+              "title": "Split Decision",
+              "subtitle": "Dealing",
+              "description": "Analysts can’t decide whether Tom Brown, Inc., is a silk stock or a sow’s ear.",
+              "byline": "Robert Barnstone",
+              "page": "128"
+            },
+            {
+              "title": "Poultry In Motion",
+              "subtitle": "Country Notes",
+              "description": "There are two ways to raise chickens: the right way and this way.",
+              "byline": "John Graves",
+              "page": "134"
+            }
+          ]
+        },
+        {
+          "section_heading": "Short Subjects",
+          "toc_entry": [
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Larry Flynt hears the call; everyone hears Bob Bullock; McConn job in Houston; ghost in the newsroom; and cotton on the dinner table.",
+              "byline": "",
+              "page": "48"
+            },
+            {
+              "title": "The Texas Monthly Review",
+              "subtitle": "",
+              "description": "Royal women reign in Houston; Spanish artist eats dough; new novel for the operating table; more UFOs from Hollywood; wanted: a conductor for the San antonio Symphony.",
+              "byline": "",
+              "page": "94"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Like most wrong ideas, the concept of the sunbelt didn’t matter until people started putting it into practice.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Last words on the West, the remains of the defenders of the alamo, and Larry McMurtry’s sagging shelf.",
+              "byline": "",
+              "page": "8"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Hot tubs and chili pots.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Saying will make it so.",
+              "byline": "Paul Burka",
+              "page": "160"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198412",
+    "publication": "Texas Monthly",
+    "issue": "December 1984",
+    "pdf_uri": "/1984/19841200.pdf",
+    "month": "December",
+    "year": 1984,
+    "pages": 254,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Too Cool To Get Married",
+              "subtitle": "",
+              "description": "If marriage means commitment and trust, that’s fine. If it means never dancing in front of a Billy Idol video again, that’s not so fine.",
+              "byline": "David Seeley",
+              "page": "138"
+            },
+            {
+              "title": "Is This All There Is?",
+              "subtitle": "",
+              "description": "Tales of Houston as it faces life after the boom.",
+              "byline": "Alison Cook and Peter Elkind",
+              "page": "144"
+            },
+            {
+              "title": "So You Walk Into A Honky-Tonk And SoME Three-Hundred-Pound Cowboy Says He Doesn’T Like YouR Face. Now What?",
+              "subtitle": "",
+              "description": "Honky-tonks: how to get in, how to get out.",
+              "byline": "William J. Helmer",
+              "page": "152"
+            },
+            {
+              "title": "After Midnight",
+              "subtitle": "",
+              "description": "Holiday clothes go to the Longhorn Ballroom as easily as to charity balls.",
+              "byline": "",
+              "page": "156"
+            },
+            {
+              "title": "Texas Primer",
+              "subtitle": "The Texas Brag",
+              "description": "It’s not quite a lie and not quite the truth. It’s a patriotic duty.",
+              "byline": "Susan Chadwick",
+              "page": "164"
+            },
+            {
+              "title": "Why They Won",
+              "subtitle": "",
+              "description": "The inside skinny on the elections.",
+              "byline": "Paul Burka",
+              "page": "166"
+            },
+            {
+              "title": "Western Art",
+              "subtitle": "Buckaroo",
+              "description": "An interpretation of a classic genre.",
+              "byline": "Andrzej Dudzinski",
+              "page": "169",
+              "wp_post_id": "119742",
+              "identifier": "txmo-article-198412-buckaroo.json"
+            },
+            {
+              "title": "The Great Texas Alligator Hunt",
+              "subtitle": "",
+              "description": "Now that alligators aren't endangered, they’re game. So are Texas hunters.",
+              "byline": "Gary Cartwright",
+              "page": "170"
+            },
+            {
+              "title": "O Christmas Tree ",
+              "subtitle": "",
+              "description": "For a perfectly decorated tree, call Tom Osborn. But only if money is no object.",
+              "byline": "Catherine Chadwick",
+              "page": "172"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Trivial Texas",
+              "subtitle": "Texana",
+              "description": "Three Texas Trivia games separate Lone Star zealots from ordinary believers.",
+              "byline": "Dick J. Reavis",
+              "page": "176"
+            },
+            {
+              "title": "Double Trouble",
+              "subtitle": "Movies",
+              "description": "Body Double settles for facile thrills; Comfort and Joy offers moments of magical bliss; The Little Drummer Girl is off-pitch.",
+              "byline": "James Wolcott",
+              "page": "184"
+            },
+            {
+              "title": "Fishing With Dad",
+              "subtitle": "Fatherhood",
+              "description": "I took my son fishing because I wanted him to love the sport—and me.",
+              "byline": "Lawrence Wright",
+              "page": "192"
+            },
+            {
+              "title": "Beyond Kitsch",
+              "subtitle": "Books",
+              "description": "Frederick Barthelme's first novel, Second Marriage, is a wondrous tale of love and absurdity set in the Gulf Coast suburbs.",
+              "byline": "James Whitaker",
+              "page": "202"
+            },
+            {
+              "title": "Scrolling Through the Bible",
+              "subtitle": "Software",
+              "description": "The Word Processor reveals the wisdom of the Good Book with a few keystrokes.",
+              "byline": "Scott Lubeck",
+              "page": "206"
+            },
+            {
+              "title": "Has Success Spoiled Snook?",
+              "subtitle": "Sports",
+              "description": "After winning seven straight state basketball championships, the Snook Bluejays are learning that success has a flip side.",
+              "byline": "Larry Herold",
+              "page": "212"
+            },
+            {
+              "title": "Classical Glass",
+              "subtitle": "Classical Music",
+              "description": "The Houston premiere of Philip Glass’ Akhnaten was grand opera.",
+              "byline": "W. L. Taitte",
+              "page": "218"
+            },
+            {
+              "title": "Peddling Paranoia",
+              "subtitle": "Crime",
+              "description": "Selling crime self-help devices has become a booming business. But do any of these gadgets really make us safer?",
+              "byline": "Jim Atkinson",
+              "page": "222"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Clap, clap, clap, clap.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Kung’s underground hideaway; Dallas’ Cadillac wars; the Panhandle’s art terrorists; Houston’s poet laureate; Austin’s airport quandary.",
+              "byline": "Harry Hurt Iii",
+              "page": "116"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "228"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "271"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A new law takes the driving out of Dwi; a new battle brews on the Texas Supreme Court; Exxon gets rid of an old burden; so does Clinton Manges.",
+              "byline": "",
+              "page": "272"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

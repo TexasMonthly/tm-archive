@@ -1,0 +1,148 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197507",
+    "publication": "Texas Monthly",
+    "issue": "July 1975",
+    "pdf_uri": "/1975/19750700.pdf",
+    "month": "July",
+    "year": 1975,
+    "pages": 132,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "If It’s Tuesday, This Must Be Oakland",
+              "subtitle": "",
+              "description": "When Billy Martin takes his Texas Rangers on the road, the games are among the least of their worries.",
+              "byline": "Paul Burka",
+              "page": "52"
+            },
+            {
+              "title": "The Ten Best And (Sigh) the Ten Worst Legislators",
+              "subtitle": "",
+              "description": "Guess which list had the most competition.",
+              "byline": "",
+              "page": "56"
+            },
+            {
+              "title": "Upward Nobility",
+              "subtitle": "",
+              "description": "How to tell what you’re looking at: a guide to architectural Texas.",
+              "byline": "James Stanley Walker",
+              "page": "69"
+            },
+            {
+              "title": "Tales Of Shrimp",
+              "subtitle": "",
+              "description": "Them shrimp boats are still a-coming, but there’s not much dancing tonight.",
+              "byline": "Stephen Harrigan",
+              "page": "76",
+              "wp_post_id": "108897",
+              "identifier": "txmo-article-197507-talesofs.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Sometimes a Great Noshing",
+              "subtitle": "Dining In",
+              "description": "The intricate dietary laws of Kosher cooking have a latke going for them.",
+              "byline": "Linda West Eckhardt",
+              "page": "24"
+            },
+            {
+              "title": "The Hungry I",
+              "subtitle": "Books",
+              "description": "Frederick Exley shows how to get too much of a good thing.",
+              "byline": "Michael Mewshaw",
+              "page": "32"
+            },
+            {
+              "title": "Wanderers East, Wanderers West",
+              "subtitle": "Film",
+              "description": "Day of the Locust, French Connection II, The Passenger: doing some hard traveling.",
+              "byline": "Katharine Lowry",
+              "page": "38"
+            },
+            {
+              "title": "Ah Current",
+              "subtitle": "Travel",
+              "description": "Cool off this summer with a dip into one of the state’s best oldfashioned swimming holes.",
+              "byline": "Joseph Lomax",
+              "page": "45"
+            },
+            {
+              "title": "Janis On My Mind",
+              "subtitle": "Records",
+              "description": "Requiem for a musical heavyweight, the hard-singing, hard-living girl from Port arthur.",
+              "byline": "Chet Flippo",
+              "page": "46"
+            },
+            {
+              "title": "Light Switch",
+              "subtitle": "Investments",
+              "description": "Turning off the juice to Texas utilities.",
+              "byline": "The Customer’s Man",
+              "page": "48"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "Contentshe Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "6"
+            },
+            {
+              "title": "Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Richard West",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "The summer hath its joys.",
+              "byline": "",
+              "page": "102"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "104"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Just having a little pun.",
+              "byline": "Paul Burka",
+              "page": "128"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

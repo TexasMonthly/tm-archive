@@ -1,0 +1,172 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198706",
+    "publication": "Texas Monthly",
+    "issue": "June 1987",
+    "pdf_uri": "/1987/19870600.pdf",
+    "month": "June",
+    "year": 1987,
+    "pages": 204,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "contents June",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The No Decade",
+              "subtitle": "",
+              "description": "Like it or not, it’s time to start behaving yourself",
+              "byline": "by David Seeley",
+              "page": "104",
+              "wp_post_id": "123198",
+              "identifier": "txmo-article-198706-thenodec.json"
+            },
+            {
+              "title": "The Party's Over",
+              "subtitle": "",
+              "description": "In the early eighties, some Dallas savings and loans reaped profits in real estate investments while land was flipped, appraisals were inflated, and property was developed. Now the land deals have flopped, property values are deflated, and there are empty buildings all over town. And some S&Ls are broke",
+              "byline": "by Byron Harris",
+              "page": "110",
+              "wp_post_id": "123195",
+              "identifier": "txmo-article-198706-thepartys.json"
+            },
+            {
+              "title": "The Jeffrey Show",
+              "subtitle": "",
+              "description": "Heads turn when he passes. He’s on half of Houston’s A-party list. Rock singer? Investment banker? Nope. Meet Father Jeffrey Walker, Episcopal priest",
+              "byline": "by Barbara Paulsen",
+              "page": "114",
+              "wp_post_id": "123192",
+              "identifier": "txmo-article-198706-thejeffre.json"
+            },
+            {
+              "title": "Culture Club",
+              "subtitle": "",
+              "description": "Once San Antonio’s elite took pride in their support of the city’s fine symphony. When the cream of that elite, the Symphony Society board, abruptly canceled the upcoming season, it was time for some soul-searching",
+              "byline": "by Lawrence Wright",
+              "page": "118",
+              "wp_post_id": "123189",
+              "identifier": "txmo-article-198706-culturecl.json"
+            },
+            {
+              "title": "Clint Murchison, Jr.",
+              "subtitle": "Texas Primer",
+              "description": "He was one tycoon who enjoyed the hell out of his money",
+              "byline": "by Gary Cartwright",
+              "page": "120",
+              "wp_post_id": 123159,
+              "identifier": "TXMO-ARTICLE-198706-texasprime.json"
+            },
+            {
+              "title": "Sombreros Of the Gods?",
+              "subtitle": "",
+              "description": "For centuries, scientists have searched for the answers to the mystery of Nosehenge. Now—for the first time—the startling truth",
+              "byline": "Text and illustrations by Brad Holland",
+              "page": "122",
+              "wp_post_id": "123183",
+              "identifier": "txmo-article-198706-sombreros.json"
+            },
+            {
+              "title": "The Little Black Suit",
+              "subtitle": "",
+              "description": "It’s best accessorized with a shovel, a pail, and a beach blanket",
+              "byline": "",
+              "page": "128"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Extra! Penguin’s Alter Ego Wins Pulitzer!",
+              "subtitle": "Lifestyles",
+              "description": "Equipped with only his passion for current events and the simple desire to amuse, Berke Breathed won himself the highest honor in his trade.",
+              "byline": "by Jon Bowermaster",
+              "page": "134"
+            },
+            {
+              "title": "New Kid On the Block",
+              "subtitle": "Art",
+              "description": "The Menil Collection has received so much attention that its opening this month may seem anticlimactic. The only unknown is what the director plans to do with it all.",
+              "byline": "by Michael Ennis",
+              "page": "142"
+            },
+            {
+              "title": "Extreme Imitation",
+              "subtitle": "Movies",
+              "description": "Extreme Prejudice trips over its bloody missteps; Heaven climbs a staircase to the stars; Prick Up Your Ears delivers crisp witticisms and cruisy pickups; Ishtar completely lacks l’amour.",
+              "byline": "by James Wolcott",
+              "page": "146"
+            },
+            {
+              "title": "Good Vibes",
+              "subtitle": "Jazz",
+              "description": "Vibraharpist Charlie Shoemake keeps so busy in L.A. that he seldom strays back to his home state. Fortunately, we can hear him on new recordings.",
+              "byline": "by Doug Ramsey",
+              "page": "152"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The governor’s unbalanced budget.",
+              "byline": "by Gregory cuntis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Prescribing medical remedies; pinching Lone Star pennies; debating the future of a university.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Texas oil patchers bounce back; Houston artist Staley paints the art crowd; goat-gland genius Brinkley’s mansion casts its quirky spell. Plus: Caroline Schoellkopf’s marital woes, Tammy Faye Bakker’s impersonators, and Nancy Negley Wellin’s prodigal daughter.",
+              "byline": "by Alison cook",
+              "page": "84"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "From the harsh landscape of the Permian Basin, whose residents find their faith in free enterprise tested by hard times; to the subtropical city of San Antonio, whose Hispanic citizens have gone gaga over Goyo-Goyo; into deepest South Texas, where the old times of the Parr machine are not forgotten.",
+              "byline": "by Dick J. Reavis",
+              "page": "96"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "Screen play.",
+              "byline": "",
+              "page": "183"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Poor school districts strike it rich; nursing homes want more money too; the savings and loans aren’t banking on Bill Clements; a veto for political buttons.",
+              "byline": "",
+              "page": "184"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

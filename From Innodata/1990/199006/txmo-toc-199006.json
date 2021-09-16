@@ -1,0 +1,138 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199006",
+    "publication": "Texas Monthly",
+    "issue": "June 1990",
+    "pdf_uri": "/1990/19900600.pdf",
+    "month": "June",
+    "year": 1990,
+    "pages": 186,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents June",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Animal Attractions",
+              "subtitle": "",
+              "description": "These seven creatures might be piggy-backed, whale-boned, dog-toothed, goat-eed, elephant-eared, turtle-necked, and bull-headed, but they’re stars just the same.",
+              "byline": "Photography by chip Simons",
+              "page": "98",
+              "wp_post_id": "125730",
+              "identifier": "txmo-article-199006-animalatt.json"
+            },
+            {
+              "title": "Can Kids On Drugs Be Saved?",
+              "subtitle": "",
+              "description": "Drug treatment seldom works; at many centers, greedy entrepreneurs prey on frightened parents and troubled kids. But one teenager’s parents decided to take one last, desperate step: They sent their son to the toughest program in Texas.",
+              "byline": "by skip Hollandsworth",
+              "page": "106"
+            },
+            {
+              "title": "The Old Man And the Secret",
+              "subtitle": "",
+              "description": "Thirty years ago, people couldn’t believe it: The old man’s elixir boosted crops, ate up sewage, and made the desert bloom. Today half a dozen Texas companies claim the elixir does all that and a whole lot more. And some people are beginning to believe it.",
+              "byline": "by Tom Cunis",
+              "page": "112"
+            },
+            {
+              "title": "The Fab Flacks",
+              "subtitle": "",
+              "description": "The nouvelle stars of Houston society are none other than Becca Cason and Holly Moore, the founders of the hippest, most with-it Pr machine in the city.",
+              "byline": "by Mimi Swartz",
+              "page": "116"
+            },
+            {
+              "title": "Western Fling",
+              "subtitle": "",
+              "description": "With the cultural diversions of a big city and the country comforts of a small town. Fort Worth is the perfect place for a typically Texan weekend.",
+              "byline": "by John Morthiand",
+              "page": "118",
+              "wp_post_id": "125721",
+              "identifier": "txmo-article-199006-westernfl.json"
+            },
+            {
+              "title": "The Lost Pyramids",
+              "subtitle": "",
+              "description": "An intrepid explorer searching out Mayan ruins in the Yucatan remains undaunted, despite the language, the unkind elements, and other tropical afflictions.",
+              "byline": "by Dick J. Reavis",
+              "page": "122",
+              "wp_post_id": "125718",
+              "identifier": "txmo-article-199006-thelostp.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Blood Brothers",
+              "subtitle": "Health",
+              "description": "For the sake of pharmaceutical research —and some extra bucks—I took a new drug. The only catch was, I had to give up two cups of blood and three weekends.",
+              "byline": "by John T. Davis",
+              "page": "126"
+            },
+            {
+              "title": "One Tough Bird",
+              "subtitle": "Environment",
+              "description": "After rescuing hundreds of birds from horrible deaths, a Midland woman has finally gained an ally in her war on open oil pits.",
+              "byline": "by Robert M. Bryce",
+              "page": "132"
+            },
+            {
+              "title": "Sacred Meets Profane",
+              "subtitle": "Art",
+              "description": "Benito Huerta reconciles the religious and the worldly in powerful new works at Houston’s Contemporary Arts Museum.",
+              "byline": "by Michael Ennis",
+              "page": "136"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The big buyout.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Recruiting for the environmental team; tackling Texas’ education crisis; seeking justice at the Court of Criminal Appeals.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Kicking the habit in the Randall County Jail; pumping iron at Austin’s laundro-gym; conquering Arlington’s Texas Giant.",
+              "byline": "by Joe Nick Patoski",
+              "page": "84"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Hunting for hunting land in the Panhandle; hunting for new legal theories in the Supreme Court; hunting for a reason Bill Clements does what he does.",
+              "byline": "",
+              "page": "180"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

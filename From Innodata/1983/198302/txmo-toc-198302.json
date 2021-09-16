@@ -1,0 +1,171 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198302",
+    "publication": "Texas Monthly",
+    "issue": "February 1983",
+    "pdf_uri": "/1983/19830200.pdf",
+    "month": "February",
+    "year": 1983,
+    "pages": 188,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Tea For Texas",
+              "subtitle": "",
+              "description": "Can Texans be won over to the antique tradition of tea and little sandwiches in the afternoon? Dallas’ and Houston’s new gilded hotels are counting on it.",
+              "byline": "Alison Cook",
+              "page": "94",
+              "wp_post_id": "119601",
+              "identifier": "txmo-article-198302-teaforte.json"
+            },
+            {
+              "title": "I Am the Greatest Cook In the World",
+              "subtitle": "",
+              "description": "And I’m telling you, if you can’t batter it, fry it, spike it with chiles, or bathe it in buttermilk, it’s not worth your time.",
+              "byline": "Gary Cartwright",
+              "page": "98"
+            },
+            {
+              "title": "Charlie Brooks’ Last Words",
+              "subtitle": "",
+              "description": "Charlie Brooks was the first man to die by lethal injection, but everyone wondered whether he or his partner was the real murderer. In his last days, Brooks answered that, and other questions.",
+              "byline": "Dick J. Reavis",
+              "page": "100"
+            },
+            {
+              "title": "Lyndon’s Lincoln",
+              "subtitle": "Texas Primer",
+              "description": "Can you picture Lbj in a Datsun?",
+              "byline": "",
+              "page": "106",
+              "wp_post_id": "119577",
+              "identifier": "txmo-article-198302-lyndonsli.json"
+            },
+            {
+              "title": "The Year Everything Changed",
+              "subtitle": "",
+              "description": "If you think Texas is pretty much the same as it was ten years ago, you’re wrong. Nineteen seventy-three remade the state overnight.",
+              "byline": "Paul Burka",
+              "page": "108"
+            },
+            {
+              "title": "Main Street",
+              "subtitle": "",
+              "description": "It’s Houston's driveway, a twenty-mile kaleidoscope of bankers, punkers, strippers, surgeons, students, grackles, and cars.",
+              "byline": "Stephen Harrigan",
+              "page": "116"
+            },
+            {
+              "title": "Other Main Streets",
+              "subtitle": "",
+              "description": "They’re where you went to get your hair cut or to see a picture show or to watch the squirrels on the courthouse lawn.",
+              "byline": "",
+              "page": "124"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Next To Goldiness",
+              "subtitle": "Movies",
+              "description": "Gandhi presents its title character as all but a god and India as all but a paradise. Starstruck is a lark; Sophie’s Choice is a letdown.",
+              "byline": "by James Wolcott",
+              "page": "126"
+            },
+            {
+              "title": "As Good As Her Word",
+              "subtitle": "Books",
+              "description": "Texas women write about crop dusters and frozen custard and the Dallas-Fort Worth International Airport in the encouraging new anthology Her Work. Life Sentences, though, is a flimsy feminist exercise.",
+              "byline": "Jan Reid",
+              "page": "130"
+            },
+            {
+              "title": "The Cassandra Of Crude",
+              "subtitle": "Business",
+              "description": "Dale Stejfes can predict the future of the oil business. So why do the majors turn a deaf ear? Because, says Stejfes, the news is all bad.",
+              "byline": "Harry Hurt III",
+              "page": "134"
+            },
+            {
+              "title": "Standing Room Opera",
+              "subtitle": "Classical Music",
+              "description": "Texas opera lovers would have ended the season happily just having seen a lively Rosenkavalier, a magical Rheingold, and a fiery Wozzeck. But then the Houston Grand Opera's Pagliacci came along and took their breath away.",
+              "byline": "W. L. Taitte",
+              "page": "140"
+            },
+            {
+              "title": "Thunder Claps",
+              "subtitle": "Popular Music",
+              "description": "The Fabulous Tliunderbirds storm away on a new album that shows why they’re Texas hardiest rhythm and blues band. Eight more releases capture everything from mandolin picking to Balinese monkey chants.",
+              "byline": "Pepi Plowman",
+              "page": "144"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "What's next?",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "End of the line for a cop, a coach, quitters, and the Confederate Air Force",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Sing along, turn around, dip in.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The unhealthy politics of emergency medicine; according an accordionist his due; sucking it up for Lite beer; the condo boom that went bust.",
+              "byline": "Peter Applebome",
+              "page": "74"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Paper tigers.",
+              "byline": "",
+              "page": "183"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Treasure hunters want state booty; Republicans aren’t so hot about Phil Gramm; there s hope for Texans with money in Mexico; Texas newspapers worry about Usa Today.",
+              "byline": "",
+              "page": "184"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

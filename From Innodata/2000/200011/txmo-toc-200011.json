@@ -1,0 +1,187 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-200011",
+    "publication": "Texas Monthly",
+    "issue": "November 2000",
+    "pdf_uri": "/2000/20001100.pdf",
+    "month": "November",
+    "year": 2000,
+    "pages": 252,
+    "document_toc_page": "5,8"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "They Haven’t Got a Prayer",
+              "subtitle": "",
+              "description": "In the Gulf Coast town of Santa Fe, high school football games had always kicked off with a prayer, but in June the U. S. Supreme Court ruled that the practice violated the separation of church and state. Now the issue—which has turned neighbor against neighbor and provoked some decidedly un-Christian behavior—has grown from a local controversy into a national one.",
+              "byline": "by Pamela Colloff",
+              "page": "116"
+            },
+            {
+              "title": "Man of Letters",
+              "subtitle": "",
+              "description": "Forty years after the publication of John Graves's Goodbye to a River, a keepsake volume of correspondence—between the author and J. Frank Dobie, among others—chronicles its journey from an idea for a magazine article to an instant literary classic.",
+              "byline": "",
+              "page": "122"
+            },
+            {
+              "title": "Airport 2000",
+              "subtitle": "",
+              "description": "These days, a plane trip can entail more time in the terminal than in the air. But why get stressed when you can have a massage, taste Texas wines, go for a jog, check your e-mail—even eat gumbo while watching (other people's) planes take off? A survivor's guide to Dfw, Houston Intercontinental, and five other big-city airports.",
+              "byline": "by Joe Nick Patoski",
+              "page": "124",
+              "wp_post_id": "149262",
+              "identifier": "txmo-article-200011-airport20.json"
+            },
+            {
+              "title": "Whodunit? Who Cares?",
+              "subtitle": "",
+              "description": "Anne Dingus has a few bones to pick with the modern mystery novel, which she says has been decomposing in recent years. Stepping up to defend the genre: none other than Texas’ queen of murder and mayhem, Mary Willis Walker.",
+              "byline": "",
+              "page": "134",
+              "wp_post_id": "149259",
+              "identifier": "txmo-article-200011-whodunitw.json"
+            },
+            {
+              "title": "The Searcher",
+              "subtitle": "",
+              "description": "Photographer Kurt Markus spent years tracking down modern working cowboys for his new book, Cowpuncher. He corralled the genuine article at several Texas spreads.",
+              "byline": "",
+              "page": "138",
+              "wp_post_id": "149256",
+              "identifier": "txmo-article-200011-thesearch.json"
+            },
+            {
+              "title": "Judge Not",
+              "subtitle": "",
+              "description": "When Senators Phil Gramm and Kay Bailey Hutchison blocked the nomination of El Paso’s Enrique Moreno to the powerful Fifth Circuit Court of Appeals, they triggered a firestorm of protest fueled by wounded ethnic pride.",
+              "byline": "by S. C. Gwynne",
+              "page": "146"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Cooper’s Town",
+              "subtitle": "Books",
+              "description": "Waco is memorialized in Madison Cooper's Sironia, Texas, the longest novel ever published in the U.S.—and one of the oddest.",
+              "byline": "by Carol Dawson",
+              "page": "70"
+            },
+            {
+              "title": "Joys in the ’Hood",
+              "subtitle": "Food",
+              "description": "Think cozy neighborhood restaurants are a thing of the past? Here are four places that will serve you well.",
+              "byline": "by Patricia Sharpe",
+              "page": "78"
+            },
+            {
+              "title": "Almost Famous",
+              "subtitle": "Music",
+              "description": "For brothers Charlie and Bruce Robison, making country music safe for men again is an intriguing proposition—and a risky one because of their wives.",
+              "byline": "by John Spong",
+              "page": "88"
+            },
+            {
+              "title": "Digital Docs",
+              "subtitle": "Medicine",
+              "description": "Austin's VidiMedix has a simple prescription for patients who live miles away from big-city health care: Log on and get well.",
+              "byline": "by Carol Flake Chapman",
+              "page": "94"
+            },
+            {
+              "title": "West Texas Tornado",
+              "subtitle": "Sports",
+              "description": "Cedric Benson of the Midland Lee Rebels has a cause: He may just be the greatest running back in Texas 5A history.",
+              "byline": "by Jordan Mackay",
+              "page": "102"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "George W.’s endgame.",
+              "byline": "by Paul Burka",
+              "page": "9"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "Hollywood Henderson tackles Gary Cartwright.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Judging abortion rights.",
+              "byline": "by Patricia Kilday Hart",
+              "page": "21"
+            },
+            {
+              "title": "Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "The media lower the boom on Anna Nicole Smith, by John Spong. Plus: Janine Turner gets into character; Don Graham rereads Strange Peaches; on the set with Bruce Rodgers, by Katy Vine.",
+              "byline": "Edited by Brian D. Sweany",
+              "page": "25"
+            },
+            {
+              "title": "Hot Box",
+              "subtitle": "",
+              "description": "Cds by Stevie Ray Vaughan, Susie Ibarra, and Beaver Nelson; books by Bruce Sterling and Larry McMurtry.",
+              "byline": "",
+              "page": "32"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "Three days and two nights in Fort Worth. Plus: Huddling up with Texas football teams; going under the big top with the UniverSoul Circus; keeping time with mariachi music; and sticking to the state’s far-flung festivals.",
+              "byline": "Edited by Patricia Busa McConnico, Katy Vine, and Eileen Schwartz",
+              "page": "36"
+            },
+            {
+              "title": "Texas Monthly Biz",
+              "subtitle": "",
+              "description": "Sbc fails to connect with high-speed Internet access. Plus: The Texas stock to avoid right now; the best presidential candidate for high tech; three hot ad agencies receive top billing.",
+              "byline": "",
+              "page": "57"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "Stephan Pyles’ sweet mascarpone polenta has a corn-ucopia of flavor.",
+              "byline": "by Patricia Sharpe",
+              "page": "188"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Patricia Sharpe, Patricia Busa McConnico, Eileen Schwartz, and Jennifer Olsen",
+              "page": "188"
+            },
+            {
+              "title": "Texas Primer",
+              "subtitle": "",
+              "description": "What was the real name of the dog that portrayed Old Yeller?",
+              "byline": "by Anne Dingus",
+              "page": "250"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

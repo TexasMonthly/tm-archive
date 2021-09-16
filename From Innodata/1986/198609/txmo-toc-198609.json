@@ -1,0 +1,207 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198609",
+    "publication": "Texas Monthly",
+    "issue": "September 1986",
+    "pdf_uri": "/1986/19860900.pdf",
+    "month": "September",
+    "year": 1986,
+    "pages": 220,
+    "document_toc_page": "3"
+  },
+  "toc": [
+    {
+      "heading": "Contents September",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Wide Open Spaces",
+              "subtitle": "",
+              "description": "The Chihuahuan Desert is a place of extremes, where the visitor not only observes but participates in the struggle for life and death.",
+              "byline": "by Stephen Harrigan",
+              "page": "110",
+              "wp_post_id": "121698",
+              "identifier": "txmo-article-198609-wideopen.json"
+            },
+            {
+              "title": "The Cowboys, the Indian, And the Computer That Fumbled",
+              "subtitle": "",
+              "description": "The most important new addition to the Dallas Cowboys is a veteran from the team’s early years —computer genius Salam Qureishi.",
+              "byline": "by Aaron Latham",
+              "page": "118",
+              "wp_post_id": "121692",
+              "identifier": "txmo-article-198609-thecowboy.json"
+            },
+            {
+              "title": "Requiem For A Roller Coaster",
+              "subtitle": "",
+              "description": "The state fair’s Comet: will it rust in peace?.",
+              "byline": "by Joe Nick Patoski",
+              "page": "122"
+            },
+            {
+              "title": "The Faulty Cure",
+              "subtitle": "",
+              "description": "Houston is famous for medical cures. But when British rock star Ronnie Lane came to town with a crippling disease and $1 million for research, all he got was crippling legal problems.",
+              "byline": "by Dick J. Reavis",
+              "page": "124",
+              "wp_post_id": "121686",
+              "identifier": "txmo-article-198609-thefaulty.json"
+            },
+            {
+              "title": "Ma Ferguson",
+              "subtitle": "Texas Primer",
+              "description": "She unmasked the Klan and worried about the role of women, but she listened more to her husband than to the suffragettes.",
+              "byline": "by Jan Reid",
+              "page": "128"
+            },
+            {
+              "title": "My Kind Of Town",
+              "subtitle": "",
+              "description": "An enticing portfolio of what makes Houston Houston.",
+              "byline": "Photography by Geoff Winningham",
+              "page": "130",
+              "wp_post_id": "121680",
+              "identifier": "txmo-article-198609-mykindof.json"
+            },
+            {
+              "title": "Vote For Me, Por Favor. Now Let’s Eat",
+              "subtitle": "",
+              "description": "Mix election time, South Texas, and barbecue, and you get the pachanga circuit, where politics and barbecue are served with equal reverence.",
+              "byline": "by Alison cook",
+              "page": "136",
+              "wp_post_id": "121677",
+              "identifier": "txmo-article-198609-voteform.json"
+            },
+            {
+              "title": "Zephyr, Texas",
+              "subtitle": "Western Art",
+              "description": "",
+              "byline": "by Judy Pederson.",
+              "page": "139",
+              "wp_post_id": "121671",
+              "identifier": "txmo-article-198609-zephyrtexa.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "I Think I’m Rich, Therefore I am",
+              "subtitle": "Business",
+              "description": "A new class of self-styled experts called prosperity consultants say they have the solution to Texas’ economic bust: the bad times are all in our heads.",
+              "byline": "by Barbara Paulsen",
+              "page": "140"
+            },
+            {
+              "title": "The Anglo-Tex Connection",
+              "subtitle": "Texana",
+              "description": "A Dallasite enamored of British class gets her sesquicentennial wish —a Texas embassy in London.",
+              "byline": "by Ed ward",
+              "page": "146"
+            },
+            {
+              "title": "Getting Even Gets Old",
+              "subtitle": "Movies",
+              "description": "Revenge has seldom been so incendiary, but Heartburn fails to ignite; Blue Velvet is for the brave; Club Paradise is for the jolly.",
+              "byline": "by James Wolcott",
+              "page": "152"
+            },
+            {
+              "title": "Midland S Bebop Bash",
+              "subtitle": "Jazz",
+              "description": "What’s remarkable about this exclusive jazz party isn’t just that it’s in Midland. The biggest surprise comes when the music starts.",
+              "byline": "by Doug Ramsey",
+              "page": "158"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Gregory Curtis.",
+              "page": "5"
+            },
+            {
+              "title": "Shopping",
+              "subtitle": "",
+              "description": "From goggles that let you see in the dark to voice changers that make you sound like Daffy Duck, the Counter Spy Store is stocked for the age of paranoia.",
+              "byline": "by Mimi Swartz",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "Two gleaming office towers are going up face to face in downtown Austin. Now their marketing managers have to rent the town asunder.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "Bail bonding is one Texas business that’s recession proof.",
+              "byline": "by Jim Atkinson",
+              "page": "18"
+            },
+            {
+              "title": "Around the State.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Fashion shifts at Farah; Dave Pelz’s putter problems; will the Dallas establishment’s mayoral candidate please stand up?.",
+              "byline": "by Kelly Fero",
+              "page": "94"
+            },
+            {
+              "title": "The Quidnunc",
+              "subtitle": "",
+              "description": "Checking in with Corpus’ famous insurance writer; smelling celebrity flowers with Leonard Tharp; sharing some Jell-O with Dionne Warwick.",
+              "byline": "by Mark seal",
+              "page": "104"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Patricia Sharpe.",
+              "page": "162"
+            },
+            {
+              "title": "The Roar Of the Crowd.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "206"
+            },
+            {
+              "title": "Puzzle.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "215"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Are the Elissa's sails trimmed for good? the Chronicle finds a possible buyer close to home—very close; mashing the mass transit tax.",
+              "byline": "",
+              "page": "216"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

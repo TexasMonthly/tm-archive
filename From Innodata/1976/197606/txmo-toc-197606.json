@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197606",
+    "publication": "Texas Monthly",
+    "issue": "June 1976",
+    "pdf_uri": "/1976/19760600.pdf",
+    "month": "June",
+    "year": 1976,
+    "pages": 188,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The World’s Most Despicable Bug",
+              "subtitle": "",
+              "description": "The cockroach. What else?",
+              "byline": "Harry Hurt III",
+              "page": "94"
+            },
+            {
+              "title": "The Newest Americans",
+              "subtitle": "",
+              "description": "Pity the poor Vietnamese: so far from home, so close to Beaumont.",
+              "byline": "Gene Lyons",
+              "page": "96"
+            },
+            {
+              "title": "The Voice From the Tower",
+              "subtitle": "",
+              "description": "The weirdest student demonstration ever.",
+              "byline": "Gregory Curtis",
+              "page": "102"
+            },
+            {
+              "title": "Unsolved Crimes",
+              "subtitle": "",
+              "description": "Whodunit?",
+              "byline": "Paul Burka and Judy Benson",
+              "page": "105"
+            },
+            {
+              "title": "Physician, Heal Thyself",
+              "subtitle": "",
+              "description": "How a doctor got hooked on drugs, and how he got off.",
+              "byline": "John Deaton",
+              "page": "112",
+              "wp_post_id": "109929",
+              "identifier": "txmo-article-197606-physician.json"
+            },
+            {
+              "title": "Our Town",
+              "subtitle": "",
+              "description": "Every small town is different; every small town is the same.",
+              "byline": "Geoff Winningham",
+              "page": "114"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Where’s My Line?",
+              "subtitle": "Politics",
+              "description": "Is one man one vote just another numbers racket?",
+              "byline": "Griffin Smith, jr.",
+              "page": "26"
+            },
+            {
+              "title": "How Suite It Is",
+              "subtitle": "Travel",
+              "description": "If there’s no room at these inns, you might as well stay home.",
+              "byline": "Linda West Eckhardt",
+              "page": "41"
+            },
+            {
+              "title": "Plain Filming",
+              "subtitle": "Film",
+              "description": "Liv Ullmann is at her best when she’s at her worst.",
+              "byline": "Marie Brenner",
+              "page": "50"
+            },
+            {
+              "title": "Paw Knows Best",
+              "subtitle": "Investments",
+              "description": "Your dog may be not only your best friend but your best financial advisor as well.",
+              "byline": "The Customer’s Man",
+              "page": "62"
+            },
+            {
+              "title": "It Ain’t Necessarily So-So",
+              "subtitle": "Records",
+              "description": "New recordings of Treemonisha and Porgy and Bess will do, but on the whole we prefer Puccini.",
+              "byline": "W. L. Taitte",
+              "page": "66"
+            },
+            {
+              "title": "The Screening Of America",
+              "subtitle": "Television",
+              "description": "Free at last! Free at last! from the junk you see on TV.",
+              "byline": "Sherry Kafka",
+              "page": "72"
+            },
+            {
+              "title": "Only Yesterday",
+              "subtitle": "Books",
+              "description": "America and Texas: past and present.",
+              "byline": "Michael Mewshaw",
+              "page": "78"
+            },
+            {
+              "title": "Cold Feat",
+              "subtitle": "Dining In",
+              "description": "When we say these recipes aren’t so hot, we don’t mean what you think.",
+              "byline": "Frank Bailey",
+              "page": "84"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "6"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Richard West",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Stein, time, dine.",
+              "byline": "",
+              "page": "154"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "156"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Roots are all evil.",
+              "byline": "Paul Burka",
+              "page": "184"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

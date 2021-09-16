@@ -1,0 +1,180 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198111",
+    "publication": "Texas Monthly",
+    "issue": "November 1981",
+    "pdf_uri": "/1981/19811100.pdf",
+    "month": "November",
+    "year": 1981,
+    "pages": 344,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Truth About Carnivals",
+              "subtitle": "",
+              "description": "A carny’s life is an endless ramble from one small town to the next—and that’s why he likes it.",
+              "byline": "Dick J. Reavis",
+              "page": "164"
+            },
+            {
+              "title": "Heavy Breathing",
+              "subtitle": "",
+              "description": "Houston’s air may be a slow killer, but the state and the feds spend more time battling each other than fighting pollution.",
+              "byline": "Victoria Loe",
+              "page": "172"
+            },
+            {
+              "title": "The Attack Of the Electronic Beast And Other Pleasures",
+              "subtitle": "",
+              "description": "Four performers in Dallas are making a new kind of music that combines precision, grace, and crazy humor.",
+              "byline": "W. L. Taitte",
+              "page": "174"
+            },
+            {
+              "title": "The Fundamentalist",
+              "subtitle": "",
+              "description": "He’s the man with the Word, and the Word is for you.",
+              "byline": "John Bloom",
+              "page": "178",
+              "wp_post_id": "115968",
+              "identifier": "txmo-article-198111-thefundam.json"
+            },
+            {
+              "title": "The Hog Chronicles",
+              "subtitle": "",
+              "description": "The city boy moved to the country and life was good. And then he bought four pigs.",
+              "byline": "David R. White",
+              "page": "184",
+              "wp_post_id": "115959",
+              "identifier": "txmo-article-198111-thehogch.json"
+            },
+            {
+              "title": "So You Don’t Like the Way You Look?",
+              "subtitle": "",
+              "description": "To a plastic surgeon, your face is just the beginning.",
+              "byline": "Michael Ennis",
+              "page": "188"
+            },
+            {
+              "title": "Power Plays",
+              "subtitle": "",
+              "description": "Wait! Don’t buy that gas-slurping motorboat and energy-squandering food processor for Christmas. We modestly propose some thrifty alternatives.",
+              "byline": "Cyndy Severson and Kent Kirkley",
+              "page": "196",
+              "wp_post_id": "115947",
+              "identifier": "txmo-article-198111-powerplay.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Jazz Rally",
+              "subtitle": "Jazz",
+              "description": "Recordings from the old pros prove the virtue of virtuosity.",
+              "byline": "Doug Ramsey",
+              "page": "217"
+            },
+            {
+              "title": "Bread And Circuses",
+              "subtitle": "Dining Out",
+              "description": "At San Antonio’s Mi Tierra, you’ll see the rabble, the rich, and everyone in between, all feasting on Tex-Mex and homemade pan dulce.",
+              "byline": "W. L. Taitte",
+              "page": "233"
+            },
+            {
+              "title": "Chucking the Piney Woods",
+              "subtitle": "Environment",
+              "description": "Some people look at the Piney Woods and see paper plates and two-by-fours; others see the last great stands of forest in Texas.",
+              "byline": "Suzanne Winckler",
+              "page": "236"
+            },
+            {
+              "title": "“Tina, Bring Me the Ax!”",
+              "subtitle": "Movies",
+              "description": "Mommie Dearest is rabid. Raggedy Man is frayed. Rich and Famous is poor and undistinguished.",
+              "byline": "James Wolcott",
+              "page": "246"
+            },
+            {
+              "title": "The Cons Next Door",
+              "subtitle": "Crime",
+              "description": "To unjam its prisons, Texas is moving convicted felons out of the big house and into a house on your block.",
+              "byline": "Jim Atkinson",
+              "page": "260"
+            },
+            {
+              "title": "Running Dogs",
+              "subtitle": "Sports",
+              "description": "Four hundred Texans breed and train an uncommon kind of livestock—greyhounds.",
+              "byline": "Jan Reid",
+              "page": "268"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The water problem; or, Texas is not all wet.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "The jobless and the topless.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Hog calls and bouncing balls.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Mercedes crisis looms; farm computer biz booms; Mavericks’ potential zooms. Plus, regional brokerages take stock; black colleges get a shock.",
+              "byline": "Peter Applebome",
+              "page": "144"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Split personalities.",
+              "byline": "",
+              "page": "339"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "First try for second mortgages; a judge with labor pains; high jinks at the Highway Commission; Texas help for Three Mile Island.",
+              "byline": "",
+              "page": "340"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

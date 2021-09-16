@@ -1,0 +1,182 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198602",
+    "publication": "Texas Monthly",
+    "issue": "February 1986",
+    "pdf_uri": "/1986/19860200.pdf",
+    "month": "February",
+    "year": 1986,
+    "pages": 196,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents February",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The 1986 Bum Steer Awards",
+              "subtitle": "",
+              "description": "A year of altered antlers, bunkum bars, cloddish coaches, defoliant diets, enervated elephants, filched flamingos, gunshot guitarists. haywire holidays, intoxicants' incentives, jejune judges, kissing K-9's, lousy lobster, and misdirected Michener.",
+              "byline": "",
+              "page": "86"
+            },
+            {
+              "title": "A Trust Corrupted, A City Betrayed, Part One",
+              "subtitle": "",
+              "description": "The Hermann estate scandal exposed Houston’s most powerful deal makers, most respected philanThropist. and leading lawvers to the harsh glare of publicity. It was a shocking lesson in the abuses of power.",
+              "byline": "by Harry Hurt III",
+              "page": "98",
+              "wp_post_id": "122718",
+              "identifier": "txmo-article-198602-atrustco.json"
+            },
+            {
+              "title": "The Grand Champion Steer",
+              "subtitle": "Texas Primer",
+              "description": "Tastes in livestock are as whimsical as tastes in fashion. This year petite is in.",
+              "byline": "by Suzanne Winckler",
+              "page": "104"
+            },
+            {
+              "title": "A Caribbean Escape",
+              "subtitle": "",
+              "description": "From luxury class to no-plumbing primitive, the Technicolor tropics of Mexico’s Yucatán Peninsula offer end-of-the-world delights. And it’s practically in our back yard.",
+              "byline": "by Barbara Rodriguez",
+              "page": "106",
+              "wp_post_id": "122715",
+              "identifier": "txmo-article-198602-acaribbea.json"
+            },
+            {
+              "title": "Making Peace With Grandfather",
+              "subtitle": "",
+              "description": "The man I knew as Bompie had been a public figure, but my father had always seemed ashamed of what he had done to achieve his fame. Finally I found out why.",
+              "byline": "by Vance Muse",
+              "page": "114",
+              "wp_post_id": "122712",
+              "identifier": "txmo-article-198602-makingpea.json"
+            },
+            {
+              "title": "Future Farmer",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "by Regan Dunnick",
+              "page": "117",
+              "wp_post_id": "122706",
+              "identifier": "txmo-article-198602-futurefar.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Invasion Of the Killer Beetles",
+              "subtitle": "Environment",
+              "description": "When southern pine beetles attack a Texas forest, there are only two cures: cut the trees down or let nature take its course.",
+              "byline": "by william Booth",
+              "page": "118"
+            },
+            {
+              "title": "Me Bedford, You Streep",
+              "subtitle": "Movies",
+              "description": "Out of Africa is lavishly done up but emotionally dehumidified; Young Sherlock Holmes is more Hardy boys than Conan Doyle; Revolution is nothing but a megabucks disaster.",
+              "byline": "by James Wolcott",
+              "page": "122"
+            },
+            {
+              "title": "Rauschenberg Relics",
+              "subtitle": "Art",
+              "description": "In the current Rauschenberg exhibit at Houston’s Contemporary Arts Museum the artist finds his first thirty years a tough act to follow.",
+              "byline": "by Michael Ennis",
+              "page": "126"
+            },
+            {
+              "title": "No-Shows And Great Shows",
+              "subtitle": "Classical Music",
+              "description": "The only excitement of the Dallas Opera season came from a couple of fortunate gambles, while the Houston Grand Opera triumphed by bringing Faust alive for contemporary audiences.",
+              "byline": "by W. L. Taitte",
+              "page": "130"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "A monument to everything money can buy.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Back Roads",
+              "subtitle": "",
+              "description": "For a singing telegram with a little something extra, just call the Hip-O-Gram Girls.",
+              "byline": "by Peter Applebome",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "In a Twilight Zone-like pocket near Ut there are some kids who aren’t ready to grow up.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "The Dallas Citizens Council has a new look, but it’s singing the same old tune.",
+              "byline": "by Jim Atkinson",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A splendid state park; snacks you shouldn’t feed to a dog; a wild and crazy Republican.",
+              "byline": "by Alison cook",
+              "page": "74"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "A few thoughts for Valentine’s—coming through soft and clear.",
+              "byline": "by Patricia Sharpe",
+              "page": "134"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Examining the bar; spreading the Word; minding the store; demanding the best.",
+              "byline": "",
+              "page": "182"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "The pick of the flicks.",
+              "byline": "",
+              "page": "191"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Mark White’s insurance policy; not all semiconductor dumpers are Japanese; betting on a lottery; Tom Loeffler’s odd ads.",
+              "byline": "",
+              "page": "192"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197802",
+    "publication": "Texas Monthly",
+    "issue": "February 1978",
+    "pdf_uri": "/1978/19780200.pdf",
+    "month": "February",
+    "year": 1978,
+    "pages": 172,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Great Rockdale Football Mutiny",
+              "subtitle": "",
+              "description": "What happens when a high school football team tries to bench its coach?",
+              "byline": "Gene Lyons",
+              "page": "70",
+              "wp_post_id": "113292",
+              "identifier": "txmo-article-197802-thegreat.json"
+            },
+            {
+              "title": "Dallas Is Better Than Houston",
+              "subtitle": "",
+              "description": "Big D is not called Big D for nothing.",
+              "byline": "A. C. Greene",
+              "page": "76"
+            },
+            {
+              "title": "Houston Is Better Than Dallas",
+              "subtitle": "",
+              "description": "It is boorish, cluttered, aggravating, rich, beautiful, explosive, titillating, cosmopolitan, endearing, and has a full head of steam.",
+              "byline": "Harry Hurt III",
+              "page": "78"
+            },
+            {
+              "title": "San Antonio Is Better Than Houston, Dallas, Or Anyplace Else",
+              "subtitle": "",
+              "description": "Some disagree. They are wrong.",
+              "byline": "Gregory Curtis",
+              "page": "82"
+            },
+            {
+              "title": "Open House",
+              "subtitle": "Design",
+              "description": "Now for something completely different: a house that’s not rectangles or squares.",
+              "byline": "Sandy Sheehy",
+              "page": "86",
+              "wp_post_id": "113274",
+              "identifier": "txmo-article-197802-openhouse.json"
+            },
+            {
+              "title": "The Streets Of Laredo",
+              "subtitle": "",
+              "description": "The real Nuevo Laredo isn’t George Washington’s Birthday, Boystown, or throngs of tourists; it’s the street life.",
+              "byline": "Geoff Winningham",
+              "page": "90"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Fire And Rice",
+              "subtitle": "Dining Out",
+              "description": "Now that you’ve mastered the art of using chopsticks, here’s something fantastic to put between them.",
+              "byline": "W. L. Taitte",
+              "page": "114"
+            },
+            {
+              "title": "Grasping At Strauss",
+              "subtitle": "Politics",
+              "description": "For Bob Strauss, power is its own reward.",
+              "byline": "Stephen Chapman",
+              "page": "128"
+            },
+            {
+              "title": "The Boys Of Winter",
+              "subtitle": "Sports",
+              "description": "At the state touch football tournament, winning wasn’t everything —or was it?",
+              "byline": "Paul Burka",
+              "page": "134"
+            },
+            {
+              "title": "Finders Keepers?",
+              "subtitle": "Dealing",
+              "description": "The feds are trying to get our gas again; this time they’ve gone all the way to the Supreme Court.",
+              "byline": "Robert Barnstone",
+              "page": "144"
+            }
+          ]
+        },
+        {
+          "section_heading": "Short Subjects",
+          "toc_entry": [
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Trying to save: energy, red wolves, Lake Conroe, and Lo-Vaca; oil companies in trouble; poor aggies and rich lawyers; the world’s most expensive scotch; rodeo, rodeo, wherefore art thou, rodeo?",
+              "byline": "",
+              "page": "54"
+            },
+            {
+              "title": "The Texas Monthly Review",
+              "subtitle": "",
+              "description": "Vanity thy name is a theatrical success; Tom Taylor conjures the real Woody Guthrie; Dallas Civic Opera misses again, and then again; Mel Brooks has another winner; contemporary photographers send a cold message.",
+              "byline": "",
+              "page": "97"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "On the occasion of the fifth anniversary of this magazine.",
+              "byline": "Michael R. Levy",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "In defense of maids, COPS, and redfish.",
+              "byline": "",
+              "page": "8"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Hearts and showers.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Are you from Blewett? Don’t enter this contest.",
+              "byline": "Paul Burka",
+              "page": "168"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

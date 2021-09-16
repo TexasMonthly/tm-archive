@@ -1,0 +1,159 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198201",
+    "publication": "Texas Monthly",
+    "issue": "January 1982",
+    "pdf_uri": "/1982/19820100.pdf",
+    "month": "January",
+    "year": 1982,
+    "pages": 184,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Bum Steer Awards 1982",
+              "subtitle": "",
+              "description": "In which we salute the folks who made Texas the bizarre, flagrant, preposterous, funny, and endearing place it was last year.",
+              "byline": "",
+              "page": "82"
+            },
+            {
+              "title": "The Lord’s Work",
+              "subtitle": "",
+              "description": "Rusty Hardin is a prosecutor. Most of the time, his job is to put people in jail. This time, he wants a man dead.",
+              "byline": "Jim atkinson",
+              "page": "92",
+              "wp_post_id": "118608",
+              "identifier": "txmo-article-198201-thelords.json"
+            },
+            {
+              "title": "The Saint Of Falfurrias",
+              "subtitle": "",
+              "description": "Supplicants in the Valley worship at the shrine of faith healer Don Pedrito Jaramillo, more powerful in death than he was in life.",
+              "byline": "Dick J. Reavis",
+              "page": "98",
+              "wp_post_id": "118602",
+              "identifier": "txmo-article-198201-thesaint.json"
+            },
+            {
+              "title": "Trust Me. Just Sign Here.",
+              "subtitle": "",
+              "description": "Whenever you buy or sell a house, hundreds of dollars of your money goes for something called title insurance. Title insurance is a great deal—for the title company.",
+              "byline": "Paul Burka",
+              "page": "104",
+              "wp_post_id": "118596",
+              "identifier": "txmo-article-198201-trustmej.json"
+            },
+            {
+              "title": "Your Teenagers Are Out Hot-Rodding, Drinking Beer, And Flirting On Forest Lane Every Friday Night!",
+              "subtitle": "Dear Parents Of Dallas",
+              "description": "Some things never change.",
+              "byline": "David Seeley",
+              "page": "108"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Party’s Over",
+              "subtitle": "Politics",
+              "description": "Time was when Texas Republicans had to stand united. But now their party’s in power, and there’s rivalry in the ranks.",
+              "byline": "Douglas Harlan",
+              "page": "114"
+            },
+            {
+              "title": "Big Frogs, Small Pond",
+              "subtitle": "Movies",
+              "description": "Screen greats Henry Fonda and Katharine Hepburn embarrass themselves in the namby-pamby On Golden Pond. Ragtime is a clinker. Absence of Malice has presence—Paul Newman’s.",
+              "byline": "James Wolcott",
+              "page": "120"
+            },
+            {
+              "title": "Stumpers In the Pulpit",
+              "subtitle": "Church",
+              "description": "Politicking in Houston churches is nothing new for a lot of black Baptist preachers. It just comes with the territory.",
+              "byline": "William Martin",
+              "page": "128"
+            },
+            {
+              "title": "Miss Van Buren Comes To Texas",
+              "subtitle": "art",
+              "description": "An evocative american portrait is one of 75 masterpieces from the Phillips Collection now on display in Dallas. A photographic exhibit in austin on family life covered just about everything but the family.",
+              "byline": "Michael Ennis",
+              "page": "134"
+            },
+            {
+              "title": "The Best Classical Records Of 1981",
+              "subtitle": "Classical Music",
+              "description": "Bach and Haydn, Mozart and Schubert, Wagner and Weill, all put in appearances on last year’s top-notch classical albums.",
+              "byline": "W. L. Taitte",
+              "page": "140"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The perfect city.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Hearing the call of the Word, the wild, and the hogs.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Between a rock and an art place.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Football fever in Wink; political prognostication in Houston; gustatory grotesquerie in austin; building bonanza in Fort Worth.",
+              "byline": "Peter applebome",
+              "page": "62"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Rolling stock.",
+              "byline": "",
+              "page": "179"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Poor Bunker Hunt; hogging the airwaves; why the establishment likes Hightower; worries in the Hobby camp.",
+              "byline": "",
+              "page": "180"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

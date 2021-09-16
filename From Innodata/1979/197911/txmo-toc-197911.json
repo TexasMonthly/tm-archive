@@ -1,0 +1,205 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197911",
+    "publication": "Texas Monthly",
+    "issue": "November 1979",
+    "pdf_uri": "/1979/19791100.pdf",
+    "month": "November",
+    "year": 1979,
+    "pages": 300,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Funky Hotels",
+              "subtitle": "",
+              "description": "Why subject yourself to the dreariness of impersonal, prefab hotels when these country hostelries are just down the road?",
+              "byline": "Richard West",
+              "page": "140",
+              "wp_post_id": "113628",
+              "identifier": "txmo-article-197911-funkyhote.json"
+            },
+            {
+              "title": "Trial By Water",
+              "subtitle": "",
+              "description": "Marathon canoe racing is the toughest sport in Texas. It’s tougher than bull riding, more grueling than pro football. The canoeists say that’s why it’s fun.",
+              "byline": "Giles Tippette",
+              "page": "",
+              "wp_post_id": "113625",
+              "identifier": "txmo-article-197911-trialbyw.json"
+            },
+            {
+              "title": "The Truth About John Connally",
+              "subtitle": "",
+              "description": "There are two questions about John Connally: Is he good enough to be president? Is he too bad to be president?",
+              "byline": "Paul Burka",
+              "page": "156"
+            },
+            {
+              "title": "The New Apartment Slums",
+              "subtitle": "",
+              "description": "Behind the gleaming facades of many new apartment villages are the crumbling walls of next year's urban blight.",
+              "byline": "Kaye Northcott",
+              "page": "162",
+              "wp_post_id": "113610",
+              "identifier": "txmo-article-197911-thenewap.json"
+            },
+            {
+              "title": "The Radner Papers",
+              "subtitle": "",
+              "description": "A legendary event in the legendary lives of a legendary Texas family.",
+              "byline": "Nicholas Lemann and Gregory Curtis",
+              "page": "166",
+              "wp_post_id": "113604",
+              "identifier": "txmo-article-197911-theradner.json"
+            },
+            {
+              "title": "Grand Indulgences",
+              "subtitle": "",
+              "description": "Whether you have $2 to spend or $25,000, our Christmas gift selections show how to have a wonderfully indulgent holiday.",
+              "byline": "Cyndy Severson",
+              "page": "192",
+              "wp_post_id": "113601",
+              "identifier": "txmo-article-197911-grandindu.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "East Meets Wet",
+              "subtitle": "Stepping Out",
+              "description": "The Dalai Lama encounters Houston. He finds it good.",
+              "byline": "Michael Ennis",
+              "page": "170"
+            },
+            {
+              "title": "Kindred Spirits",
+              "subtitle": "Country Notes",
+              "description": "Don’t bother with stances or clairvoyants. There is a much better way to contact the shades of the past.",
+              "byline": "John Graves",
+              "page": "179"
+            },
+            {
+              "title": "Breaking the Sound Barrier",
+              "subtitle": "Health",
+              "description": "Silence may be golden, but not to a stutterer.",
+              "byline": "Vance Muse",
+              "page": "187"
+            },
+            {
+              "title": "Onward Christian Soldiers",
+              "subtitle": "Church",
+              "description": "Joining God’s army at Berachah Church in Houston; joining the fine families of Beaumont’s Trinity United Methodist.",
+              "byline": "William Martin",
+              "page": "210"
+            },
+            {
+              "title": "Over There",
+              "subtitle": "Film",
+              "description": "Filmmakers flub: Schlesinger’s Yanks, Fellini’s Orchestra Rehearsal, and Jewison’s . . . And Justice for All.",
+              "byline": "George Morris",
+              "page": "218"
+            },
+            {
+              "title": "Three’s Comedy",
+              "subtitle": "Theater",
+              "description": "Some Texas funny people get serious about their jokes.",
+              "byline": "W. L. Taitte",
+              "page": "226"
+            },
+            {
+              "title": "The Little Red Warehouse",
+              "subtitle": "Architecture",
+              "description": "Institutional green walls and stuffy classrooms are not a part of Houston architect Eugene Aubry’s Awty School design.",
+              "byline": "Michael Ennis",
+              "page": "230"
+            },
+            {
+              "title": "Semiconductors",
+              "subtitle": "Classical",
+              "description": "Music The leaders of the Houston and Dallas symphony orchestras start off the season with two perplexing concert series.",
+              "byline": "W. L. Taitte",
+              "page": "234"
+            },
+            {
+              "title": "Big D, Big Red, And the Big Apple",
+              "subtitle": "Jazz",
+              "description": "The Recovery Room band is at home in Dallas and New York, too.",
+              "byline": "Gregory Curtis Michael Rozek",
+              "page": "238"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "A modest proposal for the eighties.",
+              "byline": "William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Copy cats.",
+              "byline": "Gregory Curtis",
+              "page": "8"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "“A teacher affects eternity; he can never tell where his influence stops. ”",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "The beat of a different strummer.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A down-home journalist; the privileged pew; gas for a price.",
+              "byline": "John Bloom",
+              "page": "123"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Film flam.",
+              "byline": "",
+              "page": "295"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Texas Democrats run scared over Teddy; Arkansas bigwigs cry foul over gas lease; Mexican diplomats make waves over salt water.",
+              "byline": "",
+              "page": "296"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

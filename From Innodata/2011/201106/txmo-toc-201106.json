@@ -1,0 +1,195 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-201106",
+    "publication": "Texas Monthly",
+    "issue": "June 2011",
+    "pdf_uri": "/2011/20110600.pdf",
+    "month": "June",
+    "year": 2011,
+    "pages": 266,
+    "document_toc_page": "9,10"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Into the Wild",
+              "subtitle": "",
+              "description": "Out of more than half a million acres of state parks and natural areas, we've chosen the ten best trips—where to camp, what to do, and what to look for when you head to the nearest town—from a lazy Frio River getaway to a bird-filled expedition to the coast. Better clear your summer.",
+              "byline": "By Charlie Llewellin",
+              "page": "118"
+            },
+            {
+              "title": "Mind Games",
+              "subtitle": "",
+              "description": "Baylor College of Medicine neuroscientist David Eagleman is out to change the way we think about guilt and innocence (and time and novels and, well, neuroscientists). Can he pull it off?",
+              "byline": "By Jim Lewis",
+              "page": "132"
+            },
+            {
+              "title": "No Country For Bad Movies",
+              "subtitle": "",
+              "description": "Once and for all: What are the ten best Texas films of all time?",
+              "byline": "Moderated By Christopher Kelly",
+              "page": "136"
+            },
+            {
+              "title": "Rattled!",
+              "subtitle": "",
+              "description": "My short, unfulfilling, momentarily terrifying career as a rattlesnake racer.",
+              "byline": "Text And Illustrations By Matt Diffee",
+              "page": "142",
+              "wp_post_id": "93774",
+              "identifier": "txmo-article-201106-rattled.json"
+            },
+            {
+              "title": "Falling Comet",
+              "subtitle": "",
+              "description": "In 1955 Bill Haley’s “Rock around the Clock” transformed the sound of popular music and made him an international star. Twenty-five years later he was forgotten, desperate, and dying in Harlingen. How did one of the fathers of rock and roll land so far outside the spotlight?",
+              "byline": "By Michael Hall",
+              "page": "148"
+            }
+          ]
+        },
+        {
+          "section_heading": "Reporter",
+          "toc_entry": [
+            {
+              "title": "The Map",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "31"
+            },
+            {
+              "title": "The Horse's Mouth",
+              "subtitle": "",
+              "description": "Michele Lepe on hosting a children's show.",
+              "byline": "",
+              "page": "32"
+            },
+            {
+              "title": "The Working Life",
+              "subtitle": "",
+              "description": "Bobby Jones, game fowl breeder.",
+              "byline": "",
+              "page": "34"
+            },
+            {
+              "title": "The Manual",
+              "subtitle": "",
+              "description": "What every Texan should know about wearing spurs.",
+              "byline": "",
+              "page": "38"
+            },
+            {
+              "title": "Object Lesson",
+              "subtitle": "",
+              "description": "Betty Buckley's piano.",
+              "byline": "",
+              "page": "40"
+            },
+            {
+              "title": "Street Smarts",
+              "subtitle": "",
+              "description": "Comfort.",
+              "byline": "",
+              "page": "44"
+            },
+            {
+              "title": "Music",
+              "subtitle": "",
+              "description": "White Denim, Sarah Jarosz, Joe Ely.",
+              "byline": "",
+              "page": "48"
+            },
+            {
+              "title": "Books",
+              "subtitle": "",
+              "description": "Can Elmer Kelton's books measure up to the praise heaped upon them?",
+              "byline": "",
+              "page": "54"
+            },
+            {
+              "title": "Hollywood, TX",
+              "subtitle": "",
+              "description": "How Mark Cuban could be america’s next top reality-TV star.",
+              "byline": "",
+              "page": "68"
+            },
+            {
+              "title": "Contributors",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "24"
+            },
+            {
+              "title": "Editor's Letter",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "28"
+            },
+            {
+              "title": "Dining",
+              "subtitle": "The Filter",
+              "description": "",
+              "byline": "",
+              "page": "153"
+            }
+          ]
+        },
+        {
+          "section_heading": "Behind the Lines",
+          "toc_entry": [
+            {
+              "title": "Out of Beach",
+              "subtitle": "",
+              "description": "Whose coastline is it anyway? How the state Supreme Court may be undermining decades of unlimited public access to the sand and surf.",
+              "byline": "By Paul Burka",
+              "page": "12"
+            }
+          ]
+        },
+        {
+          "section_heading": "Columns",
+          "toc_entry": [
+            {
+              "title": "Playground Rules",
+              "subtitle": "",
+              "description": "The suicides of four Texas teens who were brutally bullied have prompted cries for new legislation. But one lawyer has a different plan: Sue the school districts.",
+              "byline": "By Skip Hollandsworth",
+              "page": "74"
+            },
+            {
+              "title": "The apprentice",
+              "subtitle": "",
+              "description": "Carrying on the legacy of the legendary musician Steve Jordan isn't easy, especially when you're only 22 years old and blind. But Juanito Castillo is too busy reinventing the conjunto accordion to care.",
+              "byline": "By Katy Vine",
+              "page": "84"
+            },
+            {
+              "title": "The Texanist",
+              "subtitle": "",
+              "description": "Passing a tractor, building a barbecue pit, luxury pickups, and the trials of a Canadian Texan Down Under.",
+              "byline": "",
+              "page": "260"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198806",
+    "publication": "Texas Monthly",
+    "issue": "June 1988",
+    "pdf_uri": "/1988/19880600.pdf",
+    "month": "June",
+    "year": 1988,
+    "pages": 185,
+    "document_toc_page": "6"
+  },
+  "toc": [
+    {
+      "heading": "Contents June",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Making Of Lonesome Dove",
+              "subtitle": "",
+              "description": "You can lead a herd to water, but can you make a miniseries faithful to Larry McMurtry’s Texas classic?.",
+              "byline": "by Stephen Harrigan",
+              "page": "82"
+            },
+            {
+              "title": "Extra! Extra!",
+              "subtitle": "",
+              "description": "In which the author becomes a star—for three seconds.",
+              "byline": "",
+              "page": "87"
+            },
+            {
+              "title": "The Self-Destruction Of Lance Lalor",
+              "subtitle": "",
+              "description": "Houston’s city controller prided himself on being the most scrupulously honest politician in town. So why did he sign his name to someone else’s credit card?.",
+              "byline": "by Mimi Swartz",
+              "page": "88"
+            },
+            {
+              "title": "Hope And Glory",
+              "subtitle": "",
+              "description": "A salute to Texas athletes trying young: seven hearts set on the Summer Olympics.",
+              "byline": "Photography by Don Glentzer",
+              "page": "92",
+              "wp_post_id": "124065",
+              "identifier": "txmo-article-198806-hopeandg.json"
+            },
+            {
+              "title": "Caught In the Middle",
+              "subtitle": "",
+              "description": "On the eve of the Mexican elections, the country’s dwindling middle class prefers fatalism to Fabianism.",
+              "byline": "by Dick J. Reavis",
+              "page": "100",
+              "wp_post_id": "124062",
+              "identifier": "txmo-article-198806-caughtin.json"
+            },
+            {
+              "title": "Swimming To Oblivion",
+              "subtitle": "",
+              "description": "Marine scientists have struggled for ten years to establish a new colony of ridley sea turtles on South Padre Island. All their efforts may have been in vain.",
+              "byline": "by Patricia Sharpe",
+              "page": "102"
+            },
+            {
+              "title": "Better Ted Than Dead",
+              "subtitle": "",
+              "description": "Shrimp boats are a-comin’, and their nets are killing endangered sea turtles.",
+              "byline": "",
+              "page": "105",
+              "wp_post_id": "124056",
+              "identifier": "txmo-article-198806-bettertha.json"
+            },
+            {
+              "title": "Boone Pickens And the Roach Motel",
+              "subtitle": "",
+              "description": "The master of takeovers is caught up in a feud between the president and the faculty of a Panhandle university. It all could have been avoided if only he had read his own book.",
+              "byline": "by Emily Yoffe",
+              "page": "106"
+            },
+            {
+              "title": "Juneteenth",
+              "subtitle": "Texas Primer",
+              "description": "It began in 1865 as a joyous celebration of emancipation. Today young black Texans find the holiday overshadowed by more immediate concerns.",
+              "byline": "by Chester Rosson",
+              "page": "110"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Killer Whale Hooks City!",
+              "subtitle": "Business",
+              "description": "San antonio is shameless over Shamu and Sea World.",
+              "byline": "by Jan Jarboe",
+              "page": "112"
+            },
+            {
+              "title": "Character Flaw",
+              "subtitle": "Books",
+              "description": "A tour of the Texas psyche, with guides like Sam Houston, Katherine anne Porter, and John Henry Faulk; a novel of adolescence addresses carnal knowledge and fundamentalist religion.",
+              "byline": "by Jan Reid",
+              "page": "116"
+            },
+            {
+              "title": "Unplanned Obsolescence",
+              "subtitle": "Art",
+              "description": "In a Houston retrospective, the art of Julian Schnabel appears to be aging prematurely.",
+              "byline": "by Michael Ennis",
+              "page": "122"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "A separate peace.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Ten years old and burning out; totally nice competition; a trip worth taking—once.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The bash of the century in austin; new heights for an alamo author; slouching toward Jerusalem, Texas; plus designer tomatoes, East Texas ingenuity, and amazing Car #8.",
+              "byline": "by alison Cook",
+              "page": "70"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Why Continental isn’t in Love (Field); Clinton Manges takes the horns by the Bullock; tort reform and the good bidness climate; logic in advertising.",
+              "byline": "",
+              "page": "180"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
