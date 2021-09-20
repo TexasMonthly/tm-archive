@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198611",
+    "publication": "Texas Monthly",
+    "issue": "November 1986",
+    "pdf_uri": "/1986/19861100.pdf",
+    "month": "November",
+    "year": 1986,
+    "pages": 264,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents November",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Davy Crockett, Still King Of the Wild Frontier",
+              "subtitle": "",
+              "description": "He was a master of tall tales and a genius at self-promotion. But was he anything more?.",
+              "byline": "by Paul andrew Hutton",
+              "page": "122"
+            },
+            {
+              "title": "The Ballad Of Fess Parker",
+              "subtitle": "",
+              "description": "He was the definitive Davy Crockett, and with good reason.",
+              "byline": "by Stephen Harrigan",
+              "page": "131"
+            },
+            {
+              "title": "Why Inman Left",
+              "subtitle": "",
+              "description": "The departure of MCC’s chief signals a new beginning for the company —and an end to austin’s hightech boom.",
+              "byline": "by Peter Eikind",
+              "page": "132"
+            },
+            {
+              "title": "The Long, Lonesome Road",
+              "subtitle": "",
+              "description": "Fred Thomas was young, poor, and black. Not only was he afflicted with the terror of schizophrenia, he was also faced with the chaos of the Texas mental health system.",
+              "byline": "by Joseph Nocera",
+              "page": "134"
+            },
+            {
+              "title": "Moments Of Glory",
+              "subtitle": "",
+              "description": "Texas Medal of Honor winners remember the day when they were invincible.",
+              "byline": "Photography by Brian Smale, Text by David Kramer",
+              "page": "140",
+              "wp_post_id": "120654",
+              "identifier": "txmo-article-198611-momentsof.json"
+            },
+            {
+              "title": "Frito Pie",
+              "subtitle": "Texas Primer",
+              "description": "A rhapsody on the perfection of corn chips, chili, cheese, and onions, mixed in a bag.",
+              "byline": "by Michael Hilton",
+              "page": "148"
+            },
+            {
+              "title": "Shadows In the Garden",
+              "subtitle": "",
+              "description": "A splash of lace, a sultry drape-what could be more romantic than a long black dress?.",
+              "byline": "",
+              "page": "150"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "No COMMERCIAL Interruptions",
+              "subtitle": "SHOPPING",
+              "description": "You can buy almost anything on shopper’s TV, if you have the patience to sit and watch it.",
+              "byline": "by Mimi swartz",
+              "page": "156"
+            },
+            {
+              "title": "Ball Of Glitter",
+              "subtitle": "Movies",
+              "description": "Technologically, Captain EO is a marvel, but the plot is banal to the point of retrograde; Touch and Go has drive and laughs; True Stories has no story; The Mens Club is a stag party with pretensions; Shanghai Surprise is a passable waste of time.",
+              "byline": "by James woicott",
+              "page": "162"
+            },
+            {
+              "title": "Animal Magnetism",
+              "subtitle": "Art",
+              "description": "Melissa Miller’s lions and tigers confront demons, dance under the moon, and reflect the ambiguity of the modern world.",
+              "byline": "by Michael Ennis",
+              "page": "168"
+            },
+            {
+              "title": "Forty-Two Per Cent Potent",
+              "subtitle": "Books",
+              "description": "In the novel Paradise, Donald Barthelme offers a cereal box of current events and social observations; Laura Furman challenges the dogged ideal of family in Tuxedo Park; Karleen Koen’s Through a Glass Darkly is a crash-bang publishing event.",
+              "byline": "by Jan Reid",
+              "page": "174"
+            },
+            {
+              "title": "Who Made the Cut?",
+              "subtitle": "Popular Music",
+              "description": "On LPs spurred by the MTV limelight, Timbuk3 blends street beats with witty wordplay, the True Believers combine six-string moxie with striving vocals, and the Tail Gators pack a sonic wallop.",
+              "byline": "by Jody Denberg",
+              "page": "180"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The unknown enemy.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "appreciation of the desert; recognition of a leader among women; development of Grand Prairie.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events...",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "REPORTER",
+              "subtitle": "",
+              "description": "Will the beaches of Boca Chica become sand traps? Will hard-core punkers perform on Dallas’ favorite kiddie show, Peppermint Place? Will Texas Republicans shell out for their Great Hispanic Hope?..",
+              "byline": "by Joe Nick Patoski",
+              "page": "106"
+            },
+            {
+              "title": "The Quidnunc",
+              "subtitle": "",
+              "description": "Sizing up Phyllis Diller; foiling Esquire’s great expectations; hopping continents with honeymooners Lloyd and Joanne Davis...",
+              "byline": "by Mark Seal",
+              "page": "118"
+            },
+            {
+              "title": "TOUTS",
+              "subtitle": "",
+              "description": "Porgy and bass.",
+              "byline": "by Patricia Sharpe",
+              "page": "186"
+            },
+            {
+              "title": "PUZZLE",
+              "subtitle": "",
+              "description": "Breaking up is hard to do.",
+              "byline": "",
+              "page": "259"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Who’ll follow Fred akers at UT? environmentalists and sportsmen team up to block a dam; two congressional races are political barometers.",
+              "byline": "",
+              "page": "260"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

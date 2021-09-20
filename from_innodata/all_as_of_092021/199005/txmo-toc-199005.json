@@ -1,0 +1,138 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199005",
+    "publication": "Texas Monthly",
+    "issue": "May 1990",
+    "pdf_uri": "/1990/19900500.pdf",
+    "month": "May",
+    "year": 1990,
+    "pages": 203,
+    "document_toc_page": "6"
+  },
+  "toc": [
+    {
+      "heading": "Contents May",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Curse Of the Black Lords",
+              "subtitle": "",
+              "description": "Terri Lee Hoffman was a New age aunt Bee whose gospel attracted many followers. But some of those believers ended up on a dark, twisted path that led to violent death—and the enrichment of their guru.",
+              "byline": "by Peter Elkind",
+              "page": "94",
+              "wp_post_id": "125841",
+              "identifier": "txmo-article-199005-thecurse.json"
+            },
+            {
+              "title": "The Way Out",
+              "subtitle": "",
+              "description": "A modest Catholic boys’ school in El Paso could teach public schools a lesson or two about how to provide a solid education on a limited budget and send 98 percent of their students off to college.",
+              "byline": "by Jan Jarboe",
+              "page": "100",
+              "wp_post_id": "125838",
+              "identifier": "txmo-article-199005-thewayou.json"
+            },
+            {
+              "title": "Wouldn’t You Like To Be a Pepper Too?",
+              "subtitle": "",
+              "description": "A Dublin bottler is the only one in Texas who’s still sweet on traditional Dr Pepper.",
+              "byline": "by John Morthland",
+              "page": "106"
+            },
+            {
+              "title": "Jeff Reynolds, Zillionaire",
+              "subtitle": "",
+              "description": "The mysterious Texan who tried to take over australia’s mighty Bond Corporation last January looked good on paper—but paper was about all he had.",
+              "byline": "by Tom Curtis",
+              "page": "108"
+            },
+            {
+              "title": "Faces Of the Border",
+              "subtitle": "",
+              "description": "To those who live on Mexico’s side of the Rio Grande, posing for portraits is not an occasion for smiles.",
+              "byline": "Photographs and text by Max aguilera-Hellweg",
+              "page": "112",
+              "wp_post_id": "125826",
+              "identifier": "txmo-article-199005-facesoft.json"
+            },
+            {
+              "title": "Driving Me Crazy",
+              "subtitle": "",
+              "description": "Now that my son is behind the wheel, I can’t decide whether it’s better to ride shotgun or steer clear of him completely.",
+              "byline": "by Prudence Mackintosh",
+              "page": "120"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "A Bridge Too Far?",
+              "subtitle": "Business",
+              "description": "Laredo initially hated Monterrey’s plan for a new border crossing but had second thoughts when it realized that there was money to be made.",
+              "byline": "by Joseph Harmes",
+              "page": "124"
+            },
+            {
+              "title": "Shock Treatment",
+              "subtitle": "Books",
+              "description": "Three new books deliver sordid stories of drugged-up cops, kinky murderers, and a real-life drug kingpin.",
+              "byline": "by Chester Rosson",
+              "page": "130"
+            },
+            {
+              "title": "Vive Le Tex-Mex!",
+              "subtitle": "Food",
+              "description": "Lone Star cuisine is all the rage in Paris—France, that is.",
+              "byline": "by Edward Cone",
+              "page": "134"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Literary terrorists.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Talking up Texas’ present and past.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A $10 million sweepstakes winner wants to run Denton; a famous sculptor wants one of the state’s hot springs all to himself; Padre’s spring breakers just want to have fun.",
+              "byline": "by Joe Nick Patoski",
+              "page": "82"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Just when one education lawsuit is over, along comes another; how Ross Perot became an issue in the lieutenant governor’s race; why Coke—Stevenson, that is—is hard to swallow.",
+              "byline": "",
+              "page": "196"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

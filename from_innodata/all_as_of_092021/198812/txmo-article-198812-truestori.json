@@ -1,0 +1,77 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-198812",
+    "date": "December 1988",
+    "year": 1988,
+    "month": 12,
+    "month_formatted": "December",
+    "pdf_uri": "/1988/19881200.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 106,
+    "toc_start_page": 104,
+    "document_page_range": [
+      [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113
+      ]
+    ],
+    "toc_order": 3,
+    "toc_headline": "True Stories",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198812-truestori",
+  "source": "",
+  "wp_post_id": 123687,
+  "wp_post_guid": "http://www.texasmonthly.com/article/true-stories/",
+  "authors": [],
+  "headline": "True Stories",
+  "dek": "What happens when you take the fantasy out of fashion? Something magically real.",
+  "spread_caption": "",
+  "excerpt": "What happens when ordinary people put on extraordinary clothes?.",
+  "kicker": "",
+  "word_count": 268,
+  "content": "<p><em>Photography by</em> GEOF Kern</p><p><span class=\"dropcap\">D</span>allas photographer Geof Kern traveled three thousand miles across Texas, inviting ordinary people to model extraordinary clothes-those usually found only on the runways of the most exclusive designers in the world. If some of his models were suspicious at first, most were happy to oblige. The auto mechanic in Port arthur, the Dallas mother on her way to buy groceries, the retired fisherman in Port aransas —all taught Kern a lesson he hadn’t anticipated: Even without the help of makeup artists and hairdressers, a different kind of beauty shines through.</p><p>Styling By Paula Elins / Clothing Courtesy Of the Gazebo. House Of Feith. Stanley Korshak. Tie-Coon Trading Company (Dallas); Tootsies (Houston)</p><img/><p><strong>Greg Fuller Student, Corpus Christi</strong></p><p><strong>Celadon-colored linen button-down shirt ($295), celadoncolored silk-and-linen trousers ($575) and jacket ($1,095), by Claude Montana</strong></p><img/><p><strong>Israel Maldonado Tattoo Artist, Dallas</strong></p><p><strong>White cotton tuxedo shirt ($215) and black shawl-collar tuxedo ($895), by Giorgio armani; cowhide cummerbund ($95) and bow tie ($65), by Moo!</strong></p><img/><p><strong>Karen Croft Waitress, Big Spring</strong></p><p><strong>Teal satin slip dress ($190), by Stephen Sprouse</strong></p><img/><p><strong>William F. Baker Retired Fisherman, Port Aransas</strong></p><p><strong>White cotton shirt ($170), natural-color pleated linen trousers ($220), navy-blue linen jacket ($630), by Shamask</strong></p><img/><p><strong>Angela Zachery Mother, Dallas</strong></p><p><strong>Black top with plaid buttons and collar ($116) and black capri pants ($52), by Randolph Duke</strong></p><img/><p><strong>Toan Pham Automotive Mechanic, Port Arthur</strong></p><p><strong>One-piece “vested” jumpsuit, in green and black gabardine ($220), by Tracy Feith</strong></p><img/><p><strong>Helen Wright Manicurist, Midland</strong></p><p><strong>Silver lamé shirt ($72) and pants ($110), by Stephen Sprouse</strong></p><img/><p><strong>Chandra Hoyen Student, Hondo</strong></p><p><strong>Black structured jacket ($200) and black knit miniskirt ($110) with yellow ribbon detail, by Randolph Duke</strong></p><img/><p><strong>Gilbert Van Ness Carnivil Worker, Dallas</strong></p><p><strong>Eggshell silk shirt ($195) and gray silk paisley jacket ($1,090), by Perry Ellis.</strong></p>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "December 1988",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "Cotton",
+      "silk",
+      "Beauty",
+      "Capri",
+      "Clothing",
+      "Dallas",
+      "House",
+      "Mother",
+      "people",
+      "Photographer",
+      "Port Aransas"
+    ],
+    "wp_categories": [
+      "Dallas"
+    ],
+    "wp_location": [
+      "Dallas",
+      "Port Aransas"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199111",
+    "publication": "Texas Monthly",
+    "issue": "November 1991",
+    "pdf_uri": "/1991/19911100.pdf",
+    "month": "November",
+    "year": 1991,
+    "pages": 240,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Not Those Fort Worth Basses",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by Rick Bass",
+              "page": "66"
+            },
+            {
+              "title": "Double Visions",
+              "subtitle": "Art",
+              "description": "",
+              "byline": "by Michael Ennis",
+              "page": "76"
+            },
+            {
+              "title": "Billy and Lyndon",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by William Martin",
+              "page": "86"
+            },
+            {
+              "title": "Plains Song",
+              "subtitle": "Music",
+              "description": "",
+              "byline": "by John Morthland",
+              "page": "94"
+            },
+            {
+              "title": "Fab Three",
+              "subtitle": "Pop Culture",
+              "description": "",
+              "byline": "by Ed Ward",
+              "page": "116"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Texas Breaks Away",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Joe Nick Patoski and Helen Thompson",
+              "page": "122"
+            },
+            {
+              "title": "State off the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "134"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "202"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "203"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "236"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Blood in the Streets",
+              "subtitle": "",
+              "description": "Houstonians and homicide detectives struggle to cope with a deadly crime wave.",
+              "byline": "Photographs by Stephen Shames Essay by Mimi Swartz",
+              "page": "136"
+            },
+            {
+              "title": "Playing It Safe",
+              "subtitle": "",
+              "description": "Can you avoid criminal violence?",
+              "byline": "",
+              "page": "149"
+            },
+            {
+              "title": "Dan Rather Is a Good Ol' Boy",
+              "subtitle": "",
+              "description": "But he’d rather not leave Cbs to return to Texas, at least not yet.",
+              "byline": "by Robert Draper",
+              "page": "150"
+            },
+            {
+              "title": "The War for Thee University",
+              "subtitle": "",
+              "description": "Pray for Baylor. The Baptists are calling each other flatearthers and liberal parasites, and the school they call Jerusalem on the Brazos is caught in the middle.",
+              "byline": "by Jan Jarboe",
+              "page": "154"
+            },
+            {
+              "title": "The Three Kingdoms of Kathy Whitmire",
+              "subtitle": "",
+              "description": "Her critics used to say that Houston’s mayor was a great administrator but a bad politician. Now, on the eve of her toughest race, her critics are saying just the opposite.",
+              "byline": "by Al Reinert",
+              "page": "158",
+              "wp_post_id": "126150",
+              "identifier": "txmo-article-199111-thethree.json"
+            },
+            {
+              "title": "The Challengers",
+              "subtitle": "",
+              "description": "If anyone can keep Whitmire from being Houston’s mayor for life, it’s Sylvester Turner or Bob Lanier.",
+              "byline": "by Al Reinert",
+              "page": "160",
+              "wp_post_id": "126147",
+              "identifier": "txmo-article-199111-thechalle.json"
+            },
+            {
+              "title": "The Right Stuffing",
+              "subtitle": "",
+              "description": "You’ll be stuffed, too, after you eat this Thanksgiving dinner.",
+              "byline": "",
+              "page": "162"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

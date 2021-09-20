@@ -1,0 +1,183 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197511",
+    "publication": "Texas Monthly",
+    "issue": "November 1975",
+    "pdf_uri": "/1975/19751100.pdf",
+    "month": "November",
+    "year": 1975,
+    "pages": 188,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Ah, Sweet Mystery Of Death",
+              "subtitle": "",
+              "description": "The friendly folks at the morgue speak a body language all their own.",
+              "byline": "Al Reinert",
+              "page": "68"
+            },
+            {
+              "title": "God’s Country",
+              "subtitle": "",
+              "description": "Abilene, Abilene, strangest town I’ve ever seen.",
+              "byline": "A. C. Greene",
+              "page": "74",
+			  "wp_post_id": 108579,
+              "identifier": "TXMO-ARTICLE-197511-godscount.json"
+            },
+            {
+              "title": "Is Your Life Dull? Is Your Environment Boring?",
+              "subtitle": "",
+              "description": "Four interior designers tell what they can do within four walls.",
+              "byline": "Gay McFarland",
+              "page": "77"
+            },
+            {
+              "title": "Who Was Jack Ruby?",
+              "subtitle": "",
+              "description": "If you thought you knew, you were probably wrong.",
+              "byline": "Gary Cartwright",
+              "page": "82"
+            },
+            {
+              "title": "World! Here Is Your Oyster!",
+              "subtitle": "",
+              "description": "Close your eyes and pretend it’s roast beef.",
+              "byline": "Helen Murray-Baxter",
+              "page": "87"
+            },
+            {
+              "title": "The Strange Case Of the Missing Parks",
+              "subtitle": "",
+              "description": "Why Texans don’t get the parks they pay for.",
+              "byline": "Griffin Smith, jr.",
+              "page": "88"
+            },
+            {
+              "title": "Heroes For Post-Watergate America",
+              "subtitle": "",
+              "description": "A retired Marine Corps general takes on the University of Texas System.",
+              "byline": "",
+              "page": "91"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Holiday Fare",
+              "subtitle": "Film",
+              "description": "Introducing our new film critic, who finds this month’s menu both hot and cold.",
+              "byline": "Marie Brenner",
+              "page": "25"
+            },
+            {
+              "title": "The Runaround",
+              "subtitle": "Politics",
+              "description": "The people of No Man’s Land are wondering whether government really works.",
+              "byline": "Mitch Green",
+              "page": "32"
+            },
+            {
+              "title": "Every Good Boy Does Fine",
+              "subtitle": "Children’s Corner",
+              "description": "Kids should learn early that music is the staff of life.",
+              "byline": "Prudence Mackintosh",
+              "page": "35"
+            },
+            {
+              "title": "The Soundness Of Music",
+              "subtitle": "Records",
+              "description": "How to get cultured and stay in shape at the same time.",
+              "byline": "W.L. Taitte",
+              "page": "41"
+            },
+            {
+              "title": "Moving On",
+              "subtitle": "Books",
+              "description": "Larry McMurtry brings his Texas odyssey to an end.",
+              "byline": "Michael Mewshaw",
+              "page": "44"
+            },
+            {
+              "title": "The Taxman Cometh",
+              "subtitle": "Art",
+              "description": "The IRS is waging a secret war against big art donors.",
+              "byline": "Leon A. Harris, Jr.",
+              "page": "50"
+            },
+            {
+              "title": "Blue Chic",
+              "subtitle": "Performance",
+              "description": "How Fort Worth’s gentry learned to love the blues.",
+              "byline": "Joe Nick Patoski",
+              "page": "55"
+            },
+            {
+              "title": "Goosed!",
+              "subtitle": "Dining In",
+              "description": "Don’t be a turkey this Thanksgiving. Try a different bird.",
+              "byline": "Linda West Eckhardt",
+              "page": "61"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "6"
+            },
+            {
+              "title": "Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Richard West",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Ornamentality.",
+              "byline": "",
+              "page": "154"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "157"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Labelous.",
+              "byline": "Paul Burka",
+              "page": "184"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

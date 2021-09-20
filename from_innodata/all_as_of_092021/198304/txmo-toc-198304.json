@@ -1,0 +1,171 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198304",
+    "publication": "Texas Monthly",
+    "issue": "April 1983",
+    "pdf_uri": "/1983/19830400.pdf",
+    "month": "April",
+    "year": 1983,
+    "pages": 240,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Hail To Thee, George E. Fischer",
+              "subtitle": "",
+              "description": "Most of the time you're a nice, ordinary businessman. But for one brief, shining moment you were King antonio, monarch of San antonio’s Fiesta and semi-beloved ruler of the one Texas city that still loves a good king.",
+              "byline": "Tom Walker",
+              "page": "120"
+            },
+            {
+              "title": "Hell On Wheels",
+              "subtitle": "",
+              "description": "In which John Howard, our toughest athlete, goes after a world bicycle record and hopes america will care.",
+              "byline": "Harry Hurt III",
+              "page": "124",
+              "wp_post_id": "119430",
+              "identifier": "txmo-article-198304-hellonwh.json"
+            },
+            {
+              "title": "The New Rustlers",
+              "subtitle": "",
+              "description": "Today's desperadoes are in the bays of the Texas coast, roping redfish and cursing the Parks and Wildlife Department.",
+              "byline": "Dick J. Reavis",
+              "page": "128",
+              "wp_post_id": "119424",
+              "identifier": "txmo-article-198304-thenewru.json"
+            },
+            {
+              "title": "The Farm-To-Market Road",
+              "subtitle": "Texas Primer",
+              "description": "The last best way to see the real Texas.",
+              "byline": "",
+              "page": "134"
+            },
+            {
+              "title": "Tricks",
+              "subtitle": "",
+              "description": "On the first day of april my true love gave to me . . . nineteen gifts that weren’t what they appeared to be.",
+              "byline": "Susan Kennard",
+              "page": "136"
+            },
+            {
+              "title": "“What I Admire I Must Possess”",
+              "subtitle": "",
+              "description": "Dominique de Menil loves beautiful things and interesting people. In forty years of collecting them she has changed Houston.",
+              "byline": "Dominique Browning",
+              "page": "140"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Big Wheels And the Silver Spike",
+              "subtitle": "Texana",
+              "description": "It wasn’t business that drew the state’s top politicians to a Trans-Pecos ranch. Their mission: to mark the centennial of the train that linked Texas to the West.",
+              "byline": "Griffin Smith, jr.",
+              "page": "148"
+            },
+            {
+              "title": "Have Ladle, Will Travel",
+              "subtitle": "Food",
+              "description": "Culinary one-upmanship has produced the designer chef, a food whiz who comes from afar to lend prestige and panache to Texas’ ritziest eateries.",
+              "byline": "Alison Cook",
+              "page": "154"
+            },
+            {
+              "title": "Down With Compromise",
+              "subtitle": "Jazz",
+              "description": "Freddie Hubbard’s attempts to play pop music have been disastrous. But when he tackles a pure mainstream sound, he shows what jazz trumpeting is all about.",
+              "byline": "Doug Ramsey",
+              "page": "161"
+            },
+            {
+              "title": "Oil Rigged",
+              "subtitle": "Books",
+              "description": "The Great Energy Scam purports to uncover the collusion of the feds and the oil companies, but the real scandal is what the author overlooks. Yet another book on killer Ted Bundy sheds no light on his crimes. Roughneck is a rousing look at america’s most radical labor union.",
+              "byline": "Joseph Nocera",
+              "page": "165"
+            },
+            {
+              "title": "Scotch, Neat",
+              "subtitle": "Movies",
+              "description": "Local Hero is undiluted pleasure. Lianna is a little watered-down.",
+              "byline": "James Wolcott",
+              "page": "170"
+            },
+            {
+              "title": "Curtains!",
+              "subtitle": "Classical Music",
+              "description": "Once touted, now routed, San antonio’s opera takes its last bow.",
+              "byline": "W. L. Taitte",
+              "page": "174"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Run for the money.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Taking lives and saving lives.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Miniature madness.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Times are tough in Laredo; specialty advertisers are unveiled in Dallas; some very old bones stir things up in Leander; a wild turkey comes back to West Texas; newspapers go wild in San antonio.",
+              "byline": "Peter applebome",
+              "page": "98"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Measure for measure.",
+              "byline": "",
+              "page": "235"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Southwest Airlines’ California gamble pays off—and Texans do the paying; update from Gibgate; why Bellaire is not Park Place; a truly dumb idea from UT.",
+              "byline": "",
+              "page": "236"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

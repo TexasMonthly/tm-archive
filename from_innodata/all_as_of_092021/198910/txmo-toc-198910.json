@@ -1,0 +1,136 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198910",
+    "publication": "Texas Monthly",
+    "issue": "October 1989",
+    "pdf_uri": "/1989/19891000.pdf",
+    "month": "October",
+    "year": 1989,
+    "pages": 220,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents October",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Soul Of East Texas",
+              "subtitle": "",
+              "description": "Reflections and recollections of life among the shadows of the Piney Woods.",
+              "byline": "Photography by Keith Carter, Text by Prudence Mackintosh",
+              "page": "116"
+            },
+            {
+              "title": "Vigil At Treaty Oak",
+              "subtitle": "",
+              "description": "To the people of austin, the poisoning of an ancient tree was more than a crime; it was a blasphemy.",
+              "byline": "by Stephen Harrigan",
+              "page": "130"
+            },
+            {
+              "title": "How Do You Say “Perestroika” In Spanish?",
+              "subtitle": "",
+              "description": "The parallels between Mikhail Gorbachev and Mexico’s Carlos Salinas just might end when it comes to their effectiveness at achieving reform in their nations.",
+              "byline": "by Dick J. Reavis",
+              "page": "134",
+              "wp_post_id": "124782",
+              "identifier": "txmo-article-198910-howdoyou.json"
+            },
+            {
+              "title": "Old Salts And Ancient Mariners",
+              "subtitle": "",
+              "description": "In which a landlubber chronicles the saga of getting his sea legs aboard the good ship Elissa.",
+              "byline": "by Gary Cartwright",
+              "page": "136",
+              "wp_post_id": "124779",
+              "identifier": "txmo-article-198910-oldsalts.json"
+            },
+            {
+              "title": "The Day Leroy Died",
+              "subtitle": "",
+              "description": "When a small private bank was closed on august 7, depositors lost all of their money, a pillar of the community came tumbling down, and the town’s trusting way of life was shattered.",
+              "byline": "by Dana Rubin",
+              "page": "142"
+            },
+            {
+              "title": "The Herkie Jump",
+              "subtitle": "Texas Primer",
+              "description": "Three cheers for Lawrence Herkimer and his leap to fame.",
+              "byline": "by Joe Nick Patoski",
+              "page": "146"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Home Is Where the Art Is",
+              "subtitle": "Art",
+              "description": "Two museum shows culled from private collections illustrate that Texans know what they like—and it’s not just Monets and Renoirs.",
+              "byline": "by Michael Ennis",
+              "page": "148"
+            },
+            {
+              "title": "That Brainpower Guy",
+              "subtitle": "Education",
+              "description": "Incarnate Word was an obscure Catholic school before Lou agnese launched his multimillion-dollar ad campaign. Now the college is booming, and agnese is a local star.",
+              "byline": "by Peter Elkind",
+              "page": "154"
+            },
+            {
+              "title": "Whistling In the Dark",
+              "subtitle": "Books",
+              "description": "Larry McMurtry explores the far side of forty in his new novel.",
+              "byline": "by Suzanne winckler",
+              "page": "160"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Waiting for anointment.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Ranking the rich; playing the game; watching the show.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The animal Liberation Front terrorizes Texas Tech: RVs lumber through the Big Bend drug net; eclectic eats served to a boogie beat in the Hill Country.",
+              "byline": "by Joe Nick Patoski",
+              "page": "102"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Water, water, everywhere—in New Mexico, but Texas can’t have any; Mexico invades Texas; picking the winner in the race to succeed Mickey Leland.",
+              "byline": "",
+              "page": "216"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

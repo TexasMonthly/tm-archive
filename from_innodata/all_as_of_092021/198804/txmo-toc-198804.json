@@ -1,0 +1,148 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198804",
+    "publication": "Texas Monthly",
+    "issue": "April 1988",
+    "pdf_uri": "/1988/19880400.pdf",
+    "month": "April",
+    "year": 1988,
+    "pages": 181,
+    "document_toc_page": "6"
+  },
+  "toc": [
+    {
+      "heading": "Contents April",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Is J.R. Shot?",
+              "subtitle": "",
+              "description": "The tenth anniversary of TV’s most popular nighttime series begs the question, How long can the Ewings’ doings hold our attention?.",
+              "byline": "by Steven Reddicliffe",
+              "page": "90"
+            },
+            {
+              "title": "Wonder Plane",
+              "subtitle": "",
+              "description": "Up in the sky, it’s a plane, it’s a helicopter—no, it’s a tiltrotor, the Texas hybrid that will soon revolutionize air travel.",
+              "byline": "by Michael Ennis",
+              "page": "98"
+            },
+            {
+              "title": "What Does H.E.B. Stand For, Anyway?",
+              "subtitle": "",
+              "description": "As the president of Texas’ largest private grocery chain, Charles Butt learned that in order to be nice to his customers he had to be tough on his competitors. And vice versa.",
+              "byline": "by Jan Jarboe",
+              "page": "102"
+            },
+            {
+              "title": "Food Feud",
+              "subtitle": "",
+              "description": "For years Jamail’s was the queen of Houston grocery stores. Now the Jamail family is at odds, and two rival chains are getting ready for a major food fight.",
+              "byline": "by Patricia Sharpe",
+              "page": "105"
+            },
+            {
+              "title": "The Night Lyndon Quit",
+              "subtitle": "",
+              "description": "For twenty years, the story behind President Johnson’s withdrawal has remained a mystery. Now, on the anniversary of his decision, his former secretary reveals the drama of LBJ’s biggest surprise.",
+              "byline": "by George Christian",
+              "page": "108"
+            },
+            {
+              "title": "Once Upon a River",
+              "subtitle": "",
+              "description": "Thirty-four years after his Pulitzer prize—winning Great River, historian Horgan publishes a moody sketchbook of his journey along the Rio Grande.",
+              "byline": "by Paul Horgan",
+              "page": "110"
+            },
+            {
+              "title": "Miles And Miles Of Texas",
+              "subtitle": "",
+              "description": "The assignment was the chance of a lifetime to see the whole state, once and for all. At times pure pleasure and at times a feat of will, it was always and foremost a writer’s dream come true.",
+              "byline": "by Dick J. Reavis",
+              "page": "116",
+              "wp_post_id": "124182",
+              "identifier": "txmo-article-198804-milesand.json"
+            },
+            {
+              "title": "The Bowie Knife",
+              "subtitle": "Texas Primer",
+              "description": "Whether a frontiersman needed to skin a bear, chop wood, or fight in a duel, Jim Bowie’s weapon was the tool of choice.",
+              "byline": "by Susan Chadwick",
+              "page": "120"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Eat Crow",
+              "subtitle": "Business",
+              "description": "Megadeveloper Trammell Crow bought farmland in Louisiana, but can his company’s big-city savvy make it pay?.",
+              "byline": "by William M. Adler",
+              "page": "122"
+            },
+            {
+              "title": "Juarez And Peace",
+              "subtitle": "Television",
+              "description": "When the network canceled the Hispanic cop show Juarez before anyone had a chance to see it, all of El Paso was up in arms. Peace, El Paso, peace.",
+              "byline": "by Dagoberto Gilb",
+              "page": "126"
+            },
+            {
+              "title": "Best Enemies",
+              "subtitle": "Lifestyles",
+              "description": "Dallas lawyers arlen Bynum and John Collins are personal friends and professional foes. They get a kick out of both roles.",
+              "byline": "by Jim atkinson",
+              "page": "132"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The sixth floor.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Celebrating the extraordinariness of ordinary lives.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "REPORTER",
+              "subtitle": "",
+              "description": "Downtown San antonio gets a makeover; two for T-shirts; a spine-tingling story of a racehorse; the real winners at the Miss U.S.a. pageant; the Brownies go to marketing.",
+              "byline": "by alison Cook",
+              "page": "78"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "You’ll never gas what the Sierra Club is up to now; impossible but true: the austin american-Statesman descends to a new low; Jesse Jones may have a solution for Texas’ economic problems.",
+              "byline": "",
+              "page": "176"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

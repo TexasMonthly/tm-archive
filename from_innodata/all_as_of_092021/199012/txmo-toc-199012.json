@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199012",
+    "publication": "Texas Monthly",
+    "issue": "December 1990",
+    "pdf_uri": "/1990/19901200.pdf",
+    "month": "December",
+    "year": 1990,
+    "pages": 212,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The New Santa",
+              "subtitle": "Family",
+              "description": "",
+              "byline": "by Lawrence Wright",
+              "page": "52"
+            },
+            {
+              "title": "Golden Oldies",
+              "subtitle": "Art",
+              "description": "",
+              "byline": "by Michael Ennis",
+              "page": "56"
+            },
+            {
+              "title": "Back in the Saddle",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by Suzanne Winckler",
+              "page": "64"
+            },
+            {
+              "title": "Growing Pains",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by Jan Jarboe",
+              "page": "72"
+            },
+            {
+              "title": "Mr. March",
+              "subtitle": "Sports",
+              "description": "",
+              "byline": "by John Anderson",
+              "page": "82"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Rhoads Scholars",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Joe Nick Patoski",
+              "page": "94"
+            },
+            {
+              "title": "State Wide Business",
+              "subtitle": "",
+              "description": "",
+              "byline": "by John Anderson",
+              "page": "106"
+            },
+            {
+              "title": "State of the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "118"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "184"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "185"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Tom Curtis",
+              "page": "214"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Boomtown",
+              "subtitle": "",
+              "description": "Don’t give up on oil yet, Texas. Come along to Pearsall, deep in the brush country, and learn how the new oil boom is different from the old.",
+              "byline": "by Paul Burka",
+              "page": "120"
+            },
+            {
+              "title": "“I Was Mandarin...”",
+              "subtitle": "",
+              "description": "Clues left behind by a former Dallas cop convinced his son that he killed President Kennedy —but that’s just the beginning of the mystery.",
+              "byline": "by Gary Cartwright",
+              "page": "128"
+            },
+            {
+              "title": "Fine Tuning",
+              "subtitle": "",
+              "description": "From the Panhandle to the Bayou City, homegrown classical music ensembles are our best-kept secret.",
+              "byline": "by Chester Rosson and W. L. Taitte",
+              "page": "134",
+              "wp_post_id": "125310",
+              "identifier": "txmo-article-199012-finetunin.json"
+            },
+            {
+              "title": "Earley Texas",
+              "subtitle": "",
+              "description": "Dallas painter Sean Earley moves to Italy and learns to paint Texas.",
+              "byline": "",
+              "page": "138"
+            },
+            {
+              "title": "“I'm Just Me”",
+              "subtitle": "",
+              "description": "When country singer Charley Pride isn’t on the road, chances are he’s puttering around a Dallas golf course —or riding herd on his business holdings.",
+              "byline": "by John Morthland",
+              "page": "146"
+            },
+            {
+              "title": "Native Nativities",
+              "subtitle": "",
+              "description": "All is calm, all is bright in folk-art manger scenes.",
+              "byline": "by Helen Thompson",
+              "page": "148"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

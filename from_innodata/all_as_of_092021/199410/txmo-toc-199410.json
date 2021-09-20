@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199410",
+    "publication": "Texas Monthly",
+    "issue": "October 1994",
+    "pdf_uri": "/1994/19941000.pdf",
+    "month": "October",
+    "year": 1994,
+    "pages": 262,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Trial and Error",
+              "subtitle": "Crime",
+              "description": "",
+              "byline": "by audrey Duff",
+              "page": "32"
+            },
+            {
+              "title": "Driven to It",
+              "subtitle": "Politics",
+              "description": "",
+              "byline": "by Paul Burka",
+              "page": "42"
+            },
+            {
+              "title": "Tour de Folk",
+              "subtitle": "Recordings",
+              "description": "",
+              "byline": "by Joe Nick Patoski",
+              "page": "48"
+            },
+            {
+              "title": "Sunday Best",
+              "subtitle": "Religion",
+              "description": "",
+              "byline": "by William Martin",
+              "page": "56"
+            },
+            {
+              "title": "Lonely Song",
+              "subtitle": "Music",
+              "description": "",
+              "byline": "by Jason Cohen",
+              "page": "66"
+            },
+            {
+              "title": "Hot and Heavy",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by Robert Draper",
+              "page": "80"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Shape Up",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by David McCormick",
+              "page": "90"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "125"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "225"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "227"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Paul Burka",
+              "page": "252"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "How to Marry a Millionaire",
+              "subtitle": "",
+              "description": "Anna Nicole Smith got her man: the full story on the big gal’s marriage to octogenarian oilman J. Howard Marshall.",
+              "byline": "by Mimi Swartz",
+              "page": "126"
+            },
+            {
+              "title": "“We Get all Hyped Up. We Do a Drive-by.”",
+              "subtitle": "",
+              "description": "Gangs, guns, and getting in trouble are a way of life for too many teenagers in San antonio’s projects.",
+              "byline": "by audrey Duff Photographs by Dan Winters",
+              "page": "132"
+            },
+            {
+              "title": "The Private Hell of Joel Gregory",
+              "subtitle": "",
+              "description": "One night the pastor of Dallas’ all-powerful First Baptist Church mysteriously resigned. To this day, no one is sure why.",
+              "byline": "by Skip Hollandsworth",
+              "page": "140"
+            },
+            {
+              "title": "The Book of Joel",
+              "subtitle": "",
+              "description": "Excerpts from Joel Gregory’s new book Too Great a Temptation.",
+              "byline": "",
+              "page": "145"
+            },
+            {
+              "title": "The Politics of Winning",
+              "subtitle": "",
+              "description": "In the final weeks, the governor’s race is too close to call. Here’s an analysis of what it will take to win.",
+              "byline": "by Paul Burka",
+              "page": "146"
+            },
+            {
+              "title": "Rah! Power",
+              "subtitle": "",
+              "description": "All for Texas cheerleading, stand up, sit down, and read, read on.",
+              "byline": "by Jeannie Ralston",
+              "page": "150",
+              "wp_post_id": "127950",
+              "identifier": "txmo-article-199410-rahpower.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

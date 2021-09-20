@@ -1,0 +1,201 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198703",
+    "publication": "Texas Monthly",
+    "issue": "March 1987",
+    "pdf_uri": "/1987/19870300.pdf",
+    "month": "March",
+    "year": 1987,
+    "pages": 208,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents March",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Top Gun",
+              "subtitle": "",
+              "description": "Texas air chief Frank Lorenzo took an airline with no profits and limited prospects and built it into the country’s largest. How? By betting like the sky’s the limit.",
+              "byline": "by William P. Barrett",
+              "page": "98"
+            },
+            {
+              "title": "Hey, Mom, Have I Got an Assignment For You",
+              "subtitle": "",
+              "description": "Once kids did their own homework. Now ambitious parents do it for them.",
+              "byline": "by Prudence Mackintosh",
+              "page": "104",
+              "wp_post_id": "123330",
+              "identifier": "txmo-article-198703-heymomha.json"
+            },
+            {
+              "title": "My Sister Is Missing",
+              "subtitle": "",
+              "description": "Had she joined some cause? Was it suicide? Or had she wanted to disappear? after months of searching, I found the answer.",
+              "byline": "by Mollie Hawkins Sharpe",
+              "page": "106",
+              "wp_post_id": "123324",
+              "identifier": "txmo-article-198703-mysister.json"
+            },
+            {
+              "title": "Petticoat Junction",
+              "subtitle": "",
+              "description": "All aboard for this spring’s flounciest fashions.",
+              "byline": "",
+              "page": "108"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "A new breed of home-delivery specialists will bring everything from dinner for eight to a masseur to a dog trainer to your door. Here are more than a hundred to try.",
+              "byline": "by Joe Nick Patoski",
+              "page": "114",
+              "wp_post_id": "123318",
+              "identifier": "txmo-article-198703-theinside.json"
+            },
+            {
+              "title": "It's a Dirty Job, But ...",
+              "subtitle": "",
+              "description": "Does the delivery business really deliver? Our author spends three grueling days watching rented videos and ordering pizza to find out the truth.",
+              "byline": "by Michael Corcoran",
+              "page": "116"
+            },
+            {
+              "title": "C. W. Post",
+              "subtitle": "Texas Primer",
+              "description": "At first he couldn t stand the strain of trying to get rich. Then he couldn’t stand the strain of being rich.",
+              "byline": "by Jan Reid",
+              "page": "118"
+            },
+            {
+              "title": "A Human Focus",
+              "subtitle": "",
+              "description": "Newly discovered photographs taken by Russell Lee bear compassionate witness to the lives of Spanish-speaking Texans in the forties.",
+              "byline": "",
+              "page": "120"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Bullock Alumni",
+              "subtitle": "Politics",
+              "description": "Caught between the budget crisis and the power of Bob Bullock, politicos are hiring the comptroller’s savvy ex-employees in self-defense.",
+              "byline": "by Paul Burka",
+              "page": "128"
+            },
+            {
+              "title": "Home Ain’t Where My Heart Is",
+              "subtitle": "Lifestyles",
+              "description": "When I was growing up, arlington didn’t have air conditioning or Six Flags. But it did have albert’s Pool Hall and twenty-cent Jax beer, and that made all the difference.",
+              "byline": "by Gary Cartwright",
+              "page": "130"
+            },
+            {
+              "title": "Epic Embroidery",
+              "subtitle": "Movies",
+              "description": "The action in Platoon is brilliantly sustained, but The Mission falls with a stately thud; The Bedroom Window aspires to be as spellbound as an alfred Hitchcock, but The Defense of the Realm is the engrossing thriller.",
+              "byline": "by James Wolcott",
+              "page": "130"
+            },
+            {
+              "title": "Pardon Me, Boy, Is That Tex Beneke?",
+              "subtitle": "Jazz",
+              "description": "At 73, this Fort Worth jazzman still sings “Chattanooga Choo-Choo,” but he wants new songs, more gigs, and younger audiences.",
+              "byline": "by Doug Ramsey",
+              "page": "140"
+            },
+            {
+              "title": "Staying In LInE",
+              "subtitle": "Texana",
+              "description": "A group of dancers from Garland, aged 57 to 90, would rather rock on than rock in a chair.",
+              "byline": "by joe Nick Patoski",
+              "page": "144"
+            },
+            {
+              "title": "Sum Pickens",
+              "subtitle": "Books",
+              "description": "Boone, T. Boone Pickens’ autobiography, is most interesting when it names names and tells tales, but such moments surface only occasionally and sink quickly.",
+              "byline": "by Paul Burka",
+              "page": "148"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "16"
+            },
+            {
+              "title": "Around the State.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Sneak a glance at our inaugural notebook to find out why Clements’ speech didn’t fly, which city had the most imperial ball, and who triumphed in the guv’s snub. Plus: Mad Maxian Car #3, space tombs in the sky, and ZZ Top’s song scuffle.",
+              "byline": "by alison Cook",
+              "page": "78"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "The Rio Grande Valley never had a valley —except in the minds of developers who invented its name.",
+              "byline": "by Dick j. Reavis",
+              "page": "84"
+            },
+            {
+              "title": "The Quidnunc",
+              "subtitle": "",
+              "description": "Waiting for Perot; sizing up Texas’ legal egos; switching undies with Bobby and Laura Sakowitz.",
+              "byline": "by Mark Seal",
+              "page": "94"
+            },
+            {
+              "title": "Puzzle.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "203"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A busing controversy at the prison system; the high cost of free rent; the GOP goes to town; a wellknown private eye loses his license; rotten eggs at Bentsen’s breakfasts.",
+              "byline": "",
+              "page": "204"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

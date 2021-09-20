@@ -1,0 +1,180 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198606",
+    "publication": "Texas Monthly",
+    "issue": "June 1986",
+    "pdf_uri": "/1986/19860600.pdf",
+    "month": "June",
+    "year": 1986,
+    "pages": 236,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents June",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Snootiest Neighborhood In Texas",
+              "subtitle": "",
+              "description": "The residents of San antonio’s King William Historic District saved their neighborhood from bums, bulldozers, and bogus bay windows. Now, if they can only save it from themselves.",
+              "byline": "by Cartwright",
+              "page": "110"
+            },
+            {
+              "title": "Hate Thy Neighbor",
+              "subtitle": "",
+              "description": "A look at Houston’s Meyerland, Dallas’ Munger Place, El Paso’s Sunset Heights, and austin’s Hyde Park shows that few fights get the blood boiling like a good fight with a neighbor.",
+              "byline": "by Emily Yoffe",
+              "page": "117",
+              "wp_post_id": "122124",
+              "identifier": "txmo-article-198606-hatethyn.json"
+            },
+            {
+              "title": "Root, Root, Root For the Home Team",
+              "subtitle": "",
+              "description": "All there is to know about Texas baseball, including the best ballpark, the best team ever, why Yogi Berra thinks Houston is like New Jersey, and much, much more.",
+              "byline": "by Joe Nick Patoski and John Morthland",
+              "page": "120"
+            },
+            {
+              "title": "Unionbusters",
+              "subtitle": "",
+              "description": "Hank Milam was a businessman with $20,000 in equipment and a firm faith in the rules of the game. He took on the union that had ruled the Houston docks for fifty years and beat it on its own turf.",
+              "byline": "by Dick J. Reavis",
+              "page": "126",
+              "wp_post_id": "122118",
+              "identifier": "txmo-article-198606-unionbust.json"
+            },
+            {
+              "title": "The Fire Ant",
+              "subtitle": "Texas Primer",
+              "description": "Baby calves, children, even the agriculture commissioner: no one is safe from this tiny demon.",
+              "byline": "by Jan Reid",
+              "page": "132"
+            },
+            {
+              "title": "Grasslands",
+              "subtitle": "",
+              "description": "In the early journals of pioneers who described the prairie surrounding their new homesteads, the ocean was the most common metaphor —swells of grass set rippling by the wind.",
+              "byline": "Photography by Jim Bones",
+              "page": "134",
+              "wp_post_id": "122112",
+              "identifier": "txmo-article-198606-grasslands.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Eating Up the Miles",
+              "subtitle": "Food",
+              "description": "Our gadabout gourmet travels three thousand miles to answer the question, Where should you eat on your next Texas highway trip?.",
+              "byline": "by Barbara Rodriguez",
+              "page": "142"
+            },
+            {
+              "title": "Slow-Motion Dilemma",
+              "subtitle": "Movies",
+              "description": "Violets are Blue is swimming in heavy conflict; Wise Guys is mostly slob humor; absolute Beginners is an absolute mess; at Close Range is a violent ambush.",
+              "byline": "by James Wolcott",
+              "page": "150"
+            },
+            {
+              "title": "Nine Days Of Solitude",
+              "subtitle": "Books",
+              "description": "The Story of a Shipwrecked Sailor is more than journalistic ghostwriting; I the Supreme is robbed of its punch; Bird of Life, Bird of Death peeks behind Central america’s dictators and dominoes.",
+              "byline": "by Jan Reid",
+              "page": "154"
+            },
+            {
+              "title": "Treasure From the Vault",
+              "subtitle": "Jazz",
+              "description": "New releases of Duke Ellington’s work give us exquisite music from small bands, a dance band having fun, and stereo recording twenty years before its time.",
+              "byline": "by Doug Ramsey",
+              "page": "158"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The solution politicians fear.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Shopping",
+              "subtitle": "",
+              "description": "Sure, a bride needs a groom, but the most important part of any wedding is the dress.",
+              "byline": "by Mimi Swartz",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "Houston’s upper crust and underclass mingle at Jo abercrombie’s Wednesday night fights.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "Buckle up for your own safety —and save $35.",
+              "byline": "by Jim atkinson",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The boom has quietly ended in Iraan; fruitivores live longer, says T. C. Fry; a repo man nabs a truck and a sheriff nabs him.",
+              "byline": "by William Booth",
+              "page": "96"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "These gifts belong to Daddy.",
+              "byline": "by Patricia Sharpe",
+              "page": "162"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Toasting tacos; cleaning up the waterfront; replaying the Texaco-Pennzoil case.",
+              "byline": "",
+              "page": "206"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "Don’t get your signals crossed.",
+              "byline": "",
+              "page": "215"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Questioning the teachers’ sense —of humor; desperate times breed desperate ideas; a big step toward interstate banking.",
+              "byline": "",
+              "page": "216"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

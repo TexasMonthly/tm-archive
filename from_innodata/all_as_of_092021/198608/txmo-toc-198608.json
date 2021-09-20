@@ -1,0 +1,213 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198608",
+    "publication": "Texas Monthly",
+    "issue": "August 1986",
+    "pdf_uri": "/1986/19860800.pdf",
+    "month": "August",
+    "year": 1986,
+    "pages": 192,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents August",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The National Car Of Texas",
+              "subtitle": "",
+              "description": "It’s big, it’s fast, it’s powerful, it eats gas, it’s the Suburban",
+              "byline": "by Paul Burka",
+              "page": "96"
+            },
+            {
+              "title": "Mack Wallace, Railroad Commissioner, Wants To Save the World",
+              "subtitle": "",
+              "description": "Tapped by destiny, one man in austin is forging an unlikely alliance between Texas oilmen and the friends of Israel",
+              "byline": "by Emily Yoffe",
+              "page": "104",
+              "wp_post_id": "121779",
+              "identifier": "txmo-article-198608-mackwalla.json"
+            },
+            {
+              "title": "The Madman On the Tower",
+              "subtitle": "",
+              "description": "In a ninety-minute reign of terror, gunshots rang out that still echo in the history of Texas.",
+              "byline": "by william J. Helmer",
+              "page": "106"
+            },
+            {
+              "title": "A Midsummer Night’s Gleam",
+              "subtitle": "",
+              "description": "Of fireflies and summer romance",
+              "byline": "",
+              "page": "110"
+            },
+            {
+              "title": "Dark Victories",
+              "subtitle": "",
+              "description": "Dusky colors and smart shapes are the winners for fall fashions",
+              "byline": "",
+              "page": "112"
+            },
+            {
+              "title": "Big Red",
+              "subtitle": "Texas Primer:",
+              "description": "Its passionately loyal following may make this drink the last Texan soda pop on the planet.",
+              "byline": "by Joe Nick Patoski",
+              "page": "120"
+            },
+            {
+              "title": "Why I Dion T Attend Farm Aid II",
+              "subtitle": "",
+              "description": "Thank God i’m sort of a grown-up",
+              "byline": "by Michael Corcoran",
+              "page": "122"
+            },
+            {
+              "title": "Free Enterprise U.",
+              "subtitle": "",
+              "description": "Let’s hear it for Dallas’ Northwood Institute, where entrepreneurialism is second only to high society fundraising",
+              "byline": "by Peter applebome",
+              "page": "124"
+            },
+            {
+              "title": "The Yellow Rose Of Texas",
+              "subtitle": "Western Art:",
+              "description": "",
+              "byline": "by Dugald stermer",
+              "page": "127",
+              "wp_post_id": "121752",
+              "identifier": "txmo-article-198608-theyellow.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Waco’s Secrets Revealed",
+              "subtitle": "Travel",
+              "description": "Cradled on the Brazos, this Central Texas town yields its pleasures ever so grudgingly",
+              "byline": "by Joe Nick Patoski",
+              "page": "128"
+            },
+            {
+              "title": "Dagwood As D.A.",
+              "subtitle": "Movies",
+              "description": "Legal Eagles is guilty of being humdrum and hokey; Mona Lisa has some fine, gracing touches; Vagabond finds purity within the dirtiest packaging",
+              "byline": "by James Wolcott",
+              "page": "136"
+            },
+            {
+              "title": "Deep Ellum's Summer Of Love",
+              "subtitle": "Popular Music",
+              "description": "Dallas’ new late-night club scene is daring and diverse, a showcase for pioneering bands.",
+              "byline": "by Joe Nick Patoski",
+              "page": "140"
+            },
+            {
+              "title": "The Blood-Red Maya",
+              "subtitle": "Art",
+              "description": "At the heart of this ancient culture were cruelty, self-mutilation, and ghostly visions",
+              "byline": "by Michael Ennis",
+              "page": "144"
+            },
+            {
+              "title": "Texas, In Short",
+              "subtitle": "Books",
+              "description": "The characters in Prize Stories and South by Southwest often dwell on the past while living out their lives in an anxious present",
+              "byline": "by Jan Reid",
+              "page": "148"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Shopping",
+              "subtitle": "",
+              "description": "Elliott’s is the Louvre of hardware stores-it’s got flyshooters, fan blades, and three aisles of screws. In other words, it’s heaven",
+              "byline": "by Mimi Swartz",
+              "page": "10"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "Dallas cracks the whip on weeds and litter",
+              "byline": "by Jim atkinson",
+              "page": "14"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "UT is testing this device that works like a BB gun, only it’s a little more powerful - it’ll be able to shatter a Soviet warhead speeding toward us through space",
+              "byline": "by Michael Ennis",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Life after TECAT in North Forest; Joe Rinelli gives his beauties a shot at the crown; Kerrville residents have a winter’s worth of tall tales",
+              "byline": "by Jan Jarboe",
+              "page": "80"
+            },
+            {
+              "title": "The Quidnunc",
+              "subtitle": "",
+              "description": "Desperately seeking the Cadillac Couch; reading Carolyn Farb’s mail; cowboy cologne strikes again",
+              "byline": "by Mark seal",
+              "page": "90"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Dabbling in the spot market",
+              "byline": "by Patricia Sharpe",
+              "page": "150"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "178"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "187"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A cap for San antonio that wouldn’t look good on Henry Cisneros; long-term pessimism hits the oil market; Texas cities finagle their way around tax reform",
+              "byline": "",
+              "page": "188"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

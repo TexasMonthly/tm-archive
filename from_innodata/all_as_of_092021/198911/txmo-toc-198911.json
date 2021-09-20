@@ -1,0 +1,148 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198911",
+    "publication": "Texas Monthly",
+    "issue": "November 1989",
+    "pdf_uri": "/1989/19891100.pdf",
+    "month": "November",
+    "year": 1989,
+    "pages": 232,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents November",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Mythic Rise Of Billy Don Moyers",
+              "subtitle": "",
+              "description": "A small-town boy’s journey from Texas to the cosmos.",
+              "byline": "by Mimi Swartz",
+              "page": "94"
+            },
+            {
+              "title": "Can’T WlN For Losing",
+              "subtitle": "",
+              "description": "When San Antonio’s Memorial Minutemen took on a crosstown rival, all they had to lose was their chance to go down in history as Texas’ worst high school football team.",
+              "byline": "by Skip Hoiiandsworth",
+              "page": ""
+            },
+            {
+              "title": "Billie Sol Estes Has A Deal For You",
+              "subtitle": "",
+              "description": "The guy whose name is synonymous with swindling is finally a free man —but it may not last.",
+              "byline": "by Jan Jarboe",
+              "page": "106"
+            },
+            {
+              "title": "Creature Comforts",
+              "subtitle": "",
+              "description": "Horns, hooves, and hides for the home.",
+              "byline": "by Jerry Jeanmard",
+              "page": "110"
+            },
+            {
+              "title": "So You Re Stuck At the Airport",
+              "subtitle": "",
+              "description": "Your jet’s lagging. You’re sick of reading and people-watching. Cheer up: just a gate away might be great chili, a shopping mall, or even a place to pray.",
+              "byline": "by Richard west",
+              "page": "114"
+            },
+            {
+              "title": "Cowboy Songs",
+              "subtitle": "",
+              "description": "Five favorites from the wide-open spaces, in words and pictures.",
+              "byline": "",
+              "page": "120",
+              "wp_post_id": "124725",
+              "identifier": "txmo-article-198911-cowboyson.json"
+            },
+            {
+              "title": "Hotter’N Hell",
+              "subtitle": "",
+              "description": "Cycling a hundred miles is a hard enough way to spend a Saturday. It’s even harder in Wichita Falls in August.",
+              "byline": "by Lawrence Wright",
+              "page": "126"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "John the Catalyst",
+              "subtitle": "Politics",
+              "description": "In his new book, James Reston, Jr., tries unsuccessfully to make John Connally larger than life.",
+              "byline": "by Paul Burka",
+              "page": "130"
+            },
+            {
+              "title": "Body Count",
+              "subtitle": "Education",
+              "description": "To a small rural school district, the size of a teacher’s family can spell the difference between money in the bank and fiscal disaster.",
+              "byline": "by Tom Dodge",
+              "page": "134"
+            },
+            {
+              "title": "Sound Investments",
+              "subtitle": "Classical Music",
+              "description": "Two Texas orchestras bid for international acclaim: the Dallas symphony with a cushy, costly new home and the Houston symphony with a creative new conductor.",
+              "byline": "by Chester Rosson",
+              "page": "140"
+            },
+            {
+              "title": "Tv Guides",
+              "subtitle": "Business",
+              "description": "Daytime television isn’t just for housewives anymore; car salesmen, cops, and stockbrokers are tuning in to business networks.",
+              "byline": "by Bill Crawford",
+              "page": "182"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "From Sin Street to Fun Street.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Hooker strikes out; Texas screenwriters hit Hollywood pay dirt; Baptists bicker over Bible book.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Conquest Airlines flies where few have gone before; baby boomers get their acts together; a coach and a student rap it up in Brazosport.",
+              "byline": "by Joe Nick Patoski",
+              "page": "82"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "What Donald Trump means to American Airlines, win or lose; oil and landowners don’t mix; why it’s hard to do the right thing about school finance.",
+              "byline": "",
+              "page": "228"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

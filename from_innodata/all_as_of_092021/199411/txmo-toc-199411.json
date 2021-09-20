@@ -1,0 +1,175 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199411",
+    "publication": "Texas Monthly",
+    "issue": "November 1994",
+    "pdf_uri": "/1994/19941100.pdf",
+    "month": "November",
+    "year": 1994,
+    "pages": 231,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Sense and Sensuality",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by Dan Michalski",
+              "page": "44"
+            },
+            {
+              "title": "Sea Change",
+              "subtitle": "Environment",
+              "description": "",
+              "byline": "by Joe Nick Patoski",
+              "page": "58"
+            },
+            {
+              "title": "Jungle Fever",
+              "subtitle": "Travel",
+              "description": "",
+              "byline": "by Turk Pipkin",
+              "page": "72"
+            },
+            {
+              "title": "Stuck in the Middle",
+              "subtitle": "Politics",
+              "description": "",
+              "byline": "by Paul Burka",
+              "page": "80"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Love in Public",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by David McCormick",
+              "page": "86"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "98"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "175"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "177"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Mimi Swartz",
+              "page": "220"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Sins Of the Father",
+              "subtitle": "",
+              "description": "Is Charles Voyd Harrelson a natural-born killer? His movie star son, Woody, isn’t sure—but I am.",
+              "byline": "by Gary Cartwright",
+              "page": "100",
+              "wp_post_id": "127893",
+              "identifier": "txmo-article-199411-thesinso.json"
+            },
+            {
+              "title": "Disarmed and Dangerous",
+              "subtitle": "",
+              "description": "With the end of the cold war, the Pantex nuclear facility is dismantling its bombs. Will nearby amarillo’s environment and economy get blown to pieces?",
+              "byline": "by Gary Cartwright",
+              "page": "104",
+              "wp_post_id": "127890",
+              "identifier": "txmo-article-199411-disarmeda.json"
+            },
+            {
+              "title": "Sympathy for The Devils",
+              "subtitle": "",
+              "description": "Riding the rapids of Texas’ last major unpolluted river is dangerous enough. But trample the private property around it and you could really get hurt.",
+              "byline": "by Jan Reid",
+              "page": "110",
+              "wp_post_id": "127887",
+              "identifier": "txmo-article-199411-sympathyf.json"
+            },
+            {
+              "title": "The Seduction Of Jane Doe",
+              "subtitle": "",
+              "description": "When a teacher romances a student, are school officials to blame? That’s the crux of a case that began in the small town of Taylor and ended up in the U.S. Supreme Court.",
+              "byline": "by Skip Hollandsworth",
+              "page": "116"
+            },
+            {
+              "title": "Hard Times For Henry",
+              "subtitle": "",
+              "description": "Hounded by his ex-lover in Lubbock, pounded by his enemies in Washington, Henry Cisneros is in trouble—and it’s all on tape.",
+              "byline": "by Paul Burka",
+              "page": "120"
+            },
+            {
+              "title": "Black and While World",
+              "subtitle": "",
+              "description": "Life as it really was in Texas’ african american community, as seen through the eyes of almost forgotten photographers.",
+              "byline": "by Helen Thompson",
+              "page": "122",
+              "wp_post_id": "127878",
+              "identifier": "txmo-article-199411-blackand.json"
+            },
+            {
+              "title": "The Best Pecan Pie on Earth",
+              "subtitle": "",
+              "description": "This Thanksgiving recipe has been my family’s secret for four generations. Now it can be told.",
+              "byline": "by Jane Dure",
+              "page": "128"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197912",
+    "publication": "Texas Monthly",
+    "issue": "December 1979",
+    "pdf_uri": "/1979/19791200.pdf",
+    "month": "December",
+    "year": 1979,
+    "pages": 276,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Tiny Texas",
+              "subtitle": "",
+              "description": "If you want big, we’ve got big. If you want small, we’ve got that, too.",
+              "byline": "Anne Dingus",
+              "page": "128",
+              "wp_post_id": "113493",
+              "identifier": "txmo-article-197912-tinytexas.json"
+            },
+            {
+              "title": "The Best Little Hotels In Mexico",
+              "subtitle": "",
+              "description": "We’ve found them: nine of Mexico’s best colonial inns and lodges. All you have to do is make reservations.",
+              "byline": "Cyndy Severson",
+              "page": "138",
+              "wp_post_id": "113490",
+              "identifier": "txmo-article-197912-thebestl.json"
+            },
+            {
+              "title": "Picking Up the Pieces",
+              "subtitle": "",
+              "description": "You load sixteen tons, and what do you get? Ask your garbageman.",
+              "byline": "Pat Hathcock",
+              "page": "146"
+            },
+            {
+              "title": "Smokers Are People Too",
+              "subtitle": "",
+              "description": "You can always spot a smoker. He fiddles with matches, his shirt pocket bulges in a tiny rectangle, and fumes emerge from his mouth and nose. But what should we do about him?",
+              "byline": "Dick Reavis",
+              "page": "150",
+              "wp_post_id": "113481",
+              "identifier": "txmo-article-197912-smokersar.json"
+            },
+            {
+              "title": "The Real Mean Green",
+              "subtitle": "",
+              "description": "Talk to coaches and team owners about AstroTurf and you’ll hear all its advantages. Talk to the players and you’ll hear a different story.",
+              "byline": "Jan Reid",
+              "page": "152",
+              "wp_post_id": "113475",
+              "identifier": "txmo-article-197912-therealm.json"
+            },
+            {
+              "title": "My Life And Hard Times In the Junior League",
+              "subtitle": "",
+              "description": "“In the League, you’ll run into a little tradition, some noblesse oblige, and a lot of talk about diets, dyslexia, designer dresses, and divorce. ”",
+              "byline": "Prudence Mackintosh",
+              "page": "156"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Looking On the Bright Side",
+              "subtitle": "Energy",
+              "description": "Pollyanna goes to Harvard—and writes a book about energy.",
+              "byline": "Stephen Chapman",
+              "page": "162"
+            },
+            {
+              "title": "The Ultimate Croissant",
+              "subtitle": "Dining Out",
+              "description": "With open arms—that is, mouths—Texans welcome a new breed of bakery.",
+              "byline": "W. L. Taitte",
+              "page": "166"
+            },
+            {
+              "title": "Zandra And the Laughing Elk",
+              "subtitle": "Stepping Out",
+              "description": "At Neiman’s Fortnight the attractions varied between eccentric Americans and somnambulant British.",
+              "byline": "Michael Ennis",
+              "page": "172"
+            },
+            {
+              "title": "The Long Nights Of Preston Jones",
+              "subtitle": "Theater",
+              "description": "A remembrance of the late Texas playwright who spent his days and nights pondering imponderables.",
+              "byline": "Ole Anthony",
+              "page": "180"
+            },
+            {
+              "title": "Go-Getters And Holders-On",
+              "subtitle": "Church",
+              "description": "The difference between jogging with the Lord and just walking along behind.",
+              "byline": "William Martin",
+              "page": "190"
+            },
+            {
+              "title": "The Vampire Killer",
+              "subtitle": "Film",
+              "description": "Werner Herzog reverently remade the classic 1921 version o/Nosferatu. He should have left scary enough alone.",
+              "byline": "George Morris",
+              "page": "196"
+            },
+            {
+              "title": "Why the Alley?",
+              "subtitle": "Theater",
+              "description": "For the sake of the audience, it’s a question that needs to be asked. College productions of A Doll’s House show why actors go to school. Fort Worth has good actors and good producers—but not, alas, in the same theater.",
+              "byline": "W. L. Taitte",
+              "page": "198"
+            },
+            {
+              "title": "The Big Loser",
+              "subtitle": "Classical Music",
+              "description": "A young Russian defector blows his chance to win the Van Cliburn International Piano Competition and goes on to find fame and fortune.",
+              "byline": "W. L. Taitte",
+              "page": "204"
+            },
+            {
+              "title": "Tune In To the Eighties",
+              "subtitle": "Popular Music",
+              "description": "New stars in sight are big and bright—deep in the heart of Texas.",
+              "byline": "Joe Nick Patoski",
+              "page": "206"
+            },
+            {
+              "title": "The Thin Man",
+              "subtitle": "Art",
+              "description": "Albert Giacometti’s sculptured figures, now at the Dallas Museum of Fine Arts, are tall, emaciated, uncomprehending—and breathtaking.",
+              "byline": "Michael Ennis",
+              "page": "214"
+            },
+            {
+              "title": "Memoir Of the Soil",
+              "subtitle": "Books",
+              "description": "A. C. Greene’s singular, exquisite vision of West Texas; a thriller that’s better than it should be; and a historical novel with too much history.",
+              "byline": "Stephen Harrigan",
+              "page": "218"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "If the eighties are here, where did the seventies go?",
+              "byline": "William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Wee people.",
+              "byline": "Gregory Curtis",
+              "page": "8"
+            },
+            {
+              "title": "The Road Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Heart warmers, house warmers, and nose warmers.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Whose blonde, curly scalp are the farmers after? How do the rich and powerful run? Why, pray tell, does Houston need parks?",
+              "byline": "John Bloom",
+              "page": "108"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "271"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Will the feds hijack our power? Will Akers slip off to Lsu?",
+              "byline": "",
+              "page": "272"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197808",
+    "publication": "Texas Monthly",
+    "issue": "August 1978",
+    "pdf_uri": "/1978/19780800.pdf",
+    "month": "August",
+    "year": 1978,
+    "pages": 184,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "A Peach Of a Deal",
+              "subtitle": "",
+              "description": "Texas is cattle, oil, Stetsons, peaches, branding irons . . . peaches?",
+              "byline": "Richard West",
+              "page": "82"
+            },
+            {
+              "title": "Trouble In Paradise",
+              "subtitle": "",
+              "description": "Resort hotels and luxury condominiums line the shore of South Padre, yet foot by foot, day by day, the island is washing away.",
+              "byline": "Paul Burka",
+              "page": "88"
+            },
+            {
+              "title": "Barton Springs Eternal",
+              "subtitle": "",
+              "description": "What was once a mere rural spring is now a crowded, languorous, bare-skinned utopia.",
+              "byline": "",
+              "page": "92"
+            },
+            {
+              "title": "The Death Of a Ranger",
+              "subtitle": "",
+              "description": "Bob Doherty was a Texas Ranger who believed in the myth of the Old West; Greg Ott was a college dope dealer, a child of the sixties. When they met, it destroyed both their lives.",
+              "byline": "Gary Cartwright",
+              "page": "98"
+            },
+            {
+              "title": "Labor Pains",
+              "subtitle": "",
+              "description": "Second-generation refinery workers don’t believe in politicians or corporations and some of them don’t believe in unions. The question is, do they believe in strikes?",
+              "byline": "Dick Reavis",
+              "page": "106",
+              "wp_post_id": "112569",
+              "identifier": "txmo-article-197808-laborpain.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Loser",
+              "subtitle": "Country Notes",
+              "description": "When another farmer goes broke, his neighbors thank God it wasn’t them; then they wonder when their turn is coming.",
+              "byline": "John Graves",
+              "page": "112"
+            },
+            {
+              "title": "Hair Today, Gone Tomorrow",
+              "subtitle": "Lifestyles",
+              "description": "If you’re going bald, there’s only one thing to do: blame mother.",
+              "byline": "Stephen Harrigan",
+              "page": "116"
+            },
+            {
+              "title": "The Missing Link",
+              "subtitle": "Dining In",
+              "description": "How to stuff a wild salami.",
+              "byline": "Linda West Eckhardt",
+              "page": "120"
+            },
+            {
+              "title": "Grand Unction",
+              "subtitle": "Film",
+              "description": "Grease is about as appealing as its name implies.",
+              "byline": "George Morris",
+              "page": "126"
+            },
+            {
+              "title": "In Praise Of Follies",
+              "subtitle": "Theater",
+              "description": "A motley crew of actors, writers, and musicians are creating the most talked-about theater in austin.",
+              "byline": "Nancy Kaufman",
+              "page": "130"
+            },
+            {
+              "title": "The Hills Are Alive",
+              "subtitle": "Classical Music",
+              "description": "Once a year in Fayette County sauerkraut and sausage give way to classical music.",
+              "byline": "W. L. Taitte",
+              "page": "134"
+            },
+            {
+              "title": "Notes From the Ground",
+              "subtitle": "Popular Music",
+              "description": "Most pop festivals have moved into stadiums, but this summer two Texas musical events blossomed in the great outdoors.",
+              "byline": "Joe Nick Patoski",
+              "page": "136"
+            },
+            {
+              "title": "The Shape Of Things To Come",
+              "subtitle": "architecture",
+              "description": "The future’s over, and the past has just begun.",
+              "byline": "Michael Ennis",
+              "page": "140"
+            },
+            {
+              "title": "Apple Encore",
+              "subtitle": "Books",
+              "description": "Max apple’s oddball touches make a zany and endearing novel.",
+              "byline": "Stephen Harrigan",
+              "page": "144"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Stalking elusive birds and energy czars.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "The truth, the whole truth.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "In the name of Justice.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "My kingdom for a horse.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Plainview puts a lid on deviate sex; billions of animals sleep in a freezer; oil spills are coming and we’re not ready.",
+              "byline": "John Bloom",
+              "page": "62"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Not the same old cliché.",
+              "byline": "Paul Burka",
+              "page": "180"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

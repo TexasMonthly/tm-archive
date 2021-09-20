@@ -1,0 +1,195 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198504",
+    "publication": "Texas Monthly",
+    "issue": "April 1985",
+    "pdf_uri": "/1985/19850400.pdf",
+    "month": "April",
+    "year": 1985,
+    "pages": 244,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Best Of Texas",
+              "subtitle": "",
+              "description": "We’ve gone from one end of the state to the other to bring you the best-ever list of Texas Bests.",
+              "byline": "Peter Applebome",
+              "page": "122",
+              "wp_post_id": "121419",
+              "identifier": "txmo-article-198504-thebesto.json"
+            },
+            {
+              "title": "Mikey",
+              "subtitle": "",
+              "description": "He left his parents’ house in search of a world where things were black and white, where there were heroes and villains. What he found in the slums of Port Arthur was a world that would tolerate people like him-and take advantage of them.",
+              "byline": "Dick J. Reavis",
+              "page": "132",
+              "wp_post_id": "121416",
+              "identifier": "txmo-article-198504-mikey.json"
+            },
+            {
+              "title": "The Bluebonnet Snapshot",
+              "subtitle": "Texas Primer",
+              "description": "Okay, so photos of cute kids in fields of bluebonnets aren’t great art. That’s not the point at all.",
+              "byline": "Suzanne Winckler",
+              "page": "138"
+            },
+            {
+              "title": "Ambient Color",
+              "subtitle": "",
+              "description": "As these photographs show, in Mexico the strange is commonplace, and the commonplace, strange.",
+              "byline": "Robert A. Widdicombe",
+              "page": "140",
+              "wp_post_id": "121413",
+              "identifier": "txmo-article-198504-ambientco.json"
+            },
+            {
+              "title": "Going Back For Seconds",
+              "subtitle": "",
+              "description": "Can there be too much of a good thing? Five of Texas’favorite restaurants have duplicated themselves in other cities, and now they’re finding out.",
+              "byline": "Alison Cook",
+              "page": "146",
+              "wp_post_id": "121410",
+              "identifier": "txmo-article-198504-goingback.json"
+            },
+            {
+              "title": "Life, Art, And the Wackiest Politician In Texas",
+              "subtitle": "",
+              "description": "San Antonio city councilman Bernardo Eureste took a paltry arts budget and built it into a $3 million power base. Then he got mad and tore it all apart.",
+              "byline": "Mimi Swartz",
+              "page": "150",
+              "wp_post_id": "121407",
+              "identifier": "txmo-article-198504-lifearta.json"
+            },
+            {
+              "title": "Why Boone Can’t Lose",
+              "subtitle": "",
+              "description": "An old hand at Pickens-watching reveals the key to the Amarillo oilman’s corporate-takeover antics.",
+              "byline": "Joseph Nocera",
+              "page": "154",
+              "wp_post_id": "121404",
+              "identifier": "txmo-article-198504-whyboone.json"
+            },
+            {
+              "title": "Registered Herefords On the Lbj Ranch",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "Sean Earley",
+              "page": "157",
+              "wp_post_id": "121398",
+              "identifier": "txmo-article-198504-registered.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Birth Of A Lobby",
+              "subtitle": "Politics",
+              "description": "The computer industry in Texas has a new lobby organized by three lobbyists who were in the right place at the right time-and knew it.",
+              "byline": "John Schwartz",
+              "page": "160"
+            },
+            {
+              "title": "Lingering Blues",
+              "subtitle": "Jazz",
+              "description": "John Hardee and Budd Johnson were two legendary Texas tenors who had their own ways of making peace with the rigors of the jazz life.",
+              "byline": "Doug Ramsey",
+              "page": "166"
+            },
+            {
+              "title": "Where’s the Lamb?",
+              "subtitle": "Farm and Ranch",
+              "description": "After extensive taste tests, our reporter concludes that the best lamb is to be found in our own back yard.",
+              "byline": "Suzanne Winckler",
+              "page": "170"
+            },
+            {
+              "title": "Zombie Heaven",
+              "subtitle": "Movies",
+              "description": "Into the Night leaves you in the dark; The Breakfast Club's teenagers are out to lunch; Witness is a solemn eyeful.",
+              "byline": "James Wolcott",
+              "page": "174"
+            },
+            {
+              "title": "Contemporary Classic",
+              "subtitle": "Classical Music",
+              "description": "The octogenarian whom many believe to be the greatest living composer pays a long-awaited visit to Texas.",
+              "byline": "W. L. Taitte",
+              "page": "178"
+            },
+            {
+              "title": "Move Over, Nancy Drew",
+              "subtitle": "Software",
+              "description": "Now young adventuresses can do more than just read about excitement. A new computer game for girls requires them to use their wits for survival.",
+              "byline": "Scott Lubeck",
+              "page": "182"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The road into town.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The Max factor of Dallas; the tacos of Paris; the tales of Urrutia; the Hemingway of Texas; the good word from Houston; the mysteries of the Hueco Tanks.",
+              "byline": "Stephen Harrigan",
+              "page": "100"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Wet and wonderful.",
+              "byline": "Patricia Sharpe",
+              "page": "200"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "239"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "If Lubbock gets a riverwalk, can a river be far behind?; previewing the mayors’ races; can Texas consultants make Pan dulce?; the Chronicle kills a story.",
+              "byline": "",
+              "page": "240"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

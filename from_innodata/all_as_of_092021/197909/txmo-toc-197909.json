@@ -1,0 +1,197 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197909",
+    "publication": "Texas Monthly",
+    "issue": "September 1979",
+    "pdf_uri": "/1979/19790900.pdf",
+    "month": "September",
+    "year": 1979,
+    "pages": 236,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Promised Land",
+              "subtitle": "",
+              "description": "Two wetbacks from Mexico inherit the legacy of all immigrants—grueling labor, low pay, and a bleak existence on the edge of the American dream.",
+              "byline": "John Davidson",
+              "page": "104"
+            },
+            {
+              "title": "Easy Money",
+              "subtitle": "",
+              "description": "Faster than a speeding Master Charge, funkier than a garage sale, able to leap bad credit ratings at a single bound. Look, up at the sign! It’s a bank! It’s a store! It’s—Super Pawn!",
+              "byline": "Mike Hicks",
+              "page": "110"
+            },
+            {
+              "title": "Honey, You’Re Still Driving Me Crazy",
+              "subtitle": "",
+              "description": "Wise up: that insipid supermarket sugar-water you’ve been putting on your toast isn’t honey. The real stuff—Texas honey—is as full-bodied and distinctive as the nectars that go into it.",
+              "byline": "Richard West",
+              "page": "118"
+            },
+            {
+              "title": "Why Teachers Can’T Teach",
+              "subtitle": "",
+              "description": "Our system of training teachers is a crime that robs taxpayers of millions of dollars, robs potential teachers of competence and self-respect, and robs our kids of a decent education.",
+              "byline": "Gene Lyons",
+              "page": "122"
+            },
+            {
+              "title": "Football Heroes",
+              "subtitle": "",
+              "description": "The best part of Texas high school football is that it’s the biggest thing in town—and still only a game.",
+              "byline": "Al Reinert",
+              "page": "130",
+              "wp_post_id": "113832",
+              "identifier": "txmo-article-197909-footballh.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Beautiful And the Damned",
+              "subtitle": "Stepping Out",
+              "description": "Town & Country magazine came to Texas to record our sophistication, wealth, and savoir faire—and all hell broke loose.",
+              "byline": "Michael Ennis",
+              "page": "142"
+            },
+            {
+              "title": "Hooping It Up",
+              "subtitle": "Sports",
+              "description": "Pickup basketball is not a pastime for the lily-livered or the lackadaisical.",
+              "byline": "Michael Haggerty",
+              "page": "147"
+            },
+            {
+              "title": "Up the Creek",
+              "subtitle": "Politics",
+              "description": "Everyone in Austin loves sparkling Barton Creek—especially the developers.",
+              "byline": "Nicholas Lemann",
+              "page": "152"
+            },
+            {
+              "title": "Hearts And Minds",
+              "subtitle": "Church",
+              "description": "Welcome to Dallas’ First Baptist, the largest Baptist church in the world, with a pastor and a service to match; a more modest path to religious enlightenment leads you to Houston’s Emerson Unitarian.",
+              "byline": "William Martin",
+              "page": "160"
+            },
+            {
+              "title": "The Truth Hurts",
+              "subtitle": "Film",
+              "description": "North Dallas Forty scores but misses the extra point, Dracula bites off more than it can chew, and Peppermint Soda recalls with accuracy the bittersweet days of adolescence.",
+              "byline": "Gregory Curtis",
+              "page": "168"
+            },
+            {
+              "title": "Dust Off Your Blue Suede Shoes",
+              "subtitle": "Popular Music",
+              "description": "Then grab your platters and step into the golden era of rock ’n ’ roll.",
+              "byline": "Joe Nick Patoski",
+              "page": "172"
+            },
+            {
+              "title": "Requiem For A Heavyweight",
+              "subtitle": "Jazz",
+              "description": "Charles Mingus was a great jazz musician with a sharp mind, an impeccable sense of rhythm, and a mighty powerful fist.",
+              "byline": "Doug Ramsey",
+              "page": "178"
+            },
+            {
+              "title": "Unfancy Dancer",
+              "subtitle": "Dance",
+              "description": "Some have said that life is a dance, and Deborah Hay makes you believe it.",
+              "byline": "Suzanne Shelton",
+              "page": "182"
+            },
+            {
+              "title": "Mexican Mystery Tour",
+              "subtitle": "Books",
+              "description": "Charles Portis’ new novel belongs to the tradition of great frontier yarns, but this time the young man goes south.",
+              "byline": "Gregory Curtis",
+              "page": "184"
+            },
+            {
+              "title": "Another Roadside Attraction",
+              "subtitle": "Art",
+              "description": "Houston National Bank’s “Larger Canvas Two” takes it to the streets.",
+              "byline": "Michael Ennis",
+              "page": "186"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Waltzing across Texas.",
+              "byline": "Richard West",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Photo jock; teachers’ pest.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "To bid or not to bid; aye, there’s the rub.",
+              "byline": "Patricia Sharpe",
+              "page": "16"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "B-a-a-d government meddling irks Texas goat and sheep raisers; something’s rotten in Rotterdam, and it’s driving up oil prices; and the world’s best gymnasts are coming to Cowtown.",
+              "byline": "John Bloom",
+              "page": "86"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "229"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Not-so-little leaguer finds fountain of youth; schools have to test and tell whether Johnny can’t read; Houston’s new shingle ordinance tries to lock the barn door.",
+              "byline": "",
+              "page": "232"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

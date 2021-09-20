@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199306",
+    "publication": "Texas Monthly",
+    "issue": "June 1993",
+    "pdf_uri": "/1993/19930600.pdf",
+    "month": "June",
+    "year": 1993,
+    "pages": 219,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Deconstructing Willie",
+              "subtitle": "Culture",
+              "description": "",
+              "byline": "by Stephen Harrigan",
+              "page": "34"
+            },
+            {
+              "title": "Range Writer",
+              "subtitle": "Literature",
+              "description": "",
+              "byline": "by John Morthland",
+              "page": "38"
+            },
+            {
+              "title": "Cat Fight",
+              "subtitle": "Environment",
+              "description": "",
+              "byline": "by Christine Carroll",
+              "page": "50"
+            },
+            {
+              "title": "Holding the Fort",
+              "subtitle": "Texana",
+              "description": "",
+              "byline": "by Stephen Harrigan",
+              "page": "92"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "School’s Out",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "7"
+            },
+            {
+              "title": "Roar off the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Helen Thompson",
+              "page": "102"
+            },
+            {
+              "title": "State off the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "114"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "184"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "185"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "212"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "You Lose!",
+              "subtitle": "",
+              "description": "Scratch the surface of the Texas Lottery and you’ll find political opportunism, a cynical marketing campaign, and endless hype.",
+              "byline": "by Robert Draper",
+              "page": "118"
+            },
+            {
+              "title": "A Little Scratch",
+              "subtitle": "",
+              "description": "Texas Monthly tests the odds.",
+              "byline": "by Robert Draper",
+              "page": "122"
+            },
+            {
+              "title": "Ask Dr. Lotto",
+              "subtitle": "",
+              "description": "Where the money goes, how winners get paid, and other true facts.",
+              "byline": "by Robert Draper",
+              "page": "125"
+            },
+            {
+              "title": "Postage Due",
+              "subtitle": "",
+              "description": "Who cares if Elvis was king? It’s time for stamps honoring Lyndon, Janis, and other Texas royalty.",
+              "byline": "by Anne Dingus",
+              "page": "126",
+              "wp_post_id": "127542",
+              "identifier": "txmo-article-199306-postagedu.json"
+            },
+            {
+              "title": "One Last Shot",
+              "subtitle": "",
+              "description": "Decades after his family controlled Galveston’s liquor and gambling, 89-year-old Vic Maceo is clinging to his gangster past—and to his pistol.",
+              "byline": "by Gary Cartwright",
+              "page": "132"
+            },
+            {
+              "title": "David Koresh And the Myth off the Alamo",
+              "subtitle": "",
+              "description": "He was no William Barrett Travis, but in many ways, the leader of the Branch Davidians was an archetypal Texan to the end.",
+              "byline": "by Jan Jarboe",
+              "page": "136"
+            },
+            {
+              "title": "The Enemy Within",
+              "subtitle": "",
+              "description": "A blundered raid and a botched finale don’t change an essential fact about the Mount Carmel standoff: David Koresh is to blame.",
+              "byline": "by Gary Cartwright",
+              "page": "139"
+            },
+            {
+              "title": "Green Highways",
+              "subtitle": "",
+              "description": "If you want to see the real Texas, take a little extra time, turn off the interstates, and ride these alternate routes.",
+              "byline": "by Joe Nick Patoski",
+              "page": "140"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

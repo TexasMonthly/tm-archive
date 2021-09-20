@@ -1,0 +1,192 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198506",
+    "publication": "Texas Monthly",
+    "issue": "June 1985",
+    "pdf_uri": "/1985/19850600.pdf",
+    "month": "June",
+    "year": 1985,
+    "pages": 264,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Last One In . . .",
+              "subtitle": "",
+              "description": "When the summer heat starts to get to you, cool your heels by plunging into an icy green swimming hole.",
+              "byline": "Joe Nick Patoski",
+              "page": "126",
+              "wp_post_id": "121290",
+              "identifier": "txmo-article-198506-lastonei.json"
+            },
+            {
+              "title": "On the Wings Of the Wind",
+              "subtitle": "",
+              "description": "Someday, when the weather is just right, glider pilot Joann Shaw will sail across the sky, alone among the silent and shifting clouds, for hundreds of miles.",
+              "byline": "Stephen Harrigan",
+              "page": "132",
+              "wp_post_id": "121290",
+              "identifier": "txmo-article-198506-lastonei.json"
+            },
+            {
+              "title": "The Last Tarpon",
+              "subtitle": "",
+              "description": "My quest for this magnificent silver fish drew me to a lonely stretch of the Texas coast night and day, summer and fall, over and over again.",
+              "byline": "Peter Barthelme",
+              "page": "134",
+              "wp_post_id": "121290",
+              "identifier": "txmo-article-198506-lastonei.json"
+            },
+            {
+              "title": "La Reina Diana",
+              "subtitle": "",
+              "description": "By her dedication, her rigor, her almost overwhelming enthusiasm, Diana Kennedy forced a generation of cooks to take Mexican food seriously and jolted Texans into realizing that there is life beyond the combination dinner.",
+              "byline": "Alison Cook",
+              "page": "138",
+              "wp_post_id": "121290",
+              "identifier": "txmo-article-198506-lastonei.json"
+            },
+            {
+              "title": "The Hi Sign",
+              "subtitle": "Texas Primer",
+              "description": "The laid-back Texas way of saying howdy on the road.",
+              "byline": "Anne Dingus",
+              "page": "144"
+            },
+            {
+              "title": "The Desperate Search For Christi Meeks",
+              "subtitle": "",
+              "description": "When five-year-old Christi Meeks disappeared and the police couldn't find her, her father turned to Bill Dear, one of the most controversial private detectives in Texas.",
+              "byline": "Jim atkinson",
+              "page": "146",
+              "wp_post_id": "121290",
+              "identifier": "txmo-article-198506-lastonei.json"
+            },
+            {
+              "title": "Cowgirls",
+              "subtitle": "",
+              "description": "Up-to-date Western fashions that’ll knock your boots off.",
+              "byline": "",
+              "page": "150"
+            },
+            {
+              "title": "The Texas Six-Pack",
+              "subtitle": "",
+              "description": "The six freshman Republican congressmen from Texas are young, angry, and energetic. The only question is, can they be effective too?",
+              "byline": "Peter applebome",
+              "page": "156",
+              "wp_post_id": "121290",
+              "identifier": "txmo-article-198506-lastonei.json"
+            },
+            {
+              "title": "Armchair Cowboy",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "George Kocar",
+              "page": "159",
+              "wp_post_id": "121263",
+              "identifier": "txmo-article-198506-armchairc.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Going Whole Hog",
+              "subtitle": "Books",
+              "description": "Larry McMurtry’s grand epic, Lonesome Dove, opens with blue snake-eating pigs and goes on to describe unflinchingly the settlement of the american West. Mark Singer’s Funny Money examines the biggest bank failure in U. S. history.",
+              "byline": "Jan Morris",
+              "page": "160",
+              "wp_post_id": "121290",
+              "identifier": "txmo-article-198506-lastonei.json"
+            },
+            {
+              "title": "Aching Hollows",
+              "subtitle": "Movies",
+              "description": "Heartbreakers has a drowsy punch, but it still stings; 1918 deposits us in nostalgia; My First Wife is all psychodrama, no wit; Sylvia is refined, reserved—and despairing.",
+              "byline": "James Wolcott",
+              "page": "166"
+            },
+            {
+              "title": "Mornin’, Mr. Smitherman",
+              "subtitle": "Radio",
+              "description": "Every day the citizens of Cameron rise and shine to the radio antics of Eugene “Unk” Smitherman and his creation, a lovable rube named Silas Strausberger.",
+              "byline": "Joseph Wills",
+              "page": "172"
+            },
+            {
+              "title": "Just One Of Those Things",
+              "subtitle": "Jazz",
+              "description": "Jazz singers defy definition. They may scat, or they may not; they may be veterans or newcomers; they may decline the label of jazz singer. But their music always gives them away.",
+              "byline": "Doug Ramsey",
+              "page": "178"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The testing of a test.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Topping it off; pickin’ on T. Boone; traveling the byways; finding relief.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Austin’s infamous Iguana; Lucas’ latest story; San antonio’s dedicated Dodgers; Tascosa’s secretive spirits.",
+              "byline": "Jan Reid",
+              "page": "106"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Aids de camp.",
+              "byline": "Patricia Sharpe",
+              "page": "182",
+              "wp_post_id": "121290",
+              "identifier": "txmo-article-198506-lastonei.json"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "When in Rome . . .",
+              "byline": "",
+              "page": "247"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Can Ross Perot get the Indians to sell out Manhattan again ? Why Kent Hance may not run; roll out the pork barrel; shoot down that trial balloon.",
+              "byline": "",
+              "page": "248"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

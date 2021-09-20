@@ -1,0 +1,185 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198203",
+    "publication": "Texas Monthly",
+    "issue": "March 1982",
+    "pdf_uri": "/1982/19820300.pdf",
+    "month": "March",
+    "year": 1982,
+    "pages": 240,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "A Slip Of the Tongue",
+              "subtitle": "",
+              "description": "In Lyndon Johnson’s mind, Viet Nam was like the alamo all over again.",
+              "byline": "Ronnie Dugger",
+              "page": "114",
+              "wp_post_id": "118422",
+              "identifier": "txmo-article-198203-aslipof.json"
+            },
+            {
+              "title": "The Tumbleweed",
+              "subtitle": "Texas Primer",
+              "description": "It’s only a humble weed, but just try to imagine West Texas without it.",
+              "byline": "",
+              "page": "118"
+            },
+            {
+              "title": "The Very Rich Life Of Enrico Di Portanova",
+              "subtitle": "",
+              "description": "Hugh Roy Cullen found the oil and made one of Houston’s great fortunes; now his grandson is spending his inheritance like there is no tomorrow, and suing for more.",
+              "byline": "John Davidson",
+              "page": "122"
+            },
+            {
+              "title": "Drinking",
+              "subtitle": "",
+              "description": "Saint Paul said that a little wine is a fine thing. He must have known something.",
+              "byline": "John Graves",
+              "page": "128"
+            },
+            {
+              "title": "Byob",
+              "subtitle": "",
+              "description": "When liquor by the drink went into effect in 1971, Texas changed forever.",
+              "byline": "Anne Dingus",
+              "page": "132"
+            },
+            {
+              "title": "Ladies And Gentlemen, the Next President Of Mexico",
+              "subtitle": "",
+              "description": "On the surface, Mexico’s presidential election looks a lot like ours—rallies, placards, speeches—but the outcome there is never in doubt.",
+              "byline": "Dick J. Reavis",
+              "page": "134",
+              "wp_post_id": "118401",
+              "identifier": "txmo-article-198203-ladiesand.json"
+            },
+            {
+              "title": "Mexico In Color",
+              "subtitle": "",
+              "description": "A courageous photographer dares to break the color barrier.",
+              "byline": "Geoff Winningham",
+              "page": "138"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "We Believe In You, Coach",
+              "subtitle": "Sports",
+              "description": "In hiring football coach Jackie Sherrill, the A&M regents were acting like shrewd businessmen, but that may not be the best way to run a university.",
+              "byline": "Dan Balz",
+              "page": "160"
+            },
+            {
+              "title": "Contentshe Writer Stumbles",
+              "subtitle": "Books",
+              "description": "Celebrity is Thomas Thompson’s flawed venture into fiction; The Ghosts of Elkhorn is a story about the Old West told well; The Last Texas Hero deserves a twenty-yard penalty; Peeper is to be read only to find out who the real Tom is.",
+              "byline": "John Bloom",
+              "page": "169"
+            },
+            {
+              "title": "Marriage In the Combat Zone",
+              "subtitle": "Movies",
+              "description": "Shoot the Moon is about domestic warfare with tenderness and humor between the skirmishes; One From the Heart succeeds as art but fails as real life; Willie Nelson is just one of several good reasons to go see Barbarosa.",
+              "byline": "James Wolcott",
+              "page": "175"
+            },
+            {
+              "title": "Making Hole",
+              "subtitle": "Working",
+              "description": "Mudding up, twisting off, and other mysteries in the life of a roughneck.",
+              "byline": "Chuck Roach",
+              "page": "180"
+            },
+            {
+              "title": "Contentshe Soaps Get Religion",
+              "subtitle": "Church",
+              "description": "Another Life, the Christian Broadcasting Network’s born-again soap, hasn’t discarded the essentials of the genre: sex, crime, and violence.",
+              "byline": "William Martin",
+              "page": "186"
+            },
+            {
+              "title": "Contentshe Score In Houston",
+              "subtitle": "Classical Music",
+              "description": "Two young conductors are rousing audiences in Houston and making motions toward becoming the country’s finest maestros.",
+              "byline": "W. L. Taitte",
+              "page": "192"
+            },
+            {
+              "title": "Hot Pasta",
+              "subtitle": "Dining Out",
+              "description": "From their antipastos to their cannoli, three restaurants are leading Texans to the pure, simple pleasures of classical Italian cooking.",
+              "byline": "W. L. Taitte",
+              "page": "198"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Dignity and groovy threads.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Steers charge, Wildcats retreat, scorpions to eat.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "With a quack-quack here and a neigh-neigh there.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Private eyes are peeled for oil thieves; Lightnin’ Hopkins’s death left Houston singin’ the blues; Zentner’s steakhouses hoof it across Texas; folks are MADD as hell about DWI; Places Rated almanac flunks the rating game.",
+              "byline": "Peter applebome",
+              "page": "94"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Number, please.",
+              "byline": "",
+              "page": "239"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Drilling for oil on hallowed ground; nannies invade Dallas; McKnight of the living dead; does the Voting Rights act really help Mexican americans?",
+              "byline": "",
+              "page": "240"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

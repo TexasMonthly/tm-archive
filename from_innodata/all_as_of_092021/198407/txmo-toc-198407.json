@@ -1,0 +1,155 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198407",
+    "publication": "Texas Monthly",
+    "issue": "July 1984",
+    "pdf_uri": "/1984/19840700.pdf",
+    "month": "July",
+    "year": 1984,
+    "pages": 200,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Dining Out Is Fun!",
+              "subtitle": "",
+              "description": "If mother doesn’t make food like she used to, there are still a few great cafes in Texas that will.",
+              "byline": "Ed and Susan Ellis Kennard",
+              "page": "100"
+            },
+            {
+              "title": "The Man Who Dreamed Up Luckenbach",
+              "subtitle": "",
+              "description": "Hondo Crouch went from being a champion athlete to being the sad clown of Texas’ fun-and-games capital.",
+              "byline": "John Davidson",
+              "page": "108"
+            },
+            {
+              "title": "The Blue Law",
+              "subtitle": "Texas Primer",
+              "description": "On Sunday it is legal to buy beer but not baby bottles, screws but not screwdrivers, disposable diapers but not cloth ones. No place but Texas.",
+              "byline": "Jim Atkinson",
+              "page": "114"
+            },
+            {
+              "title": "Mrs. De Menil’s Eye",
+              "subtitle": "",
+              "description": "When Dominique de Menil organized the Paris premiere of her legendary art collection, she must have blinked.",
+              "byline": "Michael Ennis",
+              "page": "116"
+            },
+            {
+              "title": "The Man In the Black Hat, Part Two",
+              "subtitle": "",
+              "description": "With the help of a friendly banker and some friendlier politicians, Clinton Manges conquered mighty Mobil Oil and saved his empire. But not for long—it’s in jeopardy again.",
+              "byline": "Paul Burka",
+              "page": "122"
+            },
+            {
+              "title": "Take This Job And Love It",
+              "subtitle": "",
+              "description": "Sandi Barton works from 8:30 to 5 as a secretary in a downtown Dallas office. She knows a lot of women look down on her job, but it suits her just fine.",
+              "byline": "David Seeley",
+              "page": "126",
+              "wp_post_id": "120123",
+              "identifier": "txmo-article-198407-takethis.json"
+            },
+            {
+              "title": "Cat Dog Man",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "Sue Llewellyn",
+              "page": "131"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Temple Of Excess",
+              "subtitle": "Movies",
+              "description": "Indiana Jones bashes us with unthinking cruelty; The Natural is a balk; Sixteen Candles is lit up with tickling teenage talk.",
+              "byline": "James Wolcott",
+              "page": "132"
+            },
+            {
+              "title": "A Byte Of Life",
+              "subtitle": "Software",
+              "description": "The Flight Simulator and Heroism in the Modern Age are realistic new computer games that offer a wonderful mix of fantasy and reality; Free Enterprise is too simplistic to be much fun.",
+              "byline": "Scott Lubeck",
+              "page": "138"
+            },
+            {
+              "title": "Getting Mellow",
+              "subtitle": "Jazz",
+              "description": "In the sixties the free-jazz movement produced music that was defiantly experimental, and the same artists are still playing some of the most stimulating jazz around.",
+              "byline": "Doug Ramsey",
+              "page": "144"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Plugging in and plugging along.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Austin’s ins and outs, Lamaze’s pros and cons, the sun’s ups and downs.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events. Suzanne Winckler",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A meditation on the radioactive peril in Juarez; a trip to the World’s Fair in New Orleans; a search for the biggest tree in Texas; a look at the state’s biggest rock ’n' roll promoters.",
+              "byline": "",
+              "page": "82"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Summertime, summertime, sum-sum-summertime.",
+              "byline": "Patricia Sharpe",
+              "page": "150"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "The acid syndrome.",
+              "byline": "",
+              "page": "195"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Presenting the Big Bend Condos and Solitario Safari; Mexico finds out what it feels like to have an immigrant problem; Oscar Wyatt and Clinton Manges gird for battle; inside report from the special session.",
+              "byline": "",
+              "page": "196"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

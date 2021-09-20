@@ -1,0 +1,152 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198107",
+    "publication": "Texas Monthly",
+    "issue": "July 1981",
+    "pdf_uri": "/1981/19810700.pdf",
+    "month": "July",
+    "year": 1981,
+    "pages": 216,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Ten Best And the Ten Worst Legislators",
+              "subtitle": "",
+              "description": "Nineteen people you voted for and one you didn’t.",
+              "byline": "",
+              "page": "100"
+            },
+            {
+              "title": "Space Cadet",
+              "subtitle": "",
+              "description": "Astronauts used to be dashing pilots. Now they’re doctors, scientists, and . . . sanitary engineers.",
+              "byline": "Lawrence Wright",
+              "page": "114",
+              "wp_post_id": "116364",
+              "identifier": "txmo-article-198107-spacecade.json"
+            },
+            {
+              "title": "I Remember Masa",
+              "subtitle": "",
+              "description": "The last word on tortillas: how to make them, when to eat them, and why they should be in every artist’s studio.",
+              "byline": "José antonio Burciaga",
+              "page": "120",
+              "wp_post_id": "116355",
+              "identifier": "txmo-article-198107-iremember.json"
+            },
+            {
+              "title": "A Simple Man",
+              "subtitle": "",
+              "description": "Archbishop Patrick Flores acts like a country priest, but he has a tough job: he is the most powerful Catholic clergyman in Texas, and perhaps the most powerful Mexican american as well.",
+              "byline": "John Davidson",
+              "page": "126",
+              "wp_post_id": "116352",
+              "identifier": "txmo-article-198107-asimplem.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Fangs",
+              "subtitle": "Health",
+              "description": "Now is the time to unlearn everything you’ve ever heard about snakebite.",
+              "byline": "Alan Tennant",
+              "page": "132"
+            },
+            {
+              "title": "The Long Arm Of the Oracle",
+              "subtitle": "Crime",
+              "description": "John Catchings can solve crimes without witnesses, confessions, or clues. How? He’s a psychic.",
+              "byline": "Jim atkinson",
+              "page": "140"
+            },
+            {
+              "title": "Tell It, Brother Hill!",
+              "subtitle": "Church",
+              "description": "A visiting revivalist lays some eloquent preaching on Pasadena Baptists. Nearby in Houston, the festival of Purim gives templegoers good reason to dress up, drink up, and raise a ruckus.",
+              "byline": "William Martin",
+              "page": "148"
+            },
+            {
+              "title": "Driving a Soft Bargain",
+              "subtitle": "Business",
+              "description": "Take the “art of Negotiating” seminar, and you too can learn to wheel and deal with a smile.",
+              "byline": "Harry Hurt III",
+              "page": "154"
+            },
+            {
+              "title": "The Kingfish Revisited",
+              "subtitle": "Classical Music",
+              "description": "With Willie Stark, the story of a powerful Southern governor, Carlisle Floyd has made himself the composer to watch in opera.",
+              "byline": "W. L. Taitte",
+              "page": "164"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The war that won’t go away.",
+              "byline": "William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Notes from the underground.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "How you bean, kid?",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Mcallen mayor Othal Brand fights for his political life; a killer storm ravages austin; a Highland Park matron trades fancy parties for farming.",
+              "byline": "Susan Duffy",
+              "page": "84"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Diamonds are a boy’s best friend.",
+              "byline": "",
+              "page": "211"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A deal that failed; macho political ads; the unhappiest man in Texas; a bigtime legal goof.",
+              "byline": "",
+              "page": "212"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

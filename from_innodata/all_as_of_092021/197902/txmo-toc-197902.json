@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197902",
+    "publication": "Texas Monthly",
+    "issue": "February 1979",
+    "pdf_uri": "/1979/19790200.pdf",
+    "month": "February",
+    "year": 1979,
+    "pages": 188,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Billy Lee",
+              "subtitle": "",
+              "description": "How a bountifully talented young Texas writer based a novel on Lyndon Johnson, won high praise, and then . . .",
+              "byline": "Al Reinert",
+              "page": "78"
+            },
+            {
+              "title": "Hotel Detective",
+              "subtitle": "",
+              "description": "He knows the secrets behind closed doors.",
+              "byline": "Gregory Curtis",
+              "page": "84",
+              "wp_post_id": "114765",
+              "identifier": "txmo-article-197902-hoteldete.json"
+            },
+            {
+              "title": "Requiem For a Margarita",
+              "subtitle": "",
+              "description": "Tequila, tequila, everywhere, and not a drop in your margarita.",
+              "byline": "Mimi Swartz",
+              "page": "88"
+            },
+            {
+              "title": "Only the Strong Survive",
+              "subtitle": "",
+              "description": "“There are two things to remember about the ghetto that is Houston’s Fifth Ward. One, evil usually triumphs over good. Two, in spite of that, most of its residents retain a goodness that proves indestructible.”",
+              "byline": "Richard West",
+              "page": "94"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Seep Of Death",
+              "subtitle": "Politics",
+              "description": "Chemical waste disposal sites are environmental time bombs—if they don’t get you now, they’ll get you later.",
+              "byline": "Mitch Green",
+              "page": "106"
+            },
+            {
+              "title": "Through All Kinds Of Weather",
+              "subtitle": "Country Notes",
+              "description": "The best thing about the weather is complaining about it.",
+              "byline": "John Graves",
+              "page": "118"
+            },
+            {
+              "title": "Rebel With a Cause",
+              "subtitle": "Politics",
+              "description": "Can a Texas revolutionary find happiness exiled in Europe? Not when his revolution is in Mexico.",
+              "byline": "Dick Reavis",
+              "page": "130"
+            },
+            {
+              "title": "The Long Brawl",
+              "subtitle": "Film",
+              "description": "Clint Eastwood stars in a movie about a macho man with a heart of gold and a sense of humor.",
+              "byline": "George Morris",
+              "page": "134"
+            },
+            {
+              "title": "No Means For the End",
+              "subtitle": "Theater",
+              "description": "Theatre Three in Dallas went out on a limb with their production of Happy End. Oops.",
+              "byline": "W. L. Taitte",
+              "page": "136"
+            },
+            {
+              "title": "Out With a Bang",
+              "subtitle": "Classical Music",
+              "description": "’Twas the season to see Dallas Civic Opera.",
+              "byline": "W. L. Taitte",
+              "page": "138"
+            },
+            {
+              "title": "Gather Ye Records While Ye May",
+              "subtitle": "Popular Music",
+              "description": "And T-shirts and photos and Elvis’ dinner jacket—all at the first Dallas-Fort Worth Record Collectors’ Convention.",
+              "byline": "Joe Nick Patoski",
+              "page": "142"
+            },
+            {
+              "title": "Ben’s Ballet",
+              "subtitle": "Dance",
+              "description": "Artistic director Ben Stevenson keeps Houston Ballet on its toes.",
+              "byline": "Suzanne Shelton",
+              "page": "146"
+            },
+            {
+              "title": "Just Whistlin’ Dixie",
+              "subtitle": "Books",
+              "description": "Way down upon the Suwannee River and uptown Saturday night; tracking a few Southern women.",
+              "byline": "Carolyn Osborn",
+              "page": "150"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "As New Ulm went, so goes New York.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Tolstoy, you’re late again.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Protective custody.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Wok ’n’ roll.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Southland wants a Seven-Eleven around every corner; chicken fanciers don’t want to see a chicken in every pot; the battle for the News; and an ex-con cons the Beaumont paper.",
+              "byline": "John Bloom",
+              "page": "62"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Working on the Railroad Commissioner; romance on the range; another guild nipped at the Post; should Bill Clements be for sale?",
+              "byline": "",
+              "page": "184"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

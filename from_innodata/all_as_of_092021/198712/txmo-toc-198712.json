@@ -1,0 +1,166 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198712",
+    "publication": "Texas Monthly",
+    "issue": "December 1987",
+    "pdf_uri": "/1987/19871200.pdf",
+    "month": "December",
+    "year": 1987,
+    "pages": 240,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents December",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Power",
+              "subtitle": "",
+              "description": "From H. Ross Perot to the people who will run Texas in the nineties, from couples with clout to the Brownwood Mafia, we present the most complete guide to power in Texas ever compiled.",
+              "byline": "by Paul Burka",
+              "page": "118"
+            },
+            {
+              "title": "Growing Up With George And Martha",
+              "subtitle": "",
+              "description": "By turning two tiny dots into two huge hippos, James Marshall made an indelible mark on children’s literature, and little people laughed happily ever after.",
+              "byline": "by Stephen Harrigan",
+              "page": "126"
+            },
+            {
+              "title": "Most Likely To Succeed",
+              "subtitle": "",
+              "description": "Seven outstanding young Texas design students translate their visions of fairy tales, Greek goddesses, and Catholic rituals into fashion statements.",
+              "byline": "by Helen Thompson",
+              "page": "",
+              "wp_post_id": "122781",
+              "identifier": "txmo-article-198712-mostlikel.json"
+            },
+            {
+              "title": "All Choked Up",
+              "subtitle": "",
+              "description": "A ground war at the Dallas—Fort Worth airport is turning innocent passengers into anxious bystanders.",
+              "byline": "by Jerome Greer Chandler",
+              "page": "134",
+              "wp_post_id": "122775",
+              "identifier": "txmo-article-198712-allchoked.json"
+            },
+            {
+              "title": "The Balcones Escarpment",
+              "subtitle": "Texas Primer",
+              "description": "The blackland prairie of the old South meets the wide-open spaces of the wild West at Texas’ great geologic divide.",
+              "byline": "by Stephen Harrigan",
+              "page": "138"
+            },
+            {
+              "title": "The Trip To Paradise",
+              "subtitle": "",
+              "description": "Small Texas towns live either in our memory or in our imagination. The ones with the storybook names live in both.",
+              "byline": "Photography by Keith Carter, Essay by Horton Foote",
+              "page": "140",
+              "wp_post_id": "122769",
+              "identifier": "txmo-article-198712-thetript.json"
+            },
+            {
+              "title": "This Can’t Be Happening To Me",
+              "subtitle": "",
+              "description": "From the look on my doctor’s face, I knew the results of the biopsy. The lump in my breast was cancer.",
+              "byline": "by Luticia Conder",
+              "page": "152"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Go East, Young Man",
+              "subtitle": "Business",
+              "description": "Texas developers are snapping up land, putting together deals, and building like crazy-in Washington, D.C.",
+              "byline": "by Harry Jaffe",
+              "page": "154"
+            },
+            {
+              "title": "One Man, One Oat",
+              "subtitle": "Lifestyles",
+              "description": "Twenty years ago the Furry Freak Brothers, Dealer McDope, and Oat Willie were austin’s underground heroes. A mild-mannered ex-hippie reveals how he lived the legend.",
+              "byline": "by wally Stopher",
+              "page": "160"
+            },
+            {
+              "title": "Lost Horizons",
+              "subtitle": "Art",
+              "description": "An exhibit at Fort Worth’s amon Carter Museum contends that before the cowboy became america’s hero, Indians and mountain men were the icons of a vanishing frontier.",
+              "byline": "by Michael Ennis",
+              "page": "166"
+            },
+            {
+              "title": "Poison Pen",
+              "subtitle": "Books",
+              "description": "Dallas’ drive-in film critic Joe Bob Briggs made us laugh at bad movies. When we became the butt of the joke, it wasn’t funny anymore.",
+              "byline": "by Drew Jubera",
+              "page": "172"
+            },
+            {
+              "title": "That’s Entertainment",
+              "subtitle": "Classical Music",
+              "description": "The Houston Grand Opera was out to impress, with its new house and three ambitious productions in one week, but what it proved best was just how enjoyable this brand of theater can be.",
+              "byline": "by W. L. Taitte",
+              "page": "176"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The World War I theory of law.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Methodist misadventures, political predicaments, utopian unrest.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A black and gamy Monday; Wick allison as low-profile Buckley; heartthrobs Quaid and Swayze; fine food for feedlots; augie’s Gringo Lingo.",
+              "byline": "by Alison Cook",
+              "page": "94"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "In the Mesquite Kingdom, where the coyotes howl, the wind blows free at the Macarthur academy of Freedom, an honest face gets you a phone and immigration throws mariachi parties.",
+              "byline": "by Dick J. Reavis",
+              "page": "106"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Halloween handouts for a savings and loan; why the Texaco-Pennzoil decision was predictable; bad news for judicial reform; UT and A&M head south; the King Ranch contemplates a road.",
+              "byline": "",
+              "page": "236"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

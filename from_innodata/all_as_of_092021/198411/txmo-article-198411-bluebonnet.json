@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-198411",
+    "date": "November 1984",
+    "year": 1984,
+    "month": 11,
+    "month_formatted": "November",
+    "pdf_uri": "/1984/19841100.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 221,
+    "toc_start_page": 193,
+    "document_page_range": [
+      221
+    ],
+    "toc_order": 9,
+    "toc_headline": "Western Art: Bluebonnet Picture",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198411-bluebonnet",
+  "source": "/1984/19841100.pdf",
+  "wp_post_id": 119823,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-bluebonnet-picture/",
+  "authors": [
+    "Melissa Grimes"
+  ],
+  "headline": "Bluebonnet Picture",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img/>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "November 1984",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198001",
+    "publication": "Texas Monthly",
+    "issue": "January 1980",
+    "pdf_uri": "/1980/19800100.pdf",
+    "month": "January",
+    "year": 1980,
+    "pages": 176,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Baby Factory",
+              "subtitle": "",
+              "description": "At Houston’s Jefferson Davis Hospital, the wonders of modern medicine collide with the raw realities of birth, poverty, neglect, and hope.",
+              "byline": "Stephen Harrigan",
+              "page": "72"
+            },
+            {
+              "title": "Elegant Fossils",
+              "subtitle": "",
+              "description": "Once Texas was a land of fabulous, ornate county courthouses. It still is, but today they’re flamboyant relics in our streamlined urban landscapes.",
+              "byline": "Geoff Winningham",
+              "page": "78",
+              "wp_post_id": "115752",
+              "identifier": "txmo-article-198001-elegantfo.json"
+            },
+            {
+              "title": "1980 Bum Steer Awards",
+              "subtitle": "",
+              "description": "A look at a longish list of last year’s lamentable lunacies, lawless louts, licentious larcenies, and laughable lies.",
+              "byline": "",
+              "page": "84"
+            },
+            {
+              "title": "The Vanishing Steak",
+              "subtitle": "",
+              "description": "Beefing and chewing the fat about a rare pleasure that’s almost done for.",
+              "byline": "W. L. Taitte",
+              "page": "92"
+            },
+            {
+              "title": "Life Got You Down?",
+              "subtitle": "",
+              "description": "Don’t despair, learn to Think Positive! Success and happiness are only a seminar, a cassette library, and several hundred dollars away!",
+              "byline": "Nicholas Lemann",
+              "page": "96"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Ten, Nine, Eight, Seven . . .",
+              "subtitle": "Politics",
+              "description": "The Panhandle is home for the country’s only H-bomb assembly plant. Aren’t you glad we told you?",
+              "byline": "James Chiles",
+              "page": "102"
+            },
+            {
+              "title": "Doing the Greenville Avenue Boogie",
+              "subtitle": "Stepping Out",
+              "description": "By reputation Dallas is a staid city. But there is one strip where Dallas is fevered, excessive, and lascivious, and where every night is party night.",
+              "byline": "Michael Ennis",
+              "page": "112"
+            },
+            {
+              "title": "Terminal Case",
+              "subtitle": "Environment",
+              "description": "Galveston has withstood tidal waves, hurricanes, gamblers, and tourists. Can it survive a superport?",
+              "byline": "Tom Curtis",
+              "page": "120"
+            },
+            {
+              "title": "Nobody Knows the Trouble i’ve Seen",
+              "subtitle": "Church",
+              "description": "A Dallas rabbi says Christmas is a form of persecution for Jews; a Disciples of Christ pastor discusses suffering with equanimity.",
+              "byline": "William Martin",
+              "page": "126"
+            },
+            {
+              "title": "Catch a Riding Star",
+              "subtitle": "Film",
+              "description": "A boy and his horse reach great heights in The Black Stallion. The Rose, with Bette Midler, is no american beauty.",
+              "byline": "George Morris",
+              "page": "133"
+            },
+            {
+              "title": "Life After Smu",
+              "subtitle": "Theater",
+              "description": "When Stage HI opened as a halfway house for theater graduates from SMU, the participants weren’t pitied but applauded.",
+              "byline": "W. L. Taitte",
+              "page": "139"
+            },
+            {
+              "title": "The Trill Of It All",
+              "subtitle": "Classical Music",
+              "description": "Houston and Dallas opera companies could fudge on shoe sizes when it came to casting Cinderellas, but the voices had to fit just so.",
+              "byline": "W. L. Taitte",
+              "page": "140"
+            },
+            {
+              "title": "Willie And the Power Boys",
+              "subtitle": "Popular Music",
+              "description": "New records from Texas’ die-hard country, rock, and punk musicians.",
+              "byline": "Joe Nick Patoski",
+              "page": "142"
+            },
+            {
+              "title": "Love For Sale",
+              "subtitle": "Jazz",
+              "description": "The Midland Jazz Classic wasn’t cheap, but it was worth the price.",
+              "byline": "Doug Ramsey",
+              "page": "144"
+            },
+            {
+              "title": "Dr. Updike",
+              "subtitle": "Books",
+              "description": "John Updike’s problems are our pleasures. Mean Scrooge McDuck returns in a nostalgic comic-book collection.",
+              "byline": "Stephen Harrigan",
+              "page": "150"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Two questions about school desegregation: Is busing the only way? are integrated schools inferior?",
+              "byline": "William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Steering Bum Steers.",
+              "byline": "Gregory Curtis",
+              "page": "8"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Movers and fakers.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "Night stalkers and day walkers.",
+              "description": "",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "George Bush wants to shake your hand; Rita Clements wants to paint your Governor’s Mansion; Dallas wants to bring you art, lots of art.",
+              "byline": "",
+              "page": "56"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Letters please.",
+              "byline": "",
+              "page": "171"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A helicopter plague descends on Dallas; is the Texas environmentalist an endangered species?; cattlemen won’t be cowed.",
+              "byline": "",
+              "page": "172"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

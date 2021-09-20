@@ -1,0 +1,67 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19802",
+    "date": "February 1980",
+    "year": 1980,
+    "month": 2,
+    "month_formatted": "February",
+    "pdf_uri": "/1980/19800200.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 92,
+    "toc_start_page": 90,
+    "document_page_range": [
+      [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ]
+    ],
+    "toc_order": 5,
+    "toc_headline": "True Love",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198002-truelove",
+  "source": "/1980/19800200.pdf",
+  "wp_post_id": 115632,
+  "wp_post_guid": "http://www.texasmonthly.com/article/true-love/",
+  "authors": [],
+  "headline": "True Love",
+  "dek": "Shakespeare thought music was the food of love. We think kisses are.",
+  "spread_caption": "",
+  "excerpt": "Actual photos! In living color! Incontrovertible evidence that kissing is fun!",
+  "kicker": "",
+  "word_count": 96,
+  "content": "<img /><p>Photography by Janice Rubin</p><p><span class=\"dropcap\">L</span>ove and kisses—what a boffo combination! Kissing someone you love has got to be the best feeling in the world, and often it’s the only right way to say I love you. Kisses are never flowery or verbose, they’re never studied or stilted. Every kiss that comes from the heart is perfect. A kiss can be plain or fancy, long or short, a whisper or a smack. And not only do they feel good, smell good, taste good, and sound good, they even <em>look</em> good, as these photos by Janice Rubin clearly show.</p><img /><img /><img /><img />",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "February 1980",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "kiss",
+      "Love",
+      "Food",
+      "Music",
+      "Photos",
+      "Sound"
+    ],
+    "wp_categories": [
+      "Food"
+    ],
+    "wp_location": []
+  }
+}

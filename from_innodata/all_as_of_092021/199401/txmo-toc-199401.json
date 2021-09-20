@@ -1,0 +1,148 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199401",
+    "publication": "Texas Monthly",
+    "issue": "January 1994",
+    "pdf_uri": "/1994/19940100.pdf",
+    "month": "January",
+    "year": 1994,
+    "pages": 175,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "When Worlds Collide",
+              "subtitle": "art",
+              "description": "",
+              "byline": "by Michael Ennis",
+              "page": "34"
+            },
+            {
+              "title": "Homing Instinct",
+              "subtitle": "Environment",
+              "description": "",
+              "byline": "by Jane Grandolfo",
+              "page": "40"
+            },
+            {
+              "title": "Stitches in Time",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by anne Dingus",
+              "page": "46"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "Jim’s Cowboys",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Jan Jarboe, Tim Fleck, Janet Schuler, Joe Nick Patoski, Pat Booker, and Dana Scragg Frank",
+              "page": "60"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "72"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "147"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "149"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": " by Paul Burka",
+              "page": "172"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The 1994 Bum Steer awards",
+              "subtitle": "",
+              "description": "A year of arlington appellations, bedouined Bush, candied coiffures, detestible dinosaurs, effervescent executioners, fancy fertilizer, greedy Gorbachev, holy Halloweens, ignorant ichthyofauna, Japanese jokes, klipped Klingons, lottery lovebirds, medical margaritas, nude nuptials, overwhelmed ostriches, pugilistic pitchers, quashed quarterbacks, royal redialings, Satanic Santas, titillating typos, UFO urgings, vindictive Vermonters, wanted: wives, X-citable X-orcists, yawing Yorkshires, and zapped Zaffirini.",
+              "byline": "",
+              "page": "74"
+            },
+            {
+              "title": "Nashville City Limits",
+              "subtitle": "",
+              "description": "Once, country acts made art in austin and money in Nashville. Today each place is a lot like the other, which is why more Texas singers are heading east.",
+              "byline": "by Joe Nick Patoski",
+              "page": "86"
+            },
+            {
+              "title": "What I Learned in The Bubble",
+              "subtitle": "",
+              "description": "Until I house-sat there last year, I thought I knew rarefied Highland Park. To my surprise, it was much more fragile and defensive than it had seemed.",
+              "byline": "by Dana Rubin",
+              "page": "94",
+              "wp_post_id": "128790",
+              "identifier": "txmo-article-199401-whatilea.json"
+            },
+            {
+              "title": "The Great Defenders",
+              "subtitle": "",
+              "description": "Who cares if they dress differently, act differently, and spell their names differently? Brothers Dick DeGuerin and Mike DeGeurin are two of the best attorneys in Texas, and for that they can thank their mentor, legal legend Percy Foreman.",
+              "byline": "by Robert Draper",
+              "page": "96"
+            },
+            {
+              "title": "Will This Be the Most Important City of The Twenty-first Century?",
+              "subtitle": "",
+              "description": "Forget what you’ve heard about Mexico City’s “urban hell.” From its well-organized workers to its highly evolved social system, it could be NAFTA’s greatest economic success story.",
+              "byline": "by Robert Barnstone",
+              "page": "100"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

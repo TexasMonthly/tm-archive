@@ -1,0 +1,157 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198401",
+    "publication": "Texas Monthly",
+    "issue": "January 1984",
+    "pdf_uri": "/1984/19840100.pdf",
+    "month": "January",
+    "year": 1984,
+    "pages": 182,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "1984 Bum Steer Awards",
+              "subtitle": "",
+              "description": "Presenting Carolyn Farb, worthy successor to Dolph Briscoe, Farrah Fawcett, J. R. Ewing, Mike Martin, and Jackie Sherrill as Bum Steer of the Year—and 107 other fascinating foibles.",
+              "byline": "",
+              "page": "90"
+            },
+            {
+              "title": "All the Better To See You With, My Dear",
+              "subtitle": "",
+              "description": "Are eye surgeons miraculously changing the lives of folks with glasses as thick as Coke-bottle bottoms, or are they just making themselves rich ?",
+              "byline": "Harry Hurt III",
+              "page": "100",
+              "wp_post_id": "120543",
+              "identifier": "txmo-article-198401-allthebe.json"
+            },
+            {
+              "title": "Urbanization",
+              "subtitle": "Western Art",
+              "description": "",
+              "byline": "Scott Reynolds",
+              "page": "105"
+            },
+            {
+              "title": "Love And Death In Silicon Prairie Part I: Candy Montgomery’s affair",
+              "subtitle": "",
+              "description": "Urban refugees fleeing high-tech Dallas have created ersatz rural communities in the nearby countryside. This isolated, pastoral life sometimes erupts into adultery and murder.",
+              "byline": "John Bloom and Jim atkinson",
+              "page": "106"
+            },
+            {
+              "title": "Gambling On the Gamblers",
+              "subtitle": "",
+              "description": "Jerry argovitz made himself unpopular with NFL management as an abrasive player’s agent. Now that he owns Houston’s new football team, he finds himself on the other side of the table-and the issues.",
+              "byline": "Jan Reid",
+              "page": "112",
+              "wp_post_id": "120531",
+              "identifier": "txmo-article-198401-gamblingo.json"
+            },
+            {
+              "title": "The Collins Purse",
+              "subtitle": "Texas Primer",
+              "description": "In the sixties a small company in Medina produced a wooden box decorated with rhinestones. It became a Texas tradition.",
+              "byline": "Mimi Swartz",
+              "page": "116"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "That’s a Metal Building?",
+              "subtitle": "architecture",
+              "description": "The greening (and redding, and yellowing, and blueing) of the prefabricated warehouse.",
+              "byline": "Lisa Germany",
+              "page": "118"
+            },
+            {
+              "title": "Caravan Of Pipe Dreams",
+              "subtitle": "Theater",
+              "description": "From the city that brought you the Stockyards and Billy Bob’s Texas comes a bizarre nightclub run by the shock troops of the avant-garde.",
+              "byline": "Peter applebome",
+              "page": "124"
+            },
+            {
+              "title": "Unabridged Webster",
+              "subtitle": "Jazz",
+              "description": "You may not have heard saxman Ben Webster when he was around, but his recordings with Duke Ellington, Benny Carter, and Gerry Mulligan are a treasure trove not to be missed.",
+              "byline": "Doug Ramsey",
+              "page": "130"
+            },
+            {
+              "title": "The Godfather Goes Slumming",
+              "subtitle": "Movies",
+              "description": "Al Pacino carries on the gangster tradition in Scarface; the mystery in Gorky Park is not whodunit but who’ll survive the investigation; Yentl is a Barbra Streisand tour de force.",
+              "byline": "James Wolcott",
+              "page": "136"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "“Light this candle.”",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "A better Dallas, a wider conspiracy, a madder Wichita Falls.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Damming the Rio Grande; cruising the streets of Houston; building the nation’s biggest organ; remembering the alamo.",
+              "byline": "Suzanne Winckler",
+              "page": "70"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Have these glamorous goblets come to the aid of your New Year’s Eve party.",
+              "byline": "Patricia Sharpe",
+              "page": "140"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Box score.",
+              "byline": "",
+              "page": "175"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Storm damage from alicia may include the public's right to use the beach; Texas pecan growers go nuts over the feds; Mexico’s ruling party turns up the heat on the opposition; why there may be an NCAA football play-off sooner than you think.",
+              "byline": "",
+              "page": "176"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

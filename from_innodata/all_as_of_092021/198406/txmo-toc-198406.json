@@ -1,0 +1,169 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198406",
+    "publication": "Texas Monthly",
+    "issue": "June 1984",
+    "pdf_uri": "/1984/19840600.pdf",
+    "month": "June",
+    "year": 1984,
+    "pages": 252,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Wild Side Of Town",
+              "subtitle": "",
+              "description": "You don’t have to go to the country or the zoo to see wild animals; there are lizards in downtown buildings, gators in the creeks, and deer in the parking lots.",
+              "byline": "Suzanne Winckler",
+              "page": "118"
+            },
+            {
+              "title": "The Man In the Black Hat",
+              "subtitle": "",
+              "description": "Clinton Manges built his empire on brushland and oil wells, political contributions and lawsuits. His influence extends to the state capitol and oil company boardrooms. To get where he is, he studied under three masters of South Texas.",
+              "byline": "Paul Burka",
+              "page": "128"
+            },
+            {
+              "title": "On the Links",
+              "subtitle": "",
+              "description": "Golf, glorious golf. A hook here, a slice there. So what if you can’t break a hundred. A cartful of cool, casual summer clothes will keep you looking like a million.",
+              "byline": "",
+              "page": "134"
+            },
+            {
+              "title": "The Resistol Hat",
+              "subtitle": "Texas Primer",
+              "description": "Whether it’s made of straw or ermine, this is the cowboy hat.",
+              "byline": "Peter applebome",
+              "page": "140"
+            },
+            {
+              "title": "Last Respects",
+              "subtitle": "",
+              "description": "The death of Uncle Henry saddened my whole far-flung family, but the gathering at his funeral was an occasion for telling stories and recalling the joys of a smalltown upbringing.",
+              "byline": "Anne Dingus",
+              "page": "142"
+            },
+            {
+              "title": "Give Me a Job",
+              "subtitle": "",
+              "description": "In my village in Oaxaca I had heard about those who made it big in El Norte, and I wanted to become one of them. But I didn’t know how hard life in Houston would be without papers, money, or a job.",
+              "byline": "Tianguis Pérez",
+              "page": "144"
+            },
+            {
+              "title": "Buffalo Gal",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "Dave Calver",
+              "page": "149",
+              "wp_post_id": "120177",
+              "identifier": "txmo-article-198406-buffaloga.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Someday You’ll Thank Me For This",
+              "subtitle": "Kids",
+              "description": "You can lead a child to culture, but can you make him like it?",
+              "byline": "Prudence Mackintosh",
+              "page": "150"
+            },
+            {
+              "title": "Move Over, Southfork",
+              "subtitle": "Lifestyles",
+              "description": "Up for sale in Dallas, the Shanbaum house boasts a whopping 28,000 square fee, and what may be Texas’ most comprehensive collection of sixties and seventies kitsch—along with a $2.75 million price tag.",
+              "byline": "Alison Cook",
+              "page": "158"
+            },
+            {
+              "title": "J Is For Jobs",
+              "subtitle": "Education",
+              "description": "Houston’s career-oriented magnet schools are putting too much emphasis on work and too little on education.",
+              "byline": "Mimi Swartz",
+              "page": "162"
+            },
+            {
+              "title": "Top o’ the Pops",
+              "subtitle": "Popular Music",
+              "description": "The fare offered by the Houston Pops Orchestra may not be highbrow, but conductor Ned Battista thinks it’s american music at its best.",
+              "byline": "W. L. Taitte",
+              "page": "170"
+            },
+            {
+              "title": "The Intellectuals’ Dear Abby",
+              "subtitle": "Books",
+              "description": "A new study of sociologist C. Wright Mills is adequate but uninspired; this year’s Texas Institute of Letters fiction prize has gone to a fine first novel.",
+              "byline": "Joe Holley",
+              "page": "176"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The new work ethic.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Getting with the programs, getting to know the Yellow Rose, getting it right in Pharr.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Coming to grips with al Lipscomb, Dallas critic turned city councilman; remembering the clip joints along Fort Worth’s infamous outlaw alley; flipping for San angelo, a honey of a West Texas town; taking a bizarre trip through Texas on Gary Hart’s press plane.",
+              "byline": "Gary Cartwright",
+              "page": "100"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Amazing technicolor dreamworld.",
+              "byline": "Patricia Sharpe",
+              "page": "182"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "All a board.",
+              "byline": "",
+              "page": "231"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "The leaning Tower of peace, aaagh . . .; at last we learn what the “public” in Republican stands for; how do you spell relief? D-I-S-A-S-T-E-R; parks lose out yet again.",
+              "byline": "",
+              "page": "232"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

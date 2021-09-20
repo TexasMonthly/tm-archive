@@ -1,0 +1,220 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198505",
+    "publication": "Texas Monthly",
+    "issue": "May 1985",
+    "pdf_uri": "/1985/19850500.pdf",
+    "month": "May",
+    "year": 1985,
+    "pages": 261,
+    "document_toc_page": "6"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Shaggy Club",
+              "subtitle": "",
+              "description": "In a mixed-up world, mixed-up kids need somebody who really understands. In Dallas that somebody is a punk Dj called Shaggy.",
+              "byline": "David Seeley",
+              "page": "130"
+            },
+            {
+              "title": "Help! We’re Surrounded!",
+              "subtitle": "",
+              "description": "Of course we know that Texas is an oasis in the midst of a wasteland. But some unenlightened folk from our neighboring states beg to differ. We let them talk, then set them straight.",
+              "byline": "",
+              "page": "136"
+            },
+            {
+              "title": "Ok Is Just Fine",
+              "subtitle": "Oklahoma",
+              "description": "",
+              "byline": "Mark Singer",
+              "page": "137"
+            },
+            {
+              "title": "Chile’s True Colors",
+              "subtitle": "New Mexico",
+              "description": "",
+              "byline": "John Ehrlichman",
+              "page": "140"
+            },
+            {
+              "title": "Trade in Your Car",
+              "subtitle": "Colorado",
+              "description": "",
+              "byline": "Jim Fergus",
+              "page": "194"
+            },
+            {
+              "title": "The Belgium of the South",
+              "subtitle": "Arkansas",
+              "description": "",
+              "byline": "Griffin Smith, jr.",
+              "page": "198"
+            },
+            {
+              "title": "Poor and Not Proud",
+              "subtitle": "Louisiana",
+              "description": "",
+              "byline": "Ben C. Toledano",
+              "page": "200"
+            },
+            {
+              "title": "What’s All the Fuss About?",
+              "subtitle": "In Response",
+              "description": "",
+              "byline": "Nicholas Lemann",
+              "page": "202"
+            },
+            {
+              "title": "Crack Pots",
+              "subtitle": "",
+              "description": "One man’s Mexican pot is another man’s collectible.",
+              "byline": "Patricia Sharpe",
+              "page": "142"
+            },
+            {
+              "title": "I Was A Dude On Tumbling Mare Mountain",
+              "subtitle": "",
+              "description": "My pack trip in Mexico’s Sierra del Carmen wasn't exactly the Gray Line Tour.",
+              "byline": "Gary Cartwright",
+              "page": "146",
+              "wp_post_id": "121338",
+              "identifier": "txmo-article-198505-tumblingm.json"
+            },
+            {
+              "title": "How They Ruined Our Prisons",
+              "subtitle": "",
+              "description": "Before Ruiz v. Estelle, prisons in Texas were the safest, most productive, and most economical in the nation. Now—after costs have quadrupled—our prisons are the most dangerous in the U.S.",
+              "byline": "Dick J. Reavis",
+              "page": "152"
+            },
+            {
+              "title": "The Western Shirt",
+              "subtitle": "Texas Primer",
+              "description": "Its metamorphosis from glamorous to practical to sexy.",
+              "byline": "Catherine Chadwick",
+              "page": "160"
+            },
+            {
+              "title": "A Date With Leatherface",
+              "subtitle": "",
+              "description": "Is there romance after a starring role in The Texas Chainsaw Massacre ? A leading man reveals all.",
+              "byline": "Gunnar Hansen",
+              "page": "162"
+            },
+            {
+              "title": "Tall In the Saddle",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "C. F. Payne",
+              "page": "165",
+              "wp_post_id": "121329",
+              "identifier": "txmo-article-198505-tallinth.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Unwelcome Guest, Reluctant Host",
+              "subtitle": "Health",
+              "description": "Like the killer bees, Montezuma’s revenge is moving north.",
+              "byline": "Alison Cook",
+              "page": "166"
+            },
+            {
+              "title": "Public Gestures",
+              "subtitle": "Art",
+              "description": "Dallas’ Fifth Texas Sculpture Symposium proves it’s time for us to look to our own sculptors for public artworks.",
+              "byline": "Michael Ennis",
+              "page": "172"
+            },
+            {
+              "title": "Fish Story",
+              "subtitle": "Movies",
+              "description": "Alamo Bay gets in over its head; Lost in America finds itself through comedy; The Slugger’s Wife strikes out.",
+              "byline": "James Wolcott",
+              "page": "176"
+            },
+            {
+              "title": "Resident Rockers",
+              "subtitle": "Popular Music",
+              "description": "Five new albums show that Texans can get any kind of music they want from local labels.",
+              "byline": "Jody Denberg",
+              "page": "182"
+            },
+            {
+              "title": "Operatic Adventures",
+              "subtitle": "Classical Music",
+              "description": "A little gimmickry goes a long way toward making the Fort Worth Opera’s current season a success.",
+              "byline": "W. L. Taitte",
+              "page": "186"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Battles at the border; weirdos at the Starck Club; monument at the end of the tracks; Mr. Migra goes after Zopilote; Baptists at each other’s throats.",
+              "byline": "Dick J. Reavis",
+              "page": "108"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "Patricia Sharpe",
+              "page": "192"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "255"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Love game at Texas Commerce; Phil Gramm versus Jim Wright in East Texas; a storm over a port for Mark White; some good news —maybe—about a nuke.",
+              "byline": "",
+              "page": "256"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

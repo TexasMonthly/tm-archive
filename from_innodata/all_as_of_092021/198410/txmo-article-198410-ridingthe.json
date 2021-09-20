@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-198410",
+    "date": "October 1984",
+    "year": 1984,
+    "month": 10,
+    "month_formatted": "October",
+    "pdf_uri": "/1984/19841000.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 193,
+    "toc_start_page": 167,
+    "document_page_range": [
+      193
+    ],
+    "toc_order": 8,
+    "toc_headline": "Riding the Range",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198410-ridingthe",
+  "source": "/1984/19841000.pdf",
+  "wp_post_id": 119898,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-riding-the-range/",
+  "authors": [
+    "Geof Kern"
+  ],
+  "headline": "Riding the Range",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img />",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "October 1984",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

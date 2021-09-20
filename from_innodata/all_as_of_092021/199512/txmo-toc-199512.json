@@ -1,0 +1,173 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199512",
+    "publication": "Texas Monthly",
+    "issue": "December 1995",
+    "pdf_uri": "/1995/19951200.pdf",
+    "month": "December",
+    "year": 1995,
+    "pages": 216,
+    "document_toc_page": "5,7"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Sweet Song of Justice",
+              "subtitle": "",
+              "description": "The verdict is in, but a complete account of what went on in the Selena m urder trial hasn’t come out—until now.",
+              "byline": "by Joe Nick Patoski",
+              "page": "102"
+            },
+            {
+              "title": "The Last Picture Shows",
+              "subtitle": "",
+              "description": "A loving look back at nine grand old movie houses from the golden age of small-town Texas.",
+              "byline": "by anne Dingus * Photographs by Dan Winters",
+              "page": "106"
+            },
+            {
+              "title": "Carrillo’s Crossing",
+              "subtitle": "",
+              "description": "In the bloody billion-dollar business of drug trafficking, amado Carrillo Fuentes is king. He is the elusive ringleader of a smuggling operation that police on both sides of the border are powerless to stop.",
+              "byline": "",
+              "page": "118",
+              "wp_post_id": "128889",
+              "identifier": "txmo-article-199512-carrillos.json"
+            },
+            {
+              "title": "Sorry, Charlie",
+              "subtitle": "",
+              "description": "The last of the LBJ-style Democracts, the rowdy and reckless Ch arlie Wilson has called it quits. A fond farewell.",
+              "byline": "by Paul Burka",
+              "page": "122",
+              "wp_post_id": "128886",
+              "identifier": "txmo-article-199512-sorrychra.json"
+            },
+            {
+              "title": "Down and Out",
+              "subtitle": "",
+              "description": "My firsthand experience with the hard times that humbled my hero, former Dallas Cowboys star Golden Richards.",
+              "byline": "by Joel Reese",
+              "page": "126",
+              "wp_post_id": "128877",
+              "identifier": "txmo-article-199512-downando.json"
+            },
+            {
+              "title": "Cook Your Goose!",
+              "subtitle": "",
+              "description": "Turn your holiday dinner into a mouth-watering master-feast with these new recipes from Star Canyon chef Stephan Pyles.",
+              "byline": "by Patricia Sharpe",
+              "page": "130"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "We are the World",
+              "subtitle": "Art",
+              "description": "An ambitious new exhibit at the Museum of Fine arts, Houston suggests Texas is becoming less like itself and more like everyplace else.",
+              "byline": "",
+              "page": "54"
+            },
+            {
+              "title": "Doubting Thomas",
+              "subtitle": "Television",
+              "description": "Leaving the popular sitcom Wings for his own show on the Fox network seemed like a risky move, but it’s paying off for native Texan Thomas Haden Church—so far.",
+              "byline": "by Jason Cohen",
+              "page": "62"
+            },
+            {
+              "title": "A Whale of a Tale",
+              "subtitle": "Travel",
+              "description": "In a remote Mexican bay, you can touch a forty-ton gray, watch her lovely, enormous baby rub playfully against your boat, and ponder the mysteries of the natural world.",
+              "byline": "by Turk Pipkin",
+              "page": "72"
+            },
+            {
+              "title": "The Good Old Boy",
+              "subtitle": "Books",
+              "description": "After four decades of writing classic Texas novels, there’s no denying that San angelo’s Elmer Kelton has earned his Spurs.",
+              "byline": "by anne Dingus",
+              "page": "80"
+            },
+            {
+              "title": "Home, Sweet Homestead",
+              "subtitle": "Shopping",
+              "description": "Five chic interior design stores in Fredericksburg are comforting, inspiring, and for the acquisitive, absolutely irresistible.",
+              "byline": "",
+              "page": "90"
+            },
+            {
+              "title": "The Pickup Basketball Diaries",
+              "subtitle": "Sports",
+              "description": "It has its own language, a distinct culture, and codes and standards that transcend race and national identity. Plus it’s exhilarating—even in the Texas heat.",
+              "byline": "by John Kirven Blount",
+              "page": "94"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Why are so many students in Texas unable to read? The answer is obvious: because the school system has failed them.",
+              "byline": "by Gregory Curtis",
+              "page": "9"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "Forget Buddy Holly? That’ll be the day. Plus: Boone Pickens’ hellish fight, Norma McCorvey’s heavenly conversion.",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Inspired by the O. J. Simpson case, Texas has taken the lead in fighting domestic violence. Plus: Where Microsoft wants to go today; the myth of the NAFTA superhighway; a cyberpunk writer’s sterling career; and bullets over Broadway at the Granbury Opera House.",
+              "byline": "Edited by Evan Smith",
+              "page": "22"
+            },
+            {
+              "title": "around the State",
+              "subtitle": "",
+              "description": "Dancin’, as it were, at anson’s Pioneer Hall. Plus: Tina Modotti’s passionate photography in Houston; major league mariachis in San antonio; and Ebenezer Scrooge in Galveston.",
+              "byline": "Edited by Quita McMath, Erin Gromen, and Cheri Ballew",
+              "page": "34"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "The bread pudding at Houston’s Redwood Grill is a dauntingly rich and absolutely delicious treat—so get your just desserts.",
+              "byline": "by Patricia Sharpe",
+              "page": "167"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Patricia Sharpe and anne Dingus",
+              "page": "167"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Budget cuts are coming. Are teaching hospitals DOA? Plus: are white Democrats MIA?",
+              "byline": "by Paul Burka",
+              "page": "206"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

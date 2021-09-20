@@ -1,0 +1,189 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198410",
+    "publication": "Texas Monthly",
+    "issue": "October 1984",
+    "pdf_uri": "/1984/19841000.pdf",
+    "month": "October",
+    "year": 1984,
+    "pages": 284,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Feasting On the Oil Glut",
+              "subtitle": "",
+              "description": "So you think that OPEC controls the price of oil and that the glut is hurting everybody in the oil business? Wrong. Traders on the international spot market are pulling the strings and getting rich in the process.",
+              "byline": "Harry Hurt III",
+              "page": "130",
+              "wp_post_id": "119922",
+              "identifier": "txmo-article-198410-feastingo.json"
+            },
+            {
+              "title": "Draw the Cowboy",
+              "subtitle": "",
+              "description": "Twenty top artists test their talent.",
+              "byline": "Fred Woodward",
+              "page": "136",
+              "wp_post_id": "119916",
+              "identifier": "txmo-article-198410-drawthec.json"
+            },
+            {
+              "title": "Coppini the Great",
+              "subtitle": "",
+              "description": "Pompeo Coppini’s heroic sculptures and European air were just what Texas fledgling gentry was hungry for in 1901. Since then his name has faded from memory, but his works endure.",
+              "byline": "Stephen Harrigan",
+              "page": "142"
+            },
+            {
+              "title": "Hey, This Stuff Ain’t Half Bad",
+              "subtitle": "",
+              "description": "Just the thing to go with barbecue or chicken-fried steak-a good bottle of Texas red. Wine, that is.",
+              "byline": "",
+              "page": "148"
+            },
+            {
+              "title": "The Rich Girl",
+              "subtitle": "Texas Primer",
+              "description": "From lacquered debutante to fossilized ol’ gal, her greatest virtue is endurance.",
+              "byline": "Michael Ennis",
+              "page": "152"
+            },
+            {
+              "title": "Dust To Dust",
+              "subtitle": "",
+              "description": "The cattle are dying, the grass is gone, the ranchers are selling their land. The center of Texas is in a drought that may be the worst in a hundred years.",
+              "byline": "Suzanne Winckler",
+              "page": "154"
+            },
+            {
+              "title": "The Politics Of Armageddon",
+              "subtitle": "",
+              "description": "W. A. Criswell has spent forty years convincing his huge flock at Dallas’ First Baptist Church that the end of the world is near. He hopes you’ll believe it too.",
+              "byline": "Dick J. Reavis",
+              "page": "162",
+              "wp_post_id": "119904",
+              "identifier": "txmo-article-198410-thepoliti.json"
+            },
+            {
+              "title": "Riding the Range",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "Geof Kern",
+              "page": "167",
+              "wp_post_id": "119898",
+              "identifier": "txmo-article-198410-ridingthe.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Fathers And Other Strangers",
+              "subtitle": "Fatherhood",
+              "description": "Every son sees his father as his greatest competitor—until the day he becomes a father himself.",
+              "byline": "Lawrence Wright",
+              "page": "168"
+            },
+            {
+              "title": "Dead Oaks",
+              "subtitle": "Environment",
+              "description": "Texas’ beloved live oaks are falling victim to a creeping fungus, and no one knows how to stop it.",
+              "byline": "John Graves",
+              "page": "172"
+            },
+            {
+              "title": "Is All THIs News Fit To Print?",
+              "subtitle": "Media",
+              "description": "Inspired by last summer’s media mania in Dallas, our expert offers a few suggestions for spicing up future nonevents.",
+              "byline": "Peter applebome",
+              "page": "180"
+            },
+            {
+              "title": "Half Of Me",
+              "subtitle": "Movies",
+              "description": "Steve Martin’s new comedy. All of Me, is half-baked; The Gods Must Be Crazy is an amiable tall tale with giraffes; Tanya Roberts is sexy-heroic as Sheena, queen of the pulp jungle drama; Last Night at the alamo is a rowdy last stand.",
+              "byline": "James Wolcott",
+              "page": "184"
+            },
+            {
+              "title": "Brahms the Bountiful",
+              "subtitle": "Classical Music",
+              "description": "A flood of new Brahms recordings that honor the composer’s 150th birthday reveals an oeuvre of surprising richness.",
+              "byline": "W. L. Taitte",
+              "page": "190"
+            },
+            {
+              "title": "Terminal Education",
+              "subtitle": "Software",
+              "description": "Most educational software relies on the same old rote drills and other negative techniques —only now kids get nuked for missing a math problem.",
+              "byline": "Scott Lubeck",
+              "page": "196"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Houston catches up with itself.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Winners and losers from the Republican convention; a crash course for butlers; biting the bullet in Orange County; the peculiar appeal of the Texas State Guard; a bookie tells his trade secrets.",
+              "byline": "Jim atkinson",
+              "page": "110"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Hunting gear that even Natty Bumppo would approve of.",
+              "byline": "Patricia Sharpe",
+              "page": "202"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "255"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Bullock brings a touch of Las Vegas to Texas; two Texas congressmen covet the same plum; an oil company sends a signal to Wall Street; a court fight could cost UT and A&M $20 million; a big man belongs in Houston.",
+              "byline": "",
+              "page": "256"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

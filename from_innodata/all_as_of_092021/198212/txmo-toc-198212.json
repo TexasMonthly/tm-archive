@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198212",
+    "publication": "Texas Monthly",
+    "issue": "December 1982",
+    "pdf_uri": "/1982/19821200.pdf",
+    "month": "December",
+    "year": 1982,
+    "pages": 274,
+    "document_toc_page": "7"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Ragged Edge",
+              "subtitle": "",
+              "description": "Soon there won't be anyone left who wants to be a cop.",
+              "byline": "Jim Atkinson",
+              "page": "136"
+            },
+            {
+              "title": "How Safe Are You?",
+              "subtitle": "",
+              "description": "Rating the police departments of Texas’ major cities.",
+              "byline": "Jim Atkinson",
+              "page": "140"
+            },
+            {
+              "title": "The Comic Texan",
+              "subtitle": "Texas Primer",
+              "description": "The life and times of the cowboy-millionaire hero of a thousand postcards.",
+              "byline": "",
+              "page": "144"
+            },
+            {
+              "title": "Coach Royal Regrets",
+              "subtitle": "",
+              "description": "Does Texas' greatest college coach miss football? Nope.",
+              "byline": "Jan Reid",
+              "page": "146"
+            },
+            {
+              "title": "Piece By Piece",
+              "subtitle": "",
+              "description": "Out of Texas' ragbag history came the patchwork quilt, the product of cold winters, isolated homesteads, empty pocketbooks, and fertile minds.",
+              "byline": "Anne Dingus",
+              "page": "150",
+              "wp_post_id": "117555",
+              "identifier": "txmo-article-198212-piecebyp.json"
+            },
+            {
+              "title": "The Light Before Christmas",
+              "subtitle": "",
+              "description": "String the lights, hang the tinsel and the expense. It’s Christmas and the decorated homes of Texans are second to none.",
+              "byline": "Christina Patoski",
+              "page": "158"
+            },
+            {
+              "title": "281",
+              "subtitle": "",
+              "description": "If you want to see the real Texas, don’t take the interstate.",
+              "byline": "Jan Morris",
+              "page": "166"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Four R’s",
+              "subtitle": "Education",
+              "description": "In Corpus Christi’s schools, testing kids is as important as teaching them —which has greatly improved test scores but not the quality of public education.",
+              "byline": "Joseph Nocera",
+              "page": "177"
+            },
+            {
+              "title": "... And To All A Good Read",
+              "subtitle": "Books",
+              "description": "Reading aloud at Christmas charms the wiggliest kids and takes the humbug out of anyone.",
+              "byline": "Prudence Mackintosh",
+              "page": "186"
+            },
+            {
+              "title": "Truth And Woolworth’s",
+              "subtitle": "Movies",
+              "description": "Life is false fronts and fantasies to the women who flock to a dusty Texas town in Robert Altman’s Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean. The Missionary won’t convert you. Still of the Night is still, all right.",
+              "byline": "James Wolcott",
+              "page": "196"
+            },
+            {
+              "title": "Tintypes And Stormscapes",
+              "subtitle": "Art",
+              "description": "A new book on the Amon Carter Museum’s photography collection chronicles one and a half colorful centuries of America in haunting black and white.",
+              "byline": "Michael Ennis",
+              "page": "202"
+            },
+            {
+              "title": "Bringing Down the House",
+              "subtitle": "Theater",
+              "description": "The board of the Dallas Theater Center is fighting with its stuck-in-a-rut staff to pull the company out of its decade of doldrums.",
+              "byline": "W. L. Taitte",
+              "page": "206"
+            },
+            {
+              "title": "Hal-Le-Lu-Jah!",
+              "subtitle": "Classical Music",
+              "description": "Music On Christmas Day, people all across the country can tune in to Pbs to hear the Concert Chorale of Houston sing the Messiah. That's reason to rejoice.",
+              "byline": "W. L. Taitte",
+              "page": "213"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Ten thousand doors.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Pickens, pesos, and notes from the fringe.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Angels and Santas and stars, oh, my!",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Sundown’s up and Morton’s down; Dallas is Texas’most mental city; the Spurs are Texas'most schizophrenic team; the Aggies are ushering in brave new world; Fort Worth is fixing to challenge Detroit.",
+              "byline": "Peter Applebome",
+              "page": "116"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "The eye of the beholder.",
+              "byline": "",
+              "page": "267"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Brown & Root looks for a way out; Mark White looks for a way in; who’s number one at Ut; the Court of Criminal Appeals blows another one.",
+              "byline": "",
+              "page": "268"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

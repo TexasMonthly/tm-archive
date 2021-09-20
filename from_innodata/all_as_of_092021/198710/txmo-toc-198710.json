@@ -1,0 +1,184 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198710",
+    "publication": "Texas Monthly",
+    "issue": "October 1987",
+    "pdf_uri": "/1987/19871000.pdf",
+    "month": "October",
+    "year": 1987,
+    "pages": 220,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents October",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Double Life Of Finis Crutchfield",
+              "subtitle": "",
+              "description": "The bishop denied until the end that he got AIDS from homosexual contact. But the furor that resulted from his death has opened the door on his life as a gay man.",
+              "byline": "by Emily Yoffe",
+              "page": "102"
+            },
+            {
+              "title": "A Cross To Bear",
+              "subtitle": "",
+              "description": "Three recent scandals in the Methodist church are forcing it to do some serious soul-searching.",
+              "byline": "by Drew Jubera",
+              "page": "107",
+              "wp_post_id": "122931",
+              "identifier": "txmo-article-198710-acrossto.json"
+            },
+            {
+              "title": "Oh, Give Me a HOMe Where the Naugahyde Roams",
+              "subtitle": "",
+              "description": "Return with us now to those thrilling days of yesteryear, when dude ranch decor reigned supreme in the family room.",
+              "byline": "by Jerry Jeanmard",
+              "page": "108",
+              "wp_post_id": "122928",
+              "identifier": "txmo-article-198710-ohgiveme.json"
+            },
+            {
+              "title": "Every Bar But Hershey’s",
+              "subtitle": "",
+              "description": "We have seen the future of Dallas nightlife, and it is called Dallas alley.",
+              "byline": "by Joe Nick Patoski",
+              "page": "112",
+              "wp_post_id": "122925",
+              "identifier": "txmo-article-198710-everybar.json"
+            },
+            {
+              "title": "Famine, Pestilence, Destruction, And Death",
+              "subtitle": "",
+              "description": "These are only aliases. Their real names are Mattox, Mauro, Richards, and Hightower. And they may be leading the Democratic party to its apocalypse.",
+              "byline": "by Paul Burka",
+              "page": "114"
+            },
+            {
+              "title": "Paradise Lost",
+              "subtitle": "",
+              "description": "Las Colinas was supposed to be Can-Do City. So why couldn’t it?.",
+              "byline": "by Gary Cartwright",
+              "page": "116",
+              "wp_post_id": "122919",
+              "identifier": "txmo-article-198710-paradisel.json"
+            },
+            {
+              "title": "Dwarf",
+              "subtitle": "Coming Soon To a Theater Near You",
+              "description": "The Hollywood epics have left Texas, to be replaced by miniatures like Nadine.",
+              "byline": "by Lawrence Wright",
+              "page": "122"
+            },
+            {
+              "title": "The World According To Coach",
+              "subtitle": "",
+              "description": "Never say Kant, Socrates it to ’em, and other collected wisdom from Texas’ Friday-night philosophers.",
+              "byline": "Photography by James McGoon",
+              "page": "124",
+              "wp_post_id": "122910",
+              "identifier": "txmo-article-198710-theworld.json"
+            },
+            {
+              "title": "Autumn Leaves",
+              "subtitle": "Texas Primer",
+              "description": "Turn off the AC, stop pretending you’re a reptile, welcome the whooping cranes back. It’s fall!.",
+              "byline": "by Suzanne Winckler",
+              "page": "132"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Cuisine De Campfire",
+              "subtitle": "Food",
+              "description": "Where there’s smoke, there’s chef Robert McGrath’s smokebox that works wonders on Southwestern dishes.",
+              "byline": "by alison Cook",
+              "page": "134"
+            },
+            {
+              "title": "Beating the Elusive Red Drum",
+              "subtitle": "Sports",
+              "description": "What sport requires cunning, stamina, skill, and a fondness for sloshing around in the muck? Why, fishing for reds off the coast of Texas, of course.",
+              "byline": "by Joe Nick Patoski",
+              "page": "138"
+            },
+            {
+              "title": "Around the Clock Rock",
+              "subtitle": "Lifestyles",
+              "description": "An all-night deejay takes his listeners on a long night’s journey into day.",
+              "byline": "by Jody Denberg",
+              "page": "142"
+            },
+            {
+              "title": "From the Wyeth House To the White House",
+              "subtitle": "Art",
+              "description": "The Dallas Museum of art hosts an eighty-year retrospective of Wyeth family art that carries Nancy Reagan’s seal of approval.",
+              "byline": "by Michael Ennis",
+              "page": "146"
+            },
+            {
+              "title": "Novel Approach",
+              "subtitle": "Books",
+              "description": "Three novelists discover that a Texas connection need not be a tie that binds.",
+              "byline": "by Jan Reid",
+              "page": "152"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The perfect city revisited.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Taxing circumstances in a family, some cities, and the state.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Cities in search of salvation; the new White House (as in Mark); the art of double-Daryled potshots; chile time in El Paso; chile relleno time in Houston.",
+              "byline": "by alison Cook",
+              "page": "82"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "Across pastoral northeast Texas, where Baptists debate the niceties of immersion, truckers and hookers turn the airwaves blue, and bass have their private lives laid bare by electronic snooping.",
+              "byline": "by Dick J. Reavis",
+              "page": "94"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "What’s black and white and kenaf all over? EDS finds gold in California politics; Texas banks show no mercy for S&Ls; the Fort Worth City Council feels neglected.",
+              "byline": "",
+              "page": "208"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

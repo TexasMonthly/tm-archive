@@ -1,0 +1,162 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198705",
+    "publication": "Texas Monthly",
+    "issue": "May 1987",
+    "pdf_uri": "/1987/19870500.pdf",
+    "month": "May",
+    "year": 1987,
+    "pages": 212,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents May",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Every Good Boy Does Fine",
+              "subtitle": "",
+              "description": "In the late seventies, celebrated pianist Van Cliburn inexplicably disappeared from public life. No tortured artist in hiding, Cliburn is having the time of his life sitting around his Fort Worth mansion in his bathrobe.",
+              "byline": "by John Davidson",
+              "page": "118"
+            },
+            {
+              "title": "The Longest Ride Of His Life",
+              "subtitle": "",
+              "description": "When Randall Adams was sentenced to death ten years ago, the Dallas community thought a cop killing had been put to rest. But it hasn’t.",
+              "byline": "by Gary Cartwright",
+              "page": "124"
+            },
+            {
+              "title": "A Field Guide",
+              "subtitle": "Coots",
+              "description": "A crusty, cranky, curmudgeonly species of bird is proliferating within our borders. And maybe that’s good.",
+              "byline": "by Jim Atkinson",
+              "page": "129"
+            },
+            {
+              "title": "Home, Home On the Road",
+              "subtitle": "",
+              "description": "If it fits on your dashboard, you can take it with you.",
+              "byline": "",
+              "page": "134"
+            },
+            {
+              "title": "Blind Justice",
+              "subtitle": "",
+              "description": "Should a judge’s friendships survive his election to the Supreme Court of Texas?",
+              "byline": "by Ken case",
+              "page": "136"
+            },
+            {
+              "title": "Heads, We Win, Tails, You Lose",
+              "subtitle": "",
+              "description": "Highly partisan justices are at the center of the Supreme Court scandal.",
+              "byline": "by Paul Burka",
+              "page": "138"
+            },
+            {
+              "title": "All Aboard For Copper Canyon",
+              "subtitle": "",
+              "description": "Try North America’s best travel bargain-the Copper Canyon train ride. For $9 you can see Indians who run down deer on foot, Mennonites who speak German, and the most spectacular scenery in Mexico.",
+              "byline": "by Barbara Rodriguez",
+              "page": "140",
+              "wp_post_id": "123207",
+              "identifier": "txmo-article-198705-allaboard.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Old Man And the Vines",
+              "subtitle": "Business",
+              "description": "My father’s Panhandle grape patch gives him a new cash crop and a new pride as a farmer.",
+              "byline": "by Fryar Calhoun",
+              "page": "146"
+            },
+            {
+              "title": "Trailer Trash",
+              "subtitle": "Movies",
+              "description": "Everyone in Raising Arizona has a libido for the ugly, and the guys in Tin Men can’t see past their hood ornaments; Hollywood Shuffle loses its hip mind; Street Smart has a crazed, electric menace.",
+              "byline": "by James Wolcott",
+              "page": "152"
+            },
+            {
+              "title": "Romancing the Stone",
+              "subtitle": "Art",
+              "description": "Using a circular saw and a shrewd commercial sense, Plano housewife Sandy Stein chiseled a new life for herself as a sculptor.",
+              "byline": "by Michael Ennis",
+              "page": "158"
+            },
+            {
+              "title": "Fruit Of the Vinyl",
+              "subtitle": "Popular Music",
+              "description": "A good record store is more than just a supermarket of sound.",
+              "byline": "by Jody Denberg",
+              "page": "164"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Dallas on the couch.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Getting an airline off the ground; achieving your children’s education; cruising through adolescence; rambling through the Valley.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Houston ignores its Aids crisis, Dallas restaurant gossips chew over hard times, San Antonio headline writers get their due. Plus: Chuck Robb’s blooper, Larry McMurtry’s sniffles, and Shearn Moody’s new taste in nightlife.",
+              "byline": "by Alison cook",
+              "page": "98"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "Travels through the Trans-Pecos —splendor in the Big Bend, the greening of the Alpine grasslands, today’s version of profitable ranching, escape from the rat race in South Brewster County, innkeeping Indians in Van Horn-to El Paso, way out on the edge of Texas.",
+              "byline": "by Dick J. Reavis",
+              "page": "110"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "An initial foray.",
+              "byline": "",
+              "page": "207"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Hobby may be a Hartbeat from the president; the feds dump nuclear-waste workers on the Panhandle; Cisneros’ future remains rosy; Kathy Whitmire’s doesn’t.",
+              "byline": "",
+              "page": "208"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

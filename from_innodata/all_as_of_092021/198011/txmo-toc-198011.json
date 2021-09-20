@@ -1,0 +1,204 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198011",
+    "publication": "Texas Monthly",
+    "issue": "November 1980",
+    "pdf_uri": "/1980/19801100.pdf",
+    "month": "November",
+    "year": 1980,
+    "pages": 344,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Discover Beautiful Beaumont",
+              "subtitle": "",
+              "description": "Okay, we heard that snicker. But give the place a chance. You’ll find plenty to enjoy.",
+              "byline": "Richard West",
+              "page": "162"
+            },
+            {
+              "title": "Rex Cauble And the Cowboy Mafia",
+              "subtitle": "",
+              "description": "The Denton millionaire hated drugs and liked cops. He also liked Muscles Foster, a footloose cowboy who was one of Texas’ biggest drug runners",
+              "byline": "Lawrence Wright",
+              "page": "172"
+            },
+            {
+              "title": "Can the Boy Scouts Save America?",
+              "subtitle": "",
+              "description": "Perhaps. At least they’re on the right track and trying hard.",
+              "byline": "Stephen Harrigan",
+              "page": "178"
+            },
+            {
+              "title": "Why Is Houston Falling Apart?",
+              "subtitle": "",
+              "description": "Because nobody at city hall is doing his job, that’s why.",
+              "byline": "Paul Burka",
+              "page": "188"
+            },
+            {
+              "title": "The Ultimate Sport",
+              "subtitle": "",
+              "description": "Polo? It’s passe. Big game hunting? Humdrum. It’s the pursuit of the wily blue marlin that admits men to the world’s most exclusive club",
+              "byline": "Giles Tippette",
+              "page": "192",
+              "wp_post_id": "111987",
+              "identifier": "txmo-article-198011-theultima.json"
+            },
+            {
+              "title": "Hecho En Mexico",
+              "subtitle": "",
+              "description": "There’s no Christmas like a south-of-the-border Christmas, with gift ideas to match.",
+              "byline": "Cyndy Severson and Patricia Sharpe",
+              "page": "198"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Dust On the Golden Spur",
+              "subtitle": "Stepping Out",
+              "description": "When ranchers gathered in Lubbock to celebrate their way of life, they found they didn’t have much cause for celebration.",
+              "byline": "Michael Ennis",
+              "page": "218"
+            },
+            {
+              "title": "On the Rebound",
+              "subtitle": "Sports",
+              "description": "after a sloppy 1979-80 season, the San antonio Spurs had no coach, no center, and no end to their problems. But all that has changed",
+              "byline": "Tom Walker",
+              "page": "229"
+            },
+            {
+              "title": "Teaming With Problems",
+              "subtitle": "Sports",
+              "description": "The Houston Rockets need work; the Dallas Mavericks need help.",
+              "byline": "Tom Walker",
+              "page": "230"
+            },
+            {
+              "title": "Free Agent",
+              "subtitle": "Lifestyles",
+              "description": "Nostalgic daddies think of schoolboy football as good, clean fun. But kids soon realize it’s more like corporal punishment.",
+              "byline": "Prudence Mackintosh",
+              "page": "236"
+            },
+            {
+              "title": "Never On Sunday",
+              "subtitle": "Church",
+              "description": "Why do 61 million adult americans say “pooh” to the pew?",
+              "byline": "William Martin",
+              "page": "242"
+            },
+            {
+              "title": "Man On Bass",
+              "subtitle": "Working",
+              "description": "A double bassist leads a singular life.",
+              "byline": "W. L. Taitte",
+              "page": "246"
+            },
+            {
+              "title": "Putting On Heirs",
+              "subtitle": "Film",
+              "description": "The story of Howard Hughes and the discredited “Mormon will” is the unlikely subject of a quirky film about rags and out-of-reach riches. Ordinary People is full of woe; Stardust Memories has far to go.",
+              "byline": "George Morris",
+              "page": "252"
+            },
+            {
+              "title": "Bordeaux Patrol",
+              "subtitle": "Dining Out",
+              "description": "A loaf of bread, a glass of wine, and thou hast a wine bar.",
+              "byline": "W. L. Taitte",
+              "page": "260"
+            },
+            {
+              "title": "How To Succeed In Opera",
+              "subtitle": "Classical Music",
+              "description": "At his school in austria, Texas singer Richard Owens acquaints opera hopefuls with a bravo new world.",
+              "byline": "Alan Rich",
+              "page": "268"
+            },
+            {
+              "title": "Love’s Labors Found",
+              "subtitle": "Art",
+              "description": "Sculptor Jim Love makes art look easy—and fun.",
+              "byline": "Michael Ennis",
+              "page": "272"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The press keeps telling us how bad Carter and Reagan are, but let he who is without sin cast the first stone.",
+              "byline": "Paul Burka",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Pot of gold.",
+              "byline": "Gregory Curtis",
+              "page": "8"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Red-hot art, inflation blues, wasted blacks.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Dressed to kill.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Gas pipeline companies are devouring Lee County; border plasma clinics beckon poor Mexicans; oh, deer, what can the matter be?",
+              "byline": "Gene Lyons",
+              "page": "144"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Roots.",
+              "byline": "",
+              "page": "339"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A ground swell of support for booting Howard Cosell; here come the judges; who will fill the UT power vacuum?",
+              "byline": "",
+              "page": "340"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

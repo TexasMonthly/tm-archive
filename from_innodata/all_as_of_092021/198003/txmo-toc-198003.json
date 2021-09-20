@@ -1,0 +1,190 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198003",
+    "publication": "Texas Monthly",
+    "issue": "March 1980",
+    "pdf_uri": "/1980/19800300.pdf",
+    "month": "March",
+    "year": 1980,
+    "pages": 216,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Invasion Of the Cable Snatchers",
+              "subtitle": "",
+              "description": "In Texas the best way to get rich in cable television is to know just a little about TV and everything about politics.",
+              "byline": "John Bloom",
+              "page": "92"
+            },
+            {
+              "title": "No More Mr. Nice Guy",
+              "subtitle": "",
+              "description": "Straight out of the last century, fists swinging, cutting a swath through the lawless, comes Dick Cockrell.",
+              "byline": "Sarah W. Thomas",
+              "page": "96"
+            },
+            {
+              "title": "Termite Watkins And the Fatal Pancakes",
+              "subtitle": "",
+              "description": "In a big fight you can outwit, outhit, or outlast your opponent. But you’d better not try to outeat him.",
+              "byline": "Giles Tippette",
+              "page": "98",
+              "wp_post_id": "115518",
+              "identifier": "txmo-article-198003-termitewa.json"
+            },
+            {
+              "title": "Horse Power",
+              "subtitle": "",
+              "description": "Horses are expensive, finicky, and a pain to groom. They are also irresistible.",
+              "byline": "Olive Spitzmiller",
+              "page": "102"
+            },
+            {
+              "title": "An American Family",
+              "subtitle": "",
+              "description": "Pedro Martinez, with only his Mexican heritage, a determination to work hard, and a desire for a better life, brought his family across the Rio Grande to find a home in a new land.",
+              "byline": "Richard West",
+              "page": "108"
+            },
+            {
+              "title": "The Law West Of the Trinity",
+              "subtitle": "",
+              "description": "Justices of the peace, maligned since the days of Roy Bean, don’t operate like other judges. But if lawyers want to get rid of them, they can’t be all bad.",
+              "byline": "Paul Burka",
+              "page": "120"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Alias Miss Moonlight",
+              "subtitle": "Stepping Out",
+              "description": "For Maxine, Texas’ leading gossip, life is all work and no playcation.",
+              "byline": "Michael Ennis",
+              "page": "124"
+            },
+            {
+              "title": "One Man’s Music",
+              "subtitle": "Country Notes",
+              "description": "Harmony begins at home.",
+              "byline": "John Graves",
+              "page": "132"
+            },
+            {
+              "title": "The Egg War",
+              "subtitle": "Cityview",
+              "description": "Getting a memorial for austin’s Viet Nam War dead began as a noble venture but ended in a trivial skirmish.",
+              "byline": "Susan Duffy",
+              "page": "136"
+            },
+            {
+              "title": "Amens And Imams",
+              "subtitle": "Church",
+              "description": "Pentecostal revivalists bask in the Spirit of the Holy Ghost; Muslims find solace in the will of allah.",
+              "byline": "William Martin",
+              "page": "140"
+            },
+            {
+              "title": "Russian Unorthodox",
+              "subtitle": "Art",
+              "description": "The USSR today wouldn’t tolerate the radical art that was nurtured during the Russian Revolution.",
+              "byline": "Michael Ennis",
+              "page": "153"
+            },
+            {
+              "title": "The Secret Life Of Chester Seltzer",
+              "subtitle": "Books",
+              "description": "Gordon Baxter’s Village Creek is just barely navigable. Amado Muro was a bohemian before it was fashionable.",
+              "byline": "Stephen Harrigan",
+              "page": "156"
+            },
+            {
+              "title": "Theater In a Suitcase",
+              "subtitle": "Theater",
+              "description": "On its Houston stop, the acting Company unpacked performances for Texas theaters to live up to. Austin’s Center Stage is in the know but lacks the how.",
+              "byline": "W. L. Taitte alice Gordon",
+              "page": "160"
+            },
+            {
+              "title": "Brains, Beauty, And Braun",
+              "subtitle": "Film",
+              "description": "The Marriage of Maria Braun marks a second honeymoon for the New German Cinema; it’s hard to see your way through The Fog; this american Gigolo is overpriced and underwhelming.",
+              "byline": "George Morris",
+              "page": "164"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "No news is bad news.",
+              "byline": "John Bloom William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Black and brown.",
+              "byline": "Gregory Curtis",
+              "page": "8"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Baby boom, bum rap, race trap.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Docs, rocks, and flocks.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Del Monte gets steamed up over spinach; an entrepreneur’s scheme goes up in flames; Marlin takes the geothermal plunge; football is hot stuff in Mexico.",
+              "byline": "Gene Lyons",
+              "page": "76"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Ticket to write.",
+              "byline": "",
+              "page": "211"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Texas witches need regulation; the Killer Bees sting again; a cloud hangs over the Contemporary arts Museum; the feds insist that minority rules.",
+              "byline": "",
+              "page": "212"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

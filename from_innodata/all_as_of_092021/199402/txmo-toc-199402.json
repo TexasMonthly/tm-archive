@@ -1,0 +1,162 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199402",
+    "publication": "Texas Monthly",
+    "issue": "February 1994",
+    "pdf_uri": "/1994/19940200.pdf",
+    "month": "February",
+    "year": 1994,
+    "pages": 151,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Deadly Da",
+              "subtitle": "Law",
+              "description": "",
+              "byline": "by audrey Duff",
+              "page": "38"
+            },
+            {
+              "title": "Frequent Fliers",
+              "subtitle": "Travel",
+              "description": "",
+              "byline": "by Turk Pipkin",
+              "page": "46"
+            },
+            {
+              "title": "Me, Myself, and I",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by Louis Black",
+              "page": "52"
+            },
+            {
+              "title": "Axes to Grind",
+              "subtitle": "Music",
+              "description": "",
+              "byline": "by John Morthland",
+              "page": "58"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "A Healthy Practice",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Thaddeus Herrick, Dan Michalski, Emily Benedek, Julia Null, and Gary Cartwright",
+              "page": "62"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "74"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "123"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "125"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "148"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Twilight Of the Texas Rangers",
+              "subtitle": "",
+              "description": "Are the legendary lawmen necessary? Yes, but their inability to grapple with the modern world threatens to make them irrelevant.",
+              "byline": "by Robert Draper",
+              "page": "76"
+            },
+            {
+              "title": "Love and Death On the Third Floor",
+              "subtitle": "",
+              "description": "She was the princess who wore Tiffany perfume. He was the middle-class guy who raced cars. But when they met on the cystic fibrosis wing of a Dallas hospital, romance bloomed.",
+              "byline": "by Skip Hollandsworth",
+              "page": "84"
+            },
+            {
+              "title": "The Crying Game",
+              "subtitle": "",
+              "description": "When Houston’s pro sports teams collapse late in the season—as they may do this year—faithful fans like me are never surprised. We’ve almost come to expect it.",
+              "byline": "by Robert Draper",
+              "page": "88"
+            },
+            {
+              "title": "The Guns Of Huejotzingo",
+              "subtitle": "",
+              "description": "On the three days before Lent, amid clouds of smoke and the sounds of musket fire, this tiny town is the site of Mexico’s most chaotic carnaval.",
+              "byline": "Text and photographs by Geoff Winningham",
+              "page": "92",
+              "wp_post_id": "128733",
+              "identifier": "txmo-article-199402-thegunso.json"
+            },
+            {
+              "title": "Go West!",
+              "subtitle": "",
+              "description": "Now is the time to check out newly stylish hotels and restaurants in West Texas. Tourists aren’t far behind.",
+              "byline": "by Patricia Sharpe",
+              "page": "98"
+            },
+            {
+              "title": "The Temptation Of Williamson County",
+              "subtitle": "",
+              "description": "Why austin’s suburban neighbors to the north wouldn’t take a bite out of apple Computer.",
+              "byline": "by Paul Burka",
+              "page": "104"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

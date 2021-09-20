@@ -1,0 +1,152 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198709",
+    "publication": "Texas Monthly",
+    "issue": "September 1987",
+    "pdf_uri": "/1987/19870900.pdf",
+    "month": "September",
+    "year": 1987,
+    "pages": 176,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents September",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Time Of His Life",
+              "subtitle": "",
+              "description": "Henry Cisneros has the vision and charisma of a born leader. Does it matter that he has the soul of an aggie?",
+              "byline": "by Stephen Harrigan",
+              "page": "86"
+            },
+            {
+              "title": "Shark!",
+              "subtitle": "",
+              "description": "Three shark attacks on the Texas coast this summer are making swimmers edgy and chambers of commerce ask one question: what’s going on out there?",
+              "byline": "by Joe Nick Patoski",
+              "page": "92",
+              "wp_post_id": "123000",
+              "identifier": "txmo-article-198709-shark.json"
+            },
+            {
+              "title": "Guilty Until Proven Innocent",
+              "subtitle": "",
+              "description": "In 1980 a white girl was raped and murdered at Conroe High School, and the police quickly arrested a black janitorial supervisor. Now it looks as if the case wasn’t so open and shut after all.",
+              "byline": "by Tom Curtis",
+              "page": "94"
+            },
+            {
+              "title": "The Fantasy World Of Victor Costa",
+              "subtitle": "",
+              "description": "Texas’ most famous dress designer dreamed up the perfect evening gown for the average american woman—it’s frilly, it’s flashy, and it’s a $300 copy of a $15,000 Paris original.",
+              "byline": "by Mimi Swartz",
+              "page": "98",
+              "wp_post_id": "122994",
+              "identifier": "txmo-article-198709-thefantas.json"
+            },
+            {
+              "title": "Cowboys And Iranians",
+              "subtitle": "",
+              "description": "What do Odessa beer joints and the Iran-contra hearings have in common? Everything.",
+              "byline": "by Larry L. King",
+              "page": "104"
+            },
+            {
+              "title": "Give Me Your Tired, Your Poor, Your Huddled Masses Yearning For Lunch Period",
+              "subtitle": "",
+              "description": "at Spence Middle School in Dallas, the melting pot is boiling, but the brew isn’t ready to serve.",
+              "byline": "by Richard West",
+              "page": "106",
+              "wp_post_id": "122988",
+              "identifier": "txmo-article-198709-givemeyo.json"
+            },
+            {
+              "title": "Unsportsmanlike Conduct",
+              "subtitle": "",
+              "description": "When he played for the Dallas Cowboys, Hollywood Henderson had everything. Here he tells how he lost it.",
+              "byline": "by Thomas “Hollywood” Henderson",
+              "page": "110"
+            },
+            {
+              "title": "A Texan Looks At Lyndon",
+              "subtitle": "Texas Primer",
+              "description": "On the eve of the 1964 national elections, Texas historian J. Evetts Haley published a scathing attack on President Lyndon B. Johnson. The book sold seven million copies, but Johnson still won the race.",
+              "byline": "by William M. Adler",
+              "page": "114"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "I, Plscivore",
+              "subtitle": "Cooking",
+              "description": "How I learned what to do with the one that didn’t get away.",
+              "byline": "",
+              "page": "by Gary Cartwright"
+            },
+            {
+              "title": "The Book Stops Here",
+              "subtitle": "Business",
+              "description": "For 68 years, Rosengren’s Books in San antonio gave personal service, sought out both arcane and popular titles, and fostered a love of reading. It wasn’t enough to keep the store in business.",
+              "byline": "by Jan Jarboe",
+              "page": "122"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "White woman, black woman.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Legislative commentary.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "On the cutting edge with Ollie North; Donna Rice on the cutting room floor; cutting corners to find good Vietnamese restaurants; and the gig ’em gourmet cookbook, the aggies’ unkindest cut of all.",
+              "byline": "by alison Cook",
+              "page": "66"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "Tales of the Piney Woods: the original kings of the forest, the Bright way to get a chicken in every pot, the gamble of today’s Tenaha. Plus: an unusual graveyard, a haunting ruin, a chilling church name.",
+              "byline": "by Dick J. Reavis",
+              "page": "78"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "The new tax bill kicks oil when it’s down; the Houston Chronicle is alive and kicking (the Post); the premature end of TranStar; the premature beginning of Jim Mattox.",
+              "byline": "",
+              "page": "172"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

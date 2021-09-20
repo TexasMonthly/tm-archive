@@ -1,0 +1,190 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198311",
+    "publication": "Texas Monthly",
+    "issue": "November 1983",
+    "pdf_uri": "/1983/19831100.pdf",
+    "month": "November",
+    "year": 1983,
+    "pages": 292,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Legacy Of Lee Harvey Oswald",
+              "subtitle": "",
+              "description": "Twenty years ago he thrust himself into our lives; he is there yet.",
+              "byline": "",
+              "page": "146"
+            },
+            {
+              "title": "Why Do They Hate Us So Much?",
+              "subtitle": "",
+              "description": "A great man was dead and an outraged world desperately wanted someplace to lay the blame. It chose Dallas and changed the city forever.",
+              "byline": "Lawrence Wright",
+              "page": "148"
+            },
+            {
+              "title": "Still On the Case",
+              "subtitle": "",
+              "description": "Assassination buffs come in all shapes and convictions—archivists, technologists, mob-hit theorists, and more—but they are all obsessed with Lee Harvey Oswald, and his crime is the focus of their lives.",
+              "byline": "Ron Rosenbaum",
+              "page": "152"
+            },
+            {
+              "title": "The Wild Ones",
+              "subtitle": "",
+              "description": "Quick! Get out your furs before it gets hot again.",
+              "byline": "Helen Thompson",
+              "page": "158",
+              "wp_post_id": "118707",
+              "identifier": "txmo-article-198311-thewildo.json"
+            },
+            {
+              "title": "Fantasy Island",
+              "subtitle": "",
+              "description": "It’s a high-rise developer’s dream. Houston’s old guard wants to turn 34 acres of downtown warehouses into an island of classy shops and pricey condos. They thought they had it wired, until Kathy Whitmire was elected mayor.",
+              "byline": "Joseph Nocera",
+              "page": "166"
+            },
+            {
+              "title": "Rawhide",
+              "subtitle": "Western Art",
+              "description": "",
+              "byline": "Jose Cruz",
+              "page": "169"
+            },
+            {
+              "title": "Twofers",
+              "subtitle": "",
+              "description": "Texas: land of contrast. That’s why we have double-barreled businesses like a feedstore cum twirling school or a combo junkyard-wildlife preserve.",
+              "byline": "Peter applebome",
+              "page": "170"
+            },
+            {
+              "title": "The Drill Team",
+              "subtitle": "Texas Primer",
+              "description": "Good, clean sex, brought to you by high-kicking, rosy-cheeked Texas gals.",
+              "byline": "Terry Toler",
+              "page": "178"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Roadside Eye",
+              "subtitle": "Art",
+              "description": "Robert Frank took casual but expressive snapshots that captured dramas of american life and altered the course of modern photography.",
+              "byline": "Michael Ennis",
+              "page": "180"
+            },
+            {
+              "title": "Cool Minds In a Hot War",
+              "subtitle": "Movies",
+              "description": "Nick Nolte is a journalist dodging bullets and political involvement in Under Fire. The Right Stuff is about americans, space, and manifest destiny. The Big Chill is a warm look at the cooling of sixties idealism.",
+              "byline": "James Wolcott",
+              "page": "184"
+            },
+            {
+              "title": "A Surfeit Of Bimbos",
+              "subtitle": "Books",
+              "description": "In The Desert Rose Larry McMurtry’s heroines never blossom into believable women. The Franchise is a tough tale about graft and the gridiron.",
+              "byline": "Rod Davis",
+              "page": "192"
+            },
+            {
+              "title": "Duel For the Sun",
+              "subtitle": "Politics",
+              "description": "Crosbyton and Texas Tech wanted to harvest a major local resource: the sun. But then the feds stepped in, and the issue switched from energy to power.",
+              "byline": "Fryar Calhoun",
+              "page": "198"
+            },
+            {
+              "title": "A Soprano Is Born",
+              "subtitle": "Classical Music",
+              "description": "Houston likes to think it discovered Erie Mills, but it’s willing to share the winning young star with the rest of the opera world.",
+              "byline": "W. L. Taitte",
+              "page": "206"
+            },
+            {
+              "title": "Local Menu Makes Good",
+              "subtitle": "Texana",
+              "description": "Here’s to the unsung heroes of Eastland: my grandfather and his V. C. menu.",
+              "byline": "Lisa Germany",
+              "page": "212"
+            },
+            {
+              "title": "The Palace Of Pros",
+              "subtitle": "Theater",
+              "description": "With The Palace of amateurs, the Plaza Theatre brought a sparkling Mariel Hemingway to Dallas and a lofty new theatrical standard to Texas.",
+              "byline": "W. L. Taitte",
+              "page": "216"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Dueling cornucopias.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A new era for Texas prisons; a new view of Wichita Falls; a new look, alas, for a Dallas street; a new metropolis in East Texas; a new generation of frat rats.",
+              "byline": "Jim atkinson",
+              "page": "122"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "Patricia Sharpe",
+              "page": "220"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "287"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "The Supreme Court scores one for Texas against the Yankees; blame the recession on InterFirst; why Phil Gramm makes a great Republican; an oil squabble matches the greedy little independents against poor, starving Big Oil.",
+              "byline": "",
+              "page": "288"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

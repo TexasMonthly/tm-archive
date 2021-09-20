@@ -1,0 +1,177 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198402",
+    "publication": "Texas Monthly",
+    "issue": "February 1984",
+    "pdf_uri": "/1984/19840200.pdf",
+    "month": "February",
+    "year": 1984,
+    "pages": 196,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Bad News",
+              "subtitle": "",
+              "description": "Local TV news has as much to do with show biz as with journalism. Unfortunately, most viewers take it seriously.",
+              "byline": "Gary Cartwright",
+              "page": "98",
+              "wp_post_id": "120483",
+              "identifier": "txmo-article-198402-badnews.json"
+            },
+            {
+              "title": "At the Scene",
+              "subtitle": "",
+              "description": "The best local news programs in Texas make big bucks for their stations, but so do the worst ones. Here’s how they stack up.",
+              "byline": "Gary Cartwright",
+              "page": "101",
+              "wp_post_id": "120480",
+              "identifier": "txmo-article-198402-atthesce.json"
+            },
+            {
+              "title": "The Training Ground",
+              "subtitle": "",
+              "description": "To wind up on top in the news business, it pays to start at the bottom.",
+              "byline": "Dan Rather",
+              "page": "106",
+              "wp_post_id": "120474",
+              "identifier": "txmo-article-198402-thetraini.json"
+            },
+            {
+              "title": "Love And Death In Silicon Prairie Part II",
+              "subtitle": "The Killing of Betty Gore",
+              "description": "Candy Montgomery thought her affair with allan Gore was over, until she found herself fighting for her life against allan’s wife.",
+              "byline": "John Bloom and Jim atkinson",
+              "page": "108"
+            },
+            {
+              "title": "Lasting Love",
+              "subtitle": "",
+              "description": "In honor of Valentine’s Day, a gallery of folks who found the real thing.",
+              "byline": "",
+              "page": "114"
+            },
+            {
+              "title": "Contentshe Texas Timex",
+              "subtitle": "Texas Primer",
+              "description": "Ever since LBJ’s gold Rolex appeared next to his gall bladder scar in news photographs, Texans have been buying the pricey timepieces by the carload.",
+              "byline": "Mark Seal",
+              "page": "120"
+            },
+            {
+              "title": "Come On, Walter . . . Smile!",
+              "subtitle": "",
+              "description": "Austin’s Roy Spence parlayed his success in Mark White’s campaign into a job selling Walter Mondale to the american people.",
+              "byline": "Paul Burka",
+              "page": "122",
+              "wp_post_id": "120465",
+              "identifier": "txmo-article-198402-comeonwa.json"
+            },
+            {
+              "title": "Service Road",
+              "subtitle": "Western Art",
+              "description": "",
+              "byline": "Thomas Woodruff",
+              "page": "127",
+              "wp_post_id": "120459",
+              "identifier": "txmo-article-198402-servicero.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Venetian Finds",
+              "subtitle": "art",
+              "description": "Five Texas artists are among those selected for “Paradise Lost/Paradise Regained,” this year’s american entry in the Venice Biennale.",
+              "byline": "Michael Ennis",
+              "page": "128"
+            },
+            {
+              "title": "Contentshe America’s Team Caper",
+              "subtitle": "Sports",
+              "description": "Someone had done in the Cowboys and I had to find the killer, but there were too many suspects.",
+              "byline": "Peter applebome",
+              "page": "134"
+            },
+            {
+              "title": "Silkwood’s Blight",
+              "subtitle": "Movies",
+              "description": "Dread is the main character in Silkwood; To Be or Not to Be can’t make up its mind; The Dresser is a fussy failure; The Man Who Loved Women doesn’t.",
+              "byline": "James Wolcott",
+              "page": "138"
+            },
+            {
+              "title": "A Museum That Works",
+              "subtitle": "architecture",
+              "description": "Edward Larrabee Barnes’ quietly elegant new Dallas Museum of art is a delight for museumgoers and curators alike.",
+              "byline": "Eleni Constantine",
+              "page": "144"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The alamo? I can’t remember what that was.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Contentshe Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Galveston as it was; Texas food as it is, dammit; and the Post as it will be, maybe.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Great expectations for oilmen; sartorial bargains for Brownsville; a medical controversy for alpine; vexing questions for hunters; the ultimate who’s who for chickens.",
+              "byline": "Harry Hurt III",
+              "page": "78"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Breaking up is hard to do.",
+              "byline": "Patricia Sharpe",
+              "page": "148"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "You are what you eat.",
+              "byline": "",
+              "page": "191"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Mark White's campaign promises come back to haunt him; arthur Temple gets rich(er) off Time Inc.; who got burned when the torch was passed at First City; a Pyhrric victory for the oil industry.",
+              "byline": "",
+              "page": "192"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

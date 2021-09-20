@@ -1,0 +1,164 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198708",
+    "publication": "Texas Monthly",
+    "issue": "August 1987",
+    "pdf_uri": "/1987/19870800.pdf",
+    "month": "August",
+    "year": 1987,
+    "pages": 180,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents August",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Sleaziest Man In Texas",
+              "subtitle": "",
+              "description": "The rich and eccentric heir to a rich and eccentric Galveston family, Shearn Moody, Jr., craved an empire all his own. But his lack of self-restraint cost him his bank, his insurance company, his fortune, and now, perhaps, his freedom.",
+              "byline": "by Gary Cartwright",
+              "page": "86",
+              "wp_post_id": "123063",
+              "identifier": "txmo-article-198708-thesleazi.json"
+            },
+            {
+              "title": "The Time It Always Rained",
+              "subtitle": "",
+              "description": "The wettest spell in memory has given the people who live in West Texas an unfamiliar topic of conversation.",
+              "byline": "by Elmer Kelton",
+              "page": "94",
+              "wp_post_id": "123060",
+              "identifier": "txmo-article-198708-thetimei.json"
+            },
+            {
+              "title": "The Booming Business Of Aids",
+              "subtitle": "",
+              "description": "For some entrepreneurs, the dark cloud of AIDS has proved to have a silver lining",
+              "byline": "by Patricia Sharpe",
+              "page": "98"
+            },
+            {
+              "title": "The Tar Ball",
+              "subtitle": "Texas Primer",
+              "description": "There’s one place where you can still find plenty of oil in Texas: the beach",
+              "byline": "by Drew Jubera",
+              "page": "102"
+            },
+            {
+              "title": "Cities In Bondage",
+              "subtitle": "",
+              "description": "When eighty-year-old Decker Jackson gives financial advice to Texas public officials, nothing in life is certain but debt and taxes",
+              "byline": "by Peter Elkind",
+              "page": "104"
+            },
+            {
+              "title": "Who Says Never Trust a Skinny Chef?",
+              "subtitle": "",
+              "description": "Meet Bruce auden of San antonio, the fairest of the Fairmount",
+              "byline": "by Alison Cook",
+              "page": "108"
+            },
+            {
+              "title": "What the Stranger Saw",
+              "subtitle": "",
+              "description": "Nobody remembers his name, but the photographer who passed through Corpus Christi in 1934 left behind an unforgettable series of images",
+              "byline": "",
+              "page": "110"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Hollywood On the Rio Grande",
+              "subtitle": "Mexico",
+              "description": "Brownsville has everything Mexico’s leading filmmaker could want-except visas",
+              "byline": "by David Theis",
+              "page": "118"
+            },
+            {
+              "title": "Subjects Of the Realm",
+              "subtitle": "Art",
+              "description": "Hans Holbein’s life drawings are a tantalizing glimpse into the lusty court of Henry VIII. And courtesy of HRH Queen Elizabeth II, they’re on view at the Houston Museum of Fine arts",
+              "byline": "by Michael Ennis",
+              "page": "122"
+            },
+            {
+              "title": "Revenge Of the Retrorockers",
+              "subtitle": "Popular Music",
+              "description": "The Fabulous Thunderbirds, Mason Ruffner, and Omar and the Howlers all got the same message from album-oriented-rock radio: Wrap it up, we’ll take it",
+              "byline": "by Jody Denberg",
+              "page": "126"
+            },
+            {
+              "title": "What’s In a Name?",
+              "subtitle": "Business",
+              "description": "Maybe as much as $20,000, if Lee Ballard of Dallas has anything to do with it",
+              "byline": "by Alison Cook",
+              "page": "130"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Should we have an income tax?",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Behaving yourself in the eighties; keeping the faith in the parish; winning Pulitzers with penguins",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Let’s play pretend by swapping out Houstonians for Dallasites. Plus: Battling books, good Mex-Mex where you’d least expect it, and our guide to the latest legislative phrases (use ’em three times and they’re yours!)",
+              "byline": "by alison Cook",
+              "page": "66"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "Passing (slowly) through Kendleton. Then on to Houston, where student murals record the march of time and Vietnam vets gather; to a meal so good it’s kept under lock and key; and finally to the (formerly) Golden Triangle",
+              "byline": "",
+              "page": "78"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "Sixteen ways to make an entrance",
+              "byline": "",
+              "page": "175"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Playing fast and loose with the new speed limit; an oil drilling technique gets the shaft; dam builders strike back-with authority; how the budget battle is changing the Legislature",
+              "byline": "",
+              "page": "176"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

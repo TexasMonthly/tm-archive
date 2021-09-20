@@ -1,0 +1,162 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198112",
+    "publication": "Texas Monthly",
+    "issue": "December 1981",
+    "pdf_uri": "/1981/19811200.pdf",
+    "month": "December",
+    "year": 1981,
+    "pages": 316,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Black Striker Gets Hit",
+              "subtitle": "",
+              "description": "The life—promising beginning, overripe middle, bloody end—of Lee Chagra, the biggest drug lawyer in El Paso.",
+              "byline": "Gary Cartwright",
+              "page": "144"
+            },
+            {
+              "title": "Let’s Get Serious About Toys",
+              "subtitle": "",
+              "description": "They used to be virtuous and wooden and they were good. Now they’re commercial and plastic and they’re great.",
+              "byline": "Stephen Harrigan",
+              "page": "150"
+            },
+            {
+              "title": "Child’s Play",
+              "subtitle": "",
+              "description": "A brief but opinionated guide to the world’s best toys, from the alpha Probe to the telephone.",
+              "byline": "Stephen Harrigan",
+              "page": "155"
+            },
+            {
+              "title": "Texas, 1945 Or the Sad Cowboy",
+              "subtitle": "",
+              "description": "In a faraway archive we found the best photographs of Texas ever taken, never before published in a large group. Together, they show every part of the state as it entered the modern age. And each one has a story behind it.",
+              "byline": "Nicholas Lemann",
+              "page": "158"
+            },
+            {
+              "title": "The Ground’s the Limit",
+              "subtitle": "",
+              "description": "How a band of thrill-seekers called BASE made jumping off Texas’ tallest building the ultimate urban adventure.",
+              "byline": "Harry Hurt III",
+              "page": "178",
+              "wp_post_id": "115857",
+              "identifier": "txmo-article-198112-theground.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Kids And Money",
+              "subtitle": "Lifestyles",
+              "description": "Children today understand brand names like Izod and concepts like “rip-off,” but they don’t understand that some things—the best things—can’t be bought.",
+              "byline": "Prudence Mackintosh",
+              "page": "186"
+            },
+            {
+              "title": "Oscar’s Follies",
+              "subtitle": "Business",
+              "description": "Coastal Corporation’s mastermind, Oscar Wyatt, keeps everyone guessing these days—from the IRS to society columnists to stock analysts.",
+              "byline": "Harry Hurt III",
+              "page": "196"
+            },
+            {
+              "title": "Rage Of Cajuns",
+              "subtitle": "Movies",
+              "description": "Southern Comfort bathes the bayou in blood; Chariots of Fire sets no track records; Quartet is a marvel of misdirection; True Confessions’ trespasses are forgivable; Time Bandits steals the show.",
+              "byline": "James Wolcott",
+              "page": "209"
+            },
+            {
+              "title": "Time Of Repentance, Season Of Joy",
+              "subtitle": "Church",
+              "description": "On Yom Kippur, Jews in Dallas mark the Day of atonement; on Christmas Eve, Episcopalians in Houston gather for a night of adoration.",
+              "byline": "William Martin",
+              "page": "218"
+            },
+            {
+              "title": "Our Son, the Murderer",
+              "subtitle": "Theater",
+              "description": "Dallas’s Stage #1 proves it’s worthy of its name with a gut-wrenching production about a family torn apart.",
+              "byline": "W. L. Taitte",
+              "page": "226"
+            },
+            {
+              "title": "Rockers, Kickers, And Hepcats",
+              "subtitle": "Popular Music",
+              "description": "Texas music is wide open these days. You can stand by old standbys like Willie or take a chance on nuclear polka and Caribbean funk.",
+              "byline": "Pepi Plowman",
+              "page": "232"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The big boom.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "The high and the flighty.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "TOUTS",
+              "subtitle": "",
+              "description": "Have yourself a merry Texas Christmas.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "REPORTER",
+              "subtitle": "",
+              "description": "Robots take over Dallas; sports talk shows take Houston by storm; border bridges take forever to get built; John Tower takes the lead in the defense debate; a Corsicana bakery takes the fruitcake.",
+              "byline": "Peter applebome",
+              "page": "124"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "The bottle-cap gambit.",
+              "byline": "",
+              "page": "311"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Dreaming Democrats; juicy news about the News; shake-ups brewing at UT; why Reagan can’t decontrol gas.",
+              "byline": "",
+              "page": "312"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

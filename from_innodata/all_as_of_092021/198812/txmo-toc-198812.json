@@ -1,0 +1,159 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198812",
+    "publication": "Texas Monthly",
+    "issue": "December 1988",
+    "pdf_uri": "/1988/19881200.pdf",
+    "month": "December",
+    "year": 1988,
+    "pages": 212,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Content December",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Can Ross Perot Save America?",
+              "subtitle": "",
+              "description": "One day in 1962 Ross Perot read Thoreau’s insight that the “mass of men lead lives of quiet desperation.” The country hasn’t been the same since.",
+              "byline": "by Peter Eikind",
+              "page": "98"
+            },
+            {
+              "title": "$3,000,000,000",
+              "subtitle": "",
+              "description": "Now that he’s got it, what does Ross Perot plan to do with it?.",
+              "byline": "",
+              "page": "101"
+            },
+            {
+              "title": "True Stories",
+              "subtitle": "",
+              "description": "What happens when ordinary people put on extraordinary clothes?.",
+              "byline": "Photography by Geof Kern",
+              "page": "104"
+            },
+            {
+              "title": "The Battle Of the Bubbles",
+              "subtitle": "",
+              "description": "One man’s obsession with kicking Perrier in the derriere.",
+              "byline": "by Jan Jarboe",
+              "page": "112",
+              "wp_post_id": "123684",
+              "identifier": "txmo-article-198812-thebattle.json"
+            },
+            {
+              "title": "Cool, Clear Water",
+              "subtitle": "114",
+              "description": "A drop-by-drop analysis of the major brands of Texas designer water.",
+              "byline": "",
+              "page": "",
+              "wp_post_id": "123681",
+              "identifier": "txmo-article-198812-coolclear.json"
+            },
+            {
+              "title": "Making the Grade",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Glenna Whitey",
+              "page": "In Dallas, people call the new superintendent of schools the Messiah. Now all Marvin Edwards has to do is prove they’re right."
+            },
+            {
+              "title": "Zoom At the Top",
+              "subtitle": "",
+              "description": "What kind of woman gets her own skin-care company, a place in Nouvelle Society, and the secondthe world? Meet Georgette Mosbacher.",
+              "byline": "by Mimi Swartz",
+              "page": "120"
+            },
+            {
+              "title": "A Sketch In Time",
+              "subtitle": "Notes and Illustrations",
+              "description": "An artist’s fancy takes flight over the Rio Grande Valley.",
+              "byline": "by Alan E. Cober",
+              "page": "124",
+              "wp_post_id": "123669",
+              "identifier": "txmo-article-198812-asketchi.json"
+            },
+            {
+              "title": "The Line",
+              "subtitle": "",
+              "description": "Visitors to the Harris County Jail resign themselves to the hours they must spend waiting in line to get fifteen precious minutes with an inmate.",
+              "byline": "by Ed Fowler",
+              "page": "130"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Brave News World",
+              "subtitle": "Media",
+              "description": "On temporary assignment, a newspaperman sees that when it comes to Tv news, what you see is just about all you’re going to get...",
+              "byline": "by Bob Boyd",
+              "page": "134"
+            },
+            {
+              "title": "Sax To the Max",
+              "subtitle": "Popular Music",
+              "description": "A Houston bellhop by day, tenor saxman Grady Gaines has come out of retirement to bring back the trademark sound of a great rock and roll band.",
+              "byline": "by Al Reinert",
+              "page": "138"
+            },
+            {
+              "title": "Kick ’Em Back! Kick ’Em Back! Waaay Back!",
+              "subtitle": "Sports",
+              "description": "Smu’s fall soccer season had cheerleaders; it had a band: it had pom-pom girls. What it didn’t have was excitement..",
+              "byline": "by Gregory Curtis",
+              "page": "142"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Texas with tumors?.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "The sounds of country; the life and death of the bay; the interpretation of our state’s history.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "San Antonio media indulge in self-flagellation over Henry; Dallas goes gaga over Tom Cruise; Houston thrills to a Pearl of a blues singer.",
+              "byline": "by Alison Cook",
+              "page": "84"
+            },
+            {
+              "title": "State Secrets.",
+              "subtitle": "",
+              "description": "The newest threat to Houston mayor Kathy Whitmire is an old face; an investigation of an acid leak turns sour; a Texas congressman may take over the banking committee.",
+              "byline": "",
+              "page": "208"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

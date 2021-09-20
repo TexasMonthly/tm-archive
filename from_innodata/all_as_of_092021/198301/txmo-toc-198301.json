@@ -1,0 +1,148 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198301",
+    "publication": "Texas Monthly",
+    "issue": "January 1983",
+    "pdf_uri": "/1983/19830100.pdf",
+    "month": "January",
+    "year": 1983,
+    "pages": 172,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Bum Steer Awards 1983",
+              "subtitle": "",
+              "description": "Presenting blazing barbecue, bumbling Bush, blaspheming Baptists, and 118 more of the best of the worst of Texas.",
+              "byline": "",
+              "page": "82"
+            },
+            {
+              "title": "God’s Happy Hour",
+              "subtitle": "",
+              "description": "Every year communities scattered across Texas hold wet-dry elections. Each one pits the forces of fundamentalism against the forces of realism. This is the story of one such election.",
+              "byline": "Dick J. Reavis",
+              "page": "92"
+            },
+            {
+              "title": "The Grand Tour",
+              "subtitle": "",
+              "description": "Houston’s the ticket to a trip around the world. In that one city you can now eat, shop, drink, and dance across the continents of Africa, Asia, Australia, Europe, and the Americas.",
+              "byline": "Alison Cook",
+              "page": "98",
+			  "wp_post_id": 119652,
+              "identifier": "TXMO-ARTICLE-198301-thegrand.json"
+            },
+            {
+              "title": "Texas Primer: The Dallas Model,",
+              "subtitle": "",
+              "description": "The sweetheart of the Apparel Mart: where she came from and where she's going.",
+              "byline": "",
+              "page": "112"
+            },
+            {
+              "title": "The Making Of A Congressman",
+              "subtitle": "",
+              "description": "Twelve ran, Mike Andrews won. A saga of ambition, money, power, courage, and the nature of urban politics in Texas.",
+              "byline": "Victoria Loe",
+              "page": "114"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Nolo Contendere",
+              "subtitle": "Movies",
+              "description": "Paul Newman stars as an existential ambulance chaser in The Verdict, a dismal study of law and disorder. Best Friends will alienate you; Heartaches will make you feel good. 48 Hrs. is dirty talk and déjà vu.",
+              "byline": "James Wolcott",
+              "page": "120"
+            },
+            {
+              "title": "A Monumental Man",
+              "subtitle": "Books",
+              "description": "In The Path to Power Robert Caro brings the Texas of the twenties and thirties to hot, scrubby life, but tries to fit the young Lyndon Johnson into a prefabricated and constricting mold.",
+              "byline": "Paul Burka",
+              "page": "124"
+            },
+            {
+              "title": "The Quixotic Theotokopoulos",
+              "subtitle": "Art",
+              "description": "A spectacular show at the Dallas Museum of Fine Arts reexamines the genius of El Greco.",
+              "byline": "Michael Ennis",
+              "page": "131"
+            },
+            {
+              "title": "A Home Away From Home",
+              "subtitle": "Lifestyles",
+              "description": "Thanks to indulgent parents, many of today’s wealthy kids are disdaining dorms for UT-area condos-and forfeiting what may be the best part of a college education.",
+              "byline": "David Seeley",
+              "page": "136"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind The Lines",
+              "subtitle": "",
+              "description": "Negative utopias.",
+              "byline": "Nicholas Lemann",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of The Crowd",
+              "subtitle": "",
+              "description": "Banned in the schools, school kids in the band.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Animal magnetism.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around The State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Two newspapers in search of nothing in particular; a fish story with a happy ending; an eleven-letter word for “crossword puzzle whiz”; the cutting edge of Corpus Christi’s minority politics.",
+              "byline": "Peter Applebome",
+              "page": "66"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "A slice of life.",
+              "byline": "",
+              "page": "167"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "One giant step for wives; one small step for John Glenn; why oilmen will never rule the world; why the new Texas congressmen won’t either.",
+              "byline": "",
+              "page": "168"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

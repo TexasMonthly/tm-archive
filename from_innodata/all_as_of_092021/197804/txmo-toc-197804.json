@@ -1,0 +1,146 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197804",
+    "publication": "Texas Monthly",
+    "issue": "April 1978",
+    "pdf_uri": "/1978/19780400.pdf",
+    "month": "April",
+    "year": 1978,
+    "pages": 212,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Daddy’s Money",
+              "subtitle": "",
+              "description": "The feuding over H. L. Hunt’s vast fortune is a family affair, and what a family!",
+              "byline": "Harry Hurt III",
+              "page": "92",
+              "wp_post_id": "113040",
+              "identifier": "txmo-article-197804-daddysmon.json"
+            },
+            {
+              "title": "Plastic Fantastic",
+              "subtitle": "Design",
+              "description": "“Plastics,” the man whispered to Dustin Hoffman in The Graduate, and plastics—transformed from junk into art—it is.",
+              "byline": "Mike Hicks",
+              "page": "100"
+            },
+            {
+              "title": "The Petrified Forest",
+              "subtitle": "",
+              "description": "Behind the pine curtain of deep East Texas is a world trapped in the past and hidden from the future: lush woods, poor whites, the descendants of slaves, and an aristocracy still breathing the rarefied air of the Old South.",
+              "byline": "Richard West",
+              "page": "106"
+            },
+            {
+              "title": "Election Tip Sheet",
+              "subtitle": "",
+              "description": "The dark horses, heavy favorites, and close calls of this year’s big elections.",
+              "byline": "Paul Burka",
+              "page": "116"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Agony And the Allergy",
+              "subtitle": "Health",
+              "description": "You don’t have to move to arizona to cure your allergies, but you may have to get rid of your cat.",
+              "byline": "Kaye Northcott",
+              "page": "138"
+            },
+            {
+              "title": "Stayin’ Alive",
+              "subtitle": "Country Notes",
+              "description": "Varmints: we can’t live with ’em and we can’t live without ’em.",
+              "byline": "John Graves",
+              "page": "146"
+            },
+            {
+              "title": "Ooh La LaMB",
+              "subtitle": "Dining In",
+              "description": "Texas has always had lambs; now we give you lamb chops.",
+              "byline": "Frank Bailey",
+              "page": "156"
+            }
+          ]
+        },
+        {
+          "section_heading": "Short Subjects",
+          "toc_entry": [
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "On the road with Dolph and John; a fatal case of mistaken identity; butterflies on the rocks; Metroplex blood sport; and polled Herefords, polled Herefords, polled Herefords everywhere.",
+              "byline": "",
+              "page": "72"
+            },
+            {
+              "title": "The Texas Monthly Review",
+              "subtitle": "",
+              "description": "The alley’s Russian connection blows a fuse; Cézanne’s late work may have the last word; tripping through Texas with Trocks in tutus; austin white boys sing some mean blues; and turn off your radio or mellow rock will get you.",
+              "byline": "",
+              "page": "122"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Requiem for a heavyweight.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Writers, pensive and frenetic.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Championship of Texas cities: rematch.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Take the money and run.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Down memoir lane.",
+              "byline": "Paul Burka",
+              "page": "208"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

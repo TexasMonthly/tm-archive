@@ -1,0 +1,203 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197903",
+    "publication": "Texas Monthly",
+    "issue": "March 1979",
+    "pdf_uri": "/1979/19790300.pdf",
+    "month": "March",
+    "year": 1979,
+    "pages": 188,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Sisters",
+              "subtitle": "",
+              "description": "If she’s your brother’s mother’s other female child, who is she?",
+              "byline": "Janice Rubin",
+              "page": "78",
+              "wp_post_id": "114651",
+              "identifier": "txmo-article-197903-sisters.json"
+            },
+            {
+              "title": "Hey Kid, Shape Up",
+              "subtitle": "",
+              "description": "And Prairie View A&M will ship you out of the ghetto straight into the middle class.",
+              "byline": "John Bloom",
+              "page": "84",
+              "wp_post_id": "114645",
+              "identifier": "txmo-article-197903-heykidsh.json"
+            },
+            {
+              "title": "Psst . . . Have I Got a Deal For You!",
+              "subtitle": "",
+              "description": "Oil is a slippery business.",
+              "byline": "Paul Burka",
+              "page": "88"
+            },
+            {
+              "title": "The Texan And His Gun",
+              "subtitle": "",
+              "description": "In frontier Texas, guns helped bring civilization out of chaos; today they’re creating chaos out of civilization.",
+              "byline": "Jan Reid",
+              "page": "92",
+              "wp_post_id": "114633",
+              "identifier": "txmo-article-197903-thetexan.json"
+            },
+            {
+              "title": "Have Guns, Will Travel",
+              "subtitle": "",
+              "description": "Do you want a rare antique muzzle-loader or a holdup pistol that can’t be traced? You can find them both at a gun show.",
+              "byline": "Jan Reid",
+              "page": "101",
+              "wp_post_id": "114627",
+              "identifier": "txmo-article-197903-haveguns.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "A Tale Of Two Coasts",
+              "subtitle": "Travel",
+              "description": "The best thing about a trip to Florida is coming back to Padre Island.",
+              "byline": "Stephen Harrigan",
+              "page": "106"
+            },
+            {
+              "title": "You’ve Come a Long Way, Biscuits",
+              "subtitle": "Dining In",
+              "description": "The breads that won the West aren ’t getting older, they 're getting better.",
+              "byline": "Martha Shulman",
+              "page": "110"
+            },
+            {
+              "title": "Heavenly Hosts",
+              "subtitle": "Business",
+              "description": "Forget the church, forget the steeple, turn on the tube to see all the people.",
+              "byline": "William Martin",
+              "page": "122"
+            },
+            {
+              "title": "The Ice Cometh, Man",
+              "subtitle": "Cityview",
+              "description": "Trees came crashing down, power lines writhed on the ground, the lights went out, and the heat went off. It was Dallas’ trial by ice.",
+              "byline": "Prudence Mackintosh",
+              "page": "133"
+            },
+            {
+              "title": "Ready, Aim . . . Click",
+              "subtitle": "Film",
+              "description": "The Deer Hunter bags a turkey, but The Great Train Robbery stays right on track.",
+              "byline": "George Morris",
+              "page": "142"
+            },
+            {
+              "title": "Golden Oldies",
+              "subtitle": "Art",
+              "description": "Look, but don’t touch—three museums with glittering antiques from Pompeii, India, and Peru.",
+              "byline": "Michael Ennis",
+              "page": "146"
+            },
+            {
+              "title": "See No Evil",
+              "subtitle": "Theater",
+              "description": "Dallas Theater Center welcomes Nazis to its stage. Houston’s Theatre Under the Stars turns Dickens into a funky musical.",
+              "byline": "W.L.Taitte",
+              "page": "152"
+            },
+            {
+              "title": "Who Needs Jones Hall?",
+              "subtitle": "Classical Music",
+              "description": "Austin and Corpus Christi like their symphony orchestras just fine, thank you. Texas Opera Theater tries to break the language barrier.",
+              "byline": "W.L.Taitte",
+              "page": "154"
+            },
+            {
+              "title": "Climbing Rocky Hill",
+              "subtitle": "Popular Music",
+              "description": "Houston guitarist Rocky Hill is a rising star; catch him if you can.",
+              "byline": "Joe Nick Patoski",
+              "page": "158"
+            },
+            {
+              "title": "Barthelme the Scribbler",
+              "subtitle": "Books",
+              "description": "Barthelme is a humane writer, but in Great Days he erased all his humans. Also, a look at two novels of the Texas hinterlands.",
+              "byline": "Raymond Carver Gregory Curtis",
+              "page": "162"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "A farewell to celebrities and to arms.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "A few trusted friends.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Something old, something new, something barred, something true.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "The birds and the knees.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "A Texas train on the right track; Houston annexations derailed.",
+              "byline": "",
+              "page": "62"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "The name’s the game.",
+              "byline": "",
+              "page": "180"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Why doctors don’t like nurses anymore; where is the tax revolt?",
+              "byline": "",
+              "page": "184"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

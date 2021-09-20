@@ -1,0 +1,185 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198509",
+    "publication": "Texas Monthly",
+    "issue": "September 1985",
+    "pdf_uri": "/1985/19850900.pdf",
+    "month": "September",
+    "year": 1985,
+    "pages": 292,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents September",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Faces Of the West",
+              "subtitle": "",
+              "description": "A collection of black and white portraits that capture the powerful effects of the West upon its people, with an introduction by Larry McMurtry.",
+              "byline": "Photography by Richard Avedon",
+              "page": "146"
+            },
+            {
+              "title": "The Final Gun",
+              "subtitle": "",
+              "description": "In a small East Texas town a black principal and a white coach loved the same woman. First came the gossip. Next came the strange letters. And then there was a murder.",
+              "byline": "by Gary Cartwright",
+              "page": "168"
+            },
+            {
+              "title": "What's the Big Deal About Grills?",
+              "subtitle": "",
+              "description": "Hot, hot, hot! Here’s why grills have become the trendiest of the trendy restaurants in Texas.",
+              "byline": "by Alison cook",
+              "page": "172",
+              "wp_post_id": "121038",
+              "identifier": "txmo-article-198509-whatsthe.json"
+            },
+            {
+              "title": "Roaming the Range",
+              "subtitle": "",
+              "description": "Follow that ribbon of highway to discover the breathtaking River Road, a beer-drinking goat, fabulous fajitas, and the ghostly cavalry of Fort Davis-all in the vast vacation resource known as West Texas.",
+              "byline": "by Barbara Rodriguez",
+              "page": "176"
+            },
+            {
+              "title": "The Fabric Of Dreams",
+              "subtitle": "",
+              "description": "Florid fashions of smooth silks and soothing satins.",
+              "byline": "",
+              "page": "178"
+            },
+            {
+              "title": "Sovereign Of the Sky",
+              "subtitle": "",
+              "description": "Train a dog and you have a friend. Train a falcon and you have an emblem of medieval majesty.",
+              "byline": "by Alan Tennant",
+              "page": "182",
+              "wp_post_id": "121038",
+              "identifier": "txmo-article-198509-sovereign.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Lily Buds, Tree Ears, And Fish Sauce",
+              "subtitle": "Cooking",
+              "description": "With just a nip of nuoc mam you’ll be on your way to the cooking frontier of Vietnamese food.",
+              "byline": "by Nicholas Lemann",
+              "page": "186"
+            },
+            {
+              "title": "Don’t Talk To Strangers",
+              "subtitle": "Fatherhood",
+              "description": "Of course parents do everything they can to protect their children. But at some point they must learn to let go.",
+              "byline": "by Lawrence Wright",
+              "page": "194"
+            },
+            {
+              "title": "How To Make Your Dream House Come True",
+              "subtitle": "Architecture",
+              "description": "A guide to getting the most out of an architect and custom-building a home, with grace and aplomb.",
+              "byline": "by Larry Paul Fuller",
+              "page": "198"
+            },
+            {
+              "title": "Swinging With Zoot",
+              "subtitle": "Jazz",
+              "description": "From the moment tenor saxophonist Zoot Sims sounded his first note to just before his death four decades later, he performed with irresistible spirit and intensity.",
+              "byline": "by Doug Ramsey",
+              "page": "204"
+            },
+            {
+              "title": "Restless Itch",
+              "subtitle": "Movies",
+              "description": "Songwriter is like a great party; Kiss of the Spider Woman doesn’t connect; Mad Max Beyond Thunderdome runs out of gas; Key Exchange is too cute; Disney’s Black Cauldron isn’t for kids.",
+              "byline": "by James wolcott",
+              "page": "210"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Turn right for heaven.",
+              "byline": "by Gregory curtis",
+              "page": "5"
+            },
+            {
+              "title": "Back Roads",
+              "subtitle": "",
+              "description": "Skinner Brown, a 63-year-old farmer and businessman, was a pillar of his small-town society until he was busted for possessing $12 million worth of marijuana.",
+              "byline": "by Peter Applebome",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "The dream date of the eighties? One with girl-next-door looks and a credit card machine tucked in her handbag.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "It doesn’t matter whether you’re a developer with a million-dollar idea or a homeowner with a yen to remodel. You can’t bend any rule at all without approval from the Board of Adjustment.",
+              "byline": "by Jim Atkinson",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events...",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A question of honor in San Antonio; Christian harmony in Dallas; a wage dispute in Houston",
+              "byline": "by Jim Atkinson",
+              "page": "128"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "218"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Reading all about it; making the best of it; putting it on the map.",
+              "byline": "",
+              "page": "279"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "Exercises in new math.",
+              "byline": "",
+              "page": "287"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Looking for a place to go in Galveston; Coastal’s pension pipeline; John Hill for the defense; fallout from the East Texas congressional race.",
+              "byline": "",
+              "page": "288"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

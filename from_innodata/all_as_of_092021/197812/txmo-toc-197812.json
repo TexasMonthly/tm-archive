@@ -1,0 +1,197 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197812",
+    "publication": "Texas Monthly",
+    "issue": "December 1978",
+    "pdf_uri": "/1978/19781200.pdf",
+    "month": "December",
+    "year": 1978,
+    "pages": 258,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Friends Of Cloyce Box",
+              "subtitle": "",
+              "description": "With friends like these, Box’s company didn’t need enemies.",
+              "byline": "Andrew Sansom",
+              "page": "126",
+              "wp_post_id": "112122",
+              "identifier": "txmo-article-197812-thefriend.json"
+            },
+            {
+              "title": "Home Sweet Mobile Home",
+              "subtitle": "",
+              "description": "Today the king of the road takes his castle with him.",
+              "byline": "Gregory Curtis",
+              "page": "128"
+            },
+            {
+              "title": "Hard Time",
+              "subtitle": "",
+              "description": "Ellis prison houses 2400 dangerous criminals, and it’s the safest place to live in Texas.",
+              "byline": "Bruce Jackson",
+              "page": "138"
+            },
+            {
+              "title": "So You Want To Be Chairman Of Exxon?",
+              "subtitle": "",
+              "description": "How the world’s largest corporation decides who will make it to the top—and who won’t.",
+              "byline": "Nicholas Lemann",
+              "page": "144"
+            },
+            {
+              "title": "The Chase",
+              "subtitle": "",
+              "description": "Four wetbacks are trying to get to San Antonio. The Border Patrol is trying to stop them.",
+              "byline": "John Davidson",
+              "page": "150"
+            },
+            {
+              "title": "Sick Sundays",
+              "subtitle": "",
+              "description": "The looney pastimes of a depraved minority.",
+              "byline": "Gregory Curtis",
+              "page": "156"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Graining Of America",
+              "subtitle": "Dining In",
+              "description": "If Jesus had tried to feed the multitudes with today’s bread, he would have been drummed out of the miracle business.",
+              "byline": "Martha Shulman",
+              "page": "160"
+            },
+            {
+              "title": "A Call To Farms",
+              "subtitle": "Politics",
+              "description": "The Rockefellers are coming, the Rockefellers are coming, and J. C. Lewis thinks they’re after the American farmer.",
+              "byline": "Nicholas Lemann",
+              "page": "169"
+            },
+            {
+              "title": "It’s A Small World",
+              "subtitle": "Lifestyles",
+              "description": "Don’t laugh at a model railroader or call his little train a toy.",
+              "byline": "Stephen Harrigan",
+              "page": "178"
+            },
+            {
+              "title": "Sacred Cows",
+              "subtitle": "Country Notes",
+              "description": "Cows are dumb, they eat a lot, and they cost more to raise than they’re worth. Still, you can’t help loving ’em.",
+              "byline": "John Graves",
+              "page": "188"
+            },
+            {
+              "title": "Celluloid Circus",
+              "subtitle": "Film",
+              "description": "The New York Film Festival is a movie addict’s biggest fix.",
+              "byline": "George Morris",
+              "page": "198"
+            },
+            {
+              "title": "Blind Alley",
+              "subtitle": "Theater",
+              "description": "Alley Theatre’s season opener, Scream, was about Jews and Nazis. It was also about how not to run a regional theater.",
+              "byline": "W. L. Taitte",
+              "page": "204"
+            },
+            {
+              "title": "Polk Salad Days",
+              "subtitle": "Jazz",
+              "description": "Music to live in Austin for.",
+              "byline": "Scott Busby",
+              "page": "210"
+            },
+            {
+              "title": "The World On an Easel",
+              "subtitle": "Art",
+              "description": "The modern realists’ motto is what you see is what you paint.",
+              "byline": "Michael Ennis",
+              "page": "212"
+            },
+            {
+              "title": "Bella Norma",
+              "subtitle": "Classical Music",
+              "description": "Now you like it, now you don’t, now you like it again—Houston Grand Opera’s Norma.",
+              "byline": "W. L. Taitte",
+              "page": "216"
+            },
+            {
+              "title": "Day Of the Hocus",
+              "subtitle": "Books",
+              "description": "Sleazy Hollywood inspires a book that is sleazier.",
+              "byline": "Gene Lyons",
+              "page": "220"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "A funny thing happened on the way to the governor’s office.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Take cover.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "From pilot to Post.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Homes for the holidays.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "The dark side of doing business in Saudi Arabia; an endangered mountain in El Paso; and big profits with small airplanes.",
+              "byline": "John Bloom",
+              "page": "106"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Will somebody write the Great American Lbj biography? Is Billy Clayton Texas’ Earl Butz? Will Dolph take care of his flock?",
+              "byline": "",
+              "page": "272"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

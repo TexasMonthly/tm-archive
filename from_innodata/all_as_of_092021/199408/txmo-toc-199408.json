@@ -1,0 +1,157 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199408",
+    "publication": "Texas Monthly",
+    "issue": "August 1994",
+    "pdf_uri": "/1994/19940800.pdf",
+    "month": "August",
+    "year": 1994,
+    "pages": 170,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Good Soldier",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by Glenna Whitley",
+              "page": "28"
+            },
+            {
+              "title": "Les Miserables",
+              "subtitle": "Texana",
+              "description": "",
+              "byline": "by C. W. Smith",
+              "page": "38"
+            },
+            {
+              "title": "The Don of Dallas",
+              "subtitle": "Literature",
+              "description": "",
+              "byline": "by William Cobb",
+              "page": "42"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Title Town",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Mimi Swartz",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": " by David McCormick",
+              "page": "60"
+            },
+            {
+              "title": "State of the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "70"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "139"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "141"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Paul Burka",
+              "page": "164"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Capital Call Girls",
+              "subtitle": "",
+              "description": "The shocking story of Austin’s underworld, and how a state bureaucrat got in too deep.",
+              "byline": "by Robert Draper",
+              "page": "72"
+            },
+            {
+              "title": "Sitting Pretty",
+              "subtitle": "",
+              "description": "After years of maintaining perfect public composure, Senator Kay Bailey Hutchison now wears her ambition on her sleeve.",
+              "byline": "by Jan Jarboe",
+              "page": "80"
+            },
+            {
+              "title": "Adkins Family Values",
+              "subtitle": "",
+              "description": "The family that plays together stays together. Meet one of the world’s most successful classical music clans.",
+              "byline": "by Skip Hollandsworth",
+              "page": "84"
+            },
+            {
+              "title": "War Paint",
+              "subtitle": "",
+              "description": "Fifty years after the bloody battle of Peleliu, Tom Lea’s paintings still prove war is hell.",
+              "byline": "by Anne Dingus",
+              "page": "88",
+              "wp_post_id": "128145",
+              "identifier": "txmo-article-199408-warpaint.json"
+            },
+            {
+              "title": "Rip on a Tear",
+              "subtitle": "",
+              "description": "With his starring role on The Larry Sanders Show, Rip Torn is no longer Rip scorned.",
+              "byline": "by Gary Cartwright",
+              "page": "94",
+              "wp_post_id": "128142",
+              "identifier": "txmo-article-199408-riponat.json"
+            },
+            {
+              "title": "Chile Weather",
+              "subtitle": "",
+              "description": "It’s harvest time for the green chile—the mild-mannered pepper that adds zest to almost any dish.",
+              "byline": "by Joe Nick Patoski",
+              "page": "98"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

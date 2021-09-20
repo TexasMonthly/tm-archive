@@ -1,0 +1,197 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198607",
+    "publication": "Texas Monthly",
+    "issue": "July 1986",
+    "pdf_uri": "/1986/19860700.pdf",
+    "month": "July",
+    "year": 1986,
+    "pages": 182,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents July",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Man To Man",
+              "subtitle": "",
+              "description": "The son’s ultimate selfishness is to see his father only as his father—not as a man. But on our first fishing trip in 25 years, I began to see my father—and myself—as the grown men we’d become.",
+              "byline": "by William Broyles, Jr.",
+              "page": "92"
+            },
+            {
+              "title": "Marilyn Snell’s Got the Best Job In Texas",
+              "subtitle": "",
+              "description": "It’s eight to five. It’s in Brenham. And all she has to worry about is getting an ice cream headache.",
+              "byline": "by Arnie weissmann",
+              "page": "98"
+            },
+            {
+              "title": "Eat At Junior’s",
+              "subtitle": "",
+              "description": "Proprietors of some of Texas’ priciest restaurants are spinning off more-economical eateries that are giving the originals a run for the money.",
+              "byline": "by Alison cook",
+              "page": "100",
+              "wp_post_id": "122190",
+              "identifier": "txmo-article-198607-eatatjun.json"
+            },
+            {
+              "title": "Primary Lesson",
+              "subtitle": "",
+              "description": "Subtract Democratic voters, add new Republicans, and it equals realignment.",
+              "byline": "by Paul Burka",
+              "page": "104"
+            },
+            {
+              "title": "No-Man’s-Land",
+              "subtitle": "",
+              "description": "To Texans, it’s the border. To Mexicans, it’s la frontera. It’s a hot, dazzling world where cultures clash and you’re never sure just where you stand.",
+              "byline": "by Jan Morris",
+              "page": "106"
+            },
+            {
+              "title": "The Native Texan",
+              "subtitle": "Texas Primer",
+              "description": "You don’t have to be born here to qualify. The mark of a true native is an undying passion to be one.",
+              "byline": "by Susan Chadwick",
+              "page": "114"
+            },
+            {
+              "title": "Mining the Moon, Selling the Stars",
+              "subtitle": "",
+              "description": "Their business may read like a sci-fi script, but these aging astronauts, former Nasa engineers, technocrats, and high-risk junkies are serious about selling space.",
+              "byline": "by william Booth",
+              "page": "116"
+            },
+            {
+              "title": "Boy Rogers",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "by Gary Mele",
+              "page": "119"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Showdown In Chihuahua",
+              "subtitle": "Politics",
+              "description": "Pancho Barrio, an ex-accountant, a charismatic Catholic, and the mayor of Juarez, hopes to topple the ruling party in a July governor’s race.",
+              "byline": "by Dick J. Reavis",
+              "page": "120"
+            },
+            {
+              "title": "Little Masterpieces On the Lawn",
+              "subtitle": "Art",
+              "description": "“Art Among Us/Arte Entre Nosotros” reveals the delightful madness of San Antonio’s barrio art.",
+              "byline": "by Michael Ennis",
+              "page": "126"
+            },
+            {
+              "title": "High And Dry",
+              "subtitle": "Movies",
+              "description": "Top Gun is just a high-tech skeet shoot; Alan Alda throws a wet blanket over the fun in Sweet Liberty; Desert Bloom has bittersweet significance; The Manhattan Project needs an attitude adjustment.",
+              "byline": "by James Wolcott",
+              "page": "130"
+            },
+            {
+              "title": "My Fair Editor",
+              "subtitle": "Books",
+              "description": "George Bernard Shaw wrote a quarter of a million pieces of correspondence and never mailed one to San Antonio. So where does his editor choose to live?.",
+              "byline": "by Vance Muse",
+              "page": "136"
+            },
+            {
+              "title": "The Denton Dilemma",
+              "subtitle": "Popular Music",
+              "description": "North Texas bands face a tough choice: living to make music or making music for a living.",
+              "byline": "by John Morthland",
+              "page": "140"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The unbudgeted carpet.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Shopping",
+              "subtitle": "",
+              "description": "We find a successful guy in Dallas who doesn’t dress like Ross Perot!.",
+              "byline": "by Mimi swartz",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "A Texas lab that looks like the set for a Buck Rogers movie is actually the frontier of the Star Wars weapons research effort.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "The cure for San Antonio’s inner-city malaise may be worse than the disease.",
+              "byline": "by Jim Atkinson",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Wild mustangs roam home; attorneys race to Houston’s bankruptcy court; Ut students get rich.",
+              "byline": "by Jan Reid",
+              "page": "78"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Perk up your bath hour with these liquid refreshments.",
+              "byline": "by Patricia Sharpe",
+              "page": "146"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "170"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "179"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Fighting and feuding in the Mexican Lions Club; Hl&P loses a lawsuit, and everybody will pay for it; the new math of politics; where’s the beef? on a diet.",
+              "byline": "",
+              "page": "180"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

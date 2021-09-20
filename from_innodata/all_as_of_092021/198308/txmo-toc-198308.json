@@ -1,0 +1,150 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198308",
+    "publication": "Texas Monthly",
+    "issue": "August 1983",
+    "pdf_uri": "/1983/19830800.pdf",
+    "month": "August",
+    "year": 1983,
+    "pages": 212,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "",
+          "toc_entry": [
+            {
+              "title": "The Death Shift",
+              "subtitle": "",
+              "description": "The three-to-eleven evening shift, Bexar County Hospital, San antonio: nurse Genene Jones was on duty in the pediatric intensive care unit, and for months babies kept having mysterious—sometimes fatal-emergencies. Why?",
+              "byline": "Peter Elkind",
+              "page": "106"
+            },
+            {
+              "title": "Conjunto",
+              "subtitle": "Texas Primer",
+              "description": "Tex plus Mex plus electric guitar plus accordion equals . . . art.",
+              "byline": "",
+              "page": "114"
+            },
+            {
+              "title": "What I Did On My Summer VACATIOn",
+              "subtitle": "",
+              "description": "As Tolstoy didn’t say, every family’s vacation is the same, yet different. Here’s a report on the Tuley family’s.",
+              "byline": "Laurie Erskine Williams",
+              "page": "116"
+            },
+            {
+              "title": "Hi! I’m Jimmy Dean And I’d Like You To Try My Pure Pork Sausage",
+              "subtitle": "",
+              "description": "The meat products business is no bed of top hogs.",
+              "byline": "Fryar Calhoun",
+              "page": "120",
+              "wp_post_id": "119019",
+              "identifier": "txmo-article-198308-hiimjimm.json"
+            },
+            {
+              "title": "Secret Places",
+              "subtitle": "",
+              "description": "In the hidden corners of Texas’ outback—in foresty swamp and shimmering desert—there are a few places that are still primeval.",
+              "byline": "Griffin Smith, jr.",
+              "page": "124",
+              "wp_post_id": "119016",
+              "identifier": "txmo-article-198308-secretpla.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "",
+          "toc_entry": [
+            {
+              "title": "Personal Space",
+              "subtitle": "Art",
+              "description": "Houston’s brash “alternative spaces” are doing more than the city’s mainstream galleries to keep Texas art fresh, rich, and diverse.",
+              "byline": "Michael Ennis",
+              "page": "134"
+            },
+            {
+              "title": "Anyplace But Texas",
+              "subtitle": "Business",
+              "description": "Texans may secretly yearn to live east of the Mississippi or across the atlantic, but the next best thing is a subdivision named Yorktown, Nottingham Country, or Village Green West.",
+              "byline": "Anne Dingus",
+              "page": "144"
+            },
+            {
+              "title": "Something For Everyone",
+              "subtitle": "Classical Music",
+              "description": "The ambitious San antonio Festival went all out, with 73 acts—everything from Dallas ballet to Berlin opera, from Robert Merrill to Sarah Vaughan. Houston Grand Opera and Leonard Bernstein both made mistakes in a Quiet Place.",
+              "byline": "W. L. Taitte",
+              "page": "150"
+            },
+            {
+              "title": "Slower Than a Speeding Bullet",
+              "subtitle": "Movies",
+              "description": "The third time is not always the charm. In Superman III our hero finds himself in a blue funk, and his melancholia is the liveliest part of the show. The Survivors doesn’t make it. Escape your little gray cells and enjoy The Man With Two Brains. Trading Places exchanges wit and finesse for boorishness and bigotry.",
+              "byline": "James Wolcott",
+              "page": "156"
+            }
+          ]
+        },
+        {
+          "section_heading": "",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The revelation of the geese.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Beach, beach, beach.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Have map, will travel; will dance, please ask me.",
+              "byline": "Patricia Sharpe",
+              "page": "20"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A tale of three cities in the Panhandle; upscale fitness at the new Dallas Y; a return to those thrilling days of yesteryear with Riders in the Sky; another new plan to unclog Houston’s arteries.",
+              "byline": "Peter applebome",
+              "page": "86"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Letter perfect.",
+              "byline": "",
+              "page": "207"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "James Watt’s plan to thin the Big Thicket; the worst bridges in Texas; Republicans try to turn Clintgate into another Sharpstown; the Texas Supreme Court socks home buyers on the chin.",
+              "byline": "",
+              "page": "208"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

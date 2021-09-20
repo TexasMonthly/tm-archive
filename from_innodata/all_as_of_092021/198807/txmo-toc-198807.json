@@ -1,0 +1,143 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198807",
+    "publication": "Texas Monthly",
+    "issue": "July 1988",
+    "pdf_uri": "/1988/19880700.pdf",
+    "month": "July",
+    "year": 1988,
+    "pages": 132,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents July",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Bargains! Bargains! Bargains!",
+              "subtitle": "",
+              "description": "Attention, tightwads! act now! Suits to nuts—the big bang for the little buck! Check out our supersavin’, dollar-bustin’ bible of buys! Everything must go! (Offer available in Texas only.).",
+              "byline": "by joe Nick Patoski",
+              "page": "60"
+            },
+            {
+              "title": "Nature Of the Beast",
+              "subtitle": "",
+              "description": "A tiger, a zoo, a terrifying death.",
+              "byline": "by Stephen Harrigan",
+              "page": "68"
+            },
+            {
+              "title": "The Meanest River",
+              "subtitle": "",
+              "description": "Yes, it’s muddy, it’s treacherous, and it smells bad enough to gag a skunk; but it’s also the only thing between us and Oklahoma.",
+              "byline": "by jan Reid",
+              "page": "70",
+              "wp_post_id": "123966",
+              "identifier": "txmo-article-198807-themeanes.json"
+            },
+            {
+              "title": "One Tough Yankee Banker",
+              "subtitle": "",
+              "description": "Deadlines came and deadlines went, and Bob abboud still could not seal the deal to bail out First City. But with his ego and $1 billion plus on the line, he’d be damned if he’d back down first.",
+              "byline": "by Nancy Beiiiveau McConnell",
+              "page": "76"
+            },
+            {
+              "title": "I Fiesta Wear!",
+              "subtitle": "",
+              "description": "With these lively Mexican skirts, what goes around comes around.",
+              "byline": "by Helen Thompson",
+              "page": "80",
+              "wp_post_id": "123960",
+              "identifier": "txmo-article-198807-ifiestawe.json"
+            },
+            {
+              "title": "Notes From the Underground",
+              "subtitle": "",
+              "description": "Seven Central Texas caves put on the summer’s best rock show.",
+              "byline": "by Patricia Sharpe",
+              "page": "84"
+            },
+            {
+              "title": "Forty-Two",
+              "subtitle": "Texas Primer",
+              "description": "Move over, Trivial Pursuit. Out of the way, Pictionary. Texas’ very own domino game is making a comeback at the age of 101.",
+              "byline": "",
+              "page": "88"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Country Boys",
+              "subtitle": "Politics",
+              "description": "A battle over a vacant state Senate seat reveals that the scars from years of Democratic party infighting haven’t healed yet.",
+              "byline": "by Patricia Kilday Hart",
+              "page": "90"
+            },
+            {
+              "title": "Writing On the Rio",
+              "subtitle": "Travel",
+              "description": "The only way to see Big Bend’s canyons is from the river, but that doesn’t mean you have to get wet, eat trail mix, or give up Bach.",
+              "byline": "by joe Nick Patoski",
+              "page": "96"
+            },
+            {
+              "title": "Button Pushers",
+              "subtitle": "Back Roads",
+              "description": "Dealing drugs along the border is a risky, illegal business—unless you happen to be one of the nine Texans licensed to sell peyote.",
+              "byline": "by John Monhiand",
+              "page": "100"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Prom night.",
+              "byline": "by Gregory Cunu",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "The gift of life; first impressions; a favorite centenarian.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A spree decor: a buying guide to the new Dallas shopping trip; food for thought, by George; hot words over hot dogs; plus the latest on Sid Bass, Lynn Wyatt, the Kennedys and Dallas, and the world’s biggest black-velvet painting.",
+              "byline": "by AUson Cook",
+              "page": "50"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Go to junior college and see the world; the U.S. Supreme Court looks askance on Texas’ legal bills; a Hispanic political institution at the crossroads; does George Bush have coattails?.",
+              "byline": "",
+              "page": "128"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

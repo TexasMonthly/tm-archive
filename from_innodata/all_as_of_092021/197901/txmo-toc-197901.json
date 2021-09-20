@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197901",
+    "publication": "Texas Monthly",
+    "issue": "January 1979",
+    "pdf_uri": "/1979/19790100.pdf",
+    "month": "January",
+    "year": 1979,
+    "pages": 168,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "This Is Woodrow Wilson: a School That Works",
+              "subtitle": "",
+              "description": "It’s an inner-city school where discipline isn’t a problem and the students learn. It doesn’t have special programs, classes, or grants that set it apart from other schools. What makes the difference ?",
+              "byline": "Gene Lyons",
+              "page": "68",
+              "wp_post_id": "114873",
+              "identifier": "txmo-article-197901-thisiswo.json"
+            },
+            {
+              "title": "Clements For President",
+              "subtitle": "",
+              "description": "Here’s how we can share our good fortune with the rest of america.",
+              "byline": "",
+              "page": "76"
+            },
+            {
+              "title": "1979 Bum Steer Awards",
+              "subtitle": "",
+              "description": "A shameless selection of shams, shenanigans, subterfuges, spoofs, smokescreens, and saltimbancos Texans suffered through in ’78.",
+              "byline": "",
+              "page": "80"
+            },
+            {
+              "title": "In Search Of La Salle",
+              "subtitle": "",
+              "description": "The riddle of the French explorer lies buried beneath the Gulf of Mexico, but what is it, where is it, and why, oh why, are we looking for it?",
+              "byline": "Stephen Harrigan",
+              "page": "88"
+            },
+            {
+              "title": "Six Crises",
+              "subtitle": "",
+              "description": "It will be up to the 66th Legislature to solve these problems, and we’ll have to live with the solutions.",
+              "byline": "Paul Burka",
+              "page": "92"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Joy Of Six",
+              "subtitle": "Sports",
+              "description": "The difference between eleven-man and six-man football is a lot more than five men.",
+              "byline": "Giles Tippette",
+              "page": "96"
+            },
+            {
+              "title": "Coup De Foie Gras",
+              "subtitle": "Dining In",
+              "description": "French chefs are revolting against classical cuisine, and some of their new creations are definitely revolting.",
+              "byline": "W. L. Taitte",
+              "page": "102"
+            },
+            {
+              "title": "A Change Of Face",
+              "subtitle": "Lifestyles",
+              "description": "At last the truth about beauty salon make-overs: the new you may not be a change for the better.",
+              "byline": "Mimi Swartz",
+              "page": "108"
+            },
+            {
+              "title": "You Talk Too Much",
+              "subtitle": "Film",
+              "description": "A 35 mm filibuster from Swedish director Ingmar Bergman.",
+              "byline": "George Morris",
+              "page": "115"
+            },
+            {
+              "title": "Power To the Little People",
+              "subtitle": "Theater",
+              "description": "Why can’t grown-up theater be as good as children’s?",
+              "byline": "W. L. Taitte",
+              "page": "118"
+            },
+            {
+              "title": "Conductor Dating",
+              "subtitle": "Classical Music",
+              "description": "San antonio Symphony audiences are ready for another rendezvous with Francois Huybrechts.",
+              "byline": "W. L. Taitte",
+              "page": "122"
+            },
+            {
+              "title": "Starring Rowles",
+              "subtitle": "Jazz",
+              "description": "Last year’s jazz records are this year’s best buys.",
+              "byline": "Doug Ramsey",
+              "page": "128"
+            },
+            {
+              "title": "The Emperors’ Old Clothes",
+              "subtitle": "Art",
+              "description": "Old embroidery doesn’t die, it just becomes art.",
+              "byline": "Michael Ennis",
+              "page": "132"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Stone walls do not a prison make.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Tastes good.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "From Mexico with love.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Days of vines and noses.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "",
+              "subtitle": "",
+              "description": "Taking it off at the last of the real burlesque joints; holy war on austin ’s Baptists; why Texas ’ election system is stuck in the Dark ages.",
+              "byline": "John Bloom",
+              "page": "50"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Pop a cork for Chateau Ut; Fort Worth wins american airlines from New York and “ loses” it to Dallas; will Dallas’ law firms catch Houstonitis?",
+              "byline": "",
+              "page": "164"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

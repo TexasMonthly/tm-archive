@@ -1,0 +1,164 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198303",
+    "publication": "Texas Monthly",
+    "issue": "March 1983",
+    "pdf_uri": "/1983/19830300.pdf",
+    "month": "March",
+    "year": 1983,
+    "pages": 228,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Friends In Deed",
+              "subtitle": "",
+              "description": "Meet some of Texas' secular latter-day saints: volunteers.",
+              "byline": "Suzanne Winckler",
+              "page": "114"
+            },
+            {
+              "title": "The Gittings People",
+              "subtitle": "",
+              "description": "Shoot enough portraits of Texans, and you'll have made a portrait of Texas.",
+              "byline": "Nicholas Lemann",
+              "page": "120"
+            },
+            {
+              "title": "The Right-Angle Pump West",
+              "subtitle": "Texas Primer",
+              "description": "Texas was a desert when this little irrigation device came along. Now it’s a desert that produces more cotton than anywhere else in the country.",
+              "byline": "",
+              "page": "126"
+            },
+            {
+              "title": "The Cutting Edge",
+              "subtitle": "",
+              "description": "Texas' glass artists are leading a revolution in an ancient craft.",
+              "byline": "Michael Ennis",
+              "page": "128"
+            },
+            {
+              "title": "Lyndon Johnson, Hairdresser, Prepares For Battle",
+              "subtitle": "",
+              "description": "The long afternoons of the best friend the rich women of Houston have ever had.",
+              "byline": "John Davidson",
+              "page": "136",
+              "wp_post_id": "119517",
+              "identifier": "txmo-article-198303-lyndonjoh.json"
+            },
+            {
+              "title": "Blood Of the Lamb",
+              "subtitle": "",
+              "description": "A high school teacher shot up the First Baptist Church in the East Texas steel town of Daingerfield, and the agony lasted longer than anyone could have imagined.",
+              "byline": "Jan Reid",
+              "page": "140",
+              "wp_post_id": "119511",
+              "identifier": "txmo-article-198303-bloodoft.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Say, Have You Heard the One . . .",
+              "subtitle": "Fun",
+              "description": "One man’s ludicrous attempts to trace the origin of a joke led him to a simple truth: life is funny.",
+              "byline": "Harry Hunt III",
+              "page": "148"
+            },
+            {
+              "title": "Daddy’s Gone To Jail",
+              "subtitle": "Crime",
+              "description": "Sometimes prison is harder for the people on the other side of the bars.",
+              "byline": "Jim atkinson",
+              "page": "154"
+            },
+            {
+              "title": "The Nerd Who Would Be King",
+              "subtitle": "Movies",
+              "description": "Martin Scorsese’s The King of Comedy is about the stock-in-trade of comedians, but who’s the laughingstock? You’ll be smitten with Lovesick. The Year of Living Dangerously teeters precariously between metaphysics and lust.",
+              "byline": "James Wolcott",
+              "page": "162"
+            },
+            {
+              "title": "Is There Food After Fort Stockton?",
+              "subtitle": "Food",
+              "description": "Ah, the hungriness of the long-distance diner. Trapped in the vastnesses of West Texas, he drives and drives in search of edible beef and credible Tex-Mex. He finds both—and more.",
+              "byline": "Griffin Smith, jr.",
+              "page": "168"
+            },
+            {
+              "title": "Architect In Wonderland",
+              "subtitle": "Architecture",
+              "description": "The barren plains of the Southwest and the fertile fields of his mind led architect Bruce Goff to create houses that got curiouser and curiouser.",
+              "byline": "Lisa Germany",
+              "page": "178"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The graybeard at the fat stock show.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "No oil in Israel, no crown for the congressman, no Coke at the Last Supper.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "What's red and black and read all over?",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Pecos bucks for the title of world’s oldest rodeo; medical students make us pay now so they can make us pay later; Ground Zero radiates good, atomic fun; Texas’jails get slammed; Fort Worth’s namesake languishes among Yankees.",
+              "byline": "Peter applebome",
+              "page": "90"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Go play in the traffic.",
+              "byline": "",
+              "page": "223"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Wright is wrong in the Houston mayor’s race; the medical establishment beats the state budget crunch; capital punishment faces death by bureaucracy; will defense put John Tower on the defensive?",
+              "byline": "",
+              "page": "224"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

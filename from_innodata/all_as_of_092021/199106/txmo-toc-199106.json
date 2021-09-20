@@ -1,0 +1,155 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199106",
+    "publication": "Texas Monthly",
+    "issue": "June 1991",
+    "pdf_uri": "/1991/19910600.pdf",
+    "month": "June",
+    "year": 1991,
+    "pages": 200,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Mix Masters",
+              "subtitle": "Food",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "42"
+            },
+            {
+              "title": "Dough Boy",
+              "subtitle": "Politics",
+              "description": "",
+              "byline": "by Sally Giddens",
+              "page": "50"
+            },
+            {
+              "title": "Animal House",
+              "subtitle": "Science",
+              "description": "",
+              "byline": "by Marion Winik",
+              "page": "58"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Pleasure Island",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar off the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Joe Nick Patoski",
+              "page": "78"
+            },
+            {
+              "title": "State Wide Business",
+              "subtitle": "",
+              "description": "",
+              "byline": "by John Anderson",
+              "page": "86"
+            },
+            {
+              "title": "State off the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "92"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "172"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "173"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "196"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Secret Summer Places",
+              "subtitle": "",
+              "description": "Follow us for a great vacation, minus something all tourists can do without —crowds.",
+              "byline": "",
+              "page": "94"
+            },
+            {
+              "title": "Voices From The Dark",
+              "subtitle": "",
+              "description": "Before Dawn was caught in the terrifying grip of schizophrenia, she had been a talented jazz singer. Now her son-in-law tells her story of no place to go.",
+              "byline": "by Joe Holley",
+              "page": "106"
+            },
+            {
+              "title": "The Real Deal vs The Real Meal",
+              "subtitle": "",
+              "description": "Boxing caught its second wind when George Foreman went the distance with the champ, Evander Holyfield.",
+              "byline": "by Gary Cartwright",
+              "page": "116"
+            },
+            {
+              "title": "Peach Dreams",
+              "subtitle": "",
+              "description": "Summertime is warmand-fuzzy season for fans of Texas’ favorite fruit.",
+              "byline": "by Chester Rosson",
+              "page": "122",
+              "wp_post_id": "126471",
+              "identifier": "txmo-article-199106-peachdrea.json"
+            },
+            {
+              "title": "Signs of the Times",
+              "subtitle": "",
+              "description": "Original posters from Austin’s musical past.",
+              "byline": "",
+              "page": "110"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

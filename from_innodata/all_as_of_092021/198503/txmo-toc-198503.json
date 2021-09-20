@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198503",
+    "publication": "Texas Monthly",
+    "issue": "March 1985",
+    "pdf_uri": "/1985/19850300.pdf",
+    "month": "March",
+    "year": 1985,
+    "pages": 236,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Bloody Billion",
+              "subtitle": "",
+              "description": "Oh, how our legislators are moaning and groaning as they try to cut the state budget. But we’ve slashed, chopped, trimmed, pared, and whittled our way through it—and saved $1 billion. It wasn’t that hard. Really.",
+              "byline": "Paul Burka",
+              "page": "118"
+            },
+            {
+              "title": "The Silver Lining",
+              "subtitle": "",
+              "description": "“Age is a matter of mind. If you don’t mind, it doesn’t matter.”",
+              "byline": "Liz Carpenter",
+              "page": "126"
+            },
+            {
+              "title": "Art & Sole",
+              "subtitle": "",
+              "description": "What your feet should be wearing when they kick up their heels.",
+              "byline": "Geof Kern",
+              "page": "128"
+            },
+            {
+              "title": "Bring ’Em Back Alive",
+              "subtitle": "",
+              "description": "In darkest South Texas roam two of the world's most endangered species—the black rhino and the Great White Hunter.",
+              "byline": "Jan Reid",
+              "page": "134"
+            },
+            {
+              "title": "Looking For Trouble",
+              "subtitle": "",
+              "description": "Fred Cuny, sixth-generation Texan and uncompromising disaster-relief consultant, takes his expertise to the ends of the earth.",
+              "byline": "Stephen Harrigan",
+              "page": "138"
+            },
+            {
+              "title": "The Trail Ride",
+              "subtitle": "Texas Primer",
+              "description": "It began in 1952 as a nostalgic recreation of the old cattle drive. Now it’s a grand annual party stretching across Texas.",
+              "byline": "Susan Chadwick",
+              "page": "144"
+            },
+            {
+              "title": "On Your Way Home, Dear . . .",
+              "subtitle": "",
+              "description": "Tired and hungry, but not broke? A bevy of gourmet-to-go shops in Texas’ major cities provide a classy alternative to the Tv dinner.",
+              "byline": "",
+              "page": "146"
+            },
+            {
+              "title": "The Grafter",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "Alex Murawski",
+              "page": "151",
+              "wp_post_id": "121461",
+              "identifier": "txmo-article-198503-thegrafte.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Persistent Vigor",
+              "subtitle": "Art",
+              "description": "The impressive canvases that make up “Fresh Paint” at the Museum of Fine Arts prove that Houston has finally arrived as a significant art-making center.",
+              "byline": "Michael Ennis",
+              "page": "152"
+            },
+            {
+              "title": "Home Maker",
+              "subtitle": "Architecture",
+              "description": "Many of the best modern homes in the fifties featured natural materials, interior courtyards, and built-in furniture—and architect Harwell Harris was the reason.",
+              "byline": "Lisa Germany",
+              "page": "160"
+            },
+            {
+              "title": "New Music Man",
+              "subtitle": "Popular Music",
+              "description": "A producing career, a hit video, a record company, successful sound tracks: Austin’s Patrick Keel is having it all.",
+              "byline": "Jody Denberg",
+              "page": "166"
+            },
+            {
+              "title": "My Son, the Violinist",
+              "subtitle": "Fatherhood",
+              "description": "The failed ambitions of the father become the triumphs of the son, or so most fathers would hope.",
+              "byline": "Lawrence Wright",
+              "page": "170"
+            },
+            {
+              "title": "Liquid Shimmer",
+              "subtitle": "Movies",
+              "description": "In The Purple Rose of Cairo, Woody Allen takes a cold look at movie-fed dreams; the late, great Sam Peckinpah gave us an impassioned view of a violent world.",
+              "byline": "James Wolcott",
+              "page": "174"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The dupe’s triumph.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Beating around the Bush; remembering an old friend; rethinking high school days",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Can gas become oil? Can a Lubbock institution become an Austin one? Can preservation become exploitation? Can Houston become Austinized? Can Amarillo escape Pottergate?",
+              "byline": "Gary Cartwright",
+              "page": "98"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Get an earful of this.",
+              "byline": "Patricia Sharpe",
+              "page": "178"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Slices of life.",
+              "byline": "",
+              "page": "231"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Coors and Hispanics make peace; Mexico’s flash in the pan; Gramm’s Gop crusade; Mayor Kathy emerges unscathed.",
+              "byline": "",
+              "page": "232"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

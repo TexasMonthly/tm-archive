@@ -1,0 +1,215 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198510",
+    "publication": "Texas Monthly",
+    "issue": "October 1985",
+    "pdf_uri": "/1985/19851000.pdf",
+    "month": "October",
+    "year": 1985,
+    "pages": 280,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents October",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Special Delivery",
+              "subtitle": "",
+              "description": "Morsels by mail, potables by post—let Texas’ mail-order food companies set your holiday table.",
+              "byline": "by Patricia Sharpe",
+              "page": "138"
+            },
+            {
+              "title": "Deep In the Heart Of Mexico",
+              "subtitle": "",
+              "description": "What’s wrong with Mexico is exactly what’s right with it.",
+              "byline": "by Dick j. Reavis",
+              "page": "144",
+              "wp_post_id": "120993",
+              "identifier": "txmo-article-198510-deepinth.json"
+            },
+            {
+              "title": "The Louie File",
+              "subtitle": "",
+              "description": "Just how good were the good ol' days, when Louie Welch was mayor of Houston?.",
+              "byline": "by Mimi Swartz",
+              "page": "152"
+            },
+            {
+              "title": "The Kathy Ratings",
+              "subtitle": "",
+              "description": "Kathy Whitmire’s substantial achievements as mayor of Houston are overshadowed by her bad public image and political ineptitude—not a good situation for a candidate seeking a third term.",
+              "byline": "by Susan Chadwick",
+              "page": "156"
+            },
+            {
+              "title": "The Wishbone Offense",
+              "subtitle": "Texas Primer",
+              "description": "Darrell Royal’s supremely simple invention took Texas teams to the top and kept them there.",
+              "byline": "by Jim Atkinson",
+              "page": "158"
+            },
+            {
+              "title": "Tower Play",
+              "subtitle": "",
+              "description": "Houston’s Transco Tower can’t hide from a camera bent on seeing it from every vantage point.",
+              "byline": "Photography by Steve Brady",
+              "page": "160"
+            },
+            {
+              "title": "The Chips Are Down",
+              "subtitle": "",
+              "description": "The real Texas technology picture is much more intricate than either the mad hype of two years ago or the dire headlines of today make it out to be.",
+              "byline": "by Peter Appiebome",
+              "page": "166"
+            },
+            {
+              "title": "The Dream Lives On",
+              "subtitle": "",
+              "description": "Four of the many small high-tech companies betting that they have the excitement, mpmentum, market, and business savvy to succeed where others have failed.",
+              "byline": "by Byron Harris",
+              "page": "168",
+              "wp_post_id": "120975",
+              "identifier": "txmo-article-198510-thedream.json"
+            },
+            {
+              "title": "When the Well Runs Dry",
+              "subtitle": "Western Art",
+              "description": "In parts of Texas drought is a steady boarder who may stray but always comes home for supper.",
+              "byline": "by Elmer Kelton",
+              "page": "170",
+              "wp_post_id": "120972",
+              "identifier": "txmo-article-198510-whenthew.json"
+            },
+            {
+              "title": "Indian Summer",
+              "subtitle": "Western Art",
+              "description": "",
+              "byline": "by Etienne Delessert",
+              "page": "173"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Beyond The Standard",
+              "subtitle": "Jazz",
+              "description": "Those who think there’s nothing new under the sun should check out the superior jazz improvisations on three recently released albums.",
+              "byline": "by Doug Ramsey",
+              "page": "174"
+            },
+            {
+              "title": "True To The Past",
+              "subtitle": "Classical Music",
+              "description": "Forget all that debate about early instruments versus modern ones for eighteenth-century music.",
+              "byline": "by W. L. Taitte",
+              "page": "180"
+            },
+            {
+              "title": "Hill Country Pearls",
+              "subtitle": "Outdoors",
+              "description": "Real treasure lies buried in the muddy, mushy silt of our rivers and lakes.",
+              "byline": "by Ira Kennedy",
+              "page": "187"
+            },
+            {
+              "title": "Waxy Buildup",
+              "subtitle": "Movies",
+              "description": "Plenty isn’t enough; Year of the Dragon is yellow-devil hysteria; uncompromised casting makes Compromising Positions click; Volunteers imposes eighties cynicism on sixties idealism.",
+              "byline": "by James wolcott",
+              "page": "192"
+            },
+            {
+              "title": "Dancing In the Streets",
+              "subtitle": "Popular Music",
+              "description": "Tuff Enuff, the Fabulous Thunderbirds’ fifth and finest album, has a snap, crackle, and pop that could finally make the T-Birds explode.",
+              "byline": "by Jody Denberg",
+              "page": "198"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Gregory curtis.",
+              "page": "5"
+            },
+            {
+              "title": "Back Roads",
+              "subtitle": "",
+              "description": "Robots in feedlots, Krishnas as cowboys. Nowhere but Texas.",
+              "byline": "by Peter Appiebome",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "Today’s with-it seniors are settling in America’s newest retirement boomtown—Kerrville.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "The maddest crowd in town? The incensed citizens at the Dallas Auto Pound who have to shell out for the privilege of reclaiming their towed vehicles.",
+              "byline": "by Jim Atkinson",
+              "page": "20"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The villains behind the seat belt law; the shoeshine boys behind the border bird trade; the pastor behind Austin’s chicest church.",
+              "byline": "by Dick J. Reavis",
+              "page": "124"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Look! Up in the sky! It’s a bird! It’s a plane! It’s . . . Halley’s Comet!.",
+              "byline": "by Patricia Sharpe",
+              "page": "204"
+            },
+            {
+              "title": "The Roar Of the Crowd.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "262"
+            },
+            {
+              "title": "Puzzle.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "271"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Rough sailing for the water plan; sore losers at Mhmr; a free ride for Mattox; now a word on behalf of ambulance chasing.",
+              "byline": "",
+              "page": "272"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

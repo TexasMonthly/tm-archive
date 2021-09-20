@@ -1,0 +1,55 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19863",
+    "date": "March 1986",
+    "year": 1986,
+    "month": 3,
+    "month_formatted": "March",
+    "pdf_uri": "/1986/19860300.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 146,
+    "toc_start_page": 143,
+    "document_page_range": [
+      146
+    ],
+    "toc_order": 7,
+    "toc_headline": "Western Art: In Defense Of Da Dogie",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198603-indefense",
+  "source": "/1986/19860300.pdf",
+  "wp_post_id": 122403,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-in-defense-of-da-dogie/",
+  "authors": [
+    "Lane Smith"
+  ],
+  "headline": "In Defense Of Da Dogie",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img/>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "March 1986",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "Defense"
+    ],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

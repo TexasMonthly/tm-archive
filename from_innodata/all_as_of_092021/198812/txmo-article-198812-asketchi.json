@@ -1,0 +1,75 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-198812",
+    "date": "December 1988",
+    "year": 1988,
+    "month": 12,
+    "month_formatted": "December",
+    "pdf_uri": "/1988/19881200.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 126,
+    "toc_start_page": 124,
+    "document_page_range": [
+      [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131
+      ]
+    ],
+    "toc_order": 8,
+    "toc_headline": "A Sketch In Time Notes and Illustrations",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198812-asketchi",
+  "source": "/1988/19881200.pdf",
+  "wp_post_id": 123669,
+  "wp_post_guid": "http://www.texasmonthly.com/article/a-sketch-in-time/",
+  "authors": [
+    "Alan E. Cober"
+  ],
+  "headline": "A Sketch In Time",
+  "dek": "The Rio Grande Valley December 1985",
+  "spread_caption": "",
+  "excerpt": "An artist’s fancy takes flight over the Rio Grande Valley.",
+  "kicker": "",
+  "word_count": 98,
+  "content": "<img/><p>“Flat, always flat, long expanses, big cloudy skies,” wrote illustrator alan Cober of the land that is a valley in name only. Cober’s drawings-he has also sketched the 1980 presidential campaign and the visit of Pope John Paul Ii to the United States - resurrect a neglected art form. A sketchbook enables the artist to record his impressions in both pictures and words. It is personal in a way the camera can never be. In Cober’s hands, the ancient art of the sketchbook is the perfect medium for an ancient land, one whose civilization is older than Texas.</p><img/><img/><img/><img/><img/><img/>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "December 1988",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "Art",
+      "Artist",
+      "Campaign",
+      "Illustrator",
+      "Land",
+      "Presidential campaign",
+      "record",
+      "rio",
+      "Rio Grande",
+      "Rio Grande Valley"
+    ],
+    "wp_categories": [
+      "Art"
+    ],
+    "wp_location": [
+      "Rio Grande Valley"
+    ]
+  }
+}

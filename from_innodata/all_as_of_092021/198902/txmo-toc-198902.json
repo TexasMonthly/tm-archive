@@ -1,0 +1,136 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198902",
+    "publication": "Texas Monthly",
+    "issue": "February 1989",
+    "pdf_uri": "/1989/19890200.pdf",
+    "month": "February",
+    "year": 1989,
+    "pages": 148,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents February",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Lost Tribe",
+              "subtitle": "",
+              "description": "They were the classic Texas Indians—fierce, majestic, and free. Today’s Comanches find their lives defined by legends and bitter truths.",
+              "byline": "by Stephen Harrigan",
+              "page": "68"
+            },
+            {
+              "title": "The Wooing Of Chairman Wang",
+              "subtitle": "",
+              "description": "The decision by a Chinese plastics company to build a billion-dollar plant in Texas proves that economic development works—but it comes at a high price.",
+              "byline": "by Peter Elkind",
+              "page": "76",
+              "wp_post_id": "125178",
+              "identifier": "txmo-article-198902-thewooing.json"
+            },
+            {
+              "title": "Art For HEArt's Sake",
+              "subtitle": "",
+              "description": "A great big valentine from 95 artists to a San antonio hospital’s transplant program.",
+              "byline": "",
+              "page": "80"
+            },
+            {
+              "title": "“I’m a Nazi Until Death”",
+              "subtitle": "",
+              "description": "Out of work, at loggerheads with their parents, and under constant police surveillance since they turned to an alien ideology, Dallas’ radical skinheads remain defiant.",
+              "byline": "by Rod Davis",
+              "page": "84",
+              "wp_post_id": "125172",
+              "identifier": "txmo-article-198902-imanazi.json"
+            },
+            {
+              "title": "A Dirty, Rotten Mess",
+              "subtitle": "",
+              "description": "Every day each of us contributes five pounds to the growing mountain of garbage. Now the mountain looks like a volcano that’s threatening to erupt.",
+              "byline": "by Emily Yoffe",
+              "page": "90"
+            },
+            {
+              "title": "Chip Ahoy",
+              "subtitle": "",
+              "description": "A new gambling-cruise-ship enterprise out of Port Isabel makes it possible to spend an evening in a casino while going nowhere in the Gulf.",
+              "byline": "by Joe Nick Patoski",
+              "page": "94"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Jailhouse Hock",
+              "subtitle": "Politics",
+              "description": "Bill Clements’ ambitious—and expensive—prison-expansion plan is only a tiny first step toward escaping the overcrowding problem.",
+              "byline": "by Patricia Kilday Hart",
+              "page": "98"
+            },
+            {
+              "title": "Spot Market",
+              "subtitle": "Environment",
+              "description": "Ranchers hate bobcats. Trappers love their pelts. Both parties have found that there’s more than one reason to skin a cat.",
+              "byline": "by Christine Carroll",
+              "page": "104"
+            },
+            {
+              "title": "Blithe Spirit",
+              "subtitle": "Popular Music",
+              "description": "It took a bit of coaxing, but when R. T. Williams finally sat down at the piano again, the Grey Ghost came back to life.",
+              "byline": "by joe Nick Patoski",
+              "page": "112"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Three years and $400,000 later.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Never giving in; making it big; reclaiming a neighborhood.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Looking forward to Jerry Jeff Walker’s second Luckenbach, looking into a new way to settle feuds, and looking back over the career of Texas’ most prolific unknown author.",
+              "byline": "by alison Cook",
+              "page": "56"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A competency test for colleges; gauging the governor’s race; hard times at Hermann Hospital; what on earth was George Bush thinking about?.",
+              "byline": "",
+              "page": "144"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

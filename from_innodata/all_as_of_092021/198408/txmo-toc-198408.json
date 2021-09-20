@@ -1,0 +1,195 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198408",
+    "publication": "Texas Monthly",
+    "issue": "August 1984",
+    "pdf_uri": "/1984/19840800.pdf",
+    "month": "August",
+    "year": 1984,
+    "pages": 226,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Fastest Nice Christian Boy In the World",
+              "subtitle": "",
+              "description": "Bobby Morrow was america’s most celebrated Olympic athlete in 1956. Today he wishes he’d never left the starting blocks.",
+              "byline": "William Martin",
+              "page": "114"
+            },
+            {
+              "title": "The Eccentric Genius Of Trammell Crow",
+              "subtitle": "",
+              "description": "He changed the face of Texas by building warehouses that looked like office buildings. Then he built office buildings that looked like warehouses.",
+              "byline": "Joseph Nocera",
+              "page": "118"
+            },
+            {
+              "title": "The Icehouse",
+              "subtitle": "Texas Primer",
+              "description": "There’s a world of difference between an icehouse and a convenience store.",
+              "byline": "David Hisbrook",
+              "page": "136"
+            },
+            {
+              "title": "The Marfa Art War",
+              "subtitle": "",
+              "description": "Sculptor Donald Judd had the vision. The Dia art Foundation had the money. Now they’ve had it with each other.",
+              "byline": "Michael Ennis",
+              "page": "138"
+            },
+            {
+              "title": "Kow Boi Hadz!",
+              "subtitle": "Western Art",
+              "description": "",
+              "byline": "Elwood H. Smith",
+              "page": "143",
+              "wp_post_id": "120063",
+              "identifier": "txmo-article-198408-kowboiha.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Special Republican Convention Section",
+          "toc_entry": [
+            {
+              "title": "Unconventional Notes 1984",
+              "subtitle": "",
+              "description": "Isn't it great that in this big, cold world the Republican party and Dallas have found each other?",
+              "byline": "",
+              "page": "123"
+            },
+            {
+              "title": "The Way It’s Going To Be",
+              "subtitle": "",
+              "description": "Turn off the TV. Go fishing. Here’s the inside story of what will happen at the convention, complete with Nancy Reagan’s tacky visit to a bowling alley.",
+              "byline": "Nicholas Lemann",
+              "page": "124"
+            },
+            {
+              "title": "Great Moments In Republican History",
+              "subtitle": "",
+              "description": "How Texas became a two-party state in spite of the GOP.",
+              "byline": "Paul Burka and Jim atkinson",
+              "page": "127"
+            },
+            {
+              "title": "Excuse Me, But Where Can a Free-Enterpriser Get a Drink In This Town?",
+              "subtitle": "",
+              "description": "Where to find a life-size statue of businessmen shaking hands, the best right-wing burgers, and other landmarks of Republican life.",
+              "byline": "Peter applebome and Jim atkinson",
+              "page": "128"
+            },
+            {
+              "title": "Little D",
+              "subtitle": "",
+              "description": "No one will ever hold a political convention in Dallas, Scotland. And that’s onlv one of the things that make it great.",
+              "byline": "Peter applebome",
+              "page": "134"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Guv Passes, Teachers Flunk",
+              "subtitle": "Politics",
+              "description": "Mark White has finally earned high marks in lobbying the Legislature.",
+              "byline": "Paul Burka",
+              "page": "144"
+            },
+            {
+              "title": "“MY, Don’t You Sparkle!”",
+              "subtitle": "High Life",
+              "description": "Elyse Robins will sell you that gaudy bauble she’s wearing at dinner for only forty. Thousand, that is.",
+              "byline": "John Davidson",
+              "page": "150"
+            },
+            {
+              "title": "A Flop",
+              "subtitle": "Classical Music",
+              "description": "At this year’s dismal San antonio Festival, the English National Opera and the Texas productions were the only shows worth seeing.",
+              "byline": "W. L. Taitte",
+              "page": "154"
+            },
+            {
+              "title": "Getting Slimed",
+              "subtitle": "Movies",
+              "description": "Ghostbusters is funny but flawed; Streets of Fire is not the place to spend a carefree afternoon; plus three films from abroad.",
+              "byline": "James Wolcott",
+              "page": "160"
+            },
+            {
+              "title": "Dancing Up a Cliche",
+              "subtitle": "Ballet",
+              "description": "Jamboree, a new Joffrey ballet commissioned by the City of San antonio, features prancing rhinestone cowboys and just plain silly choreography.",
+              "byline": "W. L. Taitte",
+              "page": "164"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Nirvana in unofficial Dallas.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Is Texas shrinking? are the Kimbell’s spirits sinking? are Midland and Odessa really linking? Where are Houston’s sports fans drinking?",
+              "byline": "Peter Elkind",
+              "page": "96"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "Patricia Sharpe",
+              "page": "168"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "223"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Aggies and UT play beach brawl; Valero’s gas pains; education bureaucracy shake-up; the truth about those Hines rumors.",
+              "byline": "",
+              "page": "224"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

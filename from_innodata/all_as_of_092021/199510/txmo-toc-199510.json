@@ -1,0 +1,162 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199510",
+    "publication": "Texas Monthly",
+    "issue": "October 1995",
+    "pdf_uri": "/1995/19951000.pdf",
+    "month": "October",
+    "year": 1995,
+    "pages": 252,
+    "document_toc_page": "5,7"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Real Buddy Holly",
+              "subtitle": "",
+              "description": "His life was as short and sweet as his songs, but who was the Lubbock rocker whose influence over popular music will not fade away?",
+              "byline": "by Robert Draper",
+              "page": "108"
+            },
+            {
+              "title": "Raving On",
+              "subtitle": "",
+              "description": "Two decades after he played the role of his life in The Buddy Holly Story, Gary Busey's hero worship has made him his own worst enemy.",
+              "byline": "by Gary Cartwright",
+              "page": "112"
+            },
+            {
+              "title": "Reversal of Fortune",
+              "subtitle": "",
+              "description": "Boone Pickens and his protégé, David Batchelder, built Mesa Petroleum into an energy giant. Now Pickens’ empire is crumbling and his former aide is leading the charge against him.",
+              "byline": "by Helen Thorpe",
+              "page": "114"
+            },
+            {
+              "title": "Swami Dearest",
+              "subtitle": "",
+              "description": "In the Hill Country, what was once the hallowed ranch of Walter Prescott Webb is now the sacred site of a mammoth new Hindu temple—and the home of a controversial ashram called Barsana Dham.",
+              "byline": "by Jeannie Ralston",
+              "page": "118"
+            },
+            {
+              "title": "Hi-Ho Daddy-O!",
+              "subtitle": "",
+              "description": "From dancing frogs to towering cowboy boots, a look at how Bob Wade's outlandish sculptures became Texas landmarks.",
+              "byline": "by Anne Dingus",
+              "page": "124",
+              "wp_post_id": "129012",
+              "identifier": "txmo-article-199510-hi-hodadd.json"
+            },
+            {
+              "title": "Significant Others",
+              "subtitle": "",
+              "description": "Tired of the No. 2 dinner? A new book of recipes collected from California, Arizona, and New Mexico will broaden your Tex-Mex horizons.",
+              "byline": "by Patricia Sharpe",
+              "page": "130"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The News About Jim Lehrer",
+              "subtitle": "Profile",
+              "description": "Once an accomplished newscaster and reporter in Dallas, he's still going strong—and now solo—on Pbs.",
+              "byline": "by Paul Burka",
+              "page": "58"
+            },
+            {
+              "title": "Wasted Days",
+              "subtitle": "Music",
+              "description": "Freddy Fender has one of the most affecting voices in the music business. So why isn’t he a star?",
+              "byline": "by John Morthland",
+              "page": "64"
+            },
+            {
+              "title": "Walker, Texas Writer",
+              "subtitle": "Books",
+              "description": "Mary Willis Walker’s mysteries aren’t exactly original, but she crafts real moments of tension. That’s why they sell so well and win so many awards.",
+              "byline": "by Anne Dingus",
+              "page": "74"
+            },
+            {
+              "title": "The Yaga Saga",
+              "subtitle": "Business",
+              "description": "A year after he was ousted from the Galveston clothing company he founded, Joe Flores is designing a way to out-hip his rivals.",
+              "byline": "by Geoffrey Leavenworth",
+              "page": "80"
+            },
+            {
+              "title": "Getting His Kicks",
+              "subtitle": "Television",
+              "description": "He scored big for Ut and four Nfl teams; now Raúl Allegre is back in the game with his weekly Spanish-language football show.",
+              "byline": "by Helen Thompson",
+              "page": "96"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The death of a federal program in Amarillo shows that cutting the budget isn’t the answer to everything.",
+              "byline": "by Gregory Curtis",
+              "page": "7"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "For and against our “Silicone City” cover; the politics of breast implants; who killed the Patient Protection Act?",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Phil Gramm’s master plan for defeating Dole, whipping Wilson, and locking up the Gop nomination. Plus: Ann Richards stages a comeback, Jane Roe flips for a preacher, tainted Mexican pols sign up a Corpus Christi lawyer, and Hollywood goes for Rig Rend in a big way.",
+              "byline": "Edited by Evan Smith",
+              "page": "22"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "Opera star Leontyne Price makes a rare stop in Austin. Plus: The legends of women’s tennis hit Houston and the “Home of the Hamburger” cookoff sizzles in Athens.",
+              "byline": "Edited by Quita McMath, Jill Becker, and Erin Gromen",
+              "page": "40"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "205"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Patricia Sharpe",
+              "page": "205"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Joe Jamail fights the power. Plus: Who will save the Texas Democratic party?",
+              "byline": "by Paul Burka and Jan Russell",
+              "page": "248"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

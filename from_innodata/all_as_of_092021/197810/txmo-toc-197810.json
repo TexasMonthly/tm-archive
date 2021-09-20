@@ -1,0 +1,206 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197810",
+    "publication": "Texas Monthly",
+    "issue": "October 1978",
+    "pdf_uri": "/1978/19781000.pdf",
+    "month": "October",
+    "year": 1978,
+    "pages": 268,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Working the Rigs",
+              "subtitle": "",
+              "description": "Show us the hardest working man in Texas and we’ll show you a roughneck.",
+              "byline": "Nicolas Russell",
+              "page": "124"
+            },
+            {
+              "title": "Ggghost Stories",
+              "subtitle": "",
+              "description": "The smell of sulfur in a dance hall, the strains of violin music at midnight, a puddle of water in a taxicab—these are the signs Texas ghosts leave behind. Now don’t say we didn’t warn you.",
+              "byline": "Joe Nick Patoski",
+              "page": "134"
+            },
+            {
+              "title": "The Cap That Won the West",
+              "subtitle": "",
+              "description": "The newest style in manly hatwear.",
+              "byline": "Richard West",
+              "page": "140"
+            },
+            {
+              "title": "The Last Of the Great Ladies",
+              "subtitle": "",
+              "description": "Oveta Culp Hobby has gone from a country town to a position of power and wealth. What she hasn’t done will also be her legacy.",
+              "byline": "Harry Hurt III",
+              "page": "142",
+              "wp_post_id": "112425",
+              "identifier": "txmo-article-197810-thelasto.json"
+            },
+            {
+              "title": "A Season In Hell",
+              "subtitle": "",
+              "description": "A few years ago guards ran the Rusk State Hospital for the criminally insane. Now sociopathic criminals rule the wards.",
+              "byline": "Dick Reavis",
+              "page": "150",
+              "wp_post_id": "112419",
+              "identifier": "txmo-article-197810-aseasoni.json"
+            },
+            {
+              "title": "I Can’t Do It!",
+              "subtitle": "",
+              "description": "Some kids may fail at school and it’s not their fault.",
+              "byline": "Stephen Harrigan",
+              "page": "156"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Lettuce Entertain You",
+              "subtitle": "Dining In",
+              "description": "With feasts from the garden.",
+              "byline": "Martha Shulman",
+              "page": "162"
+            },
+            {
+              "title": "Gifts From My Father",
+              "subtitle": "Lifestyles",
+              "description": "All his life, the son learned from the father, but the most important lesson came at the end.",
+              "byline": "William Martin",
+              "page": "176"
+            },
+            {
+              "title": "There’s No Fuel Like an Old Fuel",
+              "subtitle": "Citywise",
+              "description": "All you need to heat your home is a stove, firewood, and a match.",
+              "byline": "Linda West Eckhardt",
+              "page": "182"
+            },
+            {
+              "title": "Ticket To Ride?",
+              "subtitle": "Politics",
+              "description": "For the Republicans this fall, it may be a trip to oblivion.",
+              "byline": "Paul Burka",
+              "page": "188"
+            },
+            {
+              "title": "The Snuff Of Dreams",
+              "subtitle": "Country Notes",
+              "description": "Common uses of a most uncommon form of tobacco.",
+              "byline": "John Graves",
+              "page": "196"
+            },
+            {
+              "title": "Ms. Loves Company",
+              "subtitle": "Film",
+              "description": "“Make new friends, keep the old.” It’s not as easy as it sounds.",
+              "byline": "George Morris",
+              "page": "202"
+            },
+            {
+              "title": "The Taming Of the Bard",
+              "subtitle": "Theater",
+              "description": "A little touch of Shakespeare in the heat.",
+              "byline": "W. L. Taitte",
+              "page": "208"
+            },
+            {
+              "title": "A Knight At the Opera",
+              "subtitle": "Classical Music",
+              "description": "A look at Dallas Civic Opera’s Plato Karayanis, a man with a noble cause who’s selling tickets to a dream.",
+              "byline": "W. L. Taitte",
+              "page": "212"
+            },
+            {
+              "title": "Rainbow County",
+              "subtitle": "Art",
+              "description": "From China, with kid gloves.",
+              "byline": "Michael Ennis",
+              "page": "216"
+            },
+            {
+              "title": "Dixie Drag",
+              "subtitle": "Books",
+              "description": "Sexual secrets in the Piney Woods.",
+              "byline": "Gene Lyons",
+              "page": "222"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The war isn’t over.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "No contest.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Sex and violence.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Sweets to the Suite.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Bucking the U.S. Air Force, breeding horses for royalty, and hightailing it out of town before the Corps of Engineers gets you.",
+              "byline": "John Bloom",
+              "page": "105"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "R.I.P.",
+              "byline": "Paul Burka",
+              "page": "260"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Some tidbits and outrages under our very noses.",
+              "byline": "",
+              "page": "264"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

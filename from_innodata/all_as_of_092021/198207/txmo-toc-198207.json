@@ -1,0 +1,169 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198207",
+    "publication": "Texas Monthly",
+    "issue": "July 1982",
+    "pdf_uri": "/1982/19820700.pdf",
+    "month": "July",
+    "year": 1982,
+    "pages": 204,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Immigrants",
+              "subtitle": "",
+              "description": "From all over the world, people are coming to Houston to find a better life. For a few of them—immigrants from Poland, Nigeria, and El Salvador—this is what it’s like.",
+              "byline": "Anna Goslicka",
+              "page": "90",
+              "wp_post_id": "118062",
+              "identifier": "txmo-article-198207-immigrants.json"
+            },
+            {
+              "title": "The Ghost Town",
+              "subtitle": "Texas Primer",
+              "description": "The lost hopes of places like Belle Plain haunt Texas’ prairies.",
+              "byline": "",
+              "page": "98"
+            },
+            {
+              "title": "The Texas Edison",
+              "subtitle": "",
+              "description": "A Dallas engineer you’ve probably never heard of has done more to change our daily lives than almost anyone else alive. How? He invented the silicon chip.",
+              "byline": "T. R. Reid",
+              "page": "102"
+            },
+            {
+              "title": "The Store That Made Jonesville Famous",
+              "subtitle": "",
+              "description": "And other great country stores of Texas.",
+              "byline": "Harry Hurt Iii",
+              "page": "110"
+            },
+            {
+              "title": "The Man Who Killed Braniff",
+              "subtitle": "",
+              "description": "Harding Lawrence was obsessed with making Braniff great. Maybe too obsessed.",
+              "byline": "Byron Harris",
+              "page": "116"
+            },
+            {
+              "title": "What Texas Means To Me",
+              "subtitle": "",
+              "description": "God created Texas, and then He created people who would love it.",
+              "byline": "Stephen Harrigan",
+              "page": "122"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Angst Amid the Kiwi Fruit",
+              "subtitle": "Food",
+              "description": "Young caterers in Dallas are vying to hire the preppiest staff to serve the spiffiest food at the classiest parties.",
+              "byline": "Alison Cook",
+              "page": "126"
+            },
+            {
+              "title": "The Way To A Woman’s Heart",
+              "subtitle": "Lifestyles",
+              "description": "Just say these three little words: “Shall we dance?”",
+              "byline": "Prudence Mackintosh",
+              "page": "138"
+            },
+            {
+              "title": "A Generous Helping",
+              "subtitle": "Theater",
+              "description": "Houston’s Stages theater gave new writers a push and established writers a pat when it put on a Texans-only playwrights’ festival.",
+              "byline": "W. L. Taitte",
+              "page": "149"
+            },
+            {
+              "title": "Little Alien Lost",
+              "subtitle": "Movies",
+              "description": "No one should pass up a close encounter with E.T.: The Extra-Terrestrial. Dead Men Don’t Wear Plaid doesn’t wear well. Conan the Barbarian is nothing but muscle; Annie is nothing but bustle.",
+              "byline": "Janies Wolcott",
+              "page": "154"
+            },
+            {
+              "title": "The Kid Is Blowing Them Away",
+              "subtitle": "Jazz",
+              "description": "In the footsteps of Louis Armstrong, Miles Davis, and other trumpet greats comes twenty-year-old Wynton Marsalis. Judging by their latest albums, Herbie Hancock, Ron Carter, and fellow veterans are doing all right too.",
+              "byline": "Doug Ramsey",
+              "page": "162"
+            },
+            {
+              "title": "Main Street Religion",
+              "subtitle": "Church",
+              "description": "The power and charm of the Reverend Charles Allen go beyond his own church, First United Methodist of Houston. Simple, standard churches like First Presbyterian in Brownsville are the solid rock of American religion.",
+              "byline": "William Martin",
+              "page": "168"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Songs of innocence.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Lies and whispers.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Rhythm ’n’ views.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A job crunch hits Odessa; an all-business mayor shakes up El Paso; the Rangers fold (again); a Houston homeowner wars with his neighborhood association; grads commemorate an all-black high school.",
+              "byline": "Peter Applebome",
+              "page": "71"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "The lost weekend.",
+              "byline": "",
+              "page": "199"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Slums for sale; hardball at the Herald; bye-bye, Nueces Bay; hello, mudslinging.",
+              "byline": "",
+              "page": "200"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
