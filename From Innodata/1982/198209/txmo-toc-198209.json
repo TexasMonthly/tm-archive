@@ -1,0 +1,186 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198209",
+    "publication": "Texas Monthly",
+    "issue": "September 1982",
+    "pdf_uri": "/1982/19820900.pdf",
+    "month": "September",
+    "year": 1982,
+    "pages": 274,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Gods Of Padre Island",
+              "subtitle": "",
+              "description": "Between watching girls and getting a great tan, lifeguards occasionally have to save lives.",
+              "byline": "David Seeley",
+              "page": "124",
+              "wp_post_id": "117882",
+              "identifier": "txmo-article-198209-thegodso.json"
+            },
+            {
+              "title": "Mesquite",
+              "subtitle": "Texas Primer",
+              "description": "It looks fragile with its lacy leaves and fragrant flowers. Looks can be deceptive.",
+              "byline": "",
+              "page": "130"
+            },
+            {
+              "title": "The Trouble With Ut",
+              "subtitle": "",
+              "description": "The university at one hundred; how good is it, really?",
+              "byline": "Gene Lyons",
+              "page": "134",
+              "wp_post_id": "117876",
+              "identifier": "txmo-article-198209-thetroubl.json"
+            },
+            {
+              "title": "We Know You’re Interested Only In Quality Education ...",
+              "subtitle": "",
+              "description": "So read our guide to the 1982 Ut football season, and you can skip the games.",
+              "byline": "Gary Cartwright",
+              "page": "138",
+              "wp_post_id": "117870",
+              "identifier": "txmo-article-198209-weknowyo.json"
+            },
+            {
+              "title": "C. Barsotti’s Texas",
+              "subtitle": "",
+              "description": "The famous cartoonist aims his pen at the Texas mystique.",
+              "byline": "Charles Barsotti",
+              "page": "144",
+              "wp_post_id": "117864",
+              "identifier": "txmo-article-198209-cbarsotts.json"
+            },
+            {
+              "title": "The Man Who Killed Judge Wood",
+              "subtitle": "",
+              "description": "The end of the Chagra family’s drug empire, a few words on murderer-for-hire Charles Harrelson, and the most incriminating tapes since Watergate.",
+              "byline": "Gary Cartwright",
+              "page": "148"
+            },
+            {
+              "title": "The Empress’s New Clothes",
+              "subtitle": "",
+              "description": "What you won’t see from Dallas designers is lots of froufrou. What you will see is a look tailored for the working woman.",
+              "byline": "Michael Ennis",
+              "page": "152",
+              "wp_post_id": "117855",
+              "identifier": "txmo-article-198209-theempres.json"
+            },
+            {
+              "title": "The Inside Skinny On Dallas Designers",
+              "subtitle": "",
+              "description": "Who’s who, and who’s doing what to whom: a brief guide.",
+              "byline": "Michael Ennis",
+              "page": "158",
+              "wp_post_id": "117849",
+              "identifier": "txmo-article-198209-theinside.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The New Dominion",
+              "subtitle": "Books",
+              "description": "Things are looking good for the Sunbelt, says political prognosticator Kevin P. Phillips. Unfortunately, things are looking bad for America.",
+              "byline": "Nicholas Lemann",
+              "page": "160"
+            },
+            {
+              "title": "Spiciest Africa",
+              "subtitle": "Food",
+              "description": "Ethiopian food is spiked with pungent spices, served without plates or forks, and eaten by the adventurous—and lucky—few.",
+              "byline": "Alison Cook",
+              "page": "164"
+            },
+            {
+              "title": "Art Pepper’s Last Chorus",
+              "subtitle": "Jazz",
+              "description": "The late alto saxophonist lived a life marred by heroin addiction and prison time, but his pain was only a counterpoint to the beauty of his music.",
+              "byline": "Doug Ramsey",
+              "page": "172"
+            },
+            {
+              "title": "Well, Bust My Bodice",
+              "subtitle": "Movies",
+              "description": "With its folksy-talking tarts and rubes, The Best Little Whorehouse in Texas tries to make a virtue of vulgarity. Bard-olaters who flock to two Shakespeare-inspired offerings may be disappointed: Woody Allen’s A Midsummer Night’s Sex Comedy is puckish but prosy; Paul Mazursky’s Tempest leaves the viewer at sea.",
+              "byline": "James Wolcott",
+              "page": "182"
+            },
+            {
+              "title": "The Midas Touch",
+              "subtitle": "Theater",
+              "description": "In the past two years Kjehl Rasmussen has opened two acclaimed Dallas theaters and directed a hit musical. And that’s just for starters.",
+              "byline": "W. L. Taitte",
+              "page": "190"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The phantom building.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Harding Lawrence’s handiwork; Daddy’s fancy footwork; the mayor’s legwork.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Ship to store.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Dallas a haven for mystics and misfits? La Raza Unida just a memory? Plus: a real, live train robber reminisces; public Tv fades in and out; C. A. Doerge gets all pumped up.",
+              "byline": "Peter Applebome",
+              "page": "104"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Are we there yet?",
+              "byline": "",
+              "page": "263"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Taller-than-thou in Houston; Bullock and his feelings; the fate of the Boll Weevils; yellow journalism in Dallas.",
+              "byline": "",
+              "page": "264"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

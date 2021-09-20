@@ -1,0 +1,216 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198512",
+    "publication": "Texas Monthly",
+    "issue": "December 1985",
+    "pdf_uri": "/1985/19851200.pdf",
+    "month": "December",
+    "year": 1985,
+    "pages": 276,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents December",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Portraits In Power",
+              "subtitle": "",
+              "description": "Helmut Newton, world famous for his bizarre, sometimes shocking erotic photographs, turns his lens on another exotic subject—Texas tycoons.",
+              "byline": "Photography by Helmut Newton",
+              "page": "120",
+              "wp_post_id": "120816",
+              "identifier": "txmo-article-198512-portraits.json"
+            },
+            {
+              "title": "The Fraying Empire Of Bobby Sakowitz",
+              "subtitle": "",
+              "description": "Robert Sakowitz set out to be a retail Renaissance man. Like his hero Leonardo da Vinci, he was going to do everything. And he did—including something he never imagined: fail.",
+              "byline": "by Alison Cook",
+              "page": "132",
+              "wp_post_id": "120813",
+              "identifier": "txmo-article-198512-thefrayin.json"
+            },
+            {
+              "title": "The Week Of the Virgin",
+              "subtitle": "",
+              "description": "A doll-like statue of sugar-cane fiber and clay came to San Antonio from a village in Mexico. Twentyfour hours a day, residents of the West Side visited Our Lady of San Juan de los Lagos.",
+              "byline": "by Jan Jarboe",
+              "page": "138",
+              "wp_post_id": "120810",
+              "identifier": "txmo-article-198512-theweeko.json"
+            },
+            {
+              "title": "The His And Her Gift",
+              "subtitle": "Texas Primer",
+              "description": "Once upon a time the His and Her Gift reflected a Texas that was extravagant and maybe a little gauche. Now the gift is no less extravagant, but it’s a lot less, well, innocent.",
+              "byline": "by Susan Chadwick",
+              "page": "146"
+            },
+            {
+              "title": "Professor Of Football",
+              "subtitle": "",
+              "description": "Okay, now, listen up. This story is about Bill Yeoman, a really good football coach. Read it or run three laps after practice.",
+              "byline": "by Peter Elkind",
+              "page": "148",
+              "wp_post_id": "120807",
+              "identifier": "txmo-article-198512-professor.json"
+            },
+            {
+              "title": "Miles And Miles Of Malls",
+              "subtitle": "",
+              "description": "First grab that parking place! Then grab our guide to the best mall merchandise this Christmas.",
+              "byline": "by Mimi Swartz",
+              "page": "152",
+              "wp_post_id": "120804",
+              "identifier": "txmo-article-198512-milesand.json"
+            },
+            {
+              "title": "Every Traveler’s Nightmare",
+              "subtitle": "",
+              "description": "Ever worry that your trip overseas could turn into a disaster? We certainly didn’t—until a speeding bakery truck collided with our Italian vacation.",
+              "byline": "by Patricia sharpe",
+              "page": "160",
+              "wp_post_id": "120801",
+              "identifier": "txmo-article-198512-everytrav.json"
+            },
+            {
+              "title": "Caballito",
+              "subtitle": "Western Art",
+              "description": "by Paola Piglia.",
+              "byline": "",
+              "page": "163",
+              "wp_post_id": "120795",
+              "identifier": "txmo-article-198512-caballito.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "I Want To Be Alone",
+              "subtitle": "Fatherhood",
+              "description": "When the wife goes back to work and the husband takes on chores and children, the real problem is not laundry or lunch boxes. It’s the battle between love and ambition.",
+              "byline": "by Lawrence Wright",
+              "page": "164"
+            },
+            {
+              "title": "A Heaping Mess",
+              "subtitle": "Cooking",
+              "description": "One man’s answer to nouvelle cuisine.",
+              "byline": "by Nicholas Lemann",
+              "page": "170"
+            },
+            {
+              "title": "Queen Of the Rodeo",
+              "subtitle": "Movies",
+              "description": "In Sweet Dreams, Jessica Lange is a dynamo of female gumption; Hail Mary makes the Immaculate Conception an inconsequential miracle; Joshua Then and Now is entertainingly busy and uncouth; Twice in a Lifetime is twice too often.",
+              "byline": "by James wolcott",
+              "page": "176"
+            },
+            {
+              "title": "Better Than Ever And More Of It",
+              "subtitle": "Popular Music",
+              "description": "New records from Texas bands have only one thing in common —stubborn individuality.",
+              "byline": "by jody Denberg",
+              "page": "188"
+            },
+            {
+              "title": "Nights Of Figs And Other Mysteries",
+              "subtitle": "Books",
+              "description": "Charles Portis’ Masters of Atlantis is anything but believable and nothing if not enjoyable. A Small Town, Shelby Hearon’s ninth novel, is a hit-and-miss proposition.",
+              "byline": "by Peter Applebome",
+              "page": "194"
+            },
+            {
+              "title": "Desire and Memory",
+              "subtitle": "Classical Music",
+              "description": "The Ups and Downs of Theophilus Maitland had more ups than downs in Dallas, but Memorial Candles didn’t have much memorable melody.",
+              "byline": "by W. L Taitte",
+              "page": "200"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Gregory Curtis.",
+              "page": "5"
+            },
+            {
+              "title": "Back Roads",
+              "subtitle": "",
+              "description": "Next time you want to go from Wichita Falls to Paris, take the Red River Bus Line.",
+              "byline": "by Peter Applebome",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "Christian recording mogul Chris Christian knows what the Rock of Ages really means.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "A dog's best friend ?",
+              "byline": "by Jim Atkinson",
+              "page": "18"
+            },
+            {
+              "title": "Around the State.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "What evil lurks at the San Antonio Convention Center? How does a would-be Kenedy Ranch heir make a buck? Who helps keep the space shuttle aloft?.",
+              "byline": "by Joe Nick Patoski",
+              "page": "108"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Patricia Sharpe.",
+              "page": "204"
+            },
+            {
+              "title": "The Roar Of the Crowd.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "248"
+            },
+            {
+              "title": "Puzzle.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "259"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Mexico’s bureaucracy thwarts Texas land heirs; a new poll has bad news for the guv; taxing times for the state budget; ending a boondoggle for colleges.",
+              "byline": "",
+              "page": "260"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

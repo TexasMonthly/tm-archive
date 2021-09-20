@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19855",
+    "date": "May 1985",
+    "year": 1985,
+    "month": 5,
+    "month_formatted": "May",
+    "pdf_uri": "/1985/19850500.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 168,
+    "toc_start_page": 165,
+    "document_page_range": [
+      168
+    ],
+    "toc_order": 13,
+    "toc_headline": "Western Art",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198505-tallinth",
+  "source": "/1985/19850500.pdf",
+  "wp_post_id": 121329,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-tall-in-the-saddle/",
+  "authors": [
+    "C. F. Payne"
+  ],
+  "headline": "Tall In the Saddle",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "May 1985",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

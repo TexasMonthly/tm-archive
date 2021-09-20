@@ -1,0 +1,164 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199405",
+    "publication": "Texas Monthly",
+    "issue": "May 1994",
+    "pdf_uri": "/1994/19940500.pdf",
+    "month": "May",
+    "year": 1994,
+    "pages": 220,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Last of a Breed",
+              "subtitle": "Politics",
+              "description": "",
+              "byline": "by Jan Reid",
+              "page": "46"
+            },
+            {
+              "title": "Housing authority",
+              "subtitle": "Technology",
+              "description": "",
+              "byline": "by Melanie Cole",
+              "page": "60"
+            },
+            {
+              "title": "True Blues",
+              "subtitle": "Music",
+              "description": "",
+              "byline": "by John Morthland",
+              "page": "78"
+            },
+            {
+              "title": "Answer Man",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by anne Dingus",
+              "page": "88"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by David McCormick",
+              "page": "92"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "108"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "183"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "185"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "By Paul Burka",
+              "page": "212"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Born to Run",
+              "subtitle": "",
+              "description": "In the campaign for governor, the Republican nominee is out to prove to voters—and himself—that he’s his own George Bush.",
+              "byline": "by Skip Hollandsworth",
+              "page": "112"
+            },
+            {
+              "title": "Seasons To Remember",
+              "subtitle": "",
+              "description": "The end of the Southwest Conference was predictable, but for eighty years it gave Texas fans a brand of football that was anything but.",
+              "byline": "by Paul Burka",
+              "page": "118"
+            },
+            {
+              "title": "We Will Never Surrender Or Retreat",
+              "subtitle": "",
+              "description": "These days everybody wants a piece of the alamo. Can the Daughters of the Republic of Texas hang on to their sacred shrine?",
+              "byline": "by Jan Jarboe",
+              "page": "124",
+              "wp_post_id": "128547",
+              "identifier": "txmo-article-199405-wewillne.json"
+            },
+            {
+              "title": "Nouveau Grub",
+              "subtitle": "",
+              "description": "Around the state, a smorgasbord of stylish new restaurants defines the Texas bitegeist.",
+              "byline": "by Robert Draper",
+              "page": "126"
+            },
+            {
+              "title": "Nerdvana!",
+              "subtitle": "",
+              "description": "In the nineties, it’s hip to be square and cool to be clueless. Our guide to the new Texas man.",
+              "byline": "by Skip Hollandsworth",
+              "page": "132",
+              "wp_post_id": "128541",
+              "identifier": "txmo-article-199405-nerdvana.json"
+            },
+            {
+              "title": "Black Like Them",
+              "subtitle": "",
+              "description": "During the days of segregation, a young graduate of all-white Rice University managed to become a professor at all-black Texas Southern University.",
+              "byline": "by Pat Carr",
+              "page": "138"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

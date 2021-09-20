@@ -1,0 +1,152 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198803",
+    "publication": "Texas Monthly",
+    "issue": "March 1988",
+    "pdf_uri": "/1988/19880300.pdf",
+    "month": "March",
+    "year": 1988,
+    "pages": 172,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents March",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Lifestyles Of the Rich And Bankrupt",
+              "subtitle": "",
+              "description": "Going broke is for poor people. Here’s a whole chapter of Texans who have found ways to clear the books without losing their ranches, Rolls, or Rolexes.",
+              "byline": "by Tom Cuntis",
+              "page": "84"
+            },
+            {
+              "title": "The Man Who Crushed Texaco",
+              "subtitle": "",
+              "description": "Judges take his money. Juries buy his bull. And when clients like Pennzoil need a tiger in their tank, they hire Joe Jamail.",
+              "byline": "by John Davidson",
+              "page": "92"
+            },
+            {
+              "title": "Who Can Stop the Killer Bees?",
+              "subtitle": "",
+              "description": "Experts predict the first swarms could cross the border next year. What happens then to Texas’ multimillion-dollar honey industry is anybody’s guess.",
+              "byline": "by Joe Nick Patoski",
+              "page": "96",
+              "wp_post_id": "124017",
+              "identifier": "txmo-article-198803-whocahst.json"
+            },
+            {
+              "title": "Should This Man Be President?",
+              "subtitle": "",
+              "description": "For all his integrity and noble intentions, George Bush has yet to prove he’s got the agenda of a true statesman.",
+              "byline": "by Nicholas Lemann",
+              "page": "98"
+            },
+            {
+              "title": "Texas In the Blood!",
+              "subtitle": "",
+              "description": "Descendants of famous Texans like Sam Houston and Davy Crockett don’t even try to fill their forefathers’ shoes. They just do their best to keep them polished.",
+              "byline": "Photography by Dennis Darling",
+              "page": "104",
+              "wp_post_id": "124008",
+              "identifier": "txmo-article-198803-shouldthi.json"
+            },
+            {
+              "title": "Saturday Night Live",
+              "subtitle": "",
+              "description": "When it’s time to step out, real-life clotheshorses can always dig deep in their closets for something nervy and bold.",
+              "byline": "by Helen Thompson",
+              "page": "112",
+              "wp_post_id": "124005",
+              "identifier": "txmo-article-198803-saturdayn.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Disorder In the Court",
+              "subtitle": "Politics",
+              "description": "An eleventh-hour filing by two candidates for the state Supreme Court has kicked off a season of judicial campaigning unprecedented in Texas history.",
+              "byline": "by Patricia Kilday Hart",
+              "page": "118"
+            },
+            {
+              "title": "Paradise MaÑAna",
+              "subtitle": "Travel",
+              "description": "If the brand-spanking-new Mexican beach resort of Huatulco is what you’ve been waiting for, then keep waiting.",
+              "byline": "by Joe Nick Patoski",
+              "page": "122"
+            },
+            {
+              "title": "Pleasant Under Glass",
+              "subtitle": "Architecture",
+              "description": "The exuberant crystal towers above San antonio’s botanical conservatory have captured everyone’s attention. Inside, it’s even better.",
+              "byline": "by Michael Ennis",
+              "page": "126"
+            },
+            {
+              "title": "The Soft Sell",
+              "subtitle": "Books",
+              "description": "Once, the term “paperback original” was reserved for second-rate work. Now, thanks to an innovative editor, two Texas novelists are proud to see their books in softcover.",
+              "byline": "by Jan Reid",
+              "page": "130"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "White cop, black man.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Perceptions of power; battling counselors; bum raps; good and evil and the church.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Grazing cheap and chic in Houston, austin, and Dallas; tire-kicking at the Fizzlick liquidation boutique; returning a piece of Janis’ heart to Port arthur.",
+              "byline": "by alison Cook",
+              "page": "66"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "A glowing beacon near Haynesville; broomweed royalties in Foard County; archer City’s decorated dump; curative waters and a grand hotel in Mineral Wells; faux alamo in Farmersville.",
+              "byline": "by Dick J. Reavis",
+              "page": "77"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Bubba beats the new truck safety standards; o’neill loses at Baylor—again; Bush’s loss is Gramm’s gain; Clements stays tough on spending.",
+              "byline": "",
+              "page": "168"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

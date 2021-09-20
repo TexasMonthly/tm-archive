@@ -1,0 +1,198 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198006",
+    "publication": "Texas Monthly",
+    "issue": "June 1980",
+    "pdf_uri": "/1980/19800600.pdf",
+    "month": "June",
+    "year": 1980,
+    "pages": 232,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Lawn Boy",
+              "subtitle": "",
+              "description": "Here’s how to achieve inner peace, perfect serenity, spiritual calm, and a nice, neat lawn.",
+              "byline": "Stephen Harrigan",
+              "page": "96",
+              "wp_post_id": "115176",
+              "identifier": "txmo-article-198006-lawnboy.json"
+            },
+            {
+              "title": "Spit And Polish",
+              "subtitle": "",
+              "description": "If throwing a spitball is an art, Gaylord Perry is Michelangelo.",
+              "byline": "Larry Wright",
+              "page": "102",
+              "wp_post_id": "115167",
+              "identifier": "txmo-article-198006-spitandp.json"
+            },
+            {
+              "title": "What Do These Rugged Texas He-Men Have In Common?",
+              "subtitle": "",
+              "description": "They are the latest arrivals on the sexual frontier: the New Gay Macho Men.",
+              "byline": "Michael Ennis",
+              "page": "106",
+              "wp_post_id": "115164",
+              "identifier": "txmo-article-198006-whatdoth.json"
+            },
+            {
+              "title": "An Insider’s Guide To San ANToNIO",
+              "subtitle": "",
+              "description": "There’s more for the traveler in San antonio than meets the alamo.",
+              "byline": "Richard West",
+              "page": "114",
+              "wp_post_id": "115158",
+              "identifier": "txmo-article-198006-aninsider.json"
+            },
+            {
+              "title": "Who Owns Texas?",
+              "subtitle": "",
+              "description": "The biggest landholders in the state, acre by acre.",
+              "byline": "Jim Chiles",
+              "page": "122",
+              "wp_post_id": "115149",
+              "identifier": "txmo-article-198006-whotexas.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Three’s Company",
+              "subtitle": "Stepping Out",
+              "description": "Not even a freak april snow could keep the glittering multitude from the Y. O. Ranch’s one-hundredth birthday party.",
+              "byline": "Michael Ennis",
+              "page": "130"
+            },
+            {
+              "title": "The Bean Squawk",
+              "subtitle": "Politics",
+              "description": "A lot of farmers and gardeners think Congressman Kika de la Garza is a pest.",
+              "byline": "John Bloom",
+              "page": "142"
+            },
+            {
+              "title": "Whose Woods Are These?",
+              "subtitle": "Country Notes",
+              "description": "as more and more city dwellers tread on the landscape, farmers and ranchers are less inclined to forgive those who trespass against them.",
+              "byline": "John Graves",
+              "page": "148"
+            },
+            {
+              "title": "Two Roads To Calvary",
+              "subtitle": "Church",
+              "description": "On Palm Sunday Episcopalians at St. David’s in austin rekindled their faith in the life and teachings of Jesus. At nearby Greater Mt. Zion on Easter, Baptists relived the miracles of His resurrection.",
+              "byline": "William Martin",
+              "page": "156"
+            },
+            {
+              "title": "Cia Sins, Top Tappers, And Philly’s Story",
+              "subtitle": "Film",
+              "description": "What’s up, documentaries?",
+              "byline": "George Morris",
+              "page": "164"
+            },
+            {
+              "title": "Stir-Fried And Refried",
+              "subtitle": "Dining Out",
+              "description": "You can find the spice of your life at Uncle Tai’s in Houston; you don’t have a choice at Joe T. Garcia’s in Fort Worth—except good, reliable Tex-Mex.",
+              "byline": "W. L. Taitte",
+              "page": "168"
+            },
+            {
+              "title": "Once More With Fonda",
+              "subtitle": "Theater",
+              "description": "When NBC televised The Oldest Living Graduate, it broadcast the flaws of live TV drama. Theatre Three’s Second Stage Festival deserved a larger viewing audience.",
+              "byline": "W. L. Taitte",
+              "page": "175"
+            },
+            {
+              "title": "The Little Symphony That Could",
+              "subtitle": "Classical Music",
+              "description": "The Texas Little Symphony’s april concert was no whistle-stop—it was Carnegie Hall. Two chamber groups, Voices of Change and Syzygy, take the Twentieth Century 'limited.",
+              "byline": "W. L. Taitte",
+              "page": "178"
+            },
+            {
+              "title": "Wax Works",
+              "subtitle": "Popular Music",
+              "description": "The beat goes on in Texas music—from Christopher Cross’s pop ’n’ roll to the ever-rich rhythm and blues of the Fabulous Thunderbirds.",
+              "byline": "Joe Nick Patoski",
+              "page": "182"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "None of the old cliches about voluntarism are true except this one: it works.",
+              "byline": "William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Party hearty.",
+              "byline": "Gregory Curtis",
+              "page": "8"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Light at the end of the tunnel, frost on the top of the mountain, brass knucks in the lunchbox.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Face the music and dance.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Exploding the myth of the long-haul trucker; half a million Texas students get snookered; beating the IRS—maybe; praise the Lord and pass the ballot.",
+              "byline": "Gene Lyons",
+              "page": "76"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Fowl language.",
+              "byline": "",
+              "page": "227"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A controversial nuclear plant moves to Texas; Clements costs us $11 million; making census out of Houston; the Senate moves toward the center.",
+              "byline": "",
+              "page": "228"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

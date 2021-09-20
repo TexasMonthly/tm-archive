@@ -1,0 +1,152 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199307",
+    "publication": "Texas Monthly",
+    "issue": "July 1993",
+    "pdf_uri": "/1993/19930700.pdf",
+    "month": "July",
+    "year": 1993,
+    "pages": 152,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Chuck Wagon Redux",
+              "subtitle": "Food",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "36"
+            },
+            {
+              "title": "Dark Shadows",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by Cathy Schechter",
+              "page": "44"
+            },
+            {
+              "title": "Moving Pictures",
+              "subtitle": "Art",
+              "description": "",
+              "byline": "by Michael Ennis",
+              "page": "52"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Paid to Do Injustice",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "7"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Helen Thompson",
+              "page": "60"
+            },
+            {
+              "title": "State of the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "70"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "124"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "125"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Robert Draper",
+              "page": "148"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Best and the Worst Legislators",
+              "subtitle": "",
+              "description": "Our biennial boosting and bashing of the state’s most beguiling politicians.",
+              "byline": "",
+              "page": "72"
+            },
+            {
+              "title": "Sex, Lies, and Audiotape",
+              "subtitle": "",
+              "description": "Is folksy, friendly Kenny Rogers an insatiable phone-sex addict? Three women from the Dallas—Fort Worth area say he is, and now the Houston-born singer is fighting to restore his good name.",
+              "byline": "by Mimi Swartz",
+              "page": "86",
+              "wp_post_id": "127377",
+              "identifier": "txmo-article-199307-sexliesa.json"
+            },
+            {
+              "title": "Vine and Dandy",
+              "subtitle": "",
+              "description": "What’s red and white and growing all over (as a tourist attraction)? Texas wineries.",
+              "byline": "by Anne Dingus",
+              "page": "92",
+              "wp_post_id": "127374",
+              "identifier": "txmo-article-199307-vineandd.json"
+            },
+            {
+              "title": "The Making of a Sex Symbol, 1993",
+              "subtitle": "",
+              "description": "How did Vickie Smith, waitress from Mexia, become Anna Nicole Smith, world-famous face? It’s anyone’s Guess?.",
+              "byline": "by Skip Hollandsworth",
+              "page": "96"
+            },
+            {
+              "title": "Raise the Roof",
+              "subtitle": "",
+              "description": "The Alamodome is more than an outsized sports arena. It’s a marvel of urban planning that ensures San Antonio’s downtown vitality for years to come.",
+              "byline": "by Joe Nick Patoski",
+              "page": "100",
+              "wp_post_id": "127368",
+              "identifier": "txmo-article-199307-raisethe.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

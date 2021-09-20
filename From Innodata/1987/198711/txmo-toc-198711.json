@@ -1,0 +1,168 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198711",
+    "publication": "Texas Monthly",
+    "issue": "November 1987",
+    "pdf_uri": "/1987/19871100.pdf",
+    "month": "November",
+    "year": 1987,
+    "pages": 230,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "In Praise Of Cowgirls",
+              "subtitle": "",
+              "description": "Call them what you will. We call them the living, breathing spirit of the Western woman. A working definition, you might say.",
+              "byline": "Photography by William coupon",
+              "page": "110"
+            },
+            {
+              "title": "Head, Heels, And Heart",
+              "subtitle": "",
+              "description": "For team ropers on the All-Girl circuit, the true reward is the happiness of pursuit.",
+              "byline": "by Stephen Harrigan",
+              "page": "120"
+            },
+            {
+              "title": "Paper Boy",
+              "subtitle": "",
+              "description": "When newspaper entrepreneur William Dean Singleton bought the ailing Dallas Times Herald, people thought he was crazy. When he bought the Houston Post, they were sure of it.",
+              "byline": "by Drew Jubera",
+              "page": "122",
+              "wp_post_id": "122856",
+              "identifier": "txmo-article-198711-paperboy.json"
+            },
+            {
+              "title": "Old Times",
+              "subtitle": "",
+              "description": "Before the Dallas newspaper war, the Herald was full of character—or was it characters?",
+              "byline": "by A. C. Greene",
+              "page": "124",
+              "wp_post_id": "122853",
+              "identifier": "txmo-article-198711-oldtimes.json"
+            },
+            {
+              "title": "Dear Mum",
+              "subtitle": "",
+              "description": "Autumn is the time when true school spirit blooms.",
+              "byline": "by Jerry Jeanmard",
+              "page": "126",
+              "wp_post_id": "122847",
+              "identifier": "txmo-article-198711-dearmum.json"
+            },
+            {
+              "title": "Sold!",
+              "subtitle": "",
+              "description": "Never mind the million (no lie!) other houses for sale in Texas. If you follow our advice, yours will be the first to sell.",
+              "byline": "by Patricia Sharpe",
+              "page": "130"
+            },
+            {
+              "title": "Every One A Victim",
+              "subtitle": "",
+              "description": "The parents of a confessed killer went to jail rather than testify against their son. Now the murder conviction has been reversed, and the family of the deceased must endure renewed anguish.",
+              "byline": "by Gary Cartwright",
+              "page": "140",
+              "wp_post_id": "122841",
+              "identifier": "txmo-article-198711-everyone.json"
+            },
+            {
+              "title": "The Chilipiquin by Patricia Sharpe",
+              "subtitle": "Texas Primer",
+              "description": "Some like it hot; those who eat the national pepper of Texas like it hotter.",
+              "byline": "by Patricia Sharpe",
+              "page": "144"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Spur Of the Moment",
+              "subtitle": "Sports",
+              "description": "San Antonio put a full-court press on basketball superstar David Robinson in hopes that he wouldn’t forget the Alamo City.",
+              "byline": "by Gary Cartwright",
+              "page": "146"
+            },
+            {
+              "title": "E.Z. Goes Crazy",
+              "subtitle": "Business",
+              "description": "Houston discount whiz Elias Zinn sees nothing nutty in his big-bucks bid to take over raving high-tech retailer Crazy Eddie.",
+              "byline": "by Bill Crawford",
+              "page": "150"
+            },
+            {
+              "title": "Just This Side Of Heaven",
+              "subtitle": "Lifestyles",
+              "description": "Bert Turner of Brady wasn’t mortified to change jobs at 78.",
+              "byline": "by Arnie Weissmann",
+              "page": "156"
+            },
+            {
+              "title": "Father, Son, And Wholly Confused",
+              "subtitle": "Fatherhood",
+              "description": "An agnostic parent is forced to face one of life’s big questions.",
+              "byline": "by Lawrence Wright",
+              "page": "178"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Takeovers and green bananas.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Cisneros in the public eye; cowboys in Washington; school boards all over Texas.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Onward through the fall at Smu; home on the fringe with Ron Paul; good news from the catalog jungle; a taste of Longhorn.",
+              "byline": "by Tom Curds",
+              "page": "92"
+            },
+            {
+              "title": "The National Tour Of Texas",
+              "subtitle": "",
+              "description": "In search of elusive Central Texas: along the Cold Beer trail, inside Killeen’s soldier shops, through the hills of Toy Texas, deep within a nameless cave.",
+              "byline": "by Dick J. Reavis",
+              "page": "102"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Yankees discover a Texas bumper sticker they like; Ut and A&M get tough; Saudi Arabia’s crude tactics; an acid test for Dukakis.",
+              "byline": "",
+              "page": "224"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

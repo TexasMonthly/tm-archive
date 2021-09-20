@@ -1,0 +1,121 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199003",
+    "publication": "Texas Monthly",
+    "issue": "March 1990",
+    "pdf_uri": "/1990/19900300.pdf",
+    "month": "March",
+    "year": 1990,
+    "pages": 194,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents March",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Talking To Texas",
+              "subtitle": "",
+              "description": "Forty-two extraordinary tales from forty-two ordinary Texans.",
+              "byline": "Edited by Gary Cartwright",
+              "page": "84"
+            },
+            {
+              "title": "Boom And Bust",
+              "subtitle": "",
+              "description": "When oil and real estate boomed, a lot of Texans rode the tiger. But the beast turned, and those who weren’t devoured faced the prospect of limping back. It has been a long but not uninteresting trip. Hank Avery. Wheeler-dealer. ERIC Taube. Lawyer to the Rich and Bankrupt. MARY Burton Demotte, Oil Trader. RON Burton, Still Rocking along. JOAN Yamini, The Conscience of a Liberal. DAVID Griffin, Suburban Paradigm.",
+              "byline": "",
+              "page": "86",
+              "wp_post_id": "125895",
+              "identifier": "txmo-article-199003-boomandb.json"
+            },
+            {
+              "title": "Family And Friendship",
+              "subtitle": "",
+              "description": "Our search for identity is really a search for familial bonds. By our children and our parents, by our forebears and our closest friends, by the reflections of those with whom we surround ourselves, so shall you know us... Sheilah Tucker, My Daughter, My Self. SHERI Connell And Cindy Garzonie. The Best of Friends. D. D. Lewis. A Whole New Ball Game. DEBBIE Salamon, In Search of Her Past. TREY Henderson, Four Generations and Counting. BARBARA Scoggins, Back to the Farm. BISHOP Powell, The Rhythm of Life. CLYDE Blackman, Super Mom.",
+              "byline": "",
+              "page": "91",
+              "wp_post_id": "125892",
+              "identifier": "txmo-article-199003-familyand.json"
+            },
+            {
+              "title": "Hope And Despair",
+              "subtitle": "",
+              "description": "Face it, life isn’t fair. The cards fall in random patterns, and for every winner there is an uncomfortable number of losers. But what goes around comes around, and in the seeds of calamity we often find new beginnings. Mary Margaret Adams, To Russia With Love. LETTY BAndA. Be It Ever So Humble... LIBBA Bray, a Shattering Reality. SlMON Salinas, Hard Times in Willacy County. GLADYS Gerst, a Vision of Equality. JOE Garcia, Hot Lead, Cold Turkey.",
+              "byline": "",
+              "page": "96"
+            },
+            {
+              "title": "Passion And Adventure",
+              "subtitle": "",
+              "description": "Texas was founded by risk-takers, place-makers, and folks on the run, and their spiritual descendants are our common stock. Our heritage is not a concert for the fainthearted, but if you hear the music, you’ll want to dance. Cheater Bella, Breakout. MARVELL E. White, Prejudice and Pride. MARY Christine Higgins, That Lonesome Whistle. DON Foster, For art's Sake. BEN Ezzell, Deadline in a Small Town. a. J. Alamia, Jr., Young Upstart. W. A. King, Jr., Snakes alive! BETTY Howell. Moneyquest. GREG Whittaker, On the Beach.",
+              "byline": "",
+              "page": "101"
+            },
+            {
+              "title": "Work And Reward",
+              "subtitle": "",
+              "description": "For some, work is its own reward. For others it is a compromise, a trade-off to some ulterior purpose. And yet it is the work that defines us. There is something in the doing that gives us stature and makes us whole. Terry Flowers, Island in the Slum. GIGI Huang, all-american Girl. JOHN Martinez, Best Gears of His Life. JACK Butler, Putting the Paper to Bed. ROBERT D. Cain, Dj to the Shut-ins. SISTER Maria Carolina Flores, The Nun’s Story.",
+              "byline": "",
+              "page": "106",
+              "wp_post_id": "125883",
+              "identifier": "txmo-article-199003-workandr.json"
+            },
+            {
+              "title": "The Land, the Roots, the Myth",
+              "subtitle": "",
+              "description": "Whether it wells from the high pine walls of East Texas, the haunted valleys of the Hill Country, the violent uplifts of the Trans-Pecos, or the salty, low-relief vistas of the coastal plains, the Texas myth shapes and claims us all. Leo Tynan, Country Doctor. LINDA Walker, Ranch Matriarch. ELROY Brown, Rows to Hoe Before ISleep. BOBBY Calhoun, against the Grain. KATHLEEN Olsen. Land Heiress. MIKE Levi, Where the Buffalo Roamed. LAURA Shrader, Westward, Ho! Interviews by Christine Carroll, Gary Cartwright, Patricia Sharpe Transcriptions by Jody Goode, Emily Guinan, Harley Jebens, Jenifer E. Koplos, Michael o'connell, Betty L. Sawyer, Jackie Silberman",
+              "byline": "",
+              "page": "110",
+              "wp_post_id": "125880",
+              "identifier": "txmo-article-199003-thelandt.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Talking machines.....",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Steering clear; bucking the system; finding themselves.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "An alpine weekly digs up all the news that’s fit to print —and then some; architects are up in arms over plans for the Kimbell; the bands play on and on and on in austin.",
+              "byline": "by Joe Nick Patoski",
+              "page": "70"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Touching bases at the Pentagon; the next lawsuit after school finance; the hidden battle for control of the Legislature.",
+              "byline": "",
+              "page": "188"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

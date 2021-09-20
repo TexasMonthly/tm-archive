@@ -1,0 +1,147 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198808",
+    "publication": "Texas Monthly",
+    "issue": "August 1988",
+    "pdf_uri": "/1988/19880800.pdf",
+    "month": "August",
+    "year": 1988,
+    "pages": 165,
+    "document_toc_page": "6"
+  },
+  "toc": [
+    {
+      "heading": "Contents August",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Ants From Hell",
+              "subtitle": "",
+              "description": "Fire ants are on a relentless march across Texas, maiming, devouring, and stinging the living daylights out of everything in their path. We’ve tried to stop them, and it has only made them stronger.",
+              "byline": "by Emily Yoffe",
+              "page": "80",
+              "wp_post_id": "123927",
+              "identifier": "txmo-article-198808-theantsf.json"
+            },
+            {
+              "title": "Full Of Woe",
+              "subtitle": "",
+              "description": "You see them on Tv, adorable youngsters asking to be adopted. But the dreadful odyssey of the Wednesday’s Child rarely has a made-for-television happy ending.",
+              "byline": "by Jan Jarboe",
+              "page": "86"
+            },
+            {
+              "title": "Wright And Wrong",
+              "subtitle": "",
+              "description": "The congressional investigation that is focusing on Speaker Jim Wright’s ethics is missing the real problem —his judgment.",
+              "byline": "by Paul Burka",
+              "page": "92"
+            },
+            {
+              "title": "The Inventive Mr. Chu",
+              "subtitle": "",
+              "description": "Heat + pressure + yttrium + a politically savvy University of Houston physicist = a formula to change the world.",
+              "byline": "by Al Reinert",
+              "page": "94",
+              "wp_post_id": "123918",
+              "identifier": "txmo-article-198808-theinvent.json"
+            },
+            {
+              "title": "The Big Squeezy",
+              "subtitle": "",
+              "description": "Get hip to zydeco, the born-on-the-bayou sound with the accordion accent. Ready for it red hot? Check out a Saturday-night church dance in Houston.",
+              "byline": "by Joe Nick Patoski",
+              "page": "98",
+              "wp_post_id": "123915",
+              "identifier": "txmo-article-198808-thebigsq.json"
+            },
+            {
+              "title": "Shades Of Summer",
+              "subtitle": "",
+              "description": "Let there be light, but leave us in the dark. Long before Ozona knew about ozone, Texans were inventing scads of ways to hide from rays.",
+              "byline": "by Jerry Jeanmard",
+              "page": "104",
+              "wp_post_id": "123912",
+              "identifier": "txmo-article-198808-shadesof.json"
+            },
+            {
+              "title": "The Dust Storm",
+              "subtitle": "Texas Primer",
+              "description": "Look out, Texas! If drought comes, can tons of blowing dirt be far behind?.",
+              "byline": "by Anne Dingus",
+              "page": "108"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Hoofhearted",
+              "subtitle": "Lifestyles",
+              "description": "Don’t say this word aloud in polite company if you want to stay on the author’s good side.",
+              "byline": "by Prudence Mackintosh",
+              "page": "110"
+            },
+            {
+              "title": "Long Live the Kink",
+              "subtitle": "Books",
+              "description": "Kinky Friedman dropped out for a while, but it sure beat dropping dead. Now the warped warbler is back with a play, a movie deal, and murder mystery number three.",
+              "byline": "by David Gaines",
+              "page": "114"
+            },
+            {
+              "title": "Salado Days",
+              "subtitle": "Texana",
+              "description": "Where the heck is Salado, and why are world-famous intellectuals flocking there?.",
+              "byline": "by Liz carpenter",
+              "page": "120"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Fun voting no.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Lonesome Dove on film; Lance Lalor on tape; an optimist on Mexico; West Texas State alumni on mediocrity.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The case of the purloined painting; how to tell the Surf Club from the Yacht Club; cream of the icecream crop; people who live in pink houses.",
+              "byline": "by Alison Cook",
+              "page": "68"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Looking for gas in all the wrong places; a casualty report from the Texas drought; an early look at redistricting.",
+              "byline": "",
+              "page": "160"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

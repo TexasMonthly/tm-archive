@@ -1,0 +1,195 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199007",
+    "publication": "Texas Monthly",
+    "issue": "July 1990",
+    "pdf_uri": "/1990/19900700.pdf",
+    "month": "July",
+    "year": 1990,
+    "pages": 180,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Losing It",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by Marion Winik",
+              "page": "32"
+            },
+            {
+              "title": "Little House on the Plaza",
+              "subtitle": "Texana",
+              "description": "",
+              "byline": "by Dana Rubin",
+              "page": "40"
+            },
+            {
+              "title": "Good-bye, Mr. B",
+              "subtitle": "Literature",
+              "description": "",
+              "byline": "by Vikram Chandra “Sahaj”",
+              "page": "46"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "A New Look",
+              "subtitle": "Behind The Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Rear of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "State Wide",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Joe Nick Patoski",
+              "page": "52"
+            },
+            {
+              "title": "State Final",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Patricia Sharpe",
+              "page": "64"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "70"
+            },
+            {
+              "title": "Domain",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Helen Thompson",
+              "page": "146"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "150"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "152"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "176"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Texas Humor",
+              "subtitle": "",
+              "description": "From Pecos Bill to nightclub comics, we’ve got lots to laugh about.",
+              "byline": "",
+              "page": "73",
+              "wp_post_id": "125679",
+              "identifier": "txmo-article-199007-texashumo.json"
+            },
+            {
+              "title": "My Life as Joe Bob Briggs",
+              "subtitle": "",
+              "description": "It didn’t take me long to learn the ten lessons of stand-up comedy. Number one is, Prepare to die.",
+              "byline": "by Joe Bob Briggs",
+              "page": "74",
+              "wp_post_id": "125676",
+              "identifier": "txmo-article-199007-mylifeas.json"
+            },
+            {
+              "title": "This Man Can Really Shoot Bull",
+              "subtitle": "",
+              "description": "With his bust-a-gut jokes and cornpone tales, backwoods humorist Bob Murphey delivers a time gone by.",
+              "byline": "by Skip Hollandsworth",
+              "page": "78",
+              "wp_post_id": "125673",
+              "identifier": "txmo-article-199007-thismanc.json"
+            },
+            {
+              "title": "The Unholy Trinity",
+              "subtitle": "",
+              "description": "‘The heavens brought the rain, but Man brought the ruin.”",
+              "byline": "by Paul Burka",
+              "page": "92",
+              "wp_post_id": "125664",
+              "identifier": "txmo-article-199007-theunholy.json"
+            },
+            {
+              "title": "How Many aggies . . .",
+              "subtitle": "",
+              "description": "Did you hear the one about the eleven aggies who told their favorite aggie jokes?",
+              "byline": "",
+              "page": "82"
+            },
+            {
+              "title": "Fence Me In",
+              "subtitle": "",
+              "description": "Texans stake out their territory with conch shells, beer cans, and electric fans.",
+              "byline": "by Melanie Young",
+              "page": "96",
+              "wp_post_id": "125658",
+              "identifier": "txmo-article-199007-fencemei.json"
+            },
+            {
+              "title": "Funny Business",
+              "subtitle": "",
+              "description": "Making a living is a laughing matter for these comic Texans.",
+              "byline": "by anne Dingus",
+              "page": "84",
+              "wp_post_id": "125667",
+              "identifier": "txmo-article-199007-funnybusi.json"
+            },
+            {
+              "title": "Born to Be Naughty",
+              "subtitle": "",
+              "description": "Travels with Eric Kimmel, l’enfant terrible of Dallas, Paris, and a Limoges jail.",
+              "byline": "by Mark Seal",
+              "page": "100",
+              "wp_post_id": "125655",
+              "identifier": "txmo-article-199007-borntobe.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

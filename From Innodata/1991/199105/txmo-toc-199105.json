@@ -1,0 +1,166 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199105",
+    "publication": "Texas Monthly",
+    "issue": "May 1991",
+    "pdf_uri": "/1991/19910500.pdf",
+    "month": "May",
+    "year": 1991,
+    "pages": 224,
+    "document_toc_page": "3"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Mood Indigo",
+              "subtitle": "Texana",
+              "description": "",
+              "byline": "by Jan Reid",
+              "page": "42"
+            },
+            {
+              "title": "Hall of Fame",
+              "subtitle": "Sports",
+              "description": "",
+              "byline": "by Preston Lerner",
+              "page": "58"
+            },
+            {
+              "title": "Aural Fixation",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "66"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "Cutting Up Dallas",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar off the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Joe Nick Patoski",
+              "page": "70"
+            },
+            {
+              "title": "State Wide Business",
+              "subtitle": "",
+              "description": "",
+              "byline": "by John Anderson",
+              "page": "90"
+            },
+            {
+              "title": "State off the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "98"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "194"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "195"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Paul Burka",
+              "page": "220"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Poor Willie",
+              "subtitle": "",
+              "description": "When the Irs seized all that Willie Nelson had, it was a case of the man who can’t say no meeting the men who won’t take no for an answer.",
+              "byline": "by Robert Draper",
+              "page": "100"
+            },
+            {
+              "title": "The Cheerleader Murder Plot",
+              "subtitle": "",
+              "description": "To understand Wanda Holloway’s dark and desperate story, you have to start with where she came from.",
+              "byline": "by Mimi Swartz",
+              "page": "106"
+            },
+            {
+              "title": "How the West Was Worn",
+              "subtitle": "",
+              "description": "A tip of the cap to Texas’ crowning glories.",
+              "byline": "Photography by Raymond Meier",
+              "page": "110"
+            },
+            {
+              "title": "Armed and Considered Dangerous",
+              "subtitle": "",
+              "description": "The only thing scarier than facing a great pitcher is facing a hothead like Roger Clemens.",
+              "byline": "by Jan Reid",
+              "page": "118",
+              "wp_post_id": "126534",
+              "identifier": "txmo-article-199105-armedand.json"
+            },
+            {
+              "title": "A Fool for Mules",
+              "subtitle": "",
+              "description": "One man’s quest to clear the reputation of an animal maligned.",
+              "byline": "by Al Reinert",
+              "page": "122",
+              "wp_post_id": "126531",
+              "identifier": "txmo-article-199105-afoolfor.json"
+            },
+            {
+              "title": "Ann off A Hundred Days",
+              "subtitle": "",
+              "description": "Things around the Legislature are looking bleak, but so far, Governor Richards is having the time of her life.",
+              "byline": "by Paul Burka",
+              "page": "126",
+              "wp_post_id": "126525",
+              "identifier": "txmo-article-199105-annofah.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

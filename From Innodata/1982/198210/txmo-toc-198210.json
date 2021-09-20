@@ -1,0 +1,170 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198210",
+    "publication": "Texas Monthly",
+    "issue": "October 1982",
+    "pdf_uri": "/1982/19821000.pdf",
+    "month": "October",
+    "year": 1982,
+    "pages": 259,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Jim Collins And the Armies Of the Faithful",
+              "subtitle": "",
+              "description": "Jim Collins is running for the Senate on the claim that it’s better to be right (wing) than to pass bills. If he wins, it will change Texas politics.",
+              "byline": "Paul Burka",
+              "page": "124",
+              "wp_post_id": "117789",
+              "identifier": "txmo-article-198210-jimcollin.json"
+            },
+            {
+              "title": "The Shape Of Things To Come",
+              "subtitle": "",
+              "description": "Ten key races in the war between the parties.",
+              "byline": "Paul Burka",
+              "page": "126",
+              "wp_post_id": "117786",
+              "identifier": "txmo-article-198210-theshape.json"
+            },
+            {
+              "title": "The Pecan",
+              "subtitle": "Texas Primer",
+              "description": "Plant it, sit in its shade, but most of all, feast on its fruit.",
+              "byline": "",
+              "page": "130"
+            },
+            {
+              "title": "Saddle Up, the Herd Is Waiting",
+              "subtitle": "",
+              "description": "Photographic evidence that cowboying is not a lost art.",
+              "byline": "Martin Schreiber",
+              "page": "132",
+              "wp_post_id": "117777",
+              "identifier": "txmo-article-198210-saddleup.json"
+            },
+            {
+              "title": "“It’s Time To Make a Deal”",
+              "subtitle": "",
+              "description": "The inside story of Boone Pickens’ adventures in the Wall Street merger game, featuring action, suspense, drama, a few laughs, and a special guest appearance by President Ronald Reagan.",
+              "byline": "Joseph Nocera",
+              "page": "142"
+            },
+            {
+              "title": "Illusions Of Grandeur",
+              "subtitle": "",
+              "description": "Now showing: the great movie palaces of Texas.",
+              "byline": "Bill Holloway",
+              "page": "150",
+              "wp_post_id": "117765",
+              "identifier": "txmo-article-198210-illusions.json"
+            },
+            {
+              "title": "On the Wing",
+              "subtitle": "",
+              "description": "Roy Kendall, self-taught lepidopterist, would want you to add this to the list of reasons for living in Texas: nowhere else in the U.S. are there so many beautiful and unusual butterflies.",
+              "byline": "Samuel a. Johnson",
+              "page": "160",
+              "wp_post_id": "117762",
+              "identifier": "txmo-article-198210-onthewin.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Cocaine: Its Role In Dallas Cafe Society",
+              "subtitle": "Lifestyles",
+              "description": "To join the toot set at Dallas’flashiest clubs, you need voguish looks, a sturdy constitution, and a fat pocketbook.",
+              "byline": "Elmer Ray Spurr",
+              "page": "166"
+            },
+            {
+              "title": "The Knickknack Cadillac",
+              "subtitle": "Books",
+              "description": "The footloose scout in Larry McMurtry’s Cadillac Jack travels on and off the beaten track in omnivorous pursuit of women and objets d'art. In The Shadow Line, New-Yorker-turned-Texan Laura Furman captures the atmosphere of Inner Loop Houston.",
+              "byline": "Dominique Browning",
+              "page": "177"
+            },
+            {
+              "title": "The Blues Of the Gulf",
+              "subtitle": "Popular Music",
+              "description": "Johnny Copeland had to abandon his Gulf Coast home and head for New York City before he could make his mark with the blues.",
+              "byline": "Pepi Plowman",
+              "page": "188"
+            },
+            {
+              "title": "Kangaroo Westerns",
+              "subtitle": "Movies",
+              "description": "He has no manners, polish, or panache. He has stubble, a low brow, and a violent temper. Thanks to filmmakers from down under, he’s the new australian male.",
+              "byline": "James Wolcott",
+              "page": "196"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Memories are made of this, pal.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Sticks and bones.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Friendly peppers and uppers.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The harsh truth about Mexican corruption; the twilight zone of Houston journalism; the instant $82 million oil bust; the tastemakers of art-to-eat",
+              "byline": "",
+              "page": "106"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Hand jive.",
+              "byline": "",
+              "page": "255"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "West Texas ’ Indian motels; dueling fundraisers; a not-so-sweet deal; adventures in the legal trade.",
+              "byline": "",
+              "page": "256"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

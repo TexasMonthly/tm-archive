@@ -1,0 +1,190 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197809",
+    "publication": "Texas Monthly",
+    "issue": "September 1978",
+    "pdf_uri": "/1978/19780900.pdf",
+    "month": "September",
+    "year": 1978,
+    "pages": 230,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Deadliest Sin",
+              "subtitle": "",
+              "description": "Confessions of a bridge nut.",
+              "byline": "Paul Burka",
+              "page": "102"
+            },
+            {
+              "title": "Stuck On Cactus",
+              "subtitle": "",
+              "description": "Making a few points about our favorite all-american plant.",
+              "byline": "Mike Hicks",
+              "page": "106"
+            },
+            {
+              "title": "The Sons Of the Pioneers",
+              "subtitle": "",
+              "description": "Miles from their nearest neighbors, beset by drought, debt, insects, and government, Panhandle farmers gamble everything to keep alive a tradition they can’t abandon.",
+              "byline": "Richard West",
+              "page": "114"
+            },
+            {
+              "title": "O Freeway, My Freeway",
+              "subtitle": "",
+              "description": "Help! i’m a prisoner on the freeway and can’t get off.",
+              "byline": "John Bloom",
+              "page": "126",
+              "wp_post_id": "112698",
+              "identifier": "txmo-article-197809-ofreeway.json"
+            },
+            {
+              "title": "The Ten Worst Freeways",
+              "subtitle": "",
+              "description": "Avoid them if you can; if you can’t, take something along to pass the time.",
+              "byline": "",
+              "page": "133"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Love Thy Neighborhood",
+              "subtitle": "Lifestyles",
+              "description": "Soon it will be too late; the days of block parties and neighborhood stores are vanishing.",
+              "byline": "Prudence Mackintosh",
+              "page": "134"
+            },
+            {
+              "title": "Laser Days",
+              "subtitle": "Science",
+              "description": "Lasers have been heralded as the greatest discovery since the computer, but they may be hazardous to your health.",
+              "byline": "John Bloom",
+              "page": "154"
+            },
+            {
+              "title": "Without a Trout",
+              "subtitle": "Dining Out",
+              "description": "If you live in North Texas, here’s one fish story you can believe.",
+              "byline": "W. L. Taitte",
+              "page": "158"
+            },
+            {
+              "title": "The Enemy Within",
+              "subtitle": "Politics",
+              "description": "Remember the great campaign against drugs? Dueling enforcement agencies have turned it into a civil war.",
+              "byline": "Kaye Northcott",
+              "page": "164"
+            },
+            {
+              "title": "California Schemin’",
+              "subtitle": "Film",
+              "description": "Who’ll Stop the Rain is like a stormy day—good for sleeping through.",
+              "byline": "George Morris",
+              "page": "170"
+            },
+            {
+              "title": "A Couple Of Swells",
+              "subtitle": "Theater",
+              "description": "Theatrical families find a foster home at the Dallas Theater Center",
+              "byline": "W. L. Taitte",
+              "page": "174"
+            },
+            {
+              "title": "Quarter Time",
+              "subtitle": "Jazz",
+              "description": "How to lose your not-enough-jazz-in-Texas blues.",
+              "byline": "Doug Ramsey",
+              "page": "178"
+            },
+            {
+              "title": "I Heard It At the Grapevine",
+              "subtitle": "Popular Music",
+              "description": "At the Grapevine Opry the neighbors sing country music, and even your granny can have fun.",
+              "byline": "Joe Nick Patoski",
+              "page": "182"
+            },
+            {
+              "title": "Of Mice And Mini",
+              "subtitle": "Art",
+              "description": "The large art of the very small.",
+              "byline": "Michael Ennis",
+              "page": "186"
+            },
+            {
+              "title": "Baker S Dozens",
+              "subtitle": "Books",
+              "description": "Bobby Baker tells all and then some.",
+              "byline": "Nicholas Lemann",
+              "page": "190"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Bringing it all back home.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Over the transom.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Reading, riding, and religion.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Get your kicks and take your licks.",
+              "byline": "Patricia Sharpe",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Welcoming danger with open arms, horse trading over tax relief, picking juries by their faces, and searching after the perfect twirl.",
+              "byline": "John Bloom",
+              "page": "84"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Four score!",
+              "byline": "Paul Burka",
+              "page": "224"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

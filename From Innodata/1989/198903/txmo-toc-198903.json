@@ -1,0 +1,158 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198903",
+    "publication": "Texas Monthly",
+    "issue": "March 1989",
+    "pdf_uri": "/1989/19890300.pdf",
+    "month": "March",
+    "year": 1989,
+    "pages": 196,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents March",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Back In the Saddle Again.",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "95"
+            },
+            {
+              "title": "The Second Coming",
+              "subtitle": "",
+              "description": "Twenty-five years ago, Texans hoped Lbj would lead them into the promised land. They have the same hopes for the new president, but George Bush is making no promises.",
+              "byline": "by Paul Burka",
+              "page": "96",
+              "wp_post_id": "117042",
+              "identifier": "txmo-article-198903-thesecond.json"
+            },
+            {
+              "title": "The Bush League",
+              "subtitle": "",
+              "description": "In George Bush’s Cabinet, Texans are crawling out of the woodwork. Read about their pasts, their pets, their secret passions.",
+              "byline": "by Emily voffe",
+              "page": "98",
+              "wp_post_id": "125130",
+              "identifier": "txmo-article-198903-thebushl.json"
+            },
+            {
+              "title": "Forgery, Texas Style",
+              "subtitle": "",
+              "description": "As Texans’ pride of place rose with the price of oil, collectors scrambled for the few documents of the Texas Revolution. Suddenly there seemed to be plenty to go around. But no one thought to ask why.",
+              "byline": "by Gregory Curtis",
+              "page": "104",
+              "wp_post_id": "125127",
+              "identifier": "txmo-article-198903-forgeryte.json"
+            },
+            {
+              "title": "A Brush With Life Photography",
+              "subtitle": "",
+              "description": "A gallery of nine Texans and their other selves.",
+              "byline": "by Danny Turner",
+              "page": "110"
+            },
+            {
+              "title": "Buddy Maedgen Is . . . Bugged!!",
+              "subtitle": "",
+              "description": "The saga of a man and his helpful insects illustrates the age-old battle between visionaries and bureaucrats.",
+              "byline": "by Patricia Sharpe",
+              "page": "118",
+              "wp_post_id": "125121",
+              "identifier": "txmo-article-198903-buddymaed.json"
+            },
+            {
+              "title": "Search And Destroy",
+              "subtitle": "",
+              "description": "An employee’s vandalism by computer might have gone unpunished but for a rookfe prosecutor out to test a new law.",
+              "byline": "by Gary Cartwright",
+              "page": "122",
+              "wp_post_id": "125118",
+              "identifier": "txmo-article-198903-searchand.json"
+            },
+            {
+              "title": "Songs Of Innocence",
+              "subtitle": "",
+              "description": "In Joe Scruggs’s music Everymom evicts under-the-bed monsters, Everykid remembers on Monday morning the fifteen things he needs for school that day, and Everybody delights in Scruggs’s corny but sensitive portrayal of childhood.",
+              "byline": "by Anne Dingus",
+              "page": "126",
+              "wp_post_id": "125115",
+              "identifier": "txmo-article-198903-songsofi.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Remembering the Sabbath",
+              "subtitle": "Texana",
+              "description": "In the fifties a Baptist minister’s daughters were expected to be models of piety —clean, demure, virginal, and impervious to the lure of secular pleasures like makeup and Tv.",
+              "byline": "by Jan Epton seale",
+              "page": "130"
+            },
+            {
+              "title": "The Boys Of Spring",
+              "subtitle": "Sports",
+              "description": "You probably think that the main reason to go to the Texas Rangers’ Florida training camp is to watch baseball. You’re probably wrong.",
+              "byline": "by jim Atkinson",
+              "page": "136"
+            },
+            {
+              "title": "Days In the Country, Nights On the Town",
+              "subtitle": "Books",
+              "description": "New fiction takes the reader on forays into Louisiana swamps, excursions into smoke-filled Austin honky-tonks, and down life’s highway with a lady trucker.",
+              "byline": "by Suzanne winckier",
+              "page": "140"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Beyond Cisneros.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Getting bummed out on 1988; separating church and state; facing difficult decisions.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Austin’s homeless find a home sweet home on the lake; Fort Worth’s impresario of white gospel puts on a no-sweat show; Dallas’ Comet crashes; and Houston’s Orange Show marks a decade of—well, orange.",
+              "byline": "by Joe Nick Patoski",
+              "page": "82"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Food for thought agriculture commissioner Jim Hightower may get plowed under; Coastal tries to cut the golden parachute; calling all cars in El Paso.",
+              "byline": "",
+              "page": "192"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

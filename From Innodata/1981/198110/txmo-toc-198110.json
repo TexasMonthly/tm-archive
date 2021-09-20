@@ -1,0 +1,181 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198110",
+    "publication": "Texas Monthly",
+    "issue": "October 1981",
+    "pdf_uri": "/1981/19811000.pdf",
+    "month": "October",
+    "year": 1981,
+    "pages": 284,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "City Of Destiny",
+              "subtitle": "",
+              "description": "An antinuclear neutralist, animal liberationist, Welsh nationalist, aspirant anarchist—and consummate travel writer—spends five full days in Houston, Texas.",
+              "byline": "Jan Morris",
+              "page": "130",
+              "wp_post_id": "116076",
+              "identifier": "txmo-article-198110-cityofde.json"
+            },
+            {
+              "title": "Throw It To Me!",
+              "subtitle": "",
+              "description": "Drew Pearson, Tony Hill, and Butch Johnson are wide receivers for the Dallas Cowboys—in other words, they’re artists, egomaniacs, fierce competitors, and the heart of the team.",
+              "byline": "Jan Reid",
+              "page": "142",
+              "wp_post_id": "116070",
+              "identifier": "txmo-article-198110-throwitt.json"
+            },
+            {
+              "title": "How To Catch a Pass",
+              "subtitle": "",
+              "description": "Easy lessons from three masters of the art.",
+              "byline": "Jan Reid",
+              "page": "147",
+              "wp_post_id": "116064",
+              "identifier": "txmo-article-198110-howtocat.json"
+            },
+            {
+              "title": "Losing Big",
+              "subtitle": "",
+              "description": "Everybody knows the story about the young Texan who goes into business, works hard, and makes millions. But what happens when his luck runs out?",
+              "byline": "Paul Burka",
+              "page": "148",
+              "wp_post_id": "116058",
+              "identifier": "txmo-article-198110-losingbig.json"
+            },
+            {
+              "title": "The Failures That Made Texas",
+              "subtitle": "",
+              "description": "When it comes to flops and fiascos, Texans can outdo anyone.",
+              "byline": "Anne Dingus",
+              "page": "154",
+              "wp_post_id": "116052",
+              "identifier": "txmo-article-198110-thefailur.json"
+            },
+            {
+              "title": "Bats!",
+              "subtitle": "",
+              "description": "They’re ugly little things, but you’ve got to respect them.",
+              "byline": "Suzanne Winckler",
+              "page": "162",
+              "wp_post_id": "116049",
+              "identifier": "txmo-article-198110-bats.json"
+            },
+            {
+              "title": "I Have a Scheme",
+              "subtitle": "",
+              "description": "Andrew Jefferson was on his way up in the judicial system. Larry Cager was a rising star in the Houston area Urban League. Together they were giving the city’s black population the leadership it had always needed. And then along came trouble.",
+              "byline": "Harry Hurt III",
+              "page": "168",
+              "wp_post_id": "116043",
+              "identifier": "txmo-article-198110-ihaveas.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Smitten Kittens",
+              "subtitle": "Film",
+              "description": "The lovers in The French Lieutenant’s Woman are just this side of maudlin, but the movie itself is harder to take than they are.",
+              "byline": "James Wolcott",
+              "page": "173"
+            },
+            {
+              "title": "A Little Bit Of Heaven",
+              "subtitle": "Business",
+              "description": "Once the Hill Country meant small towns and spartan values; now it’s ranchettes and easy living.",
+              "byline": "John Davidson",
+              "page": "184"
+            },
+            {
+              "title": "A Fan In Exile",
+              "subtitle": "Dance",
+              "description": "One man’s long-distance love affair with the New York City Ballet.",
+              "byline": "W. L. Taitte",
+              "page": "194"
+            },
+            {
+              "title": "The Minds Of Babes",
+              "subtitle": "Education",
+              "description": "With the Doman method of learning, your child may know as much as you do before he starts first grade.",
+              "byline": "Judith Benson",
+              "page": "200"
+            },
+            {
+              "title": "Waste Makes Money",
+              "subtitle": "Books",
+              "description": "In With No Fear of Failure you’ll learn how you, too, can turn rags into riches. Daddy’s Girl knows Southern discomfort. Petroleum Politics and the Texas Railroad Commission is the history of our own little OPEC.",
+              "byline": "John Bloom",
+              "page": "211"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "In defense of failure—and success.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "The plights of rivers, writers, and children.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "All about the bird and the beasts.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Raising cain over Sam Houston’s house; searching for the face that will sell a million blue jeans; going bust in the refinery business.",
+              "byline": "",
+              "page": "114"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Airs above the ground.",
+              "byline": "",
+              "page": "279"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Muse’s shaky takeoff; Mark White on the spot; Bob Bullock’s special grace; aging Texas money.",
+              "byline": "",
+              "page": "280"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

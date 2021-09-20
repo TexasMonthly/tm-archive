@@ -1,0 +1,162 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197703",
+    "publication": "Texas Monthly",
+    "issue": "March 1977",
+    "pdf_uri": "/1977/19770300.pdf",
+    "month": "March",
+    "year": 1977,
+    "pages": 176,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Great Border Bazaar",
+              "subtitle": "",
+              "description": "We walk the line for you—from Matamoros to Juarez—to bring you the best of Mexican shopping.",
+              "byline": "Sandy Sheehy",
+              "page": "75",
+              "wp_post_id": "111705",
+              "identifier": "txmo-article-197703-thegreat.json"
+            },
+            {
+              "title": "Oops!",
+              "subtitle": "",
+              "description": "Everybody makes mistakes, but mistakes in the medical profession leave scars on everybody.",
+              "byline": "Alan Waldman",
+              "page": "82"
+            },
+            {
+              "title": "Rich Man, Dead Man",
+              "subtitle": "",
+              "description": "Profile of a society murder and the woman who lived to tell about it.",
+              "byline": "Gary Cartwright",
+              "page": "86"
+            },
+            {
+              "title": "The New Adultery",
+              "subtitle": "",
+              "description": "Those who haunt the singles bars aren’t always what they seem—namely, single.",
+              "byline": "Jim atkinson",
+              "page": "92"
+            },
+            {
+              "title": "The Family Way",
+              "subtitle": "",
+              "description": "Some boarding house-style restaurants where they can dish it out if you can take it.",
+              "byline": "Richard West",
+              "page": "96"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Liberal Education",
+              "subtitle": "Politics",
+              "description": "For years, liberals have been the biggest critics of austin city government. What happened when they got the power to do something about it?",
+              "byline": "Paul Burka",
+              "page": "102"
+            },
+            {
+              "title": "Rio Grande Redux",
+              "subtitle": "Dining Out",
+              "description": "Our man-about-restaurants finds some old friends on the border a disappointment; other old friends just keep getting better.",
+              "byline": "Frank Bailey",
+              "page": "110"
+            },
+            {
+              "title": "The Coast Of Living",
+              "subtitle": "Film",
+              "description": "We thought that after Earthquake, Los angeles was gone for good. But no, here it is, back again and the same as ever.",
+              "byline": "Marie Brenner",
+              "page": "116"
+            },
+            {
+              "title": "Seeing Red",
+              "subtitle": "Performance",
+              "description": "The only way Red Garland could make us mad would be to quit playing piano.",
+              "byline": "Doug Ramsey",
+              "page": "122"
+            },
+            {
+              "title": "He’s Got a Secret",
+              "subtitle": "Books",
+              "description": "The Mexican pyramids are an open book compared to Peter Tompkins’ rambling account of them.",
+              "byline": "Michael Mewshaw",
+              "page": "128"
+            },
+            {
+              "title": "Art And Soul",
+              "subtitle": "Citywise",
+              "description": "Art for your sake and no one else’s.",
+              "byline": "Stephen Gosnell",
+              "page": "130"
+            },
+            {
+              "title": "Alley Up",
+              "subtitle": "Performance",
+              "description": "Why are Houstonians starting to talk about the alley Theatre again?",
+              "byline": "W. L. Taitte",
+              "page": "136"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "William Broyles and Paul Burka",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "8"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Fair, faucet, and F major.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Richard West",
+              "page": "60"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Foreign aid.",
+              "byline": "Paul Burka",
+              "page": "172"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

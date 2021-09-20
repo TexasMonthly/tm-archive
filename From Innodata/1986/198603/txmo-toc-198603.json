@@ -1,0 +1,198 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198603",
+    "publication": "Texas Monthly",
+    "issue": "March 1986",
+    "pdf_uri": "/1986/19860300.pdf",
+    "month": "March",
+    "year": 1986,
+    "pages": 229,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents March",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Doin’ the Social Climb",
+              "subtitle": "",
+              "description": "From the heights of the Dallas social heap, they leaped to the national celebrity circuit. Rich, young, and fashionable, Twinkle and Bradley Bayoud are a case study in how to rise to the top.",
+              "byline": "by Mark seal",
+              "page": "114",
+              "wp_post_id": "122421",
+              "identifier": "txmo-article-198603-dointhes.json"
+            },
+            {
+              "title": "Bass'n Gal",
+              "subtitle": "",
+              "description": "There are bass in Sam Rayburn Reservoir, and the gals were out to hook ’em. And Rhonda Wilcox hoped to hook the biggest one of all.",
+              "byline": "by Skip Hollandsworth",
+              "page": "122",
+              "wp_post_id": "122418",
+              "identifier": "txmo-article-198603-bassngal.json"
+            },
+            {
+              "title": "The Tree-Ear, the Comb Tooth, & the Destroying Angel",
+              "subtitle": "",
+              "description": "Alice in Wonderland never discovered a mushroom half as exotic as Texas’ own native fungi.",
+              "byline": "by Barbara Rodriguez",
+              "page": "126"
+            },
+            {
+              "title": "Cedar Fever",
+              "subtitle": "Texas Primer",
+              "description": "When cedars start to mate, Texans start to suffer.",
+              "byline": "by Patricia Sharpe",
+              "page": "130"
+            },
+            {
+              "title": "Turn It Up!",
+              "subtitle": "",
+              "description": "The rudest, crudest, and most obnoxious disc jockeys are on in the mornings. Here’s the best—or the worst—of the lot.",
+              "byline": "by Joe Nick Patoski",
+              "page": "132",
+              "wp_post_id": "122412",
+              "identifier": "txmo-article-198603-turnitup.json"
+            },
+            {
+              "title": "A Trust Corrupted, a City Betrayed, Part Two",
+              "subtitle": "",
+              "description": "The continuing saga of the Hermann estate scandal was a shocking lesson in how Houston’s mostrespected philanthropists, civic leaders, and biggest deal makers had abused their power.",
+              "byline": "by Harry Hurt III",
+              "page": "138",
+              "wp_post_id": "122409",
+              "identifier": "txmo-article-198603-atrustco.json"
+            },
+            {
+              "title": "In Defense Of Da Dogie",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "by Lane Smith",
+              "page": "143",
+              "wp_post_id": "122403",
+              "identifier": "txmo-article-198603-indefense.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "My Intergalactic Champion Yodeler",
+              "subtitle": "Lifestyles",
+              "description": "“Hiiidee yodelo oh, hodeleh dee whoo,” sang Randy, and I knew i’d found the man for me.",
+              "byline": "by Dusty Rhodes",
+              "page": "144"
+            },
+            {
+              "title": "Kwell Or Be Kwelled",
+              "subtitle": "Fatherhood",
+              "description": "Cradle cap was nothing, diaper rash was a breeze. But when my son brought home head lice—well, it made the plague look good.",
+              "byline": "by Lawrence Wright",
+              "page": ""
+            },
+            {
+              "title": "Dizzy Spin",
+              "subtitle": "Movies",
+              "description": "Down and Out in Beverly Hills is Mazursky magic; Clan of the Cave Bear is Sheena of the Stone age; Trouble in Mind is—never mind.",
+              "byline": "by James Wolcott",
+              "page": "152"
+            },
+            {
+              "title": "Changing the Tune",
+              "subtitle": "Classical Music",
+              "description": "Some new recordings of old symphonies reveal how the composers really wanted things to sound.",
+              "byline": "by W. L. Taitte",
+              "page": "158"
+            },
+            {
+              "title": "Falling Star",
+              "subtitle": "Television",
+              "description": "T. R. Fehrenbach’s Lone Star is now a series on public television. Watch it and sleep.",
+              "byline": "by Joe Nick Patoski",
+              "page": "162"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Muddling along in Dallas.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Back Roads",
+              "subtitle": "",
+              "description": "Ted Krechel, honorary winter Texan mayor of Pharr, oversees a culture as arcane as a Melanesian cargo cult.",
+              "byline": "by Peter applebome",
+              "page": "10"
+            },
+            {
+              "title": "Post-Modern Times",
+              "subtitle": "",
+              "description": "At the singles bar of the eighties, if it’s not love, it could still be a good investment opportunity.",
+              "byline": "by Michael Ennis",
+              "page": "14"
+            },
+            {
+              "title": "Downtown",
+              "subtitle": "",
+              "description": "Look into the Houston sky—those helicopters are full of commuters who are having fun.",
+              "byline": "by Jim atkinson",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Rio Hondo’s Broadway producer; Boys' Life’s ripe old age; etiquette’s ups and downs.",
+              "byline": "by Emily Yoffe",
+              "page": "100"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Five-finger exercises.",
+              "byline": "by Patricia Sharpe",
+              "page": "164"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Sesquicentennial notes.",
+              "byline": "",
+              "page": "214"
+            },
+            {
+              "title": "Puzzle",
+              "subtitle": "",
+              "description": "Look sharp!",
+              "byline": "",
+              "page": "223"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "How much will $15 oil cost Mark White?; two new r’s for school districts: resistin’ reform; the truth about those bank rumors.",
+              "byline": "",
+              "page": "224"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

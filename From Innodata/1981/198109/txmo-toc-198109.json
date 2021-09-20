@@ -1,0 +1,179 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198109",
+    "publication": "Texas Monthly",
+    "issue": "September 1981",
+    "pdf_uri": "/1981/19810900.pdf",
+    "month": "September",
+    "year": 1981,
+    "pages": 288,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Lascivious Houston",
+              "subtitle": "",
+              "description": "A look inside the world of topless clubs, where love and even passion are impossible to find.",
+              "byline": "Michael Ennis",
+              "page": "130",
+              "wp_post_id": "116187",
+              "identifier": "txmo-article-198109-lascivious.json"
+            },
+            {
+              "title": "Footloose And Fancy",
+              "subtitle": "",
+              "description": "A gallery of the girls who lead a gypsy life, moving from one topless club to another.",
+              "byline": "Joe Baraban",
+              "page": "136",
+              "wp_post_id": "116181",
+              "identifier": "txmo-article-198109-footloose.json"
+            },
+            {
+              "title": "Gone To Texas",
+              "subtitle": "",
+              "description": "Thousands of people from the North, broke and out of work, are streaming into the state. This is the true story of two of them who abandoned Detroit for Houston, learned about cockroaches, tacos, and freeways, and finally discovered happiness in broken air conditioners.",
+              "byline": "Nicholas Lemann",
+              "page": "142",
+              "wp_post_id": "116178",
+              "identifier": "txmo-article-198109-gonetote.json"
+            },
+            {
+              "title": "Carl Lewis And the Exquisite Science Of Jumping",
+              "subtitle": "",
+              "description": "All this twenty-year-old University of Houston student wants to do is jump farther and run faster than anyone else ever has.",
+              "byline": "John Bloom",
+              "page": "148",
+              "wp_post_id": "116172",
+              "identifier": "txmo-article-198109-carllewis.json"
+            },
+            {
+              "title": "One Woman’s Tiny Problem Confronts Dallas City Hall",
+              "subtitle": "",
+              "description": "Vesta Cawley turned to the city bureaucracy for help with a problem that didn’t matter to any of the other 900,000 residents of Dallas. But it should have mattered more to city hall.",
+              "byline": "John Bloom",
+              "page": "154",
+              "wp_post_id": "116169",
+              "identifier": "txmo-article-198109-onewomans.json"
+            },
+            {
+              "title": "The Bulls Of Commerce",
+              "subtitle": "",
+              "description": "Raised in hardscrabble fiberglass factories, these cattle came to Texas cities to make shoppers feel like cowboys.",
+              "byline": "Michael Lyon",
+              "page": "158",
+              "wp_post_id": "116160",
+              "identifier": "txmo-article-198109-thebulls.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Sixteen Strings",
+              "subtitle": "Classical Music",
+              "description": "As befits masterpieces, Beethoven’s string quartets have been recorded a hundred times. Our trusty critic guides the novice through the maze of choices.",
+              "byline": "W. L. Taitte",
+              "page": "166"
+            },
+            {
+              "title": "Lord Of the Flies",
+              "subtitle": "Country Notes",
+              "description": "Fly-fishing is a particularly fastidious way of trying to fool a fish, but it’s also a particularly pleasant one.",
+              "byline": "John Graves",
+              "page": "174"
+            },
+            {
+              "title": "Blue-Collar Sculptor",
+              "subtitle": "Art",
+              "description": "Dallasite Mac Whitney is his own one-man construction crew—producing towering steel-plate sculptures.",
+              "byline": "Michael Ennis",
+              "page": "184"
+            },
+            {
+              "title": "Spontaneous Combustion",
+              "subtitle": "Popular Music",
+              "description": "Half a dozen Texas bands rev up and rock out.",
+              "byline": "Pepi Plowman",
+              "page": "190"
+            },
+            {
+              "title": "Hot And Bothered",
+              "subtitle": "Film",
+              "description": "In Body Heat a lust-befuddled lawyer fails to notice that his lover is setting him up for murder. The spy plot and love story of Under the Rainbow pale next to the sideshow attraction of 150 dwarfs. Endless Love only seems endless. Victory scores some points.",
+              "byline": "C. W. Smith",
+              "page": "200"
+            },
+            {
+              "title": "Cattle Call",
+              "subtitle": "Crime",
+              "description": "Trial by jury is a right most people charged with a crime never get to exercise. Instead, they accept a quicker, less risky alternative: the plea bargain.",
+              "byline": "Jim atkinson",
+              "page": "208"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Welcome, one and all.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Women in the air, men in the House, snakes in the grass.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Shake and bake.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Four great Texas discoveries: world-class barbecue in Taylor, gold fever in Brock, psychic delvings in San antonio, historical triage in Canyon.",
+              "byline": "",
+              "page": "114"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Old chiselers.",
+              "byline": "",
+              "page": "279"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "What the future holds for artificial hearts, utility customers, Phil Gramm, and the Republican party.",
+              "byline": "",
+              "page": "280"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

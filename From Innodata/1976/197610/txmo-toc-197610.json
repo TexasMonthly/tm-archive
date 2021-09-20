@@ -1,0 +1,176 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197610",
+    "publication": "Texas Monthly",
+    "issue": "October 1976",
+    "pdf_uri": "/1976/19761000.pdf",
+    "month": "October",
+    "year": 1976,
+    "pages": 212,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "State Fair",
+              "subtitle": "",
+              "description": "The roar of the grease, the smell of the corny dog.",
+              "byline": "Diana and Paul Souza",
+              "page": "106"
+            },
+            {
+              "title": "Whoever Said It Was a Grand Old Party",
+              "subtitle": "",
+              "description": "Elephants never forget, but Texas Reaganites wish they could.",
+              "byline": "Stephen Harrigan",
+              "page": "112"
+            },
+            {
+              "title": "Me And My Pickup",
+              "subtitle": "",
+              "description": "When is a truck more than a truck?",
+              "byline": "Tom Wright",
+              "page": "117"
+            },
+            {
+              "title": "It’s All Downhill From Here",
+              "subtitle": "",
+              "description": "In the world of skiing, one man’s mountain is another man’s molehill.",
+              "byline": "Donald L. Pierce, Jr.",
+              "page": "120",
+              "wp_post_id": "109563",
+              "identifier": "txmo-article-197610-itsalldo.json"
+            },
+            {
+              "title": "Bass Fishing In America",
+              "subtitle": "",
+              "description": "Forget Jimmy Carter—this is what the New South’s all about.",
+              "byline": "Gene Lyons",
+              "page": "124"
+            },
+            {
+              "title": "The Making Of Barbara Jordan",
+              "subtitle": "",
+              "description": "From poor black girl to presidential possibility, in ten not-so-easy lessons.",
+              "byline": "William Broyles",
+              "page": "127"
+            },
+            {
+              "title": "What Does This Woman Want?",
+              "subtitle": "",
+              "description": "Is Barbara Jordan really worth all the fuss?",
+              "byline": "Walter Shapiro",
+              "page": "134"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Boomsday Book",
+              "subtitle": "Business",
+              "description": "Why Houston should read it and weep.",
+              "byline": "Harry Hurt III",
+              "page": "136"
+            },
+            {
+              "title": "Pall In the Family",
+              "subtitle": "Books",
+              "description": "Domestic bliss has seen better days than it sees in Shelby Hearon’s new novel.",
+              "byline": "Michael Mewshaw",
+              "page": "142"
+            },
+            {
+              "title": "Something Happened",
+              "subtitle": "Lifestyles",
+              "description": "Why kids don’t grow up the way you want them to.",
+              "byline": "Prudence Mackintosh",
+              "page": "146"
+            },
+            {
+              "title": "Fly Me! I’m Delicious!",
+              "subtitle": "Dining Out",
+              "description": "Sure you are. And we’re the Knights of the Round Table.",
+              "byline": "Frank Bailey",
+              "page": "150"
+            },
+            {
+              "title": "About Face",
+              "subtitle": "City wise",
+              "description": "How to keep your complexion from getting skinned alive.",
+              "byline": "Sandy Sheehy",
+              "page": "156"
+            },
+            {
+              "title": "Accept No Substitutes",
+              "subtitle": "Film",
+              "description": "Nobody does a Hitchcock film like Hitchcock. Unfortunately, somebody else tried.",
+              "byline": "Marie Brenner",
+              "page": "162"
+            },
+            {
+              "title": "A Horse Is Not a Home",
+              "subtitle": "Sports",
+              "description": "Why would any woman risk life and limb on the rodeo circuit? Hint: it’s not for money.",
+              "byline": "Taffy Cannon",
+              "page": "170"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "6"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "The birds and the beaches.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Richard West",
+              "page": "90"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "Issues and Questions.",
+              "byline": "Paul Burka",
+              "page": "208"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

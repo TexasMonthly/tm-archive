@@ -1,0 +1,202 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198002",
+    "publication": "Texas Monthly",
+    "issue": "February 1980",
+    "pdf_uri": "/1980/19800200.pdf",
+    "month": "February",
+    "year": 1980,
+    "pages": 180,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Crack-Up",
+              "subtitle": "",
+              "description": "You learn one clear and not so very grim lesson by looking death in the face.",
+              "byline": "Dick Reavis",
+              "page": "74",
+              "wp_post_id": "115656",
+              "identifier": "txmo-article-198002-thecrack-.json"
+            },
+            {
+              "title": "The Joy Of Kissing",
+              "subtitle": "",
+              "description": "The art of romantic osculation barely survived the jaded seventies. Now it’s time to rediscover the private delights and civic benefits of real kissing.",
+              "byline": "John Bloom",
+              "page": "80",
+              "wp_post_id": "115650",
+              "identifier": "txmo-article-198002-thejoyof.json"
+            },
+            {
+              "title": "Straight From the Heart",
+              "subtitle": "",
+              "description": "A luscious array of seductive trinkets for wooing your special Valentine.",
+              "byline": "Cyndy Severson",
+              "page": "84",
+              "wp_post_id": "115644",
+              "identifier": "txmo-article-198002-straightf.json"
+            },
+            {
+              "title": "I Found Romance At the Bijou Theatre",
+              "subtitle": "",
+              "description": "We don’t know how you learned about the birds and the bees, but we’ll bet you learned about love the same way we did: from the movies.",
+              "byline": "Louis Black",
+              "page": "86",
+              "wp_post_id": "115638",
+              "identifier": "txmo-article-198002-ifoundro.json"
+            },
+            {
+              "title": "True Love",
+              "subtitle": "",
+              "description": "Actual photos! In living color! Incontrovertible evidence that kissing is fun!",
+              "byline": "Janice Rubin",
+              "page": "90",
+              "wp_post_id": "115632",
+              "identifier": "txmo-article-198002-truelove.json"
+            },
+            {
+              "title": "Down In the Depths",
+              "subtitle": "",
+              "description": "The intricate underwater passages and pristine water of Jacob’s Well fascinate divers. Too often, the fascination proves fatal.",
+              "byline": "Stephen Harrigan",
+              "page": "96",
+              "wp_post_id": "115626",
+              "identifier": "txmo-article-198002-downinth.json"
+            },
+            {
+              "title": "Rock ’N’ Roll’s Wizard Of Oz",
+              "subtitle": "",
+              "description": "How Gordon McLendon stormed Texas with Top 40 . . . da doo ron ron.",
+              "byline": "Joe Nick Patoski",
+              "page": "100",
+              "wp_post_id": "115623",
+              "identifier": "txmo-article-198002-rocknrol.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Flipping Out",
+              "subtitle": "Stepping Out",
+              "description": "When big-time gymnastics came to Fort Worth, half the contestants were steely-eyed little girls with the bodies of children and the wills of fanatics.",
+              "byline": "Michael Ennis",
+              "page": "106"
+            },
+            {
+              "title": "Chamber Music",
+              "subtitle": "Lifestyles",
+              "description": "Potty training doesn’t have to be the great bugaboo of raising children.",
+              "byline": "Judy Benson",
+              "page": "112"
+            },
+            {
+              "title": "Lord, Won’t You Buy Me Some Time On TV?",
+              "subtitle": "Church",
+              "description": "Preachers Robert Schuller and Rex Humbard have zeroed in on the modern way to reach a congregation: electronically.",
+              "byline": "William Martin",
+              "page": "120"
+            },
+            {
+              "title": "Danger: Low Voltage",
+              "subtitle": "Film",
+              "description": "The Electric Horseman got its wires crossed. Kramer vs. Kramer is an above-average film taken from a below-average novel.",
+              "byline": "George Morris",
+              "page": "126"
+            },
+            {
+              "title": "Little Stars",
+              "subtitle": "Theater",
+              "description": "Modest theaters in Dallas, Fort Worth, and Houston deliver powerful histrionics. Dallas Theater Center produces three original plays—but original, alas, does not necessarily mean good.",
+              "byline": "W. L. Taitte",
+              "page": "130"
+            },
+            {
+              "title": "The Foreign Legion",
+              "subtitle": "Classical Music",
+              "description": "Dallas Civic Opera is a grand old lady who knows her European opera. But sometimes she gets a little senile.",
+              "byline": "W. L. Taitte",
+              "page": "136"
+            },
+            {
+              "title": "Ramblin’ Rose",
+              "subtitle": "Art",
+              "description": "Eminent art critic Barbara Rose has assembled an exhibit of paintings of the eighties. Oh, yeah? Where did she get them?",
+              "byline": "Michael Ennis",
+              "page": "138"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Why Houston has the best schools in the state.",
+              "byline": "William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Love in Bloom.",
+              "byline": "Gregory Curtis",
+              "page": "8"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Onward through the smoke, upward through defeat, backward through time.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Fortunes, falcons, and folderol.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Old what’s-his-name is the most powerful man in Texas; Simone Beck takes her culinary magic show on the road; duck hunters and conservationists battle over a marsh.",
+              "byline": "",
+              "page": "60"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Name that cartoon.",
+              "byline": "",
+              "page": "175"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Marlin sidetracks the Missouri-Pacific; school boards wrangle over the handicapped; two Texas Sports magazines slug it out.",
+              "byline": "",
+              "page": "176"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

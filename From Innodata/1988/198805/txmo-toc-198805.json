@@ -1,0 +1,167 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198805",
+    "publication": "Texas Monthly",
+    "issue": "May 1988",
+    "pdf_uri": "/1988/19880500.pdf",
+    "month": "May",
+    "year": 1988,
+    "pages": 199,
+    "document_toc_page": "6"
+  },
+  "toc": [
+    {
+      "heading": "Contents May",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Dying For a Heart",
+              "subtitle": "",
+              "description": "For Ted Segal of Waco, the problem wasn’t getting a heart transplant; it was finding a donor. The delay was killing him.",
+              "byline": "by Cathy Schechter",
+              "page": "82"
+            },
+            {
+              "title": "A Stately House",
+              "subtitle": "",
+              "description": "Even on her one-hundredth birthday, the Texas Capitol looks good in places other buildings don’t even have places.",
+              "byline": "a Photographic Portrait",
+              "page": "88"
+            },
+            {
+              "title": "Learning To Love the Bomb",
+              "subtitle": "",
+              "description": "Can a Texas publisher of technical books make a difference in the nuclear powers’ arms race? You bet.",
+              "byline": "by Michael Ennis",
+              "page": "98",
+              "wp_post_id": "124140",
+              "identifier": "txmo-article-198805-learningt.json"
+            },
+            {
+              "title": "The Wait For Deliverance",
+              "subtitle": "",
+              "description": "Despite all the mewling from the oil patch, there are still ways to make money at $15 a barrel. Here’s our guide to surviving the terrible teens.",
+              "byline": "by jan jarboe",
+              "page": "100",
+              "wp_post_id": "124134",
+              "identifier": "txmo-article-198805-thewaitf.json"
+            },
+            {
+              "title": "No Wonderland",
+              "subtitle": "",
+              "description": "Once an oil-field service boomtown, alice doesn’t live well anymore.",
+              "byline": "",
+              "page": "103",
+              "wp_post_id": "124128",
+              "identifier": "txmo-article-198805-nowonderl.json"
+            },
+            {
+              "title": "It Stinks",
+              "subtitle": "",
+              "description": "Times are rotten for refineries.",
+              "byline": "",
+              "page": "105",
+              "wp_post_id": "124122",
+              "identifier": "txmo-article-198805-itstinks.json"
+            },
+            {
+              "title": "Earth, Rain, Wind, Fire",
+              "subtitle": "",
+              "description": "A wet year followed by a dry one made for one hellacious brush with disaster in the ranchlands of West Texas..",
+              "byline": "by Elmer Keiton",
+              "page": "106",
+              "wp_post_id": "124119",
+              "identifier": "txmo-article-198805-earthrainw.json"
+            },
+            {
+              "title": "Don’t Even Ask!",
+              "subtitle": "",
+              "description": "Why is it that your favorite item in every antique store is bound to be the one thing that money can’t buy?.",
+              "byline": "by Jerry Jeanmard",
+              "page": "108",
+              "wp_post_id": "124116",
+              "identifier": "txmo-article-198805-donteven.json"
+            },
+            {
+              "title": "Texas Guinan",
+              "subtitle": "Texas Primer",
+              "description": "She started out as a wide-eyed Waco cowgirl and ended up a New York speakeasy queen.",
+              "byline": "by Michael Corcoran",
+              "page": "112",
+              "wp_post_id": "124089",
+              "identifier": "txmo-article-198805-texasguin.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Fallen Idyll",
+              "subtitle": "Politics",
+              "description": "Profligate and polarized, austin attempts to salvage its future by looking into the past for its next mayor.",
+              "byline": "by John Taliaferro",
+              "page": "114"
+            },
+            {
+              "title": "Border Bandstand",
+              "subtitle": "Television",
+              "description": "Tex-Mex variety is the new spice of TV life, and Brownsville’s Johnny Canales Show has the redhot ratings to prove it.",
+              "byline": "by BUI Crawford",
+              "page": "120"
+            },
+            {
+              "title": "Paying the Price",
+              "subtitle": "Education",
+              "description": "When Decherd Turner took over the Humanities Research Center, UT’s big-budget rare-books library, he knew any changes he made would cost him. They did.",
+              "byline": "by Clifford Endres",
+              "page": "124"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Travis or Tejano?.",
+              "byline": "by Gregory Curits",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Going broke; seeking justice; hearing from the Bush league; reviewing the force.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "The issues in El Paso’s colonias are watery and grave; the prairie chickens in Texas’ vanishing grasslands are booming and boyish; plus legal spectacles, deathly diets, magnetic BBQ, and Cisneros scenarios.",
+              "byline": "by Alison cook",
+              "page": "70"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "The hated mesquite tree finds a friend in South Texas; UT-San antonio freshmen gots no learning of reading and writing; the sun shines on UT’s new basketball coach; why banks are afraid to branch.",
+              "byline": "",
+              "page": "192"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

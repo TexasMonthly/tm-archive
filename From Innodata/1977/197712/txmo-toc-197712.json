@@ -1,0 +1,168 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197712",
+    "publication": "Texas Monthly",
+    "issue": "December 1977",
+    "pdf_uri": "/1977/19771200.pdf",
+    "month": "December",
+    "year": 1977,
+    "pages": 256,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Help Wanted",
+              "subtitle": "",
+              "description": "Women need maids, and maids . . . well, they could use a little help, too.",
+              "byline": "Prudence Mackintosh",
+              "page": "114",
+              "wp_post_id": "110586",
+              "identifier": "txmo-article-197712-helpwante.json"
+            },
+            {
+              "title": "King Of the Catalogs",
+              "subtitle": "",
+              "description": "Who is Roger Horchow and why is he doing these terrible things to our Christmas budgets?",
+              "byline": "Rosemary Kent",
+              "page": "118"
+            },
+            {
+              "title": "They’re Minding the Store",
+              "subtitle": "",
+              "description": "If you’re looking for Houston’s elite, forget the Petroleum Club; go to the produce center at Jamail’s.",
+              "byline": "Tracy Lewis",
+              "page": "122",
+              "wp_post_id": "110580",
+              "identifier": "txmo-article-197712-theyremin.json"
+            },
+            {
+              "title": "Living In Glass Houses",
+              "subtitle": "",
+              "description": "The world is full of monuments to art—but how many can you live in?",
+              "byline": "Tracy Lewis",
+              "page": "128",
+              "wp_post_id": "110577",
+              "identifier": "txmo-article-197712-livingin.json"
+            },
+            {
+              "title": "Flash!",
+              "subtitle": "",
+              "description": "Who won the first Texas Monthly Photo Contest, and why.",
+              "byline": "",
+              "page": "132"
+            },
+            {
+              "title": "The Second Battle Of the Alamo",
+              "subtitle": "",
+              "description": "Texas’ oldest city is heading for a political showdown, thanks to some newcomers to the power game.",
+              "byline": "Paul Burka",
+              "page": "138",
+              "wp_post_id": "110571",
+              "identifier": "txmo-article-197712-thesecond.json"
+            },
+            {
+              "title": "They Found It!",
+              "subtitle": "",
+              "description": "Charismatics start by losing their heads and end up with a new kind of religion.",
+              "byline": "Gregory Curtis",
+              "page": "144",
+              "wp_post_id": "110568",
+              "identifier": "txmo-article-197712-theyfound.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Paternity Suits",
+              "subtitle": "Lifestyles",
+              "description": "If you think parenthood begins with dirty diapers and 2 a.m. feedings, you’re nine months off.",
+              "byline": "Stephen Harrigan",
+              "page": "168"
+            },
+            {
+              "title": "Cheap Frills",
+              "subtitle": "Dining Out",
+              "description": "We offer you a weekend in Mexico City you can’t refuse.",
+              "byline": "Frank Bailey",
+              "page": "176"
+            },
+            {
+              "title": "Ol’ Blue",
+              "subtitle": "Country Notes",
+              "description": "A good country dog is loyal, obedient, and knows the difference between a chicken and a possum.",
+              "byline": "John Graves",
+              "page": "184"
+            }
+          ]
+        },
+        {
+          "section_heading": "Short Subjects",
+          "toc_entry": [
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Extra! Extra! Dallas Times Herald raids Morning News market; the U.S. Senate race is getting hotter; Crystal City is getting colder; Big Mac bites back.",
+              "byline": "",
+              "page": "94"
+            },
+            {
+              "title": "The Texas Monthly Review",
+              "subtitle": "",
+              "description": "Disco sounds you can live with; two new books from the trenches of Viet Nam; taking a swing at alexander Colder; the Van Cliburn winner’s circle; move over austin, C&W reigns elsewhere.",
+              "byline": "",
+              "page": "150"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "This may be the Me Decade, but fortunately a great many people haven’t gotten the word.",
+              "byline": "William Broyles",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "A flood of letters on a wave of immigrants.",
+              "byline": "",
+              "page": "8"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Three patchwork quilts, two wine shops, and a piñata in a pear tree.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Contest",
+              "subtitle": "",
+              "description": "In the St. Nick of time.",
+              "byline": "Paul Burka",
+              "page": "252"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

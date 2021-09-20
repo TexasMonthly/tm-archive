@@ -1,0 +1,169 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199310",
+    "publication": "Texas Monthly",
+    "issue": "October 1993",
+    "pdf_uri": "/1993/19931000.pdf",
+    "month": "October",
+    "year": 1993,
+    "pages": 240,
+    "document_toc_page": "7"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Never Say Die",
+              "subtitle": "Politics",
+              "description": "",
+              "byline": "by audrey Duff",
+              "page": "50"
+            },
+            {
+              "title": "Hoof in Mouth",
+              "subtitle": "Art",
+              "description": "",
+              "byline": "by Dana Rubin",
+              "page": "58"
+            },
+            {
+              "title": "iViva la Diferencia!",
+              "subtitle": "Business",
+              "description": "",
+              "byline": "by Robert Barnstone",
+              "page": "66"
+            },
+            {
+              "title": "Street Stories",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by anne Dingus",
+              "page": "76"
+            },
+            {
+              "title": "Long Shot",
+              "subtitle": "Music",
+              "description": "",
+              "byline": "by John Morthland",
+              "page": "82"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Graham-standing",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "9"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "22"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Helen Thompson, Dan Michalski, anne Dingus, Janet Schuler, Robert Draper",
+              "page": "92"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "104"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "204"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "205"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Raul Burka",
+              "page": "232"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Fugitive",
+              "subtitle": "",
+              "description": "Stardom has caught up with Tommy Lee Jones—finally. But don’t expect him to act like he’s enjoying it.",
+              "byline": "by Mimi Swartz",
+              "page": "106"
+            },
+            {
+              "title": "Manhunt at Menard Creek",
+              "subtitle": "",
+              "description": "The death of a thief in the Big Thicket has federal officials probing the conduct of local lawmen—and local lawmen complaining about a federal vendetta against the Texas prison system.",
+              "byline": "by Robert Draper",
+              "page": "112"
+            },
+            {
+              "title": "The Last Dance",
+              "subtitle": "",
+              "description": "Fire may have destroyed the oak tree at Crider’s Hill Country dance hall, but our fond memories of it will always live on.",
+              "byline": "by Kathy Lowry",
+              "page": "118",
+              "wp_post_id": "127137",
+              "identifier": "txmo-article-199310-thelastd.json"
+            },
+            {
+              "title": "“I Knew I Had Been Hit”",
+              "subtitle": "",
+              "description": "In a chilling excerpt from his autobiography, the late John Connally offers his close-up account of the Kennedy assassination.",
+              "byline": "by John Connally with Mickey Herskowitz",
+              "page": "122"
+            },
+            {
+              "title": "Show Your Colors",
+              "subtitle": "",
+              "description": "You don’t need to travel to Vermont to see fall splendor. Discover it in the Guadalupe Mountains, Texas’ undiscovered national park.",
+              "byline": "by Joe Nick Patoski",
+              "page": "124"
+            },
+            {
+              "title": "Sex Shooters",
+              "subtitle": "",
+              "description": "Ann-Margret, get your gun: a celebration of pistolpackin’ celluloid cowgirls.",
+              "byline": "by anne Dingus",
+              "page": "128"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

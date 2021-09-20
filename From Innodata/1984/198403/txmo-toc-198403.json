@@ -1,0 +1,171 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198403",
+    "publication": "Texas Monthly",
+    "issue": "March 1984",
+    "pdf_uri": "/1984/19840300.pdf",
+    "month": "March",
+    "year": 1984,
+    "pages": 236,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Perfect Texas",
+              "subtitle": "",
+              "description": "There’s no point in grousing about Texas’ minor shortcomings. Why not just roll up our sleeves and make it perfect once and for all?",
+              "byline": "Peter Applebome",
+              "page": "118"
+            },
+            {
+              "title": "The Deluxe Down-And-Dirty Goose Hunt",
+              "subtitle": "",
+              "description": "In which a group of society ladies samples the thrills and chills of an essentially masculine pastime.",
+              "byline": "Alison Cook",
+              "page": "130",
+              "wp_post_id": "120411",
+              "identifier": "txmo-article-198403-thedeluxe.json"
+            },
+            {
+              "title": "In the Wings",
+              "subtitle": "",
+              "description": "Backstage at the Houston Ballet is a world of pastel shadows, brilliant spangles, and anxious waiting.",
+              "byline": "W. L. Taitte",
+              "page": "132"
+            },
+            {
+              "title": "“I Beat Ben Barnes And John Connally In A Fair Fight”",
+              "subtitle": "",
+              "description": "When Bames-Connally Investments announced plans to build apartments in a South Austin neighborhood, the residents banded together to try to stop them. They won the battle but lost the war.",
+              "byline": "Kaye Northcott",
+              "page": "140"
+            },
+            {
+              "title": "Barbed Wire",
+              "subtitle": "Texas Primer",
+              "description": "It spelled the end of the open range and the beginning of modem Texas.",
+              "byline": "Anne Dingus",
+              "page": "144"
+            },
+            {
+              "title": "At the Mercy Of the Court",
+              "subtitle": "",
+              "description": "What do drunks, prostitutes, lunatics, and elevators have in common? They're all part of the weird 24-hour-a-day world of the Dallas County courthouse.",
+              "byline": "Jim Atkinson",
+              "page": "146"
+            },
+            {
+              "title": "End Of the Trail",
+              "subtitle": "Western Art",
+              "description": "A fresh interpretation of a classic genre.",
+              "byline": "Alan E. Cober",
+              "page": "151",
+              "wp_post_id": "120396",
+              "identifier": "txmo-article-198403-endofthe.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "I-10 On Ice",
+              "subtitle": "Weather",
+              "description": "In five hours on icy roads the author covered 35 miles and discovered the perils of driving in a state that is unprepared for real winter.",
+              "byline": "Suzanne Winckler",
+              "page": "152"
+            },
+            {
+              "title": "Big Oil Paranoia",
+              "subtitle": "Books",
+              "description": "Robert Sherrill’s Oil Follies of 1970-1980 leaves no detail unremarked in its effort to pin the blame on Big Oil; in Ronnie Dugger’s On Reagan the author is as unbending an ideologue as his subject is.",
+              "byline": "Nicholas Lemann and Joseph Nocera",
+              "page": "158"
+            },
+            {
+              "title": "Mermaid Love",
+              "subtitle": "Movies",
+              "description": "Ron Howard’s Splash is a refreshing frolic; Broadway Danny Rose gives us the old soft shoe; And the Ship Sails On is out to sea; Reuben, Reuben is a dark but funny double-decker.",
+              "byline": "James Wolcott",
+              "page": "166"
+            },
+            {
+              "title": "Who Needs Singers?",
+              "subtitle": "Classical",
+              "description": "In conductor’s opera, each of the vocalists becomes just one more instrument in the musical ensemble.",
+              "byline": "W. L. Taitte",
+              "page": "172"
+            },
+            {
+              "title": "Back In the Mood",
+              "subtitle": "Jazz",
+              "description": "A definitive Smithsonian Recordings collection sets a new standard for big band anthologies; other big band recordings prove that swing remains vibrantly alive.",
+              "byline": "Doug Ramsey",
+              "page": "196"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Monkeying with the schools.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "The kindest and unkindest cuts of all.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Looking for the essence of Texas in Ei Paso, the soul of Dr. Red Duke in Houston, the secrets of status in Dallas, and a quirky West Texas empire in Balmorhea.",
+              "byline": "Stephen Harrigan",
+              "page": "98"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Seven Texas jewelers show their mettle.",
+              "byline": "Patricia Sharpe",
+              "page": "176"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Without further introduction",
+              "byline": "",
+              "page": "231"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Mesa gets an unwanted ally in its battle against Gulf; how to turn $100 million into $12 million; why 1984 is a good year for incumbents; the legal establishment takes aim at a controversial supreme court judge.",
+              "byline": "",
+              "page": "232"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

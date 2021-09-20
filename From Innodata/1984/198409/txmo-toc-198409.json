@@ -1,0 +1,195 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198409",
+    "publication": "Texas Monthly",
+    "issue": "September 1984",
+    "pdf_uri": "/1984/19840900.pdf",
+    "month": "September",
+    "year": 1984,
+    "pages": 278,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Heaven On Wheels",
+              "subtitle": "",
+              "description": "Why are we crazy for Cadillacs, silly on Suburbans, passionate about pickups? Because Texans love their cars, that's why.",
+              "byline": "Jim Atkinson",
+              "page": "134",
+              "wp_post_id": "119991",
+              "identifier": "txmo-article-198409-heavenon.json"
+            },
+            {
+              "title": "The Double Life Of Paul Thayer",
+              "subtitle": "",
+              "description": "He had it all: a wife and a mistress, a limousine and a motorcycle, the secondhighest job at the Pentagon and some good-time Dallas buddies. Then the Sec took an interest in his life.",
+              "byline": "Peter Elkind",
+              "page": "142",
+              "wp_post_id": "119988",
+              "identifier": "txmo-article-198409-thedouble.json"
+            },
+            {
+              "title": "Blissed-Out On the Beach Of Love",
+              "subtitle": "",
+              "description": "At a slightly wacky hotel in southern Mexico, you can lose your inhibitions and find a little romance.",
+              "byline": "Lucius Lomax",
+              "page": "148",
+              "wp_post_id": "119985",
+              "identifier": "txmo-article-198409-blissedou.json"
+            },
+            {
+              "title": "Age Of Innocents",
+              "subtitle": "",
+              "description": "Remember when children played dress-up in their own clothes? They still can.",
+              "byline": "",
+              "page": "150"
+            },
+            {
+              "title": "The Night Crew",
+              "subtitle": "",
+              "description": "There are a hundred of them, and their job is invisibility. They come into giant office buildings after everyone has gone home and, if they do the job right, make the evidence of the day’s work disappear.",
+              "byline": "Mimi Swartz",
+              "page": "158",
+              "wp_post_id": "119979",
+              "identifier": "txmo-article-198409-thenight.json"
+            },
+            {
+              "title": "Pierre Was New In Town And Had Never Really Caught Anything Before",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "Alexa Grace",
+              "page": "163",
+              "wp_post_id": "119973",
+              "identifier": "txmo-article-198409-westernar.json"
+            },
+            {
+              "title": "The Permanent University Fund",
+              "subtitle": "Texas Primer",
+              "description": "In 1883 the University of Texas got stuck with two million acres of West Texas scrubland. Then it hit oil, and the money started rolling in.",
+              "byline": "Paul Burka",
+              "page": "164",
+              "wp_post_id": "119958",
+              "identifier": "txmo-article-198409-theperman.json"
+            },
+            {
+              "title": "My Quest For the Perfect Biscuit",
+              "subtitle": "",
+              "description": "It all started at my grandmother’s when I was seven years old. No biscuit has since measured up, but my lonely search for that sublime confection continues.",
+              "byline": "Stephen Harrigan",
+              "page": "166",
+              "wp_post_id": "119970",
+              "identifier": "txmo-article-198409-myquestf.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Grading the High Schools",
+              "subtitle": "Education",
+              "description": "Ut reports on how well students from Texas schools do.",
+              "byline": "Andrea Meditch",
+              "page": "170"
+            },
+            {
+              "title": "How Do You Spell Real Estate?",
+              "subtitle": "Business",
+              "description": "Roger Staubach finds happiness by swapping Rolaids for real estate.",
+              "byline": "Mark Seal",
+              "page": "174"
+            },
+            {
+              "title": "Prince Of Wails",
+              "subtitle": "Movies",
+              "description": "Prince’s Purple Rain is short on plot and dialogue but long on fancy anguish; The Bostonians is a namby-pamby treatment of Henry James’ biting novel.",
+              "byline": "James Wolcott",
+              "page": "178"
+            },
+            {
+              "title": "Tangled Lines",
+              "subtitle": "Books",
+              "description": "William Humphrey’s Hostages to Fortune tells a sodden fishing story; C. W. Smith’s The Vestal Virgin Room tells of an empty quest for fame; Rosemary Catacalos' Again for the First Time is an outstanding collection of verse.",
+              "byline": "James Whitaker",
+              "page": "184"
+            },
+            {
+              "title": "Cut From the Herd",
+              "subtitle": "Popular Music",
+              "description": "Herd It Through the Grapevine, a new disc anthology, has the top of the pop crop.",
+              "byline": "Jody Denberg",
+              "page": "190"
+            },
+            {
+              "title": "Opera For Beginners",
+              "subtitle": "Classical Music",
+              "description": "The Public Opera of Dallas aimed its first season at opera greenhorns and scored two bull’s-eyes.",
+              "byline": "W. L. Taitte",
+              "page": "194"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "On the edge of life.",
+              "byline": "Dominique Browning",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Great cafe meals, dubious political deals, Luckenbach’s ideals.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "A new Henry Lee Lucas mystery in Lubbock; a sixties entrepreneur confronts the eighties; a foolish flap in Houston; an old way to travel across Texas.",
+              "byline": "Joseph Nocera",
+              "page": "112"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "It’s all here in black and white.",
+              "byline": "Patricia Sharpe",
+              "page": "200"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "263"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Trauma for Texas hospitals; more trouble (what else?) for Clinton Manges; why Doggett should win-but probably won't; and real deals in Houston.",
+              "byline": "",
+              "page": "264"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

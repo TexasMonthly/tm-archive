@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-198412",
+    "date": "December 1984",
+    "year": 1984,
+    "month": 12,
+    "month_formatted": "December",
+    "pdf_uri": "/1984/19841200.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 150,
+    "toc_start_page": 169,
+    "document_page_range": [
+      150
+    ],
+    "toc_order": 7,
+    "toc_headline": "Buckaroo",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198412-buckaroo",
+  "source": "/1984/19841200.pdf",
+  "wp_post_id": 119742,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-buckaroo/",
+  "authors": [
+    "Andrzej Dudzinski"
+  ],
+  "headline": "Buckaroo",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img />",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "Arts &amp; Entertainment",
+    "wp_issue": "December 1984",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

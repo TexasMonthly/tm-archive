@@ -1,0 +1,186 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198502",
+    "publication": "Texas Monthly",
+    "issue": "February 1985",
+    "pdf_uri": "/1985/19850200.pdf",
+    "month": "February",
+    "year": 1985,
+    "pages": 188,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Last Roundup",
+              "subtitle": "",
+              "description": "“When the cowboys on the 06 ranch talked about losing a way of life, they often pointed to their neighbor, Clayton Williams, as an example of what they meant. He was a millionaire and an oilman, and he represented everything they hated. ”",
+              "byline": "Gary Cartwright",
+              "page": "94"
+            },
+            {
+              "title": "The Big Country",
+              "subtitle": "",
+              "description": "The great Texas ranches and how they got that way.",
+              "byline": "Catherine Chadwick",
+              "page": "103",
+              "wp_post_id": "121548",
+              "identifier": "txmo-article-198502-thebigco.json"
+            },
+            {
+              "title": "The Oil Depletion Allowance",
+              "subtitle": "Texas Primer",
+              "description": "Assailed by presidents, skewered by senators, decried by the New York Times, the oil depletion allowance has survived it all. It helps to have friends in high places.",
+              "byline": "Joseph Nocera",
+              "page": "106",
+              "wp_post_id": "121521",
+              "identifier": "txmo-article-198502-theoilde.json"
+            },
+            {
+              "title": "When Picasso Was A Texan",
+              "subtitle": "",
+              "description": "You say you’ve never heard of Picasso’s burnt-orange period? And you call yourself a real Texan ?",
+              "byline": "",
+              "page": "108"
+            },
+            {
+              "title": "My Life As A Drunk",
+              "subtitle": "",
+              "description": "It may be hard to believe that you can drink two fifths a day and not only function but function well. But I did it. For a while.",
+              "byline": "Peter B.",
+              "page": "116",
+              "wp_post_id": "121539",
+              "identifier": "txmo-article-198502-mylifeas.json"
+            },
+            {
+              "title": "Leaving the Bottle Behind",
+              "subtitle": "",
+              "description": "Like any disease, alcoholism has specific symptoms. Like many religions, dryingout programs require abstinence, blind faith, and confession.",
+              "byline": "John Davidson",
+              "page": "19",
+              "wp_post_id": "121536",
+              "identifier": "txmo-article-198502-leavingth.json"
+            },
+            {
+              "title": "Mayor, Council Locked In Bitter Struggle!",
+              "subtitle": "",
+              "description": "Council tells mayor her budget stinks! Mayor tells council to like it or lump it! Both sides twist arms, trade insults! Read all about it!",
+              "byline": "Peter Eikind",
+              "page": "120",
+              "wp_post_id": "121533",
+              "identifier": "txmo-article-198502-mayorcoun.json"
+            },
+            {
+              "title": "The New Colossus",
+              "subtitle": "Western Art",
+              "description": "An interpretation of a classic genre.",
+              "byline": "Jack Unruh",
+              "page": "123",
+              "wp_post_id": "121527",
+              "identifier": "txmo-article-198502-thenewco.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Sterling Surls",
+              "subtitle": "Art",
+              "description": "With his rough-hewn sculptures that speak to mankind’s most basic needs, James Surls is fast becoming the dean of Texas art.",
+              "byline": "Michael Ennis",
+              "page": "124"
+            },
+            {
+              "title": "When Grandma Talks",
+              "subtitle": "Business",
+              "description": "Rich old ladies who hoard their securities set the best example for managing your stocks.",
+              "byline": "Peter Applebome",
+              "page": "128"
+            },
+            {
+              "title": "Wilds Of the Soul",
+              "subtitle": "Movies",
+              "description": "Mrs. Soffel weaves a tale of love and damnation; A Passage to India is a smooth, brocaded expedition; The Cotton Club offers pomp by the bale.",
+              "byline": "James Wolcott",
+              "page": "132"
+            },
+            {
+              "title": "Eavesdropping On History",
+              "subtitle": "Books",
+              "description": "Max Crawford’s Lords of the Plain is a convincing tale of cavalry’ and Indians; Thomas McGuane’s Something to Be Desired is an insightful cowtown comedy.",
+              "byline": "James Whitaker",
+              "page": "136"
+            },
+            {
+              "title": "Strummin’ On the Old Gamba",
+              "subtitle": "Classical Music",
+              "description": "Using antique scores and original instruments like the viola da gamba, the Texas Baroque Ensemble is making Garland the place to hear early music in Texas.",
+              "byline": "W. L. Taitte",
+              "page": "140"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "A tilt of the axis.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Contemplating marriage; speaking up for Houston; deciphering Texas myths; transplanting Austin’s airport.",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to entertainment and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Beauteous burgers in Bells and Springlake; tough times in Tyler; ringside raving in Fort Worth; avid aspirations in Lubbock.",
+              "byline": "Peter Applebome",
+              "page": "74"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Getting ready for February’s red-letter daw",
+              "byline": "Patricia Sharpe",
+              "page": "144"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Minding your peas and cues.",
+              "byline": "",
+              "page": "183"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "What's the point at the Dallas Museum of Art? Wl:at does $25 oil mean for Houston? Hush, Gib. James Baker’s new job is a labor of Love.",
+              "byline": "",
+              "page": "184"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197910",
+    "publication": "Texas Monthly",
+    "issue": "October 1979",
+    "pdf_uri": "/1979/19791000.pdf",
+    "month": "October",
+    "year": 1979,
+    "pages": 268,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Harder They Fall",
+              "subtitle": "",
+              "description": "Tommy Steiner is in the bucking business. He likes rodeo cowboys just fine, but he’s rooting for the bulls.",
+              "byline": "Giles Tippette",
+              "page": "118"
+            },
+            {
+              "title": "A Delicate Balance",
+              "subtitle": "",
+              "description": "Who turned off the melting pot? Vietnamese and Texans fight on the coast.",
+              "byline": "John Bloom",
+              "page": "124",
+              "wp_post_id": "113730",
+              "identifier": "txmo-article-197910-adelicate.json"
+            },
+            {
+              "title": "Ghosts",
+              "subtitle": "",
+              "description": "World War II may be over, but the Confederate air Force will rise again.",
+              "byline": "Philip Makanna",
+              "page": "126"
+            },
+            {
+              "title": "The Man Who Built River Oaks",
+              "subtitle": "",
+              "description": "Architect John Staub, the forgotten genius of River Oaks, transformed a few nondescript Houston streets into Millionaires’ Row.",
+              "byline": "Michael Ennis",
+              "page": "134",
+              "wp_post_id": "113718",
+              "identifier": "txmo-article-197910-themanwh.json"
+            },
+            {
+              "title": "Sherwood Blount’s First Million",
+              "subtitle": "",
+              "description": "He believed in the american dream and it paid off.",
+              "byline": "Nicholas Lemann",
+              "page": "140"
+            },
+            {
+              "title": "Talking Money",
+              "subtitle": "The Heavy Hitters",
+              "description": "What’s what and who’s who in Texas real estate.",
+              "byline": "Nicholas Lemann",
+              "page": "150",
+              "wp_post_id": "113706",
+              "identifier": "txmo-article-197910-talkingmo.json"
+            },
+            {
+              "title": "Cutups",
+              "subtitle": "",
+              "description": "Can’t hull a strawberry? Can’t boil an egg? Can’t wash leafy vegetables? Relax. Help is on the way.",
+              "byline": "W. L. Taitte",
+              "page": "152"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "City Transit Gloria",
+              "subtitle": "Cityview",
+              "description": "Hymns and admonitions for the best and worst bus services in Texas.",
+              "byline": "Kaye Northcott",
+              "page": "157"
+            },
+            {
+              "title": "Titled Texans",
+              "subtitle": "Stepping Out",
+              "description": "Beneath certain Stetsons lies a crown.",
+              "byline": "Michael Ennis",
+              "page": "166"
+            },
+            {
+              "title": "After the Fall",
+              "subtitle": "Politics",
+              "description": "Nicaragua’s new junta may discover it’s easier to depose a dictator than to rebuild a ravaged country.",
+              "byline": "Stephen Kinzer",
+              "page": "174"
+            },
+            {
+              "title": "A Joyful Noise",
+              "subtitle": "Church",
+              "description": "At St. Patrick’s in San antonio they sing and dance—during mass. At Lakewood assembly of God in Dallas they sing and sing and sing . . .",
+              "byline": "William Martin",
+              "page": "184"
+            },
+            {
+              "title": "Mission Possible",
+              "subtitle": "Art",
+              "description": "In a mere twenty years Dallas collector James Clark quietly gathered some of the world’s finest modern art. A group show in San antonio spotlights Texas artists doing fancy things with paper.",
+              "byline": "Michael Ennis",
+              "page": "190"
+            },
+            {
+              "title": "This Is the Way the Apocalypse Ends . . .",
+              "subtitle": "Film",
+              "description": "Coppola’s multimillion-dollar labor of love is finally finished. We think.",
+              "byline": "George Morris",
+              "page": "194"
+            },
+            {
+              "title": "The Spoils Of War",
+              "subtitle": "Theater",
+              "description": "’Tis the season for plays about the Viet Nam War. Louisiana’s Huey P. Long is captured (almost) by two Texans.",
+              "byline": "",
+              "page": "200"
+            },
+            {
+              "title": "Schlock Tactics",
+              "subtitle": "Popular Music",
+              "description": "Texas punk rockers are tacky, nasty, nervy, scurvy, and usually not very good musicians. You’ll love ’em.",
+              "byline": "Joe Nick Patoski",
+              "page": "206"
+            },
+            {
+              "title": "It’s a Lulu!",
+              "subtitle": "Classical Music",
+              "description": "Even incomplete, Lulu was a great opera. Now it’s finished, and Santa Fe Opera got to stage the coveted U.S. premiere.",
+              "byline": "W. L. Taitte",
+              "page": "210"
+            },
+            {
+              "title": "The Right Wings",
+              "subtitle": "Books",
+              "description": "In his new book Tom Wolfe poses this question: were the Mercury astronauts men or monkeys? Thomas Thompson changes his journalistic setting from Houston to the Far East to produce a book about an astonishing criminal.",
+              "byline": "Nicholas Lemann Stephen Harrigan",
+              "page": "212"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Give me land, lots of land . . .",
+              "byline": "William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "Keep those cards and letters coming in.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "High-flyin’ and highfalutin.",
+              "byline": "Patricia Sharpe",
+              "page": "16"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "South Padre defiled—and you were there; the joy of six hundred maniacal flute players; Dallas’ love-hate affair with Fair Park.",
+              "byline": "John Bloom",
+              "page": "102"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "263"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "How will Christo wrap up his trip to Texas?; pooh-poohing Three Mile Island; the greatest train robbery of all; shake-up at Houston’s city hall.",
+              "byline": "",
+              "page": "264"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

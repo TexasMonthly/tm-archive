@@ -1,0 +1,55 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19864",
+    "date": "April 1986",
+    "year": 1986,
+    "month": 4,
+    "month_formatted": "April",
+    "pdf_uri": "/1986/19860400.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 147,
+    "toc_start_page": 145,
+    "document_page_range": [
+      147
+    ],
+    "toc_order": 7,
+    "toc_headline": "Rodeo Madness",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198604-rodeomadn",
+  "source": "/1986/19860400.pdf",
+  "wp_post_id": 122334,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-rodeo-madness/",
+  "authors": [
+    "Karen Barbour"
+  ],
+  "headline": "Rodeo Madness",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img></img>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "April 1986",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "Rodeo"
+    ],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

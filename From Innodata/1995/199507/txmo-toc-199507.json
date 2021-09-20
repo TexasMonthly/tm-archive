@@ -1,0 +1,155 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199507",
+    "publication": "Texas Monthly",
+    "issue": "July 1995",
+    "pdf_uri": "/1995/19950700.pdf",
+    "month": "July",
+    "year": 1995,
+    "pages": 160,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Sand Dollars",
+              "subtitle": "Lifestyle",
+              "description": "",
+              "byline": "by Mimi Swartz",
+              "page": "30"
+            },
+            {
+              "title": "Roe v. World",
+              "subtitle": "Profile",
+              "description": "",
+              "byline": "by Helen Thorpe",
+              "page": "34"
+            },
+            {
+              "title": "Spanish Class",
+              "subtitle": "Shopping",
+              "description": "",
+              "byline": "by Patricia Sharpe",
+              "page": "40"
+            },
+            {
+              "title": "Family Plot",
+              "subtitle": "Books",
+              "description": "",
+              "byline": "by Helen Thompson",
+              "page": "68"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "TV on Trial",
+              "subtitle": "Behind the Lines",
+              "description": "",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "12"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by David McCormick",
+              "page": "72"
+            },
+            {
+              "title": "State of the art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "84"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "133"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "135"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Jan Jarboe",
+              "page": "156"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "What Really Happened at Waco",
+              "subtitle": "",
+              "description": "Just as congressional hearings are set to begin, an exclusive excerpt from a new book casts a different light on the government’s role in the fiery end to the siege at Mount Carmel.",
+              "byline": "by Dick J. Reavis",
+              "page": "88",
+              "wp_post_id": "129396",
+              "identifier": "txmo-article-199507-whatreall.json"
+            },
+            {
+              "title": "Shooting the Moon",
+              "subtitle": "",
+              "description": "How glad-handing Hollywood and hidebound NASA joined forces to make apollo 13, one of this summer’s hottest movies.",
+              "byline": "by Skip Hollandsworth",
+              "page": "92"
+            },
+            {
+              "title": "The King off Bankruptcy",
+              "subtitle": "",
+              "description": "In 1983 Houston natural gas mogul Jack Stanley was more than $1 billion in debt. By 1994, he was $2 billion to the good. What factors contributed to the turnaround? a recent trial gave some clues.",
+              "byline": "by Gary Cartwright",
+              "page": "96"
+            },
+            {
+              "title": "The Cook, the Chieff, His Wife, and Their Dinner",
+              "subtitle": "",
+              "description": "Who feeds Zuni stew and scrambled eggs to George W. Bush? Meet Sarah Bishop, the young chef at the Governor’s Mansion—and try out some of her favorite recipes.",
+              "byline": "by Patricia Sharpe",
+              "page": "98"
+            },
+            {
+              "title": "The Best and the Worst Legislators",
+              "subtitle": "",
+              "description": "From the respected to the rascally, our regular roundup of the session’s most renowned pols.",
+              "byline": "",
+              "page": "102"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

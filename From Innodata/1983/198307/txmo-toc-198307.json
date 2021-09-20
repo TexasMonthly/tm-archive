@@ -1,0 +1,169 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198307",
+    "publication": "Texas Monthly",
+    "issue": "July 1983",
+    "pdf_uri": "/1983/19830700.pdf",
+    "month": "July",
+    "year": 1983,
+    "pages": 190,
+    "document_toc_page": "7"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Chilly Scenes Of Dinner",
+              "subtitle": "",
+              "description": "The old tin tray, it ain't what it used to be. Today’s Tv dinners have become “frozen cuisine. ”",
+              "byline": "David Seeley",
+              "page": "94",
+              "wp_post_id": "119139",
+              "identifier": "txmo-article-198307-chillysce.json"
+            },
+            {
+              "title": "The Gambler",
+              "subtitle": "",
+              "description": "Jack Young was the eighties’ oil boom in the flesh. Unfortunately, he also personifies the aftermath of the bust.",
+              "byline": "Joseph Nocera",
+              "page": "98"
+            },
+            {
+              "title": "",
+              "subtitle": "",
+              "description": "The quintessential wildcatter fills you in on free enterprise, A-rabs, and Texas after oil.",
+              "byline": "Ask Jett Rink",
+              "page": "101"
+            },
+            {
+              "title": "And Yet the Dream Endures",
+              "subtitle": "",
+              "description": "Don’t give up! There’s still money to be made finding oil. Up in Graham the Creswells are striking it rich with the help of Jesus and, er, creekology.",
+              "byline": "Joseph Nocera",
+              "page": "102"
+            },
+            {
+              "title": "The Journeyman",
+              "subtitle": "",
+              "description": "Ed Jones rode the oil boom to a white-collar job. It was a short trip.",
+              "byline": "James Fallows",
+              "page": "104"
+            },
+            {
+              "title": "The Ten Best And the Ten Worst Legislators",
+              "subtitle": "",
+              "description": "We just rate them. You voted for them.",
+              "byline": "",
+              "page": "109"
+            },
+            {
+              "title": "The Ranch Gate",
+              "subtitle": "Texas Primer",
+              "description": "These days it seems every five-acre ranchette flaunts a gate worthy of the Xit.",
+              "byline": "",
+              "page": "124"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Wookiees On Parade",
+              "subtitle": "Movies",
+              "description": "Return of the Jedi is a star shower of new creatures and old favorites that leaves you wowed but underwhelmed. Breathless is suffocating. WarGames starts out with a bang and ends with a whimper. Flashdance has a certain twinkle.",
+              "byline": "James Wolcott",
+              "page": "126"
+            },
+            {
+              "title": "Jazz In Camouflage",
+              "subtitle": "Jazz",
+              "description": "The music of tenor saxman John Handy is rooted in Texas and the blues, and he uses his distinctive sound to lure more listeners to jazz.",
+              "byline": "Doug Ramsey",
+              "page": "134"
+            },
+            {
+              "title": "Those Raucous Babylonians",
+              "subtitle": "Classical Music",
+              "description": "This spring both of Texas’ top symphonies staged the late William Walton’s Belshazzar’s Feast. Dallas held back, but Houston made merry with the splashy page 98 biblical spectacle.",
+              "byline": "W. L. Taitte",
+              "page": "142"
+            },
+            {
+              "title": "Lady On the Edge",
+              "subtitle": "Art",
+              "description": "Photographer Carlotta Corpron moved to Denton in 1935, and the burst of avantgarde work she produced is, so far, unsurpassed in Texas.",
+              "byline": "Michael Ennis",
+              "page": "146"
+            },
+            {
+              "title": "A Knell For Eric",
+              "subtitle": "Books",
+              "description": "An Abilene man recalls the pluck and pain of his stricken son in This Is the Child. An El Paso professor creates a lovably uncool detective in Dancing Bear. An Austin meteorologist blows hot on Texas Weather.",
+              "byline": "Jan Reid",
+              "page": "150"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "The tardy teachers.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Behind bars.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Go with the flow; made in the shade.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Saving the Fort Worth Stockyards; remembering the Hondo Hurricane; suing for peanuts; rotting your brain on Mtv.",
+              "byline": "Peter Applebome",
+              "page": "76"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Seeing spots.",
+              "byline": "",
+              "page": "183"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Briscoe’s beef; new wave health care; a bright idea for Houston Lighting & Power; the case of the lagging law school.",
+              "byline": "",
+              "page": "184"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198306",
+    "publication": "Texas Monthly",
+    "issue": "June 1983",
+    "pdf_uri": "/1983/19830600.pdf",
+    "month": "June",
+    "year": 1983,
+    "pages": 244,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Funky Riviera",
+              "subtitle": "",
+              "description": "Discover another side of the Texas coast —its peerless beachcombing, legendary beer joints, odd birds {feathered and otherwise), and lovable year-round scruffiness.",
+              "byline": "Alison Cook",
+              "page": "122",
+              "wp_post_id": "119241",
+              "identifier": "txmo-article-198306-funkyrivi.json"
+            },
+            {
+              "title": "Phantom Cat Of the Valley",
+              "subtitle": "",
+              "description": "Meet the ocelot, not as pet, not as fur coat, but in its best role —an elusive remnant of Texas’ wild past.",
+              "byline": "Suzanne Winckler",
+              "page": "132",
+              "wp_post_id": "119238",
+              "identifier": "txmo-article-198306-phantomca.json"
+            },
+            {
+              "title": "George Bush, Plucky Lad",
+              "subtitle": "",
+              "description": "Can a man be right and be president? The vice president, who still believes in all the old-fashioned boys'-novel virtues, thinks so.",
+              "byline": "Harry Hurt III",
+              "page": "138"
+            },
+            {
+              "title": "The Name Belt",
+              "subtitle": "Texas Primer",
+              "description": "Wearing one won’t make you a real live cowboy, but it sure will brand you as a modern Texan.",
+              "byline": "",
+              "page": "144"
+            },
+            {
+              "title": "It’s Just Another Day",
+              "subtitle": "",
+              "description": "Kids, house, husband—these are the natural enemies of a well-ordered day.",
+              "byline": "Prudence Mackintosh",
+              "page": "146",
+              "wp_post_id": "119223",
+              "identifier": "txmo-article-198306-itsjusta.json"
+            },
+            {
+              "title": "For Names’ Sake",
+              "subtitle": "",
+              "description": "Life is tough all over, but especially for Juniors.",
+              "byline": "Harry Hurt III",
+              "page": "150",
+              "wp_post_id": "119220",
+              "identifier": "txmo-article-198306-fornames.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Three Feet Six, Blue Tights, Red Cape",
+              "subtitle": "Kids",
+              "description": "Forget firemen and cowboys. Today’s kid wants to be a superhero.",
+              "byline": "Lawrence Wright",
+              "page": "156"
+            },
+            {
+              "title": "The Retrograde Sophisticate",
+              "subtitle": "art",
+              "description": "Danny Williams of Dallas has a clear grasp of the modern masters and unequaled ambition and skill.",
+              "byline": "Michael Ennis",
+              "page": "162"
+            },
+            {
+              "title": "Out Of the Cuckoo’s Nest",
+              "subtitle": "Health",
+              "description": "For many of Texas' mental patients, the world outside the state hospital is what's keeping them sane.",
+              "byline": "Joel Warren Barna",
+              "page": "168"
+            },
+            {
+              "title": "Midland On a String",
+              "subtitle": "Classieal Music",
+              "description": "From out of the West Texas plains comes the rich, beautiful sound of the Thouvenel String Quartet.",
+              "byline": "W. L. Taitte",
+              "page": "176"
+            },
+            {
+              "title": "The Sphinx Who Sings",
+              "subtitle": "Popular Music",
+              "description": "Austin blueswoman angela Strehli is an enigma, but there’s no secret to her success: she writes great material and sings it with unbeatable style.",
+              "byline": "Pepi Plowman",
+              "page": "184"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "On the team, off the team.",
+              "byline": "Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Better redfish than dead fish.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Hit the deck, shoot the breeze.",
+              "byline": "Patricia Sharpe",
+              "page": "18"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective statewide guide to amusements and events.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Hard times in Port arthur; the lost art of nasty correspondence lives on in Big Spring; the woes of Kathy Whitmire; the Newlywed Game comes to Midland; gloves off in the book business.",
+              "byline": "Peter applebome",
+              "page": "100"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Stoned at home.",
+              "byline": "",
+              "page": "239"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Big banks have interest in Delaware —but so far no principle; a price-fixing suit puts realtors out of commission; why some teachers don’t deserve a pav raise; a new kingmaker emerges in South Texas.",
+              "byline": "",
+              "page": "240"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

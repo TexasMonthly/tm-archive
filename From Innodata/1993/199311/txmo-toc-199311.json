@@ -1,0 +1,184 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-199311",
+    "publication": "Texas Monthly",
+    "issue": "November 1993",
+    "pdf_uri": "/1993/19931100.pdf",
+    "month": "November",
+    "year": 1993,
+    "pages": 257,
+    "document_toc_page": "3"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Art",
+              "subtitle": "All American",
+              "description": "",
+              "byline": "by Michael Ennis",
+              "page": "46"
+            },
+            {
+              "title": "Sports",
+              "subtitle": "Belle of the Balls",
+              "description": "",
+              "byline": "by Michael Geffner",
+              "page": "60"
+            },
+            {
+              "title": "Travel",
+              "subtitle": "Shining City",
+              "description": "",
+              "byline": "by Turk Pipkin",
+              "page": "74"
+            },
+            {
+              "title": "Books",
+              "subtitle": "Protection Racket",
+              "description": "",
+              "byline": "by Robert Barnstone",
+              "page": "88"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "What About Bob?",
+              "description": "",
+              "byline": "by Robert Draper",
+              "page": "5"
+            },
+            {
+              "title": "Roar off the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "State Wide Reporter",
+              "subtitle": "",
+              "description": "",
+              "byline": "by Audrey Duff, Raphael Bemporad, Courtney Saunders, Anne Dingus, Tim Fleck, and Melanie Cole",
+              "page": "106"
+            },
+            {
+              "title": "State of the Art",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "118"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "208"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "209"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Jan Jarboe",
+              "page": "248"
+            }
+          ]
+        },
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Skinny on Susan Powter",
+              "subtitle": "",
+              "description": "Who cares what it says on her résumé? Two things about the Dallas fitness guru are true: She’s lost a lot of weight, and she’s made a lot of money.",
+              "byline": "by Jan Jarboe",
+              "page": "122",
+              "wp_post_id": "127080",
+              "identifier": "txmo-article-199311-theskinny.json"
+            },
+            {
+              "title": "Six Weeks of Insanity",
+              "subtitle": "",
+              "description": "My summer on the Powter plan.",
+              "byline": "by Jan Jarboe",
+              "page": "127",
+              "wp_post_id": "127077",
+              "identifier": "txmo-article-199311-sixweeks.json"
+            },
+            {
+              "title": "Gila Hell",
+              "subtitle": "",
+              "description": "For five days, an octogenarian wildman led a group of us through the New Mexico wilderness. Somehow we survived.",
+              "byline": "by Gary Cartwright",
+              "page": "128"
+            },
+            {
+              "title": "The Trials of Senator Sweet",
+              "subtitle": "",
+              "description": "Did Kay Bailey Hutchison do what she’s accused of—or did Democratic Party officials hatch a conspiracy to get her?",
+              "byline": "by Paul Burka",
+              "page": "134",
+              "wp_post_id": "127071",
+              "identifier": "txmo-article-199311-thetrials.json"
+            },
+            {
+              "title": "The Unknown Hero",
+              "subtitle": "",
+              "description": "Happy two-hundredth birthday, Stephen F. Austin. You were the Father of Texas—and more.",
+              "byline": "by T. R. Fehrenbach",
+              "page": "136"
+            },
+            {
+              "title": "Tuff Stuff",
+              "subtitle": "",
+              "description": "Tuff Hedeman was born in El Paso and raised on rodeo. Today he’s one the best bull riders in the world.",
+              "byline": "by Jan Reid",
+              "page": "138",
+              "wp_post_id": "127062",
+              "identifier": "txmo-article-199311-tuffstuff.json"
+            },
+            {
+              "title": "Kings of the Road",
+              "subtitle": "",
+              "description": "Their surroundings may be impersonal and impermanent, but when it comes to their freedom, truckers are in the driver’s seat.",
+              "byline": "Photography by Marc F. Wise",
+              "page": "142"
+            },
+            {
+              "title": "Home Movies",
+              "subtitle": "",
+              "description": "Hollywood on the Brazos? That’s how it seemed this year, when everyone from Clint Eastwood to Drew Barrymore set up shop in Texas.",
+              "byline": "by Anne Dingus",
+              "page": "150",
+              "wp_post_id": "127056",
+              "identifier": "txmo-article-199311-homemovie.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

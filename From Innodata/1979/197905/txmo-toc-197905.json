@@ -1,0 +1,197 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-197905",
+    "publication": "Texas Monthly",
+    "issue": "May 1979",
+    "pdf_uri": "/1979/19790500.pdf",
+    "month": "May",
+    "year": 1979,
+    "pages": 236,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Never Love a Bandido",
+              "subtitle": "",
+              "description": "Someone was gunning down members of the state’s toughest motorcycle gang one at a time. Doe hoped her man wouldn’t be next.",
+              "byline": "Dick Reavis",
+              "page": "100"
+            },
+            {
+              "title": "Running Wild With Jerry Jeff",
+              "subtitle": "",
+              "description": "His friends say the king of country rock is getting mellow. The question is, mellow compared to what?",
+              "byline": "Roy Blount, Jr.",
+              "page": "108"
+            },
+            {
+              "title": "Making It",
+              "subtitle": "",
+              "description": "Six Texas artisans are busy putting the craft back in craftsmanship.",
+              "byline": "Michael Ennis",
+              "page": "110",
+              "wp_post_id": "114390",
+              "identifier": "txmo-article-197905-makingit.json"
+            },
+            {
+              "title": "I’m Afraid, You’re Afraid",
+              "subtitle": "",
+              "description": "Twenty arguments for the wisdom of being paranoid.",
+              "byline": "Vance Muse",
+              "page": "118"
+            },
+            {
+              "title": "How Cullen Davis Beat the Rap",
+              "subtitle": "",
+              "description": "It wasn’t easy and it wasn’t cheap. But was it justice?",
+              "byline": "Gary Cartwright",
+              "page": "124"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Cooks Tour De Force",
+              "subtitle": "Lifestyles",
+              "description": "Who cares about the food when the cook is Truman Capote?",
+              "byline": "Patricia Sharpe",
+              "page": "132"
+            },
+            {
+              "title": "Persecution Complex?",
+              "subtitle": "Religion",
+              "description": "Sherman’s First United Pentecostal Church believes persecution is good for the soul.",
+              "byline": "John Bloom",
+              "page": "141"
+            },
+            {
+              "title": "All That Litters",
+              "subtitle": "Country Notes",
+              "description": "Trash collectors are not necessarily garbage men.",
+              "byline": "John Graves",
+              "page": "150"
+            },
+            {
+              "title": "Adults Only",
+              "subtitle": "Film",
+              "description": "The Innocent isn’t really for innocents. Hair isn’t really for anybody.",
+              "byline": "George Morris",
+              "page": "161"
+            },
+            {
+              "title": "This Little Play Goes To Market",
+              "subtitle": "Theater",
+              "description": "Dallas Theater Center’s third Playmarket offers a crop of fresh plays. Plus, short musings on other Texas treasures.",
+              "byline": "W. L. Taitte",
+              "page": "166"
+            },
+            {
+              "title": "A Fright At the Opera",
+              "subtitle": "Classical Music",
+              "description": "Houston Grand Opera took the sugar out of La Traviata. Fort Worth Sym- phony’s John Giordano does modern music Rite.",
+              "byline": "W. L. Taitte",
+              "page": "173"
+            },
+            {
+              "title": "Say Uncle",
+              "subtitle": "Popular Music",
+              "description": "You may have to bar hop to find austin’s best-kept musical secret—Uncle Walt’s Band. And, presenting the annual Buddy magazine music awards, sealed with a kiss.",
+              "byline": "Joe Nick Patoski",
+              "page": "178"
+            },
+            {
+              "title": "The Vienna Goods",
+              "subtitle": "Art",
+              "description": "Austrian artists entered the twentieth century a few years early.",
+              "byline": "Michael Ennis",
+              "page": "182"
+            },
+            {
+              "title": "Teachers’ Threat",
+              "subtitle": "Books",
+              "description": "A professional educator flunks the test. He asks all the wrong questions and gives the wrong answers.",
+              "byline": "Gene Lyons",
+              "page": "186"
+            },
+            {
+              "title": "In the Beginning",
+              "subtitle": "Church",
+              "description": "We gather together to ask the Lord’s blessing; we chasten and hasten to tell you all about it.",
+              "byline": "William C. Martin",
+              "page": "193"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "On winning the National Magazine a ward.",
+              "byline": "William Broyles, Jr.",
+              "page": "5"
+            },
+            {
+              "title": "The Inside Story",
+              "subtitle": "",
+              "description": "The better half.",
+              "byline": "Gregory Curtis",
+              "page": "6"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "The Devil and the deep blue sea.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Touts",
+              "subtitle": "",
+              "description": "Bull, bucks, and candle.",
+              "byline": "Patricia Sharpe",
+              "page": "14"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A guide to entertainment and events of more than usual interest.",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "The Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Playing chicken on the Houston Ship Channel; jousting with 700-year-old knights; will John Hill run for governor again?",
+              "byline": "John Bloom",
+              "page": "82"
+            },
+            {
+              "title": "Texas Monthly Puzzle",
+              "subtitle": "",
+              "description": "Star quality.",
+              "byline": "",
+              "page": "231"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Teeing off women; Texas gets gassed again.",
+              "byline": "",
+              "page": "232"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

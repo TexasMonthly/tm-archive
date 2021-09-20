@@ -1,0 +1,136 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-198906",
+    "publication": "Texas Monthly",
+    "issue": "June 1989",
+    "pdf_uri": "/1989/19890600.pdf",
+    "month": "June",
+    "year": 1989,
+    "pages": 168,
+    "document_toc_page": "5"
+  },
+  "toc": [
+    {
+      "heading": "Contents June",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "The Work Of the Devil",
+              "subtitle": "",
+              "description": "The disappearance of a University of Texas student in Matamoros led police to the discovery of a drug-dealing cult whose rituals were not only unholy but unthinkable.",
+              "byline": "by Gary Cartwright",
+              "page": "78"
+            },
+            {
+              "title": "Rock Bottom",
+              "subtitle": "",
+              "description": "A series of terrible decisions and bad breaks ruined Gibraltar Savings. Is rescuing it another mistake?",
+              "byline": "by Peter Elkind",
+              "page": "84"
+            },
+            {
+              "title": "It Can Happen Here",
+              "subtitle": "",
+              "description": "as the banking crisis of the future unfolds, the president will try to convince us that the only thing we have to fear is fear itself. Too bad we won’t believe him.",
+              "byline": "by Robert Bamstone",
+              "page": "87"
+            },
+            {
+              "title": "The Perfect Hill Country Weekend",
+              "subtitle": "",
+              "description": "An excursion through the best part of Texas, featuring sleepy little towns, clear little streams, pluperfect biscuits, and two-headed goats.",
+              "byline": "by Patricia Sharpe",
+              "page": "88"
+            },
+            {
+              "title": "Bathing Beauty",
+              "subtitle": "",
+              "description": "Suit yourself this summer with elegant, classic swimwear.",
+              "byline": "Photography by Sally Gall",
+              "page": "96"
+            },
+            {
+              "title": "The Long, Strange Trip Of Ed Bass",
+              "subtitle": "",
+              "description": "Interesting things can happen when a man with an unusual vision also has an unusual amount of money.",
+              "byline": "by Joe Nick Patoski and Bill Crawford",
+              "page": "102",
+              "wp_post_id": "124959",
+              "identifier": "txmo-article-198906-thelongs.json"
+            },
+            {
+              "title": "Kid With a Gun",
+              "subtitle": "",
+              "description": "In his lifetime audie Murphy traveled from the cold reality of World War II to the ultimate illusion of Hollywood.",
+              "byline": "by Don Graham",
+              "page": "106",
+              "wp_post_id": "124956",
+              "identifier": "txmo-article-198906-kidwitha.json"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "Soviet Idealism",
+              "subtitle": "Art",
+              "description": "In a Fort Worth exhibit of Russian and american paintings, two groups of artists use the same vocabulary to express profoundly different views of life and art.",
+              "byline": "by Michael Ennis",
+              "page": "110"
+            },
+            {
+              "title": "Moving On",
+              "subtitle": "Books",
+              "description": "Dave Hickey’s fine short stories are enhanced by their scarcity; Texas expatriate William Humphrey takes us on the Cherokees’ Trail of Tears.",
+              "byline": "by Suzanne Winckler",
+              "page": "114"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Not so hard-core.",
+              "byline": "by Gregory Curtis",
+              "page": "5"
+            },
+            {
+              "title": "The Roar Of the Crowd",
+              "subtitle": "",
+              "description": "Flying high on low tech; facing a painful and complex issue; waging war on pests.",
+              "byline": "",
+              "page": "10"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "A selective guide to amusements and events.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "Reporter",
+              "subtitle": "",
+              "description": "Triple threat: Scientists fret that an underground nuclear dump will pollute the Pecos; surveyors set off a storm over the center of Texas; cities sweat safety risks from stolen aluminum.",
+              "byline": "Edited by Tom Curtis",
+              "page": "70"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "A barbecue shrine is rescued from the pit of despair; Boone Pickens gets gassed in an amarillo political war; Bill Clements blocks a wildlife refuge for Texas.",
+              "byline": "",
+              "page": "164"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

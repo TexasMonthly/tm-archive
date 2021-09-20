@@ -1,0 +1,81 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19798",
+    "date": "August 1979",
+    "year": 1979,
+    "month": 8,
+    "month_formatted": "August",
+    "pdf_uri": "/1979/19790800.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 84,
+    "toc_start_page": 82,
+    "document_page_range": [
+      [
+        84,
+        85
+      ]
+    ],
+    "toc_order": 4,
+    "toc_headline": "Ten Giant Steps To Disaster",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-197908-tengiant",
+  "source": "/1979/19790800.pdf",
+  "wp_post_id": 113979,
+  "wp_post_guid": "http://www.texasmonthly.com/article/ten-giant-steps-to-disaster/",
+  "authors": [
+    "Paul Burka"
+  ],
+  "headline": "Ten Giant Steps To Disaster",
+  "dek": "Here's how we got in the fix we're in.",
+  "spread_caption": "",
+  "excerpt": "How did we get into this sorry energy mess? By making sorry decisions.",
+  "kicker": "",
+  "word_count": 809,
+  "content": "<p><strong>1848: the Treaty Of Guadalupe Hidalgo.</strong> after conquering Mexico, the U.S. decides to keep only what is now South Texas, California, and the american Southwest, and gives up the rest of Mexico—including what may turn out to be the world’s largest oil field—without even demanding the mineral rights.</p><p><strong>1938: Mexico Nationalizes the Oil Industry.</strong> angered by oil company refusals to improve working conditions, Mexican President Lázaro Cardenas nationalizes the oil industry. The companies respond by boycotting Mexican oil; the american ambassador predicts Mexicans “will drown in their own oil.” Production that once supplied a fourth of the world’s oil is lost, Mexico’s economic development is stalled for decades, and the lingering bitterness affects U.S.-Mexico relations through the seventies.</p><p><strong>1950: the Foreign Tax Credit.</strong> The State Department, eager to funnel american dollars to anticommunist arabs but fearful that foreign aid won’t be approved by Congress, hits on a solution: let oil companies count their profitsharing with foreign governments as foreign income taxes, and reduce their U.S. taxes accordingly. Foreign policy in the Middle East is thus effectively abdicated to the oil companies. For the next two decades, the fateful decisions that will determine the course of U.S. relations in the Middle East are made by the companies, not the State Department.</p><p><strong>1956: Eisenhower Vetoes the Natural Gas Act.</strong> Congress tries to undo the Supreme Court’s 1954 <em>Phillips</em> decision, which gave the Federal Power Commission the right to set the wellhead price of natural gas sold in the interstate market, but President Eisenhower vetoes the bill when a senator reports a bribe attempt. For the next twenty years Congress will fight over deregulation without passing a bill; meanwhile, the artificially low regulated price has the disastrous effect of encouraging profligate consumption while discouraging new exploration.</p><p><strong>1958: the Oil Import Quota.</strong> Congress bows to pressure from smaller domestic producers and limits imports of cheap Middle East oil in order to keep domestic prices up. For the next thirteen years we use up our own oil when Middle Eastern oil is readily available at a much lower price; later, when domestic production starts to fall off, we have to increase imports—but the oil isn’t cheap anymore.</p><p><strong>1960: the Formation Of Opec.</strong> Faced with an oil glut, Exxon decides to cut what it will pay for Middle Eastern oil by ten cents a barrel. Offended at not being consulted as well as by the loss of hundreds of millions of dollars in revenue, five producing countries send representatives to a conference in Baghdad. Saudi arabia, Kuwait, Iraq, Iran, and Venezuela agree to form the Organization of Petroleum Exporting Countries, a cartel aimed at upping the price of crude.</p><p><strong>1969-1973: the Hunts Challenge Qadaffi In Libya.</strong> Dallas’ Bunker Hunt, who has the largest oil concession in Libya, decides Libyan strongman Muamer Qadaffi’s demands for a bigger share of the profits are excessive and his threats of nationalization a bluff. He finds out otherwise: Qadaffi nationalizes the Hunt concession, saying the U.S. needs “a good hard slap on its cool and insolent face.” Qadaffi’s success is a signal to other arab nations that they can be as greedy as they want. The Libyans threaten to cut off all exports to the U.S. if american support of Israel continues; shortly thereafter OPEC meets to consider for the first time the use of oil as a political weapon.</p><p><strong>1973-77: Washington Perpetuates the Dream Of Cheap Energy.</strong> The Nixon administration’s response to the arab embargo is to keep domestic oil at an artificially low price, allowing demand for gasoline to keep rising and our oil reserves to keep falling. Relative to inflation, gasoline in 1977 is no more expensive than it was in the early sixties. Nevertheless Congress twice refuses to decontrol oil or deregulate natural gas. The controlled low price of energy defeats calls for sacrifice and conservation and makes the nation even more dependent on foreign oil.</p><p><strong>1978: Collapse Of the Mexican Gas Deal.</strong> The U.S. loses two billion cubic feet of natural gas a day—enough to meet this country’s industrial gas needs for more than two months every year at current consumption rates—when energy czar James Schlesinger objects to the price agreed upon by U.S. companies and Pemex, the Mexican national oil company. Mexico abandons plans to complete a pipeline to the Rio Grande and decides to sell to countries that realize a guaranteed supply is more important than the lowest possible price.</p><p><strong>1979: the Fall Of the Shah.</strong> The Iranian revolution catches the U.S. by surprise. We can neither save the Shah (not worth the trouble) nor keep Iran’s oil flowing (worth the trouble). At the very least, had the government or the oil companies caught on to the Shah’s weakness, the companies could have stockpiled crude instead of letting their inventories dwindle, and we wouldn’t have been worried about gas lines or talking about rationing until at least next summer.</p><img/><p>Illustration by Tom Curry</p>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "August 1979",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "Oil",
+      "gas",
+      "Congress",
+      "Natural Gas",
+      "gasoline",
+      "Giant",
+      "Mexico",
+      "ten",
+      "Cartel",
+      "Conservation",
+      "Deregulation",
+      "Exxon",
+      "Government",
+      "hunt",
+      "limits",
+      "Nixon",
+      "OPEC",
+      "Power",
+      "rio",
+      "Rio Grande"
+    ],
+    "wp_categories": [
+      "Energy"
+    ],
+    "wp_location": [
+      "Washington"
+    ]
+  }
+}

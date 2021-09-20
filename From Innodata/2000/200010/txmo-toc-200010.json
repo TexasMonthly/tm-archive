@@ -1,0 +1,187 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-200010",
+    "publication": "Texas Monthly",
+    "issue": "October 2000",
+    "pdf_uri": "/2000/20001000.pdf",
+    "month": "October",
+    "year": 2000,
+    "pages": 250,
+    "document_toc_page": "5,7"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "Features",
+          "toc_entry": [
+            {
+              "title": "Can’t Buy Me Love",
+              "subtitle": "",
+              "description": "Take one of the nation’s wealthiest men, the enigmatic, Egyptian-born Fayez Sarofim. Add his socialite first wife and her brassy successor. Stir in River Oaks mansions and greedy lawyers, boatloads of money and oceans of booze. Mix it all together and what do you get? a hell of a mess that’s the talk of Houston.",
+              "byline": "by Skip Hollandsworth",
+              "page": "124"
+            },
+            {
+              "title": "Splendor in the Grass",
+              "subtitle": "",
+              "description": "Thirty years ago J. David Bamberger bought “the worst piece of land in Blanco County,” then cleared the cedar and planted native trees and grasses. Today his ranch is a haven for birders, environmentalists, and students—and he is a revered guru of land stewardship.",
+              "byline": "by Joe Nick Patoski",
+              "page": "130",
+              "wp_post_id": "149319",
+              "identifier": "txmo-article-200010-splendori.json"
+            },
+            {
+              "title": "My Daddy",
+              "subtitle": "",
+              "description": "In this excerpt from her just-published memoir, Natural Blonde, syndicated gossip columnist Liz Smith remembers her Fort Worth childhood and life with father.",
+              "byline": "",
+              "page": "134",
+              "wp_post_id": "149454",
+              "identifier": "txmo-article-200010-mydaddy.json"
+            },
+            {
+              "title": "This Place Is a Zoo",
+              "subtitle": "",
+              "description": "Want to get up close and personal with kudus and kangaroos, tigers and toucans, okapi and orangutans? We’re especially fauna these zoos, the ten best in the state.",
+              "byline": "by anne Dingus, John Morthland, Eileen Schwartz, and Katy Vine",
+              "page": "138"
+            },
+            {
+              "title": "Get With the Program",
+              "subtitle": "",
+              "description": "Two-four-six-eight, who do we appreciate? San antonio businessman Jack DeVere, whose collection of Texas football memorabilia evokes a simpler, more innocent time.",
+              "byline": "by Jordan Mackay",
+              "page": "146",
+              "wp_post_id": "149451",
+              "identifier": "txmo-article-200010-getwitht.json"
+            },
+            {
+              "title": "It’s Rick Perry’s Party Now",
+              "subtitle": "",
+              "description": "Sophisticated, likable politician? arrogant, not-ready-for-prime-time player? He’s both—as well as the presumptive next governor of Texas.",
+              "byline": "by Patricia Kilday Hart",
+              "page": "150"
+            }
+          ]
+        },
+        {
+          "section_heading": "Departments",
+          "toc_entry": [
+            {
+              "title": "The Pits",
+              "subtitle": "Books",
+              "description": "The problem with Mary Karr's latest confessional memoir, Cherry, is that she won’t stop confessing.",
+              "byline": "by Don Graham",
+              "page": "70"
+            },
+            {
+              "title": "Bigger Bend",
+              "subtitle": "Travel",
+              "description": "Rising high above the floor of the Chihuahuan Desert, Mexico’s Museo Maderas del Carmen nature reserve is like a whole other country.",
+              "byline": "by Joe Nick Patoski",
+              "page": "76"
+            },
+            {
+              "title": "Babin Fever",
+              "subtitle": "Profile",
+              "description": "Woodville's Lucas Babin may be this year’s model, but when he left for L.a. to make it big, he had no idea that he’d have such a smooth landing on the runway.",
+              "byline": "by Eileen Schwartz",
+              "page": "82"
+            },
+            {
+              "title": "Unsung",
+              "subtitle": "Music",
+              "description": "On the record with Chris Strachwitz, whose arhoolie label has quietly built the world’s best collection of indigenous Texas music.",
+              "byline": "by John Morthland",
+              "page": "112"
+            },
+            {
+              "title": "Sour Grapes",
+              "subtitle": "Food And Drink",
+              "description": "For nearly 25 years the state’s wineries have struggled to mature. Will Texas wines ever go well with anything?",
+              "byline": "",
+              "page": "118"
+            }
+          ]
+        },
+        {
+          "section_heading": "Miscellany",
+          "toc_entry": [
+            {
+              "title": "Behind the Lines",
+              "subtitle": "",
+              "description": "Ross Perot’s lost legacy.",
+              "byline": "by Paul Burka",
+              "page": "7"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "Free Greg Ott? Maybe not.",
+              "byline": "",
+              "page": "14"
+            },
+            {
+              "title": "State Secrets",
+              "subtitle": "",
+              "description": "Justice for Medicaid?",
+              "byline": "by Patricia Kilday Hart",
+              "page": "19"
+            },
+            {
+              "title": "Texas Monthly Reporter",
+              "subtitle": "",
+              "description": "Archer City brings up the lights on the Royal Theater. Plus: Lee ann Womack’s radio days; Don Graham rereads alpaca; Juan Miró builds his legacy in austin, by Katy Vine.",
+              "byline": "Edited by Brian D. Sweany",
+              "page": "23"
+            },
+            {
+              "title": "Hot Box",
+              "subtitle": "",
+              "description": "CDs by Willie Nelson, Barbara Lynn, and the Deathray Davies; books by Joe R. Lansdale and Bill Crawford.",
+              "byline": "",
+              "page": "30"
+            },
+            {
+              "title": "Around the State",
+              "subtitle": "",
+              "description": "Women go on display in Dallas. Plus: a natural promotion from Texas Parks and Wildlife; gut times at Beaumont’s Best of Texas International Music awards; O. Henry’s paper trail in austin; and musician Jason Moran comes home to Houston.",
+              "byline": "Edited by Brian D. Sweany, Katy Vine, and Eileen Schwartz",
+              "page": "34"
+            },
+            {
+              "title": "Texas Monthly Biz",
+              "subtitle": "",
+              "description": "Wayne Reaud’s hard drive against Compaq Computer. Plus: The Texas stock to buy right now; the Internet faces the music; Bush’s fat cats hit the bottom line.",
+              "byline": "",
+              "page": "57"
+            },
+            {
+              "title": "State Fare",
+              "subtitle": "",
+              "description": "Houston’s Tony Ruppe’s has got your goat cheese.",
+              "byline": "by Patricia Sharpe",
+              "page": "218"
+            },
+            {
+              "title": "Restaurant Guide",
+              "subtitle": "",
+              "description": "",
+              "byline": "Edited by Patricia Sharpe, Patricia Busa McConnico, Eileen Schwartz, and Jennifer Olsen",
+              "page": "218"
+            },
+            {
+              "title": "Texas Primer",
+              "subtitle": "",
+              "description": "How many monkeys did Frank Buck capture?",
+              "byline": "by anne Dingus",
+              "page": "244"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
