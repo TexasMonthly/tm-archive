@@ -78,7 +78,7 @@
               "page": "86"
             },
             {
-              "title": "State of the art",
+              "title": "State of the Art",
               "subtitle": "",
               "description": "",
               "byline": "",
@@ -104,6 +104,13 @@
               "description": "",
               "byline": "Edited by Paul Burka",
               "page": "204"
+            },
+            {
+              "title": "Cover",
+              "subtitle": "",
+              "description": "",
+              "byline": "Typography and graphics by David Kampa",
+              "page": ""
             }
           ]
         },
@@ -113,20 +120,16 @@
             {
               "title": "The Evening Star",
               "subtitle": "",
-              "description": "In an exclusive excerpt from the sequel to Terms of Endearment, aurora Greenway muddles through her last fling.",
+              "description": "In an exclusive excerpt from the sequel to Terms of Endearment, Aurora Greenway muddles through her last fling.",
               "byline": "by Larry McMurtry",
-              "page": "102",
-              "wp_post_id": "126936",
-              "identifier": "txmo-article-199205-theevenin.json"
+              "page": "102"
             },
             {
               "title": "The Case For Castration",
               "subtitle": "",
               "description": "Critics call it brutal and barbaric, but it may be the most effective treatment for sex offenders.",
               "byline": "by Lawrence Wright",
-              "page": "108",
-              "wp_post_id": "126933",
-              "identifier": "txmo-article-199205-thecasef.json"
+              "page": "108"
             },
             {
               "title": "Gimme a Break",
@@ -140,22 +143,22 @@
               "subtitle": "",
               "description": "Maybe not. But then again, the veteran Texas pol has never taken no for an answer.",
               "byline": "by Jan Jarboe",
-              "page": "120"
+              "page": "120",
+			  "wp_post_id": 126927,
+              "identifier": "TXMO-ARTICLE-199205-canbobst.json"			  
             },
             {
               "title": "Endless Winter",
               "subtitle": "",
               "description": "The fire of democracy has yet to warm Moscow’s soul.",
               "byline": "by Jan Jarboe",
-              "page": "124",
-              "wp_post_id": "126924",
-              "identifier": "txmo-article-199205-endlesswi.json"
+              "page": "124"
             },
             {
-              "title": "Lakes alive!",
+              "title": "Lakes Alive!",
               "subtitle": "",
               "description": "A trip to the Hill Country’s quirky gems will cool your city sensibilities.",
-              "byline": "by David a. Anderson",
+              "byline": "by David A. Anderson",
               "page": "126"
             },
             {

@@ -20,7 +20,7 @@
               "title": "Never Say Die",
               "subtitle": "Politics",
               "description": "",
-              "byline": "by audrey Duff",
+              "byline": "by Audrey Duff",
               "page": "50"
             },
             {
@@ -41,7 +41,7 @@
               "title": "Street Stories",
               "subtitle": "Books",
               "description": "",
-              "byline": "by anne Dingus",
+              "byline": "by Anne Dingus",
               "page": "76"
             },
             {
@@ -81,11 +81,11 @@
               "title": "State Wide Reporter",
               "subtitle": "",
               "description": "",
-              "byline": "by Helen Thompson, Dan Michalski, anne Dingus, Janet Schuler, Robert Draper",
+              "byline": "by Helen Thompson, Dan Michalski, Anne Dingus, Janet Schuler, Robert Draper",
               "page": "92"
             },
             {
-              "title": "State of the art",
+              "title": "State of the Art",
               "subtitle": "",
               "description": "",
               "byline": "",
@@ -109,8 +109,15 @@
               "title": "State Secrets",
               "subtitle": "",
               "description": "",
-              "byline": "Edited by Raul Burka",
+              "byline": "Edited by Paul Burka",
               "page": "232"
+            },
+			{
+              "title": "Cover",
+              "subtitle": "",
+              "description": "",
+              "byline": "Photograph by Andrew Eccles",
+              "page": ""
             }
           ]
         },
@@ -136,12 +143,10 @@
               "subtitle": "",
               "description": "Fire may have destroyed the oak tree at Crider’s Hill Country dance hall, but our fond memories of it will always live on.",
               "byline": "by Kathy Lowry",
-              "page": "118",
-              "wp_post_id": "127137",
-              "identifier": "txmo-article-199310-thelastd.json"
+              "page": "118"
             },
             {
-              "title": "“I Knew I Had Been Hit”",
+              "title": "I Knew I Had Been Hit",
               "subtitle": "",
               "description": "In a chilling excerpt from his autobiography, the late John Connally offers his close-up account of the Kennedy assassination.",
               "byline": "by John Connally with Mickey Herskowitz",
@@ -157,9 +162,11 @@
             {
               "title": "Sex Shooters",
               "subtitle": "",
-              "description": "Ann-Margret, get your gun: a celebration of pistolpackin’ celluloid cowgirls.",
-              "byline": "by anne Dingus",
-              "page": "128"
+              "description": "Ann-Margret, get your gun: A celebration of pistolpackin’ celluloid cowgirls.",
+              "byline": "by Anne Dingus",
+              "page": "128",
+			  "wp_post_id": 127122,
+              "identifier": "TXMO-ARTICLE-199310-sexshoote.json"				  
             }
           ]
         }

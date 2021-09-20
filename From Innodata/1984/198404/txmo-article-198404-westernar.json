@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19844",
+    "date": "April 1984",
+    "year": 1984,
+    "month": 4,
+    "month_formatted": "April",
+    "pdf_uri": "/1984/19840400.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 163,
+    "toc_start_page": 161,
+    "document_page_range": [
+      163
+    ],
+    "toc_order": 10,
+    "toc_headline": "Western Art: The Great World-Rim Being",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198404-westernar",
+  "source": "/1984/19840400.pdf",
+  "wp_post_id": 120321,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-the-great-world-rim-being/",
+  "authors": [
+    "by Anita Kunz"
+  ],
+  "headline": "The Great World-Rim Being",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "A fresh interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "April 1984",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19842",
+    "date": "February 1984",
+    "year": 1984,
+    "month": 2,
+    "month_formatted": "February",
+    "pdf_uri": "/1984/19840200.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 129,
+    "toc_start_page": 127,
+    "document_page_range": [
+      129
+    ],
+    "toc_order": 8,
+    "toc_headline": "Western Art: Service Road",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198402-servicero",
+  "source": "/1984/19840200.pdf",
+  "wp_post_id": 120459,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-service-road/",
+  "authors": [
+    "Thomas Woodruff"
+  ],
+  "headline": "Service Road",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "February 1984",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

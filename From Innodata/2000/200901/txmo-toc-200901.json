@@ -1,0 +1,202 @@
+{
+  "issue": {
+    "identifier": "TXMO-ISSUE-200901",
+    "publication": "Texas Monthly",
+    "issue": "January 2009",
+    "pdf_uri": "/2009/20090100.pdf",
+    "month": "January",
+    "year": 2009,
+    "pages": 172,
+    "document_toc_page": "5,8"
+  },
+  "toc": [
+    {
+      "heading": "Texas Monthly",
+      "section": [
+        {
+          "section_heading": "(Features)",
+          "toc_entry": [
+            {
+              "title": "Holding Garmsir",
+              "subtitle": "",
+              "description": "Fighting the Taliban, the 130-degree heat, the boredom, the homesickness, and the weight of history with the Marines of Mustang Platoon in afghanistan.",
+              "byline": "By John Spong",
+              "page": "86"
+            },
+            {
+              "title": "The 2009 Bum Steer awards",
+              "subtitle": "",
+              "description": "It was a year of abbreviated aggies, bamboozling boxers, charged Cuban, dumb district attorneys, estrogen-packed elevators, famished firemen, graveyard ganja, half-wit husbands, imaginary illegal immigrants, Jessica jests, koncert kayos, lawn-watering Lance, muddled Moron, next-of-kin-offending newspapers, oblivious operators, pornographic prom dresses, questionable quiz takers, repulsive Roger, stolen shih tzus, tasteless team spirit, useless urine, victimized valedictorians, waning W., x-traneous Xmas trees, yelping Yahoo, and zany zoophiles.",
+              "byline": "",
+              "page": "76"
+            },
+            {
+              "title": "The Idiot’s Guide to The Speaker’s Race",
+              "subtitle": "",
+              "description": "How it works, what it means, and why Tom Craddick may not end up holding the gavel this time around.",
+              "byline": "By Paul Burka",
+              "page": "98",
+              "wp_post_id": "103281",
+              "identifier": "txmo-article-200901-theidiots.json"
+            },
+            {
+              "title": "Children of The Storm",
+              "subtitle": "",
+              "description": "After Hurricane Katrina, Rhonda Tavey selflessly opened her Houston home to a New Orleans evacuee and five of her children. She fed the kids, bathed them, and grew to love them so much that when their mother tried to take them back to Louisiana, she wouldn't let them go.",
+              "byline": "By Mimi Swartz",
+              "page": "102"
+            }
+          ]
+        },
+        {
+          "section_heading": "Reporter",
+          "toc_entry": [
+            {
+              "title": "IntheChute",
+              "subtitle": "",
+              "description": "El Paso’s Chamber Music Festival, Hallettsville's domino championship.",
+              "byline": "",
+              "page": "20"
+            },
+            {
+              "title": "The Horse's Mouth",
+              "subtitle": "",
+              "description": "Kenny Thompson on planning Obama's campaign events.",
+              "byline": "",
+              "page": "24"
+            },
+            {
+              "title": "The Working Life",
+              "subtitle": "",
+              "description": "Chad Jistel, locomotive engineer.",
+              "byline": "",
+              "page": "26"
+            },
+            {
+              "title": "The Texanist",
+              "subtitle": "",
+              "description": "When can a child receive his first gun?",
+              "byline": "",
+              "page": "32"
+            },
+            {
+              "title": "The Manual",
+              "subtitle": "",
+              "description": "How to rope a calf.",
+              "byline": "",
+              "page": "36"
+            },
+            {
+              "title": "Street Smarts",
+              "subtitle": "",
+              "description": "Washington avenue, Houston.",
+              "byline": "",
+              "page": "38"
+            },
+            {
+              "title": "Music",
+              "subtitle": "Previews+Reviews",
+              "description": "The Gourds, Cedar Walton, the Theater Fire.",
+              "byline": "",
+              "page": "40"
+            },
+            {
+              "title": "Books",
+              "subtitle": "Previews+Reviews",
+              "description": "Scott Blackwood, Robb Walsh.",
+              "byline": "",
+              "page": "44"
+            },
+            {
+              "title": "Hollywood, TX",
+              "subtitle": "",
+              "description": "Enough with all the high-minded sports movies!",
+              "byline": "",
+              "page": "46"
+            },
+            {
+              "title": "Texas Monthly Talks",
+              "subtitle": "",
+              "description": "Sheila Jackson Lee on the age of Obama.",
+              "byline": "",
+              "page": "54"
+            },
+            {
+              "title": "Contributors",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "8"
+            },
+            {
+              "title": "Roar of the Crowd",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "16"
+            },
+            {
+              "title": "Editor's Letter",
+              "subtitle": "",
+              "description": "",
+              "byline": "",
+              "page": "18"
+            },
+            {
+              "title": "Dining",
+              "subtitle": "The Filter",
+              "description": "",
+              "byline": "",
+              "page": "109"
+            }
+          ]
+        },
+        {
+          "section_heading": "(Behind the Lines)",
+          "toc_entry": [
+            {
+              "title": "Emergency!",
+              "subtitle": "",
+              "description": "Why are the UT regents letting Galveston's only hospital die?",
+              "byline": "By Mimi Swartz",
+              "page": "10"
+            }
+          ]
+        },
+        {
+          "section_heading": "(Columns)",
+          "toc_entry": [
+            {
+              "title": "Baghdad, Mexico",
+              "subtitle": "",
+              "description": "In 2008 Juarez became a war zone. What happens next?",
+              "byline": "By Sito Negron",
+              "page": "60"
+            },
+            {
+              "title": "The Long Goodbye",
+              "subtitle": "",
+              "description": "I've treated hundreds of elderly patients with alzheimer's. Now the disease is stealing my own father.",
+              "byline": "By Jerald Winakur",
+              "page": "66"
+            },
+            {
+              "title": "The New New Deal",
+              "subtitle": "",
+              "description": "What University of Texas historian H. W. Brands's new biography of Franklin Roosevelt tells us about the Obama administration.",
+              "byline": "By Michael Ennis",
+              "page": "70"
+            },
+            {
+              "title": "Poi Dog Pondering",
+              "subtitle": "",
+              "description": "An open letter to the president-elect.",
+              "byline": "By Kinky Friedman",
+              "page": "168"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-198612",
+    "date": "December 1986",
+    "year": 1986,
+    "month": 12,
+    "month_formatted": "December",
+    "pdf_uri": "/1986/19861200.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 130,
+    "toc_start_page": 130,
+    "document_page_range": [
+      [
+        130,
+        131
+      ]
+    ],
+    "toc_order": 1,
+    "toc_headline": "How To Get Rich By ’96!",
+    "toc_kicker": "",
+    "cover_cut_line": "How To Get Rich By 96!"
+  },
+  "identifier": "TXMO-ARTICLE-198612-howtoget",
+  "source": "",
+  "wp_post_id": 120612,
+  "wp_post_guid": "http://www.texasmonthly.com/article/how-to-get-rich-by-96/",
+  "authors": [
+    "Emily Yoffe"
+  ],
+  "headline": "How to Get Rich by '96!",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "",
+  "kicker": "",
+  "word_count": 86,
+  "content": "<img/><img/><p>1986: What a mess. 1996: Whew! We’re glad all that’s behind us. We knew things would be great once we arrived. You’re wondering how to get from here to there? Easy. With this essential guide you’ll find out where to put your money now, what savvy business decisions Texans are making today, why it makes sense to open a bank, where Texas’ next frontier really is, what lessons can be learned from New York City’s turnaround, plus words of wisdom from famous kibitzers.</p><p>Photograph By Jim Myers</p>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "December 1986",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "Business",
+      "Frontier",
+      "money",
+      "New York",
+      "Texans"
+    ],
+    "wp_categories": [
+      "Business"
+    ],
+    "wp_location": []
+  }
+}

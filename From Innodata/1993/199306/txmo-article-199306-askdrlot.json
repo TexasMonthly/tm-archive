@@ -1,0 +1,79 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19936",
+    "date": "June 1993",
+    "year": 1993,
+    "month": 6,
+    "month_formatted": "June",
+    "pdf_uri": "/1993/19930600.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 128,
+    "toc_start_page": 125,
+    "document_page_range": [
+      128
+    ],
+    "toc_order": 15,
+    "toc_headline": "Ask Dr. Lotto",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-199306-askdrlot",
+  "source": "/1993/19930600.pdf",
+  "wp_post_id": 127545,
+  "wp_post_guid": "http://www.texasmonthly.com/article/ask-dr-lotto/",
+  "authors": [
+    "R. D."
+  ],
+  "headline": "Ask Dr. Lotto",
+  "dek": "Everything you should know about the “game of Texas.”",
+  "spread_caption": "",
+  "excerpt": "Where the money goes, how winners get paid, and other true facts.",
+  "kicker": "",
+  "word_count": 726,
+  "content": "<img/><p><strong>Snapshots of lottery winners adorn the wall of this East Texas convenience store.</strong></p><p><strong>When you buy a lottery ticket, where does your dollar go?</strong></p><p>Currently, 45 cents goes into the prize pool. At the end of august, however, this amount will rise to 55 cents. The share that goes into the state treasury to help fund the state budget will drop from 35 cents to 30 cents. The hope is that larger prizes will attract more ticket buyers. The remaining 15 cents will be divided among the comptroller’s office, for administrative costs (5 cents); the retailers, as commission for selling tickets (5 cents); Gtech, for operating the lottery (4 cents); and retailers who sell a winning lotto ticket (1 cent).</p><p><strong>What does the state do with its money?</strong></p><p>It goes into the general revenue fund, which can be spent on anything in the state budget. Well over half of the general revenue fund is spent on health and human services, education, and prisons.</p><p><strong>Why doesn’t all the revenue go to education, as is widely perceived?</strong></p><p>In 1991 the Legislature decided against dedicating all net lottery proceeds to the state education budget, and it defeated a similar provision this session. But the idea keeps resurfacing. Opponents say that the public schools should not have to depend on such an uncertain source of funding. They point to California, where a decline in lottery revenues during the late eighties resulted in cuts in the education budget. Still, roughly half of the states with lotteries continue to dedicate some or all of their lottery dollars to a variety of causes: to senior citizens in Pennsylvania, to transportation in arizona, to the arts in Massachusetts, and to water conservation projects in Colorado.</p><p><strong>How do you get the money you win playing the instant games?</strong></p><p>If you scratch an instant ticket and your prize is less than $600, you can cash in your ticket at any lottery retailer. At least you’re supposed to be able to. A number of retailers have shown a reluctance to pay out awards of $100 and up. In any event, a prize greater than $599 must be redeemed at 1 of the 24 claim offices scattered throughout the state. Still, there’s no guarantee you’ll get everything that you’ve won. Before the state hands over the money, it runs a computer check to see if the winner is delinquent in child-support payments or owes state taxes or student loans. Whatever is owed is deducted from the winnings.</p><p><strong>How do you win at lotto?</strong></p><p>Correctly guess three of the six numbers and you win $3. If you guess four or five out of the six, your winnings can range from less than $100 to several thousand dollars, depending on the size of the jackpot and the number of other winners. The players who get all six numbers right split the jackpot, which thus far has ranged from $2 million to $50 million.</p><p><strong>Does this mean that millions of dollars are sitting in the state treasury waiting to be won?</strong></p><p>No. Here’s how it works: after a lotto drawing for a jackpot worth, say, $4 million fails to produce any winners, lottery officials determine the rollover—that is, how much the pot will be increased for the next drawing. The bigger the jackpot, the greater the sales; so the incentive is great to jack up the $4 million pot to something like $8 million. But before any decision is reached, the officials estimate how much ticket revenue the higher jackpot will produce and factor in the cost of purchasing $8 million in heavily discounted U.S. Treasury bonds structured for twenty annual payments. Only after these steps are taken is the size of the new jackpot announced. If the next lotto drawing still finds no winners, the process is repeated. If, however, someone correctly guesses the six numbers, then that person receives twenty annual payments of $288,000 ($400,000 less 28 percent deducted for income taxes); in effect, the jackpot is an annuity worth $8 million. The procedure means that winners get their money, but not all at once, and they can’t invest the lump sum.</p><p><strong>If a lotto jackpot winner dies, does the state reclaim the prize?</strong></p><p>No. “The annuity is a zero coupon bond,” says comptroller John Sharp, “and like any other piece of property, you can will it to whomever you want.” He adds wearily, “I get asked that question everywhere I go.” R.D.</p>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "June 1993",
+    "wp_magazine_section": "Features",
+    "wp_tags": [
+      "Lottery",
+      "Jackpot",
+      "Education",
+      "Bonds",
+      "Budget",
+      "Comptroller",
+      "Computer",
+      "Conservation",
+      "East Texas",
+      "Health",
+      "Legislature",
+      "money",
+      "Public Schools",
+      "Range",
+      "Schools",
+      "State budget",
+      "Taxes",
+      "Texas",
+      "Transportation",
+      "Uncertain"
+    ],
+    "wp_categories": [
+      "Education"
+    ],
+    "wp_location": [
+      "East Texas",
+      "Texas"
+    ]
+  }
+}

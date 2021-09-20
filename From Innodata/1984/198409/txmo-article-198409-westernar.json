@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19849",
+    "date": "September 1984",
+    "year": 1984,
+    "month": 9,
+    "month_formatted": "September",
+    "pdf_uri": "/1984/19840900.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 163,
+    "toc_start_page": 163,
+    "document_page_range": [
+      163
+    ],
+    "toc_order": 6,
+    "toc_headline": "Pierre Was New In Town And Had Never Really Caught Anything Before",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198409-westernar",
+  "source": "/1984/19840900.pdf",
+  "wp_post_id": 119973,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-pierre-was-new-in-town-and-had-never-really-caught-anything-before/",
+  "authors": [
+    "Alexa Grace"
+  ],
+  "headline": "Pierre Was New In Town And Had Never Really Caught Anything Before",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western art",
+  "word_count": 0,
+  "content": "",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "September 1984",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

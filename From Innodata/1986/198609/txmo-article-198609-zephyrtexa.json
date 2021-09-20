@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19869",
+    "date": "September 1986",
+    "year": 1986,
+    "month": 9,
+    "month_formatted": "September",
+    "pdf_uri": "/1986/19860900.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 141,
+    "toc_start_page": 139,
+    "document_page_range": [
+      141
+    ],
+    "toc_order": 8,
+    "toc_headline": "Western Art! Zephyr, Texas",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198609-zephyrtexa",
+  "source": "/1986/19860900.pdf",
+  "wp_post_id": 121671,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-zephyr-texas/",
+  "authors": [
+    "Judy Pederson"
+  ],
+  "headline": "Zephyr,Texas",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "",
+  "kicker": "Western Art",
+  "word_count": 1,
+  "content": "<p>by</p><img/>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "September 1986",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

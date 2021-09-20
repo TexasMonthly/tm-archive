@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-198512",
+    "date": "December 1985",
+    "year": 1985,
+    "month": 12,
+    "month_formatted": "December",
+    "pdf_uri": "/1985/19851200.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 177,
+    "toc_start_page": 163,
+    "document_page_range": [
+      177
+    ],
+    "toc_order": 8,
+    "toc_headline": "Western Art: Caballito",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198512-caballito",
+  "source": "/1985/19851200.pdf",
+  "wp_post_id": 120795,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-caballito/",
+  "authors": [
+    "Paola Piglia"
+  ],
+  "headline": "Caballito",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "by Paola Piglia.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img/>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "December 1985",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}

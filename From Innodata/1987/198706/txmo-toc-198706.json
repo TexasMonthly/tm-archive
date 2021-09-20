@@ -21,36 +21,28 @@
               "subtitle": "",
               "description": "Like it or not, it’s time to start behaving yourself",
               "byline": "by David Seeley",
-              "page": "104",
-              "wp_post_id": "123198",
-              "identifier": "txmo-article-198706-thenodec.json"
+              "page": "104"
             },
             {
               "title": "The Party's Over",
               "subtitle": "",
               "description": "In the early eighties, some Dallas savings and loans reaped profits in real estate investments while land was flipped, appraisals were inflated, and property was developed. Now the land deals have flopped, property values are deflated, and there are empty buildings all over town. And some S&Ls are broke",
               "byline": "by Byron Harris",
-              "page": "110",
-              "wp_post_id": "123195",
-              "identifier": "txmo-article-198706-thepartys.json"
+              "page": "110"
             },
             {
               "title": "The Jeffrey Show",
               "subtitle": "",
               "description": "Heads turn when he passes. He’s on half of Houston’s A-party list. Rock singer? Investment banker? Nope. Meet Father Jeffrey Walker, Episcopal priest",
               "byline": "by Barbara Paulsen",
-              "page": "114",
-              "wp_post_id": "123192",
-              "identifier": "txmo-article-198706-thejeffre.json"
+              "page": "114"
             },
             {
               "title": "Culture Club",
               "subtitle": "",
               "description": "Once San Antonio’s elite took pride in their support of the city’s fine symphony. When the cream of that elite, the Symphony Society board, abruptly canceled the upcoming season, it was time for some soul-searching",
               "byline": "by Lawrence Wright",
-              "page": "118",
-              "wp_post_id": "123189",
-              "identifier": "txmo-article-198706-culturecl.json"
+              "page": "118"
             },
             {
               "title": "Clint Murchison, Jr.",
@@ -58,7 +50,7 @@
               "description": "He was one tycoon who enjoyed the hell out of his money",
               "byline": "by Gary Cartwright",
               "page": "120",
-              "wp_post_id": 123159,
+			  "wp_post_id": 123159,
               "identifier": "TXMO-ARTICLE-198706-texasprime.json"
             },
             {
@@ -66,9 +58,7 @@
               "subtitle": "",
               "description": "For centuries, scientists have searched for the answers to the mystery of Nosehenge. Now—for the first time—the startling truth",
               "byline": "Text and illustrations by Brad Holland",
-              "page": "122",
-              "wp_post_id": "123183",
-              "identifier": "txmo-article-198706-sombreros.json"
+              "page": "122"
             },
             {
               "title": "The Little Black Suit",

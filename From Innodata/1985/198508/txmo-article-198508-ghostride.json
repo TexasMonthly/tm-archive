@@ -1,0 +1,53 @@
+{
+  "issue_metadata": {
+    "identifier": "TXMO-ISSUE-19858",
+    "date": "August 1985",
+    "year": 1985,
+    "month": 8,
+    "month_formatted": "August",
+    "pdf_uri": "/1985/19850800.pdf",
+    "issue_cover_image": "",
+    "document_start_page": 135,
+    "toc_start_page": 133,
+    "document_page_range": [
+      135
+    ],
+    "toc_order": 7,
+    "toc_headline": "Western Art: Ghost Rider",
+    "toc_kicker": "",
+    "cover_cut_line": ""
+  },
+  "identifier": "TXMO-ARTICLE-198508-ghostride",
+  "source": "/1985/19850800.pdf",
+  "wp_post_id": 121116,
+  "wp_post_guid": "http://www.texasmonthly.com/article/western-art-ghost-rider/",
+  "authors": [
+    "Ray-Mel Cornelius"
+  ],
+  "headline": "Ghost Rider",
+  "dek": "",
+  "spread_caption": "",
+  "excerpt": "An interpretation of a classic genre.",
+  "kicker": "Western Art",
+  "word_count": 0,
+  "content": "<img/>",
+  "editors_note": "",
+  "featured_image": {
+    "idenfier": "",
+    "uri": "",
+    "caption": "",
+    "credit": "",
+    "is_spread": ""
+  },
+  "taxonomies": {
+    "_keywords": [
+      ""
+    ],
+    "wp_vertical": "",
+    "wp_issue": "August 1985",
+    "wp_magazine_section": "Features",
+    "wp_tags": [],
+    "wp_categories": [],
+    "wp_location": []
+  }
+}
