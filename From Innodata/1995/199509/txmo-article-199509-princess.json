@@ -9,13 +9,7 @@
     "issue_cover_image": "",
     "document_start_page": 130,
     "toc_start_page": 126,
-    "document_page_range": [
-      [
-        130
-      ],
-      [
-        169
-    ],
+    "document_page_range": [[130], [169]],
     "toc_order": 26,
     "toc_headline": "Princess",
     "toc_kicker": "",
@@ -25,9 +19,7 @@
   "source": "/1995/19950900.pdf",
   "wp_post_id": 129114,
   "wp_post_guid": "http://www.texasmonthly.com/article/texas-twenty-princess/",
-  "authors": [
-    "Helen Thompson"
-  ],
+  "authors": ["Helen Thompson"],
   "headline": "Princess",
   "dek": "Is she turning the Hill Country into a playground for rich and famous movie stars—or is she just selling houses? Either way, she's the talk of her town.",
   "spread_caption": "",
@@ -44,9 +36,7 @@
     "is_spread": ""
   },
   "taxonomies": {
-    "_keywords": [
-      ""
-    ],
+    "_keywords": [""],
     "wp_vertical": "",
     "wp_issue": "September 1995",
     "wp_magazine_section": "Features",
@@ -72,15 +62,7 @@
       "Design",
       "Dick Armey"
     ],
-    "wp_categories": [
-      "Art"
-    ],
-    "wp_location": [
-      "Texas",
-      "Fredericksburg",
-      "Hill Country",
-      "Austin",
-      "D.C."
-    ]
+    "wp_categories": ["Art"],
+    "wp_location": ["Texas", "Fredericksburg", "Hill Country", "Austin", "D.C."]
   }
 }
