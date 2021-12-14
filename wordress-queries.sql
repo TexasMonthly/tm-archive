@@ -5,34 +5,8 @@
 SELECT t.slug, STR_TO_DATE(t.slug,"%M-%Y") as date, count(*) FROM `wp_posts` as p, `wp_term_relationships` as tr, `wp_term_taxonomy` as tt, `wp_terms` as t WHERE p.ID = tr.object_id AND tr.term_taxonomy_id = tt.term_taxonomy_id AND tt.term_id = t.term_id AND tt.taxonomy = "emmis-issue" AND p.post_content = "" AND post_type = "post" AND post_status = "publish" GROUP BY t.slug ORDER BY date ASC
 
 
-# get list of feature stories published without copy
-
-SELECT p.ID, p.post_title as headline, UPPER(REPLACE(tI.slug, '-', ' ')) as issue, STR_TO_DATE(REPLACE(tI.slug, '-', ' 1, '), "%M %e, %Y") as date, tA.name as author, p.guid as link
-
-FROM `wp_posts` as p, `wp_postmeta` as pm,
-
-`wp_term_relationships` as trI, `wp_term_taxonomy` as ttI, `wp_terms` as tI,
-`wp_term_relationships` as trF, `wp_term_taxonomy` as ttF, `wp_terms` as tF,
-`wp_term_relationships` as trA, `wp_term_taxonomy` as ttA, `wp_terms` as tA
-
-WHERE p.ID = pm.post_id AND
-
-p.ID = trI.object_id AND trI.term_taxonomy_id = ttI.term_taxonomy_id AND ttI.term_id = tI.term_id AND
-p.ID = trF.object_id AND trF.term_taxonomy_id = ttF.term_taxonomy_id AND ttF.term_id = tF.term_id AND
-p.ID = trA.object_id AND trA.term_taxonomy_id = ttA.term_taxonomy_id AND ttA.term_id = tA.term_id 
-
-AND ttI.taxonomy = "emmis-issue" AND p.post_content = "" AND post_type = "post" AND post_status = "publish"
-
-AND ( pm.meta_value = "Feature" OR tF.slug = "Features" )
-
-AND ttA.taxonomy = "author"
-
-GROUP BY p.ID
-
-ORDER BY date DESC
-
 ###################################################
-# Query all missing articles (5/24/21)
+# Query all missing feature articles (5/24/21)
 ###################################################
 
 SELECT p.ID, p.post_title as headline, p.post_excerpt as excerpt, p.post_content as content, UPPER(REPLACE(tI.slug, '-', ' ')) as issue, tMS.name as magazine_section, STR_TO_DATE(REPLACE(tI.slug, '-', ' 1, '), "%M %e, %Y") as date, tA.name as author, pmL.meta_value as lede, p.guid as link, CONCAT("https://www.texasmonthly.com/?p=", pmT.meta_value) as thumbnail
